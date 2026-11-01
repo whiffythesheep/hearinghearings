@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-fire-and-emergency-management-august-2026-911-system-outage-2026-09-09/">
     <meta name="description" content="Four Council committees held a joint oversight hearing on September 9, 2026, examining a seven-hour partial outage of New York City&#39;s 911 system that occurred...">
@@ -90,7 +90,35 @@
 <p>The basic facts established by testimony: Motorola Solutions performed a firmware upgrade to firewalls at PSAC 2 between 9:45 PM on August 17 and 4:13 AM on August 18. The upgrade was classified as low risk and therefore did not require executive-level sign-off from the interagency Change Advisory Board. The problem began at 3:13 AM but was not surfaced by any automated monitoring system. A call taker noticed audio problems around 6:00 AM. The issue was not understood to be affecting 911 calls specifically until approximately 9:30 AM. Full remediation, achieved by rerouting all traffic through PSAC 1 in Brooklyn, was completed at 10:19 AM. Of 5,489 total calls during the outage window, 1,696 encountered problems; 742 of those were 911 calls; 319 came from unique phone numbers; 206 of those callers eventually reached an operator; 113 did not. The public was not notified during the outage. The existence of the outage became public through press reports.</p>
 <p>The hearing's sharpest lines of questioning focused on three related failures: the failure of automated monitoring to detect the problem; the failure to reroute calls automatically to the redundant Brooklyn center; and the failure to notify the public. On monitoring, Flores acknowledged that no automated alarm caught the issue and that this needs to be fixed, but declined to give specifics citing security concerns. On redundancy, she and her colleagues explained that the cutover between PSACs is not automatic and that the intermittent nature of the failure (70% of calls were still getting through) complicated diagnosis. Council members, particularly Wong, were unpersuaded by this explanation, arguing that any degradation in a life-safety system should trigger an immediate failover. On public notification, the administration's position — that there was only a 45-minute window between knowing 911 calls were affected and restoring service, and that notifying the public could have deterred people from calling — was repeatedly and forcefully rejected by nearly every council member present. CM Feliz drew the key distinction: failing to notify the public is not a technical glitch, it is a human choice. CM Ariola pointed to Notify NYC as an existing tool that could have been used instantly. The administration acknowledged the criticism and committed to reviewing public notification protocols, but offered no timeline.</p>
 <p>The hearing also surfaced a broader governance problem: multiple agencies share responsibility for PSAC operations, and no single named official is accountable when the system fails. Council Member Morano asked pointedly who owns the system when it breaks. He received no clean answer. The question of Motorola's liability went similarly unresolved; the administration repeatedly said it would be addressed after the root cause analysis is complete. Morano also raised the uncomfortable point that Motorola is effectively grading its own homework in that analysis. Next Generation 911, originally due in 2018 and since delayed repeatedly, is now scheduled for 2027; Flores said she intends to scrutinize that timeline carefully. On staffing, NYPD reported meaningful improvement in 911 operator headcount, with a target of largely voluntary overtime within three to six months. The sole public witnesses were an advocate for making 911 operationally independent of NYPD to improve crisis response routing, and two individuals testifying on unrelated matters concerning directed-energy weapons who appeared to have wandered somewhat off-topic.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2481/">T2026-2481</a>
+        <span title="Legistar: Oversight - Examining New York City’s 911 Emergency System Outage.">Hearing on the August 2026 911 system outage</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>The 911 system receives over 9 million calls per year.</li>
 <li>Total typical daily call volume across both PSACs is approximately 25,000 calls.</li>
@@ -143,40 +171,6 @@
 <li>OTI to have the Office of Algorithmic Accountability fully staffed and operational by end of 2026.</li>
 <li>Chairs to send a joint committee letter to the administration formalizing outstanding questions not answered at the hearing.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2481/">T2026-2481</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Examining New York City’s 911 Emergency System Outage.">Hearing on the August 2026 911 system outage</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1164,7 +1158,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

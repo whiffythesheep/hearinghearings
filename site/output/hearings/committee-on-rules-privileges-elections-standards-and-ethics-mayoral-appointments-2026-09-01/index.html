@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-rules-privileges-elections-standards-and-ethics-mayoral-appointments-2026-09-01/">
     <meta name="description" content="The Committee on Rules, Privileges, Elections, Standards and Ethics held a confirmation hearing on three mayoral nominees: Lisa Garcia Commissioner of the...">
@@ -90,7 +90,15 @@
 <p>Garcia's hearing focused on the Land Bank, which Local Law 56 of 2026 established as a replacement for the existing trust-based lien sale system, with a transition deadline of 2029. The Land Bank will collect delinquent property taxes and water and sewer bills while enabling the City to direct foreclosed properties toward community-beneficial uses, including affordable housing. Garcia emphasized community engagement, racial equity and her DEP experience with lien-related water and sewer collections. Members pressed her on whether the existing practice of publishing lists of properties with delinquent water bills enables predatory actors to target Black and Brown homeowners, and on how revenues generated through enforcement might flow back to affected communities. Garcia declined to prejudge specific policy outcomes, noting the board's mandate is to design the new process collaboratively. She confirmed she could manage the working group duties alongside her role running a nearly 6,000-person agency.</p>
 <p>Chokshi's hearing ranged across public health priorities. Members praised his tenure as the 43rd Health Commissioner, particularly his management of the COVID-19 vaccination campaign and his 2021 Board of Health resolution declaring racism a public health crisis. Key exchanges concerned: screen time and social media as emerging public health concerns among children, though Chokshi noted these fall largely outside the Board's Health Code jurisdiction; falling vaccination rates and vaccine misinformation; childhood lead poisoning; the federal funding cuts and Medicaid coverage losses weakening the City's public health infrastructure; the relationship between reactive versus preventive medicine; and mental health access, including the acknowledged failures of the 988 crisis line. Minority Leader Carr pressed Chokshi directly on whether he regretted supporting the COVID vaccine mandate for City workers, given subsequent evidence that the vaccine did not stop transmission. Chokshi defended the mandate as legally sound and scientifically supported on hospitalization and death prevention grounds, while acknowledging the vaccine did not fully stop spread. He declined to say the mandate was wrong, though he agreed that workers who lost their jobs were good public servants who deserved to return.</p>
 <p>The Mangin hearing was the most contentious and wide-ranging. Members raised concerns about his 2014 law review article "The New Exclusionary Zoning," which argued that housing advocates should embrace all forms of new housing production, characterized certain homeowner political coalitions using the academic term "homeowner cartels," compared community opposition to a Tea Party analogy, and described a set of tenant and community protections as "kludgy." Mangin repeatedly contextualized these as academic writing about national housing policy trends, not attacks on specific New York communities or homeowners. Deputy Speaker Williams challenged him at length on whether his stated theory that housing scarcity in affluent neighborhoods drives gentrification in lower-income communities of color is supported by empirical evidence, pointing to NYC-specific research finding that upzoning can accelerate gentrification pressure. Mangin acknowledged the research and argued for broad-based supply approaches as the policy response. Council Member Banks focused on Mangin's past skepticism about community benefits agreements and his participation in the 2025 Charter Revision Commission, which reduced Council land use powers. Mangin defended the Charter changes as minor adjustments maintaining the Council's central role, and committed to an open-door policy for Council members, to including their input in formal decision records, and to making the Board's website and public processes more accessible. The fast-track for 100% affordable housing projects, a new Charter provision the Board will administer, was discussed at length: Mangin was enthusiastic about implementing it but declined to specify a maximum income threshold for eligible projects, deferring to HPD. Council Member Brewer complained that placing the Upper West Side in the same category as exclusionary neighborhoods for affordable housing fast-track purposes was inappropriate. Public testimony was broadly supportive of all three nominees, with the exception of one urban planner who opposed Mangin on temperament grounds, and a coalition letter from 47 housing organizations supporting Mangin. Former City Planning Director Dan Garodnick appeared via Zoom to rebut direct attacks on Mangin's character and integrity.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>New York City Land Bank must be operational by 2029, replacing the trust-based lien sale under Local Law 56 of 2026.</li>
 <li>Land Bank Board of Directors will have seven members, serving four-year terms without pay.</li>
@@ -139,8 +147,6 @@
 <li>Mangin to stand up the affordable housing fast-track process in coordination with HPD and other stakeholders, if confirmed.</li>
 </ul></div></details>
     </section>
-    
-
     
 
     
@@ -1162,7 +1168,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

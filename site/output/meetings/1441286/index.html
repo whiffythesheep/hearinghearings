@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/meetings/1441286/">
     <meta name="description" content="Committee on Transportation and Infrastructure, September 10, 2026: the Legistar record.">
@@ -73,31 +73,20 @@
     
 
     
-    <section class="hearing-record">
+    <section class="hearing-summary hearing-record">
         <div class="section-header">
             <h2>The record</h2>
         </div>
         
-        <p class="record-note">What the Council did, from Legistar. There is no summary or transcript for this meeting — it was a vote session.</p>
         
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/int-0866-2026/">Int 0866-2026</a>
-                    
-                </td>
-                <td title="Legistar: Requiring the posting of notification signs regarding upcoming disruptive work.">Law to require signs warning of upcoming street work</td>
-                <td><span title="Legistar: Approved by Committee">Passed committee</span>, <span class="mono">10–0</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/int-0866-2026/">Int 0866-2026</a>
+        <span title="Legistar: Requiring the posting of notification signs regarding upcoming disruptive work.">Law to require signs warning of upcoming street work</span>
+        <span class="record-list__action">— <span title="Legistar: Approved by Committee">Passed committee</span>, <span class="mono">10–0</span></span>
+    </li>
+
+</ul>
 
         
 
@@ -177,6 +166,8 @@
 
 
     </section>
+    
+
     
 
     
@@ -302,7 +293,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

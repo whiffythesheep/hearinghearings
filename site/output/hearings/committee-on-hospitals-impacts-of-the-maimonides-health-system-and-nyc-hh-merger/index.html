@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger/">
     <meta name="description" content="The Committee on Hospitals held an oversight hearing on the proposed merger between NYC Health + Hospitals H+H and Maimonides Health System, scheduled to close...">
@@ -89,7 +89,35 @@
         <p>The Committee on Hospitals held an oversight hearing on the proposed merger between NYC Health + Hospitals (H+H) and Maimonides Health System, scheduled to close April 1, 2026. Dr. Mitchell Katz, CEO of H+H, testified that the merger is driven by Maimonides' financial distress and the immediate $9 million monthly benefit from higher Medicaid reimbursement rates available only to public hospitals. The state is providing $2.2 billion over five years: $500 million for capital improvements (with the maternity ward as top priority), $1.5 billion for operations, and $200 million in loan forgiveness.</p>
 <p>Katz emphasized this is not a "takeover" but a partnership to fix two core problems: Maimonides' deficit and their antiquated record-keeping system using five different electronic health records plus paper charts. H+H will implement Epic across Maimonides over 15 months, giving patients real-time access to their medical information through MyChart. The hospital will retain the Maimonides name and cultural identity, including kosher food and Orthodox Jewish accommodations that serve the diverse Brooklyn community.</p>
 <p>Employment structures will remain largely unchanged. Unionized staff will continue with their current employer entity, while only top leadership positions (CEO, CMO, CNO) will transfer to H+H employment. Svetlana Lekaya will become the new CEO. Seven board members have filed a lawsuit challenging the merger, though no restraining order exists. Committee members pressed on cultural sensitivity, staffing impacts, and service continuity, with Katz repeatedly assuring that successful operations won't be changed and that H+H operates as a federation respecting each hospital's community character.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1253/">T2026-1253</a>
+        <span title="Legistar: Oversight - Impacts of the Maimonides Health System and NYCH+H Merger.">Hearing on the Maimonides–NYC Health + Hospitals merger</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>H+H eliminated a $2 billion deficit over 8 years under Katz's leadership.</li>
 <li>Maimonides will gain $9 million monthly in additional Medicaid reimbursements immediately upon merger.</li>
@@ -114,40 +142,6 @@
 <li>H+H to provide language interpretation services and translated materials consistent with H+H standards.</li>
 <li>Maimonides board to complete required paperwork submissions to Attorney General and State Department of Health for asset transfer approval.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1253/">T2026-1253</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Impacts of the Maimonides Health System and NYCH+H Merger.">Hearing on the Maimonides–NYC Health + Hospitals merger</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -598,7 +592,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

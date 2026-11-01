@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-small-business-economic-impacts-of-federal-immigration-policy-changes/">
     <meta name="description" content="The joint hearing of the Committees on Small Business and Immigration, held on May 6, 2026, examined the economic impacts of federal immigration policy changes...">
@@ -91,7 +91,35 @@
 <p>Council members pressed hard on two systemic weaknesses. The first was the near-total absence of reliable economic data: SBS tracks storefront occupancy rates via quarterly street canvassing, but has no mechanism for tracking revenue, foot traffic, or the lived financial stress of businesses whose doors are technically still open. The Chair noted that vacancy rates may look stable citywide while individual corridors — including her own district in Corona — are visibly deteriorating. The second was capacity. A six-person outreach team for 180,000 small businesses is, as Chair Encarnacion drily noted, obviously not enough. MOIA's outreach budget provides for five staff for a sixty-person office. Members also flagged a significant gap in I-9 compliance guidance and employer education, the weaponization of IRS tax data against undocumented workers, and the practical inaccessibility of services for businesses whose owners are offline, speak indigenous languages, or are too afraid to engage with anything that looks like government.</p>
 <p>Manhattan Borough President Brad Hoylman-Sigal offered the most comprehensive analytical testimony, quantifying downstream costs that the administration witnesses were unable or unwilling to put numbers to: the proposed HUD mixed-status housing rule could displace 11,000 New Yorkers including 5,000 children citywide, cost housing authorities between $48 million and $57 million in annual revenue, and impose shelter costs of between $330 million and $1.27 billion on the city with no federal reimbursement. He called for a full audit of immigration policy impacts, expanded legal services, multilingual outreach reassuring eligible residents that benefit use will not trigger enforcement, and data-sharing protections between city agencies and federal immigration authorities.</p>
 <p>Public testimony reinforced the ground-level picture. The Queens Economic Development Corporation reported that 79% of businesses surveyed in Jackson Heights and Corona reported decreased sales and foot traffic since ICE activity accelerated, with 84% of affected businesses losing more than $1,000. The Brooklyn Chamber of Commerce found 30% of Brooklyn small businesses reported negative immigration enforcement impacts, rising to 79% in Sunset Park. The Street Vendor Project and affiliated vendors testified about the Canal Street raid, the closure of Corona Plaza Market three times over the winter due to ICE fear, and the urgent need for city funding to expand multilingual know-your-rights outreach. The Asian-American Federation and the Chinese-American Planning Council (CPC) requested an increase in legal services funding from $2 million to $3.5 million for fiscal year 2027, pointing to delinquency rates on small business loans rising to COVID-era levels. The Legal Aid Society flagged civil immigration fines of up to $1.8 million per person, warrantless arrests litigation, and the practical impossibility of advising businesses about work permit validity given the daily shifts in federal policy. A recurring and urgent secondary concern throughout the hearing was Local Law 75, the 2009 requirement that businesses replace solid security roll gates with 70% visibility gates by July 1, 2026 — a cost that small business owners and chamber representatives argued is devastating and poorly communicated, particularly in immigrant neighborhoods, and that multiple Council members indicated they are actively working to repeal or delay.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1545/">T2026-1545</a>
+        <span title="Legistar: Oversight - Economic Impacts of Federal Immigration Policy Changes.">Hearing on federal immigration crackdowns hurting NYC businesses</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Immigrants own more than half of New York City's approximately 180,000 small businesses, including 56% of all storefront businesses.</li>
 <li>Nearly 40% of New York City's population was born outside the United States.</li>
@@ -144,40 +172,6 @@
 <li>Street vendor testifier Martha (La Sonas) to submit written questions and English-language testimony translation to testimony@council.nyc.gov within 72 hours of the hearing.</li>
 <li>SBS to provide the Council with updated information on the six borough-based Small Business Month engagement events, including dates and partner organizations, as those events are finalized on the nyc.gov/smallbizmonth website.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1545/">T2026-1545</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Economic Impacts of Federal Immigration Policy Changes.">Hearing on federal immigration crackdowns hurting NYC businesses</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1281,7 +1275,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

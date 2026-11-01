@@ -37,31 +37,32 @@
         </div>
     </header>
 
-    {% if hearing.summary_html %}
+    {% if hearing.overview_html %}
     <section class="hearing-summary">
         <div class="section-header">
             <h2>Meeting overview</h2>
             <button type="button" class="download-button" onclick="downloadSummaryPdf()">Download PDF</button>
         </div>
-        {{ hearing.summary_html | safe }}
+        {{ hearing.overview_html | safe }}
     </section>
     {% endif %}
 
     {% if hearing.record_items %}
-    <section class="hearing-record">
+    <section class="hearing-summary hearing-record">
         <div class="section-header">
             <h2>The record</h2>
         </div>
-        {% if hearing.summary_html %}
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        {% elif hearing.kind == "Upcoming" %}
-        <p class="record-note">Scheduled. The agenda below is from Legistar; actions and votes appear once the meeting has taken place.</p>
-        {% else %}
-        <p class="record-note">What the Council did, from Legistar. There is no summary or transcript for this meeting{% if hearing.kind == "Vote session" %} — it was a vote session{% endif %}.</p>
+        {% if hearing.kind == "Upcoming" %}
+        <p class="record-note">Scheduled. Actions and votes appear once the meeting has taken place.</p>
         {% endif %}
-        {{ rec.items_table(hearing.record_items) }}
+        {{ rec.items_list(hearing.record_items) }}
         {{ rec.rollcalls(hearing.voted_items) }}
+    </section>
+    {% endif %}
+
+    {% if hearing.sections_html %}
+    <section class="hearing-summary hearing-sections">
+        {{ hearing.sections_html | safe }}
     </section>
     {% endif %}
 
@@ -93,7 +94,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

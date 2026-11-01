@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-workforce-development-office-of-community-hiring-2026-10-27/">
     <meta name="description" content="The New York City Council Committee on Workforce Development held an oversight hearing on the Office of Community Hiring OCH, examining whether the program is...">
@@ -91,7 +91,35 @@
 <p>Douglas Lipari, Executive Director of NYC Talent, and G. Lee, Executive Director of the Office of Community Hiring, testified for the administration. Their headline figure was approximately 1,200 community hires to date across all contracts, with roughly 1,100 income-based and 70 residence-based. They emphasized the program's novelty — the first of its kind nationally to cover not just construction but human services, professional services and standard services — and pointed to 528 registered contracts worth $13.3 billion and 362 procurements released worth $18.4 billion as evidence of real momentum. They also noted that 23.75% of hours on construction contracts had been performed by community hires, against a 30% goal, which is at least in the right ballpark. The administration's consistent defense was that the program is early-stage, contracts are multi-year, and vendors' hiring needs don't all materialise on day one.</p>
 <p>Council Members pushed hard on the gap between those reassuring framing points and the actual published data. CM Epstein raised the absence of outreach to well-established settlement houses and employment networks in his district — organizations like Henry Street Settlement and the Lower East Side Employment Network that are doing exactly the kind of work OCH needs — and noted that a veteran in his district had been job-searching for six months without knowing community hiring existed. CM Phil Wong asked OCH to come do a job fair in his district, made the point that he had never heard of OCH before the hearing, and pressed repeatedly for a concrete count of jobs available across the 528 contracts, receiving a non-committal answer about following up in two weeks. The confusion between the City's new Lafayette Street jobs center (focused on City employment) and the community hiring program (which covers non-City vendor jobs) illustrated a broader communication problem: the administration's various workforce initiatives are not well-integrated in public messaging or operations.</p>
 <p>Several specific weaknesses emerged beyond the headline data gaps. OCH's referral source network includes only 28 community-based organizations, notably absent many major settlement houses and neighborhood employment programs. The office's outreach materials are English-only. OCH has a 16-position budget allocation but only eight staff in its core team, with three vacancies having no active job postings and no defined titles. The $388,200 contractual services budget is currently supporting a single consultant firm rather than any technology contracts. The penalty framework — $2,500 plus $1,000 per week for noncompliance — has never been used, and no vendor has received a notice of noncompliance. The income threshold for community hires was set at 300% of the federal poverty level rather than 150%, expanding the eligible pool upward but also diluting the program's focus on the lowest-income New Yorkers. Chair Won noted the uncomfortable parallel to the failed 2019 Hire NYC program, where 80% of job referrals sat marked pending for years because employers never reported outcomes — a failure mode OCH is at risk of repeating given the current state of its data collection.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2532/">T2026-2532</a>
+        <span title="Legistar: Oversight - Office of Community Hiring.">Hearing on the Office of Community Hiring&#39;s progress</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>528 registered contracts with community hiring goals as of the hearing date, valued at $13.3 billion.</li>
 <li>179 registered contracts with community hiring goals as of the most recent quarterly report (covering through June 30, 2026), valued at approximately $3 billion.</li>
@@ -137,40 +165,6 @@
 <li>OCH to provide the Committee with details on the JK Consultant engagement, including scope of work and contract value.</li>
 <li>OCH Executive Director Lee to report back at the next quarterly cycle on progress toward finalizing digital data collection systems, expanding the referral source network and broadening vendor outreach.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2532/">T2026-2532</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Office of Community Hiring.">Hearing on the Office of Community Hiring&#39;s progress</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -689,7 +683,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

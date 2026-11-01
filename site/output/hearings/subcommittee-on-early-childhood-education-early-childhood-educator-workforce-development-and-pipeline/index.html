@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/subcommittee-on-early-childhood-education-early-childhood-educator-workforce-development-and-pipeline/">
     <meta name="description" content="The Subcommittee on Early Childhood Education held a joint hearing with the committees on Workforce Development and Higher Education to examine NYC&#39;s early...">
@@ -90,7 +90,40 @@
 <p>Administration officials from the Mayor's Office of Child Care, CUNY, and other agencies outlined expansion plans including 2,000 new 2K seats and 1,000 additional 3K seats, while acknowledging the workforce pipeline cannot support these goals under current conditions. The testimony exposed stark compensation inequities between community-based organization teachers and their DOE counterparts - wage gaps that create lifetime earnings differences of $700,000 for teachers and $1.7 million for directors. CUNY representatives detailed extensive programming serving 3,600 students across multiple degree levels, including an oversubscribed apprenticeship program that received 400 applications for 30 slots.</p>
 <p>Public testimony from providers, educators, and advocacy organizations consistently identified wage parity as the core solution, with several witnesses proposing that CBO staff be allowed to unionize with the UFT. Family childcare providers described earning as little as $6-7 per hour after expenses, while program directors detailed operating on 2021 budget levels amid rising costs. The hearing also highlighted systemic inefficiencies, including 3-6 month background check delays that lose qualified candidates to other sectors and fragmented data systems that prevent coherent workforce planning across the mixed public-private system.</p>
 <p>Despite extensive testimony about successful "grow your own" workforce development models and specific funding requests, the administration provided no concrete budget commitments for fiscal year 2027. The hearing underscored a familiar New York story: ambitious policy goals undermined by chronic underinvestment in implementation, with a predominantly female, immigrant workforce bearing the costs of the city's failure to adequately fund essential services.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1516/">T2026-1516</a>
+        <span title="Legistar: Oversight - Early Childhood Educator Workforce Development and Pipeline.">Hearing on building the early childhood educator workforce</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+    <li><a class="matter-ref" href="/matters/int-0820-2026/">Int 0820-2026</a>
+        <span title="Legistar: Establishing a child care workforce grant and services program.">Law to create a child care worker training grant program</span>
+        <span class="record-list__action">— <span title="Legistar: P-C Item Laid Over by Comm">Heard, no vote yet</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>36,000 early childhood educators currently working in NYC.</li>
 <li>5,000 new educators needed annually to maintain current capacity.</li>
@@ -144,49 +177,6 @@
 <li>Administration to confirm any hiring challenges for funded positions.</li>
 <li>Witnesses who have not submitted written testimony to email materials to the committee.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1516/">T2026-1516</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Early Childhood Educator Workforce Development and Pipeline.">Hearing on building the early childhood educator workforce</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/int-0820-2026/">Int 0820-2026</a>
-                    
-                </td>
-                <td title="Legistar: Establishing a child care workforce grant and services program.">Law to create a child care worker training grant program</td>
-                <td><span title="Legistar: P-C Item Laid Over by Comm">Heard, no vote yet</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1115,7 +1105,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

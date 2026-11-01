@@ -125,7 +125,7 @@ def matter_type_label(matter):
         return "Land use"
     if t == "Resolution":
         title = (matter.get("title") or matter.get("name") or "").strip()
-        return "Other approval" if APPROVAL_RE.match(title) else "Resolution"
+        return "Approval" if APPROVAL_RE.match(title) else "Resolution"
     return t or "Matter"
 
 
@@ -309,9 +309,9 @@ def _link_companions(matters, matter_by_slug):
 
 
 def _oversight_heard(entry):
-    """An oversight topic is "filed" once its hearing is over. Nothing was
-    closed: the hearing happened, so say that."""
-    if plain_action(entry.get("action")) == "Closed":
+    """An oversight topic is heard, then "filed" the same day. Nothing was
+    closed and nothing is pending: the hearing happened, so say that."""
+    if plain_action(entry.get("action")) in ("Closed", "Heard"):
         entry["action"] = "Hearing held"
 
 

@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-finance-executive-budget-hearing-2026-06-09/">
     <meta name="description" content="The Finance Committee held the third segment of its FY2027 Executive Budget hearings, taking testimony from the Department of Finance DOF and the Independent...">
@@ -90,7 +90,35 @@
 <p>Commissioner Richard Lee, appearing for the first time before the Council in his new role, gave an overview of DOF priorities: onboarding 50 new auditors (projected to yield an additional $50 million in audit revenue in FY27), recovering $9 million from Amazon for idling violations, and initiating a 30-day internal review of debt collection practices. He also flagged a ten-year miscalculation in Section 1127 returns, in which City employees living outside the five boroughs were incorrectly receiving a STAR credit on both state and City sides simultaneously, costing roughly $10-12 million per year. The error has been corrected for tax year 2025 only, with no clawback for prior years.</p>
 <p>Property tax reform generated the most pointed exchange. Chair Lee and Deputy Speaker Williams pressed the administration on when a formal proposal would be submitted to Albany. The Commissioner acknowledged that substantive reform requires state legislative action, and suggested the next state legislative session as the target window. When pressed on whether the administration had made any formal submission to the state, the answer was essentially no, with the explanation that closing a $12 billion budget gap had consumed the bandwidth. The First Deputy Commissioner added useful technical context: the assessment cap structure disproportionately burdens neighborhoods that have not gentrified, because caps prevent assessed values from keeping pace with actual market values in gentrifying areas while holding effective tax rates high elsewhere. This is the core structural inequity that reform must address, and it requires state action on the cap mechanism. The lien sale pause and land bank creation were discussed; the six-month review of lien enforcement ends this summer, and nominees for the land bank working group are due July 28.</p>
 <p>IBO Director Louisa gave testimony covering a range of fiscal risks. She flagged a childcare voucher funding cliff in which City funding drops to $818 million annually from 2028, creating a potential shortfall approaching $1 billion per year, with 25,000 children already on a closed waitlist. She noted that Tier 6 pension enhancements will cost $41 million more than budgeted in FY27, rising to $69 million by 2030. On the pied-a-terre surcharge, IBO declined to validate the $500 million revenue estimate, citing uncertainty around property valuation methodology, administration and behavioral responses. IBO also raised significant concern about the federal policy environment: 43,500 New Yorkers face near-term loss of SNAP benefits, and up to 225,000 New York City residents will lose health insurance as the federal changes undercut the State Essential Plan, with neither the state nor the City having budgeted for this. The discussion of Fair Fares produced a genuinely useful policy suggestion from Chair Lee: using Department of Finance income data, modeled on how the Earned Income Tax Credit is administered, to automatically notify eligible residents rather than relying on them to self-enroll.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1912/">T2026-1912</a>
+        <span title="Legistar: Executive Budget Hearings - Finance">Hearing on the Fiscal Year 2027 executive budget</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>DOF collected more than $50 billion in taxes and other revenues in FY2025.</li>
 <li>DOF identified $573 million in outstanding debt as potentially collectible as of the start of FY2026.</li>
@@ -138,40 +166,6 @@
 <li>IBO to provide the Council with its detailed Federal Changes, Local Impacts report on Health and Hospitals financial exposure.</li>
 <li>Council and administration to explore using DOF income data to automatically identify and notify residents eligible for Fair Fares, modeled on the Earned Income Tax Credit outreach approach.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1912/">T2026-1912</a>
-                    
-                </td>
-                <td title="Legistar: Executive Budget Hearings - Finance">Hearing on the Fiscal Year 2027 executive budget</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -728,7 +722,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

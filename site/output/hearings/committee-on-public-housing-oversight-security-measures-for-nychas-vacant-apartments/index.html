@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments/">
     <meta name="description" content="The Public Housing Committee held an oversight hearing on security measures for NYCHA&#39;s vacant apartments, focusing on a Department of Investigation report...">
@@ -90,7 +90,35 @@
 <p>NYCHA officials arrived with their usual mix of defensive statistics and promises of improvement. They claimed progress on turnover times (down from 425 days to 340 days) and move-ins (up 76% since 2023), while maintaining their 4.7% vacancy rate beats the national average. The agency accepted all five DOI recommendations, including monthly inspections of vacant units, though their implementation timeline remained characteristically vague beyond "end of year" for IT system improvements. Officials blamed environmental abatement requirements for delays, noting that 80% of vacant apartments contain asbestos and require costly remediation averaging $25,000 per unit.</p>
 <p>The most substantive debate emerged around NYCHA's collaboration with NYPD to remove unauthorized occupants from 548 apartments since 2022. Legal advocates argued this process circumvents proper eviction procedures and violates due process rights, while NYCHA maintained that 61% of cases resulted in no arrests and most involved clear trespassers rather than residents with legitimate claims. The discussion revealed concerning gaps in oversight of RAD-converted developments, where 1,700 vacant units exist under private management with unclear security protocols.</p>
 <p>Resident testimony painted the usual picture of NYCHA's operational failures: universal keys creating security vulnerabilities, weapons found in buildings, displaced residents unable to return due to funding shortages, and ongoing safety concerns. Chelsea Houses residents specifically challenged NYCHA's demolition plans, arguing the agency misled the public about structural conditions and costs. The hearing concluded with the typical laundry list of information requests and promises of follow-up, though given NYCHA's track record, meaningful change remains to be seen.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1470/">T2026-1470</a>
+        <span title="Legistar: Oversight - Security Measures for NYCHA’s Vacant Apartments.">Hearing on securing NYCHA&#39;s vacant apartments</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>6,294 current vacant apartments across NYCHA's portfolio.</li>
 <li>165,000 families on NYCHA waiting list.</li>
@@ -178,40 +206,6 @@
 <li>Committee to advocate for restoration of CEO work crews at NYCHA properties.</li>
 <li>NYCHA to respond to committee on extending monthly inspections to RAD and trust developments.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1470/">T2026-1470</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Security Measures for NYCHA’s Vacant Apartments.">Hearing on securing NYCHA&#39;s vacant apartments</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1006,7 +1000,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

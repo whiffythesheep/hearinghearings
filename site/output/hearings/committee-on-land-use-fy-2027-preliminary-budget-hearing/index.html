@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-land-use-fy-2027-preliminary-budget-hearing/">
     <meta name="description" content="The City Council Land Use Committee held budget hearings on the Department of City Planning&#39;s fiscal 2027 preliminary budget and capital plan. Commissioner Dan...">
@@ -90,7 +90,35 @@
 <p>Chair Riley pressed hard on staffing shortages, particularly in borough offices, arguing that DCP lacks sufficient planners to handle neighborhood rezonings essential to addressing the housing crisis. The Bronx borough office, serving 1.4 million residents, has only 16 budgeted staff. Riley questioned whether the agency can handle more than one neighborhood rezoning at a time and demanded greater resources for ambitious housing production goals. The agency has a 16.3% vacancy rate, over triple the citywide average, though officials claimed the adjusted rate is closer to 12% when accounting for unfunded positions and active recruitment.</p>
 <p>Council members raised concerns about several policy initiatives. The administration is developing a new citywide housing agenda and fair housing plan, but officials provided few specifics about neighborhood rezoning commitments or the controversial $14 billion Sunnyside Yards proposal that Mayor Mamdani pitched to President Trump. Members questioned the governor's proposal to exempt residential projects up to 500 units from environmental review, with some worried about reduced community investments in schools, parks, and infrastructure that typically accompany large developments.</p>
 <p>Implementation of the City of Yes reforms showed mixed results. Officials reported over 150 ADU applications in the pipeline, led by Queens and Staten Island, and 150 applications for the universal affordability preference program. Office conversions are creating a pipeline of 12,000 new homes, with a quarter being permanently affordable. However, processing times for zoning applications continue to increase, with simple actions taking 308 days to enter public review and environmental review projects taking 731 days, representing significant delays from the prior year.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1369/">T2026-1369</a>
+        <span title="Legistar: Preliminary Budget Hearing - Land Use">Hearing on preliminary budget for City Planning and Landmarks</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>DCP's FY27 preliminary budget totals $51.4 million, a $5.3 million decrease from FY26.</li>
 <li>Personnel services account for $35.9 million or 63% of the FY26 adopted budget.</li>
@@ -130,40 +158,6 @@
 <li>DCP to provide economic impact data from past rezonings like East New York and Inwood.</li>
 <li>DCP to compile filing permits data for TOD and town center proposals with DOB.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1369/">T2026-1369</a>
-                    
-                </td>
-                <td title="Legistar: Preliminary Budget Hearing - Land Use">Hearing on preliminary budget for City Planning and Landmarks</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -763,7 +757,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

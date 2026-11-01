@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-disabilities-equal-opportunity-for-new-yorkers-with-disabilities/">
     <meta name="description" content="The Committee on Disabilities, chaired by Council Member Shahana Hanif, held an oversight hearing on equal economic opportunity for New Yorkers with...">
@@ -90,7 +90,35 @@
 <p>The headline finding was that the City has surpassed its original 2,500 placement goal, with 3,800 people with disabilities connected to jobs by the end of 2025. Officials were visibly pleased about this and cited the co-design pilot program, the embedding of MOPD's At Work team within the Brooklyn Workforce One center, and inter-agency partnerships as drivers of progress. The retention story was also reasonably encouraging: At Work reported a 65% retention rate at 12 months, with the proportion of participants engaging in retention support rising from 25% to 65% over three years. The hearing revealed that six staff and a budget of roughly $584,000 per year underpins the At Work program, which serves around 700 to 800 individuals annually and maintains ongoing relationships with about 200 participants at any time.</p>
 <p>The most substantive friction in the hearing concerned data and accountability. Chair Hanif pressed repeatedly on the absence of standardised tracking across the nine programs spanning five agencies, the lack of cost-per-placement data segmented by disability type, and the inability of several agencies to say clearly how outcomes differ by disability category, age, or sector. Officials acknowledged these gaps but offered explanations rather than solutions: programs operate differently, federal funding streams impose their own reporting requirements, and the workforce system serves 100,000 New Yorkers across 150-plus programs in 30 agencies. The honest answer embedded in much of the testimony is that coordination exists largely as a counting exercise toward a headline number rather than as a unified management system. The 55-A program, which allows people with disabilities to bypass civil service exams for competitive City positions, is running at about half its 700-position statutory ceiling with 360 participants across 36 agencies, and net growth is slow because attrition through retirement, promotion, and departure roughly offsets new hires.</p>
 <p>The hearing also addressed the looming threat of federal cuts. The City Controller estimates 725,000 Medicaid enrollees could lose coverage under the One Big Beautiful Bill Act, and officials acknowledged that some people with disabilities will not be exempt from new work requirements. MOPD confirmed it had not yet taken a formal public position on a newly reported Trump administration rule that could reduce SSI payments for disabled adults living with family members who receive SNAP, but the commissioner said she was unaware of the rule before the hearing and would pursue it. The overall picture on federal threats was one of agencies monitoring the situation and hoping the disability community gets carved out, rather than having contingency plans in place. Chair Hanif urged earlier action on public communications. Council Member Rita Joseph used her time to press on transportation accessibility, the benefit cliff, language access for non-English-speaking people with disabilities, and transition pathways from school to employment for young people with disabilities, including those in foster care and special education.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1646/">T2026-1646</a>
+        <span title="Legistar: Oversight - Equal Economic Opportunity for New Yorkers with Disabilities.">Hearing on jobs and pay for New Yorkers with disabilities</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>40% of working-age New Yorkers with disabilities are employed, compared to 73% of the overall working-age population.</li>
 <li>The unemployment rate for people with disabilities in the labor force is nearly 13%, compared to 7% citywide.</li>
@@ -144,40 +172,6 @@
 <li>At Work to assess capacity to expand skills-building and digital literacy support for participants rather than relying solely on referrals to Workforce One.</li>
 <li>DCAS to follow up with the committee on which large City agencies have little to no 55-A representation and what steps are being taken to increase their participation.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1646/">T2026-1646</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Equal Economic Opportunity for New Yorkers with Disabilities.">Hearing on jobs and pay for New Yorkers with disabilities</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -900,7 +894,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

@@ -39,25 +39,18 @@
     {%- if slug -%}<a class="record-link mono" href="/matters/{{ slug }}/">{{ label }}</a>{%- else -%}<span class="mono">{{ label }}</span>{%- endif -%}
 {%- endmacro %}
 
-{# One row per matter taken up at a meeting. #}
-{% macro items_table(items) %}
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        {% for item in items %}
-            <tr>
-                <td class="num">
-                    {{ matter_link(item.matter_slug, item.file_number) }}
-                    {% for c in item.companions %}<span class="row-sub">with {{ matter_link("" if c.folded_into else c.slug, c.file_number) }}</span>{% endfor %}
-                </td>
-                <td{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</td>
-                <td>{{ action(item.action, "On the agenda", item.tally) }}</td>
-            </tr>
-        {% endfor %}
-        </tbody>
-    </table>
-</div>
+{# One line per matter taken up at a meeting: number, title, action. #}
+{% macro items_list(items) %}
+<ul class="record-list">
+{% for item in items %}
+    <li>
+        {%- if item.matter_slug %}<a class="matter-ref" href="/matters/{{ item.matter_slug }}/">{{ item.file_number }}</a>{% else %}<span class="mono">{{ item.file_number }}</span>{% endif %}
+        {%- for c in item.companions if not c.folded_into %} with <a class="matter-ref" href="/matters/{{ c.slug }}/">{{ c.file_number }}</a>{% endfor %}
+        <span{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</span>
+        <span class="record-list__action">— {{ action(item.action, "On the agenda", item.tally) }}</span>
+    </li>
+{% endfor %}
+</ul>
 {% endmacro %}
 
 {# Collapsible named roll calls, one per voted item. #}

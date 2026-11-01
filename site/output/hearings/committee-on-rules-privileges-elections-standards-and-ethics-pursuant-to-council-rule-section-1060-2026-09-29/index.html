@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-rules-privileges-elections-standards-and-ethics-pursuant-to-council-rule-section-1060-2026-09-29/">
     <meta name="description" content="The Rules, Privileges, Elections, Standards and Ethics Committee met in near-total secrecy to vote on an unspecified matter, producing perhaps the least...">
@@ -90,7 +90,35 @@
 <p>The Committee on Rules, Privileges, Elections, Standards and Ethics convened on September 29, 2026, under Chair Sandra Ung, with a full complement of members including Speaker Nantasha Williams, Majority Leader Shaun Abreu, Minority Leader David Carr, Deputy Majority Leader Chris Banks, and Council Members Encarnacion, Krishnan, Lee, and Riley. The stated purpose was to discuss confidential business pursuant to Section 10.60 of the Council Rules, which authorizes closed proceedings for certain sensitive matters — typically involving member conduct, ethics complaints, or personnel issues.</p>
 <p>Within minutes of opening, the Committee voted unanimously to move into executive session under Article Seven of the New York State Public Officers Law, cleared the room of non-committee staff, and disappeared behind closed doors for roughly an hour and a half. When they returned, the public summary consisted of a single sentence: the Committee voted to work towards resolving an issue. No issue was named. No timeline was given. No further detail was offered. The meeting was then adjourned.</p>
 <p>That is, in its entirety, what the public learned. Whatever the underlying matter is — an ethics complaint, a conduct dispute, an internal Council conflict — it remains entirely opaque. The Council is legally entitled to conduct this kind of business in private, but the outcome statement here is so vague as to be essentially meaningless. Whether anything of consequence actually happened today is genuinely unknowable from the public record.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2449/">T2026-2449</a>
+        <span title="Legistar: Oversight - Pursuant to Council Rule Section 10.60.">Hearing on a Council oversight matter</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>1 vote taken during executive session, the outcome of which was described only as a decision to work towards resolving an issue.</li>
 <li>Approximately 88 minutes elapsed between the opening of the public session and the return from executive session.</li>
@@ -100,40 +128,6 @@
 <ul>
 <li>Committee to work towards resolving an unspecified issue, as voted during executive session — no owner, timeline, or subject matter made public.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2449/">T2026-2449</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Pursuant to Council Rule Section 10.60.">Hearing on a Council oversight matter</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -280,7 +274,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

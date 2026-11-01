@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-civil-and-human-rights-fair-chance-act-challenges-and-success/">
     <meta name="description" content="The Committee on Civil and Human Rights held an oversight hearing on the Fair Chance Act employment protections originally passed 2015, expanded 2021 and the...">
@@ -90,7 +90,35 @@
 <p>The NYC Commission on Human Rights, represented by Deputy Commissioner Joanne Kth Ward and Director of Policy Hillary Scravani, provided the main agency testimony. Their account was broadly positive in framing but thin on hard enforcement numbers, particularly for fair chance housing. The commission acknowledged it received no budget increase when the Fair Chance Housing Law passed, ran a public awareness campaign at roughly $90,000 against a fiscal impact estimate of $600,000, and has eight staff on its info line — unchanged despite inquiries rising from roughly 9,000 in FY21 to nearly 16,000 in FY26. On fair chance housing specifically, there were zero recorded inquiries or claims in FY25, which the commission attributed to its deliberate first-year focus on education and outreach rather than enforcement, though community advocates testified that violations are already widespread and going unaddressed.</p>
 <p>The pattern that emerged across all testimony was a law that works when enforced but is severely under-enforced due to resource constraints, slow case timelines, and inadequate penalties. Legal Aid Society, Brooklyn Defender Services, Legal Action Center, Community Service Society, and the Fair Housing Justice Center all testified to the same structural problem: CCHR is chronically underfunded, cases drag on for years, and large employers — ride-share companies, Amazon, Grubhub, home health aide agencies — calculate that continued non-compliance is cheaper than compliance, especially when civil penalties have not been updated in roughly 20 years. Brooklyn Defender Services flagged near-universal non-compliance among home health aide employers, a sector critical to their client base. Legal Aid's Worker Justice Project reported assisting over 2,400 workers and achieving reinstatement or compensation for over 720 since the 2021 amendment, but noted that DOE employees and contractors remain entirely outside Fair Chance Act protections in practice, suspended automatically upon arrest regardless of job role or charge, with no meaningful appeal process. Community Service Society's Paul Keefe, who helped draft the original law and then enforced it at the commission for seven years, argued for $25 million in consistent CCHR funding and noted the commission's underused power to impose systemic policy changes on large employers nationwide as part of settlements — including getting national employers to ban the box across the country.</p>
 <p>The hearing surfaced several specific gaps requiring follow-up: why fair chance employment pre-complaint interventions dropped to zero after 2021, why testing dropped sharply in FY24, whether CCHR has ever engaged in targeted compliance training with the large repeat-violator companies advocates identified, how to address the DOE worker exclusion, and whether the commission will publish official rules for expedited handling and a penalty schedule for fair chance housing. The commission's closing ask — that the Council work with it to raise civil penalties that have not changed in two decades — was one of the most concrete policy proposals to emerge from the hearing.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1637/">T2026-1637</a>
+        <span title="Legistar: Oversight - Fair Chance Act Challenges and Success.">Hearing on Fair Chance Act challenges and successes</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>An estimated 750,000 New York City residents carry a criminal conviction.</li>
 <li>One in three Americans carries a criminal record nationally.</li>
@@ -137,40 +165,6 @@
 <li>Administration and Council to follow through on the five-year fair chance housing education commitment embedded in HPD's Where We Live plan, and to attach real funding to that commitment.</li>
 <li>Paul Keefe and Community Service Society to continue advocacy for the City itself to act as a model fair chance employer, including applying Clean Slate-style look-back limits to public employment, building on the 2011 Bloomberg executive order banning the box for city jobs.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1637/">T2026-1637</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Fair Chance Act Challenges and Success.">Hearing on Fair Chance Act challenges and successes</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -535,7 +529,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-education-executive-budget-hearing-2026-06-08/">
     <meta name="description" content="The NYC Council Committee on Education and Committee on Higher Education, jointly with the Committee on Finance, held its FY2027 Executive Budget hearing...">
@@ -91,7 +91,35 @@
 <p>The DOE portion was more contentious. Speaker Menin opened with pointed criticism over the DOE's failure to hand over contract data requested since March — a bad look for an agency with a $12.9 billion contract budget. The Council's analysis of Checkbook NYC data found roughly 40% of contract spending by dollar value was non-competitively bid; the DOE had been citing 12%, but that figure referred to the number of contracts rather than dollars spent. The DOE's procurement reform agenda — centralisation, technology modernisation, better training — sounds reasonable in outline but came without firm timelines. Chair Dinowitz raised a specific SCI report on a district superintendent who allegedly split contracts to avoid the $25,000 threshold and received only a two-week suspension; the DOE General Counsel declined to discuss details, citing possible law enforcement interest, while confirming it was a policy rather than criminal matter. The absence of mandatory procurement training for principals, which apparently requires union negotiation, is the kind of detail that makes government competence sceptics reach for a drink.</p>
 <p>On programmatic matters, the DOE hearing covered a remarkable amount of territory. Several significant funding gaps are heading into adoption negotiations: $6M for restorative justice programming (affecting roughly 250 schools), $5M for the Mental Health Continuum at 50 high-need high schools, $3.3M for Student Success Centers, and funding for the SEED sensory program currently serving 3,450 students. The DOE's due process numbers are genuinely impressive — cases down from 26,000 to under 16,000, pending cases from 18,000 to under 7,000 — and the OATH tribunal achieving resolution in under 70 days is real progress. But the specialised autism programmes (AIMS, NEST, Horizon) remain drastically oversubscribed: over 2,000 applicants for 510 AIMS seats, and 1,410 applications for 560 NEST and Horizon kindergarten seats. DOE acknowledged it submitted a request to OMB for expansion beyond the 675 seats being added, but it did not make the executive budget. Dinowitz's argument — that expanding these programmes is both morally necessary and fiscally rational given average due process costs of $105,000 per student per year — is one of the cleaner analytical arguments made in the hearing. The New Visions portal contract (approximately $8 million, used by virtually every school in the system plus ACS, CUNY, and DHS) was flagged for cuts as allegedly duplicative; the Chancellor expressed personal support for it while declining to make a commitment. Cutting a genuinely useful cross-agency data tool to save $8 million in a $40 billion budget is the kind of decision that tends to age poorly.</p>
 <p>Class size compliance is advancing, with grades K-3 showing a 28.7% increase in compliant classes, aided by a two-year state extension. The after-school procurement — the first since 2015 — added 20,000 new seats but generated significant friction as familiar providers lost contracts. Early childhood expansion is progressing, with 85% utilisation of 3-K seats and a 2-K pilot launching, though pay parity for ECE workers remains unresolved. The hearing did not produce firm budget commitments on most contested items; the real decisions will happen at adoption.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1911/">T2026-1911</a>
+        <span title="Legistar: Executive Budget Hearings - Education">Hearing on the Education Department&#39;s Fiscal Year 2027 budget</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$40 billion: total DOE budget.</li>
 <li>$12.9 billion: DOE contract budget.</li>
@@ -137,40 +165,6 @@
 <li>CUNY to provide data on the apprenticeship programme duration and graduate outcomes.</li>
 <li>CUNY Chancellor to provide the Committee with finalised MOU with DOE under Local Law 18 of 2023 on data-sharing for students with disabilities once executed.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1911/">T2026-1911</a>
-                    
-                </td>
-                <td title="Legistar: Executive Budget Hearings - Education">Hearing on the Education Department&#39;s Fiscal Year 2027 budget</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1873,7 +1867,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

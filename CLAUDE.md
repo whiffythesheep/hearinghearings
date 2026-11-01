@@ -296,8 +296,15 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   `_redirects`), its extra documents appear on the LU page, and its duplicate roll call is not
   counted in members' votes (it had been double-counting 51 votes per decision). The LU is kept,
   not the Res, because the LU carries the full history and exists from referral onwards.
+- **T-numbers fold into their real matter** (`_preconsidered_aliases()` in `site/record.py`,
+  2026-11-01). Legistar numbers a preconsidered item T2026-xxxx and gives it an Int/LU/Res number
+  on introduction, leaving two matters with one title; a joint oversight hearing also gets one
+  T-number per committee. The T-number's history and documents merge into the real matter (or the
+  lowest T-number of a joint set), agenda items are shown under the real number, and the old URL
+  301s. Exact title + type match only; a T-number matching several real matters is left alone.
+  Oversight items read "Hearing held", not "Closed".
 - **Five plain matter types** (`matter_type_label()` in `site/record.py`): Proposed law (Int),
-  Land use (LU applications + call-ups), Other approval (resolutions that decide something:
+  Land use (LU applications + call-ups), Approval (resolutions that decide something:
   budget, tax rates, appointments, funding, SEQRA findings; matched by `APPROVAL_RE` on the
   official title), Resolution (statements: "calling on", "declaring"), Oversight. Legistar's
   own `type` is untouched and still drives logic.

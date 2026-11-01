@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-contracts-transparency-and-accountability-in-the-citys-use-of-master-agreements-2026-06-17/">
     <meta name="description" content="The Council&#39;s Committee on Contracts held an oversight hearing on the City&#39;s use of master agreements MA-1s, the standing contracts that allow agencies to...">
@@ -90,7 +90,35 @@
 <p>The administration panel — drawn from MOCS, DCAS, and OTI — gave competent if bureaucratically defensive testimony. The core admission was damning in its plainness: delivery orders placed under master agreements are not captured in any single system. Some live in DCAS's own direct-order platform, some in Passport, some only in FMS, and line-item detail — what was actually purchased, in what quantity, at what unit price — often exists only in agency-level invoices or spreadsheets. DCAS noted that only about 30% of its master agreements are hosted on Passport's catalog. OTI acknowledged it could not centrally report what technology products agencies had purchased under its citywide IT contract, which covers 740 manufacturers across six resellers and has been overspent by nearly $4 billion relative to estimated values. The Garner Environmental Services contract — registered at $30 million, ultimately drawing $675 million in delivery orders for asylum seeker services, with agencies paying anywhere from $79 to $217 per hour for the same security guard services — was the hearing's sharpest exhibit of what opacity enables. Officials pushed back, reasonably, on framing routine spending fluctuations as "overspend," since contract values are estimates of usage rather than caps. They also noted that most non-Garner contracts have fixed line pricing, so price disparity of the Garner type is not universal. The administration committed to follow-up conversations but offered no concrete timeline or plan.</p>
 <p>Deputy Comptroller Charlotte Roff testified on behalf of Comptroller Mark Levine's office and gave the most actionable analysis of the day. Her office's report found that since 2015, one in three completed MA-1s was underspent by more than half while another third was overspent, and that the City overspent cumulative estimated values by over $1.6 billion — representing lost negotiating leverage. She identified less than 10% of active master agreements as covered by Passport's PunchOut or catalog tools, called for mandatory expansion of those tools, and argued that IT contracts should be the first priority for centralized oversight given scale of spending and consolidation potential. She and Restler converged on Passport expansion as the logical technical path, with Checkbook visibility flowing naturally from that. The hearing also touched on a 350,000-Chromebook purchase worth $142 million made through OTI's master agreement, with ongoing cellular service costs that no witness could quantify on the spot and which may be a savings target.</p>
 <p>Public testimony added useful texture. Former Comptroller and OMB official Charles Diamond made the structural point that master agreements escape standard tracking not by accident but because procurement rules are built around procedural compliance and competition, not value-for-money management — and that you cannot fix the data problem without investing in Passport enhancements, which the executive budget currently does not fund. He flagged MOCS's proposed 18.8% budget cut as directly undermining the transparency goals the hearing was ostensibly pursuing. Citizens Budget Commission's Mike Hickey offered a case study in master agreements working well: a CBC-held master contract through Emergency Management that channels roughly $12 million annually to 750 community organizations across eight City agencies, cutting the time from RFP to payment to 40-45 days. The contrast with standard City procurement timelines was not lost on the room.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2059/">T2026-2059</a>
+        <span title="Legistar: Oversight - Transparency and Accountability in the City&#39;s Use of Master Agreements.">Hearing on oversight of city master agreement contracts</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Mayoral agencies spent over $8.8 billion through master agreement delivery orders between fiscal years 2022 and 2025.</li>
 <li>Master agreements accounted for approximately 17% of the City's total contract spending over the past four years.</li>
@@ -128,40 +156,6 @@
 <li>Committee Chair Restler to pursue the question of whether legislative action is needed to mandate transparency requirements for MA-1 delivery orders, in parallel with the administrative track.</li>
 <li>MOCS to follow up with the Committee on whether master agreements were included in the Mayor's citywide contract savings review and what savings, if any, were identified through that process.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2059/">T2026-2059</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Transparency and Accountability in the City&#39;s Use of Master Agreements.">Hearing on oversight of city master agreement contracts</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -742,7 +736,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

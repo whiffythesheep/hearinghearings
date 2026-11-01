@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-public-safety-nypd-crime-statistics-2026-09-16/">
     <meta name="description" content="The Public Safety Committee held an oversight hearing on NYPD crime statistics, featuring testimony from Inspector William Holt, Commanding Officer of the...">
@@ -91,7 +91,35 @@
 <p>The harder conversation concerned the crime categories that have not recovered to pre-pandemic levels. Felony assaults are slightly up year-to-date and have been climbing for years — approximately 40% are domestic violence incidents, and assaults on public sector employees are up more than 50% compared to last year. The NYPD has an 80% arrest rate on felony assault, an all-time high, but 263 individuals have been arrested three or more times for felony assault this year, up 205% compared to 2018. The department acknowledged recidivism as a serious problem but directed blame toward the broader criminal justice system — prosecutors, judges and bail policy — rather than its own practices. Grand larceny auto, while down 12.8% this year, remains roughly 140% above 2019 levels. The NYPD attributed part of the spike to key fob technology vulnerabilities that made certain car models easier to steal, and noted that coordination with manufacturers has produced some improvement.</p>
 <p>Several members pressed on data integrity and constitutional policing. Council Member Ariola raised a widely circulated video of an officer apparently discouraging a crime report at Washington Square Park, which is under Internal Affairs investigation. Council Member Wong raised the case of a Transit District 20 captain transferred in March 2025 for allegedly encouraging the falsification of crime reports, with a disciplinary matter still pending. CM Wong also noted that the NYPD has been out of compliance with the 2020 state P-STAT law, which requires reporting on people killed by police and deaths in police custody. The department acknowledged providing some data under that law but did not concede full non-compliance. The NYPD described its auditing systems in detail — Data Integrity Unit, Crime Audit Team, ICAD audits of 911 calls against complaint reports, and quarterly command reviews — but members from both parties expressed skepticism that constituents being turned away from filing reports at precincts would ever show up in the data these systems are designed to catch.</p>
 <p>Public Advocate Williams and CM Cabon pressed on the absence of collaborative public safety strategy beyond policing. Williams argued that crew takedowns create a unique window for other city agencies to reclaim spaces and address underlying conditions, but that this has not been systematically happening despite her raising it for sixteen years. CM Cabon pushed the NYPD witnesses on whether they advocate internally for investment in housing, mental health and other services that would reduce demand on policing. The department acknowledged in the abstract that root causes exist and matter, but did not describe any concrete advocacy role. The committee did not advance any legislation at this hearing; it was oversight only. Chair Feliz closed by committing to hold a similar hearing annually.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2466/">T2026-2466</a>
+        <span title="Legistar: Oversight - NYPD Crime Statistics.">Hearing on NYPD crime statistics and trends</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Year-to-date murders in NYC: 173, the lowest in the CompStat era, down 24.1% from the prior year.</li>
 <li>18 fewer murders year-to-date than the previous record low.</li>
@@ -141,40 +169,6 @@
 <li>Chair Feliz committed to holding an annual hearing on NYPD crime statistics before the end of each year to review progress and outstanding challenges.</li>
 <li>Any Council member office that receives constituent complaints of officers refusing to take crime reports is asked by NYPD to refer those complaints immediately to the department for Internal Affairs investigation.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2466/">T2026-2466</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - NYPD Crime Statistics.">Hearing on NYPD crime statistics and trends</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -999,7 +993,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

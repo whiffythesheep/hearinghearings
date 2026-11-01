@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-finance-fy-2027-preliminary-budget-hearing/">
     <meta name="description" content="The Finance Committee held its preliminary budget hearing for fiscal year 2027, with OMB Director Solomon defending a $127 billion budget that includes a...">
@@ -90,7 +90,35 @@
 <p>Much of the hearing focused on the administration's claims of identifying $1.7 billion in savings through chief savings officers, though only $200 million has been validated so far. Council members expressed skepticism about these projections while criticizing continued hiring restrictions despite promises to lift the "two-for-one" hiring limit. Lengthy discussions covered funding cuts to libraries, parks, and consumer protection agencies, with members arguing these reductions would hurt essential services. The administration maintained that agencies were previously underfunded rather than being cut, creating confusion about baseline funding levels.</p>
 <p>Revenue generation dominated much of the debate, with Council members warning that property and income tax increases would drive wealthy residents away - citing a 31% decline in NYC's millionaire population since 2010. The administration acknowledged the mobility of high earners but defended revenue proposals as necessary for affordability programs. Extensive time was spent on the city's poor collection of outstanding fines and fees totaling $2 billion, with OMB proposing an ECB amnesty program and AI-enhanced collection efforts.</p>
 <p>The hearing revealed ongoing structural problems across multiple agencies, from 600-day wait times at the Commission on Human Rights to 23% vacancy rates at Small Business Services. Council members pressed on pay equity issues for EMTs earning $18 per hour and paraprofessionals making $30,000 annually, while the administration deferred to collective bargaining processes. CUNY's capital needs, youth program funding, and technology modernization were also discussed, with the administration citing debt capacity limits and competing priorities. The session ended with unresolved questions about federal funding impacts, property tax reform timeline, and whether promised state assistance would actually materialize.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1409/">T2026-1409</a>
+        <span title="Legistar: Preliminary Budget Hearing - Finance">Hearing on the city&#39;s preliminary 2027 budget and capital plan</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$127 billion preliminary budget for fiscal year 2027.</li>
 <li>$14 billion in agency expense changes over two fiscal years due to underbudgeting.</li>
@@ -173,40 +201,6 @@
 <li>Council will provide OMB with specific instances of salary cap issues when employees move agencies.</li>
 <li>Council Member Stevens to follow up in one week on Raise the Age waiver decision timeline.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1409/">T2026-1409</a>
-                    
-                </td>
-                <td title="Legistar: Preliminary Budget Hearing - Finance">Hearing on the city&#39;s preliminary 2027 budget and capital plan</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1526,7 +1520,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

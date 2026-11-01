@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-fire-and-emergency-management-emergency-response-in-the-rockaways-and-other-2026-09-30/">
     <meta name="description" content="The Committee on Fire and Emergency Management held an oversight hearing on emergency response in the Rockaways and other geographically isolated communities,...">
@@ -91,7 +91,35 @@
 <p>The hearing's most alarming moment concerned a separate September 28 incident in Central Queens, where a 14-year-old showing stroke symptoms waited over 35 minutes for an ambulance that never arrived before his parents drove him to hospital. During that hour EMS received 274 calls against a normal rate of 179 per hour. Because no FDNY dispatcher ever received the call — it was logged by an NYPD dispatcher as "unknown condition" rather than triaged as a high-priority segment three — the system treated it as lower acuity and never notified the callers of any delay. Chair Ariola used the case to make a broader argument: EMS staffing is below 400 personnel, a recent promotional ceremony removed roughly 25% of the workforce before the next class graduates, no mutual aid has been requested to bridge the gap, and there is no system to notify 911 callers that an ambulance is delayed. She called this a "dispatch abyss" and argued it is a citywide problem decades in the making, getting worse, rooted in wages too low to retain staff.</p>
 <p>On geographic response more broadly, FDNY representatives argued their data shows the Rockaways' 47th Battalion ranks among the top five fastest-responding of 49 battalions citywide, with six engines, three trucks, a brush fire unit and 10 EMS ambulances including three ALS units. But CM Brooks-Powers and CM Sanchez challenged whether this captures the full picture, noting that Peninsula Hospital's closure has increased transport times to Cohen's and Jamaica Hospital, that responding to large incidents drains resources from adjacent communities like Howard Beach and Springfield Gardens, and that evacuation route signage is outdated and in some cases refers to roads that no longer exist. The prior administration committed in writing to update the Rockaways' evacuation routes, a commitment that has not yet been acted on. Public Advocate Jumaane Williams added testimony calling for a trauma hospital on the peninsula and linking geographic isolation to structural climate vulnerability, noting that Sandy-era federal funding commitments remain relevant context.</p>
 <p>The hearing was more substantive than the typical oversight exercise. It exposed a real and specific failure on July 25, raised a genuinely alarming EMS staffing and dispatch triage problem illustrated by the September 28 case, and surfaced the evacuation route issue as an unresolved bureaucratic commitment. The agencies were notably well-prepared and candid rather than defensive, and the Chair's closing remarks — promising the committee would be a "squeaky wheel" on resources — had the feel of a hearing that intends to produce follow-up rather than simply generate a record.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2391/">T2026-2391</a>
+        <span title="Legistar: Oversight - Emergency Response in the Rockaways, and Other Geographically Isolated Communities in NYC.">Hearing on emergency response in the Rockaways and isolated areas</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>NYC Emergency Operations Center activated for 183 days so far in 2026.</li>
 <li>Flash flood plan activated for 90 days so far in 2026.</li>
@@ -138,40 +166,6 @@
 <li>NYC Emergency Management to activate Strengthening Communities networks and provide flood preparedness resources in inland areas including Rosedale, not only coastal zones, following the nor'easter.</li>
 <li>NYC Emergency Management to open Strengthening Communities programme applications in October 2026 and work with Council to amplify the opportunity to community networks citywide.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2391/">T2026-2391</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Emergency Response in the Rockaways, and Other Geographically Isolated Communities in NYC.">Hearing on emergency response in the Rockaways and isolated areas</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -559,7 +553,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-general-welfare-housing-instability-among-lgbtq-individuals-in-nyc-2026-06-24/">
     <meta name="description" content="The Committee on General Welfare and the Committee on Women and Gender Equity held a joint oversight hearing on housing instability among LGBTQ+ individuals in...">
@@ -91,7 +91,35 @@
 <p>DYCD reported that 38% of youth entering its programs identify as LGBTQ+, representing serious overrepresentation relative to the general population. However, data limitations pervade the system: youth are not required to disclose sexual orientation or gender identity, the 40,000 annual figure includes outreach contacts and duplicates, and long-term housing outcome data beyond one year is not readily available. The hearing surfaced a significant structural problem in the youth homelessness system: the gap between the city's reimbursement rate of $50,000 per bed per year and the actual cost of $80,000, which is causing providers to decline new bed allocations even when they are offered. Ali Forney Center testified that 400 youth are currently on its waitlist for a crisis bed, up from 300 the prior year, and that the waitlist fell below 100 when housing vouchers were available.</p>
 <p>Public testimony was often the most substantive part of the hearing. Advocates from Ali Forney, SAGE, Point Source Youth, Legal Aid Society, Manhattan Legal Services, New York Trans Juggle and others described specific systemic failures: the IDNYC caretaker list excluding DHS, leaving shelter clients unable to obtain ID to access housing programs; HASA clients losing apartments because nobody informed them the rent ceiling was too low; trans and queer migrants facing shelter violence and police interaction with no interpretation access; and a foster care to homelessness pipeline for LGBTQ+ youth with no systematic transition planning. SAGE flagged a 250% increase in adults 55 and older in shelter between 2004 and 2017, with LGBTQ+ seniors at particular risk given lifetime employment and housing discrimination. The Point Source Youth testimony was the most emotionally direct, presenting the Targeted Housing Assistance Program's cash assistance model, which a Johns Hopkins evaluation found resulted in 98% of participants having no shelter contact in six months at an average cost of $3,700 per person.</p>
 <p>The hearing reflects a genuine and well-documented policy problem without a clear near-term resolution. The new mayoral office is still finding its feet; bed capacity for LGBTQ+ youth is structurally underfunded; data collection is voluntary and produces serious undercounts; and the federal threat to the Equal Access Rule adds external pressure. The council members, particularly Hudson, Nurse and Wilson, asked pointed and informed questions, pushed back appropriately on vague answers and identified the gap between stated policy and practice — most notably Hudson's challenge on whether staff or residents are moved in response to harassment complaints, and Wilson's call for post-training assessment rather than mere compliance tracking.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1855/">T2026-1855</a>
+        <span title="Legistar: Oversight - Housing Instability Among LGBTQ+ Individuals in NYC.">Hearing on housing instability for LGBTQ+ New Yorkers</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>Approximately 40% of unhoused youth in New York City identify as LGBTQ+, though they represent approximately 5-10% of the general youth population.</li>
 <li>55% of LGBTQ+ youth clients and over 67% of trans clients served by homeless youth providers became homeless primarily due to family rejection based on sexual orientation, gender identity or expression.</li>
@@ -143,40 +171,6 @@
 <li>Committee to follow up with interACT regarding Int 0231, which would make anti-discrimination protections for intersex people explicit under the City Human Rights Law.</li>
 <li>Council to consider pressing the administration to end its lawsuit against the 2023 voucher expansion and to expand the state housing access voucher program budget allocation, per advocate requests.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1855/">T2026-1855</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Housing Instability Among LGBTQ+ Individuals in NYC.">Hearing on housing instability for LGBTQ+ New Yorkers</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -869,7 +863,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

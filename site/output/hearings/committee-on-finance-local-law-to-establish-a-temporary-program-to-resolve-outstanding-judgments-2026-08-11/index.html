@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-finance-local-law-to-establish-a-temporary-program-to-resolve-outstanding-judgments-2026-08-11/">
     <meta name="description" content="The Finance Committee held a public hearing on a preconsidered bill T2026-2303 sponsored by Finance Chair Linda Lee at the request of the Mayor, which would...">
@@ -89,7 +89,35 @@
         <p>The Finance Committee held a public hearing on a preconsidered bill (T2026-2303) sponsored by Finance Chair Linda Lee at the request of the Mayor, which would authorise the Department of Finance to run a temporary 90-day amnesty program for outstanding Environmental Control Board judgments, with an optional 90-day extension, during fiscal year 2027. The program would allow respondents with default judgments to pay only the base penalty, waiving default penalties and interest, while those with adjudicated judgments would pay 75% of the imposed penalty with interest waived. Idling violations are explicitly excluded. The bill is modelled on similar programs run in 2009, 2016 and 2021, and the adopted FY2027 budget includes $25 million in anticipated revenue from the effort, as part of a broader $100 million ECB collections target.</p>
 <p>Commissioner Richard Lee and Deputy Commissioner Annette Hill testified for the administration. The core tension running through the hearing was one the committee never fully resolved: amnesty programs reward non-compliance. Multiple members, particularly Frank Morano and Phil Wong, pressed on the basic fairness problem — the small business owner who paid on time gets nothing, while the one who waited potentially pays less. The administration's answer was essentially that the program is used sparingly, is not guaranteed to recur, and the primary goal is compliance and correction rather than revenue. That answer satisfied nobody entirely but there was no serious opposition to the bill itself.</p>
 <p>A more substantive line of questioning came from CM Wong and Chair Lee on the department's underlying collection capacity. Of roughly $573 million in potentially collectible judgment debt, the department collected $88 million in FY2026, with about a third of that coming through the judgment settlement program. Another $744 million is deemed uncollectible. The department currently has five full-time collection staff, with seven more positions being filled. Commissioner Lee outlined additional strategies being developed — including requiring permit applicants to clear outstanding judgments before issuance, and potentially converting judgments to property tax liens — but acknowledged that revenue estimates for most of these initiatives are preliminary or nonexistent. CM Restler used his time to advocate for a day-fines model, which would scale penalties to income, and found the commissioner at least nominally open to exploring it, though the administration's historical resistance to the concept was noted. The sole public witness, Sue Peters, offered testimony on monetary theory that was tangential to the bill but received politely.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/int-1002-2026/">Int 1002-2026</a>
+        <span title="Legistar: Establish a temporary program to resolve outstanding judgments imposed by the environmental control board.">Law to create a temporary amnesty program for city fine debt</span>
+        <span class="record-list__action">— <span title="Legistar: P-C Item Laid Over by Comm">Heard, no vote yet</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$573 million in outstanding ECB judgment debt currently identified as potentially collectible as of October 2025.</li>
 <li>$744 million in outstanding ECB judgment debt currently classified as uncollectible, primarily due to unidentifiable or defunct respondents and bankruptcies.</li>
@@ -128,40 +156,6 @@
 <li>Department of Finance to continue discussions with the committee on whether respondents participating in the City's Alternative Enforcement Program should be eligible or excluded from the amnesty.</li>
 <li>Department of Finance to keep the committee updated on progress toward the permit-clearance enforcement strategy and any associated legislative proposals.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/int-1002-2026/">Int 1002-2026</a>
-                    
-                </td>
-                <td title="Legistar: Establish a temporary program to resolve outstanding judgments imposed by the environmental control board.">Law to create a temporary amnesty program for city fine debt</td>
-                <td><span title="Legistar: P-C Item Laid Over by Comm">Heard, no vote yet</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -640,7 +634,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

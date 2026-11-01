@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-higher-education-study-abroad-opportunities-at-cuny-2026-09-29/">
     <meta name="description" content="The Committee on Higher Education held an oversight hearing on study abroad opportunities at CUNY, taking testimony from three CUNY representatives: Kim...">
@@ -90,7 +90,35 @@
 <p>CUNY's study abroad operation is larger and more diverse than the national norm, but still reaches only a small fraction of its student body. In the 2025-26 academic year, 1,512 undergraduates from 15 campuses studied in 49 countries across 136 programs. The committee repeatedly pressed on why there is no system-wide numeric enrollment target, and CUNY officials largely acknowledged the gap, noting that some individual campuses have goals (College of Staten Island aims for 10% of graduating students to have had a substantial international experience) but that no university-wide figure exists. Members, particularly CM Epstein and CM Dinowitz, pushed for specific goals tied to underrepresented populations, noting that data on the lowest-income students is particularly concerning: only 1.2% of study abroad participants have ever qualified for public assistance, even though CUNY's mission is explicitly to serve students of limited means.</p>
 <p>Funding emerged as the central operational challenge. Federal grant money is actively shrinking: College of Staten Island's director noted that $60.4 million in relevant federal funding was rescinded the night before the hearing. CM Brewer, drawing on her experience directing David Dinkins's federal grants office, pressed CUNY on whether it is systematically pursuing every available private foundation dollar, arguing that even politically conservative foundations fund international education. CUNY officials acknowledged they pursue grants actively but that the pipeline is under pressure. The committee also heard that vertical transfer students, community college students, and students in SEEK and ASAP programs are significantly underrepresented in study abroad and face compounding barriers: fewer elective credits, work and family obligations, inability to live with family while abroad, and lost income from jobs that support household expenses. There is no systematic data on what percentage of ASAP or SEEK students participate, and CUNY committed to follow up on that.</p>
 <p>Several smaller but operationally significant items surfaced. A new transfer credit tool, developed at one campus, allows students to see exactly what credits earned abroad will count for at CUNY before they go; it is being rolled out system-wide in approximately six weeks. A consolidated online directory of CUNY study abroad programs already exists but officials themselves acknowledged it is insufficient to change campus culture where peer visibility is low. CUNY's study abroad destination profile differs notably from national averages, with South Korea up 5.3 times since 2013 and China down 78%, and emerging interest in Morocco driven partly by the difficulty of placing students elsewhere in the Middle East. On Israel, CUNY confirmed that formal exchange agreements are on pause due to State Department travel warnings since October 7 but are not cancelled; students continue to travel independently under a waiver process, and agreements with four Israeli universities are ready to resume when safety conditions allow. Chair Joseph closed by flagging a separate but related pipeline interest: connecting CUNY anthropology programs to the excavation and study of African burial grounds in New York City, including one in her district dating to 1600.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-2403/">T2026-2403</a>
+        <span title="Legistar: Oversight - Study Abroad Opportunities at CUNY.">Hearing on CUNY study abroad programs</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>1,512 CUNY undergraduates from 15 campuses studied abroad in 49 countries during fall 2025 through summer 2026.</li>
 <li>136 study abroad programs were offered by 10 CUNY campuses in 40 countries in the same period.</li>
@@ -136,40 +164,6 @@
 <li>College of Staten Island to share study abroad application tracking software procurement process with additional CUNY campuses beyond Hunter to enable better data collection on student melt and participation.</li>
 <li>CUNY to pursue private foundation funding for study abroad access more systematically, with CM Brewer's office available to advise on grant strategy given her experience directing federal and foundation grant applications.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-2403/">T2026-2403</a>
-                    
-                </td>
-                <td title="Legistar: Oversight - Study Abroad Opportunities at CUNY.">Hearing on CUNY study abroad programs</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -620,7 +614,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

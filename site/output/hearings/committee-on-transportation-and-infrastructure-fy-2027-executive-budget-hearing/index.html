@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-transportation-and-infrastructure-fy-2027-executive-budget-hearing/">
     <meta name="description" content="The NYC Council&#39;s Committee on Transportation and Infrastructure held its FY2027 Executive Budget hearing on May 29, 2026, jointly with the Finance Committee....">
@@ -90,7 +90,35 @@
 <p>DOT Commissioner Mike Flynn presented a $1.6 billion expense budget and a $33 billion ten-year capital plan, with headline investments in bus infrastructure, cycling, and speed enforcement. The Bus Action Plan — framed as a historic commitment — attracted significant scrutiny when DOT could not say how many miles of new bus lanes it plans to deliver in FY2027, nor confirm it will meet the 30-mile annual mandate under Local Law 195. Daylighting generated pointed exchanges: council members cited cost figures from Portland ($700-800 per intersection) and Hoboken that contrast sharply with DOT's implied estimates, and DOT clarified that its $10,000 figure refers to one of eight possible treatment points at a corner, not a full intersection. No dedicated daylighting budget line exists in the FY2027 executive budget. Similarly, DOT could not confirm whether funding is in place to comply with the law requiring 300 blocks of new pedestrian lighting per year starting January 2027. The pattern across the DOT session was consistent: ambitious framing, thin operational specifics. Street light repair performance has deteriorated significantly — average repair time is now 5.3 days, 76% slower than the FY2021 baseline — while a $331 million LED replacement program with real-time sensors is underway.</p>
 <p>DCWP Commissioner Sam Levin presented what the administration described as the largest-ever investment in consumer and worker enforcement, adding 181 new personnel by FY2029 and claiming roughly $10 million secured in enforcement actions in the administration's first 100 days. The agency is pursuing active enforcement on hotel junk fees, delivery app fee caps, and predatory tow operators, and is rolling out new rules on subscription cancellations and debt collection. The session surfaced a six-month backlog in worker complaint processing — a serious gap given the agency's enforcement ambitions — and raised questions about whether new staffing can be onboarded quickly enough to close it within a year. The elimination of the Summer Contract City Residents program, redirecting $12 million annually toward enforcement, was noted but not challenged by the committee, suggesting broad acceptance of that trade-off.</p>
 <p>EDC Interim President Jeanne Pack testified on the administration's flagship public grocery initiative, World Cup preparations, a new city-backed affordable housing insurance program, and economic indicators. The public grocery program drew extensive questioning: the two announced sites (La Marqueta in East Harlem and Peninsula/Spofford in Hunts Point) will consume $30 million of an original $70 million five-borough budget, with no clear accounting of how the remaining sites will be funded. Ferry operations came in at a per-passenger subsidy of $8.03, down 30% since launch. Helicopter noise from city-controlled heliports drew a passionate challenge from CM Marte, who cited the environmental impact of a single helicopter as equivalent to 40 idling cars; EDC pointed to future electric aircraft as the answer, which is not a satisfying response to people living under flight paths today. Speaker Menin raised concern about 27,000 net job losses and declining indicators in tourism and finance, and pressed EDC for concrete retention strategies. The position of permanent EDC president has been vacant for nearly six months, with no timeline from the Mayor's office — an organizational detail that does not inspire confidence in the agency's strategic direction.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1889/">T2026-1889</a>
+        <span title="Legistar: Executive Budget Hearings - Transportation and Infrastructure">Hearing on DOT&#39;s proposed Fiscal Year 2027 budget</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>$124.7 billion: proposed FY2027 citywide budget.</li>
 <li>$1.6 billion: DOT FY2027 expense budget, up $78.4 million (5%) from the preliminary budget.</li>
@@ -138,40 +166,6 @@
 <li>EDC to explore creating an internal task force to periodically review and streamline the capital funding process for nonprofits, as requested by CM Louis.</li>
 <li>EDC and DOT to work with CM Marte on options to limit helicopter activity at city-controlled heliports, with particular reference to the World Cup period.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1889/">T2026-1889</a>
-                    
-                </td>
-                <td title="Legistar: Executive Budget Hearings - Transportation and Infrastructure">Hearing on DOT&#39;s proposed Fiscal Year 2027 budget</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -1833,7 +1827,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);

@@ -1554,6 +1554,21 @@ body.desktop {
     line-height: 1.15;
 }
 
+.record-meta > .meta-sep:first-child {
+    display: none;
+}
+
+/* Where a matter stands, in brackets beside its number */
+.stage-note {
+    font-family: var(--font-chrome);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
 .record-subtitle {
     font-size: 1.05rem;
     color: var(--text);
@@ -1647,7 +1662,7 @@ body.desktop {
 .record-table {
     border-collapse: collapse;
     width: 100%;
-    font-size: 0.9rem;
+    font-size: 1rem;
     min-width: 34rem;
 }
 
@@ -1681,6 +1696,11 @@ body.desktop {
     background: #ece9de;
 }
 
+/* Matters list: the title is what people read, so it gets the room */
+#matter-table td:nth-child(3) {
+    min-width: 11rem;
+}
+
 .record-table td.num {
     font-family: var(--font-chrome);
     font-size: 12px;
@@ -1700,7 +1720,6 @@ body.desktop {
 }
 
 /* ---------- Status, result and vote markers ---------- */
-.status-badge,
 .result,
 .vote {
     font-family: var(--font-chrome);
@@ -1711,12 +1730,6 @@ body.desktop {
     padding: 2px 6px;
     white-space: nowrap;
     display: inline-block;
-}
-
-.status-badge {
-    background: #f3f1e9;
-    border: 1px solid var(--bevel-dark);
-    color: var(--text);
 }
 
 .result--pass,
@@ -2044,6 +2057,28 @@ body.desktop {
 /* ---------- The record block on a hearing page ---------- */
 .hearing-record {
     margin-top: 2.5rem;
+}
+
+.hearing-summary .record-list {
+    list-style: none;
+    margin: 0 0 1rem;
+    padding: 0;
+}
+
+.hearing-summary .record-list li {
+    margin-bottom: 0.55rem;
+}
+
+.record-list .matter-ref {
+    margin-right: 0.35rem;
+}
+
+.record-list__action {
+    color: var(--text-muted);
+}
+
+.hearing-sections {
+    margin-top: 1rem;
 }
 
 @media (max-width: 640px) {

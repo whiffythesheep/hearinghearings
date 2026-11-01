@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=bb0fbcbdfe">
+    <link rel="stylesheet" href="/static/site.css?v=d511faac4b">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-immigration-fy27-preliminary-budget-hearing/">
     <meta name="description" content="The Council&#39;s Committee on Immigration held a preliminary budget hearing for FY2027, examining the Mayor&#39;s Office of Immigrant Affairs MOYA and the City&#39;s...">
@@ -90,7 +90,35 @@
 <p>The central structural tension running through the entire hearing is MOYA's absurd mismatch between mandate and capacity. The office formally controls a budget of just $782,000 covering five staff positions, two of which are currently filled. The actual operating budget is $42.3 million in FY26, with 64 staff lines spread across other agencies including DSS, DYCD, and H+H, and over 70 nonprofit contracts. Chair Encarnación directly called this arrangement unacceptable and advocated for creating a standalone city immigration agency, a position echoed by former Council Speaker Melissa Mark-Viverito in invited testimony. The commissioner, to her credit, did not pretend this architecture is ideal, but offered the honest answer of a new official: she is still figuring out where things stand. The preliminary budget does add $6.1 million in new baseline funding, comprising $4.6 million for rapid response and legal support centers and $1.5 million for English learning centers, which is at least a real commitment rather than one-shot funding.</p>
 <p>Questioning covered a wide range of operational programs. The immigration legal support hotline received over 14,700 calls so far this year and operates with seven counselors across limited hours, with no after-hours connection option beyond a voicemail callback, which council members found inadequate. The legal support centers network, rebranded from Action NYC, now comprises 29 unique providers across 38 contracts, and has conducted nearly 9,000 legal screenings since launching in July 2025. The rapid response legal collaborative received a $3 million increase this fiscal year, and preliminary plan figures show a substantial multi-year funding commitment for legal services overall. Concerns were raised about specific vulnerable populations including Haitian TPS holders facing Supreme Court uncertainty, unaccompanied minors, LGBTQ immigrants, survivors of domestic violence, and mixed-status families in NYCHA housing threatened by a proposed HUD rule change requiring immigration status verification for all household members. The committee also pressed on inter-agency coordination, sanctuary city compliance training following Executive Order 13, airport safety advisories, language access, 311 integration, and plans around the closure of the last remaining migrant shelter and associated mail center in the South Bronx.</p>
 <p>Former Speaker Mark-Viverito's testimony was substantive and pointed. She framed the current federal enforcement environment as part of a broader authoritarian project, catalogued the sanctuary legislation passed during her tenure including detainer laws and the ban on ICE at Rikers, and made the case for a standalone city immigration agency as both an organizational and political necessity. She also called for passage of the New York for All Act at the state level. Her testimony reinforced what the committee was already arguing: the patchwork of MOYA contracts and embedded agency staff is too fragile and too opaque for the moment the city is actually in.</p>
-<details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-record">
+        <div class="section-header">
+            <h2>The record</h2>
+        </div>
+        
+        
+<ul class="record-list">
+
+    <li><a class="matter-ref" href="/matters/t2026-1372/">T2026-1372</a>
+        <span title="Legistar: Preliminary Budget Hearing - Immigration">Hearing on immigrant affairs budget and management report</span>
+        <span class="record-list__action">— <span title="Legistar: Hearing held">Hearing held</span></span>
+    </li>
+
+</ul>
+
+        
+
+
+    </section>
+    
+
+    
+    <section class="hearing-summary hearing-sections">
+        <details class="summary-section"><summary><span class="summary-caret" aria-hidden="true">▸ </span>Numbers</summary><div class="summary-section-body">
 <ul>
 <li>MOYA's formal preliminary budget for FY2027 is $782,000, covering five staff positions.</li>
 <li>Two of those five positions are currently filled: the commissioner and the director of communications.</li>
@@ -141,40 +169,6 @@
 <li>MOYA to pursue paid and unpaid know-your-rights media campaign citywide and report back to committee on rollout.</li>
 <li>MOYA to assess gaps in services for transgender, non-conforming, and non-binary immigrant New Yorkers in consultation with the Office of Equity and Justice, as required by recent local law.</li>
 </ul></div></details>
-    </section>
-    
-
-    
-    <section class="hearing-record">
-        <div class="section-header">
-            <h2>The record</h2>
-        </div>
-        
-        <p class="record-note">What the Council did, from Legistar — separate from the summary above,
-            which is written from the transcript.</p>
-        
-        
-<div class="table-scroll listing-well">
-    <table class="record-table">
-        <thead><tr><th>File</th><th>Title</th><th>Action</th></tr></thead>
-        <tbody>
-        
-            <tr>
-                <td class="num">
-                    <a class="record-link mono" href="/matters/t2026-1372/">T2026-1372</a>
-                    
-                </td>
-                <td title="Legistar: Preliminary Budget Hearing - Immigration">Hearing on immigrant affairs budget and management report</td>
-                <td><span title="Legistar: Hearing Held by Committee">Heard</span></td>
-            </tr>
-        
-        </tbody>
-    </table>
-</div>
-
-        
-
-
     </section>
     
 
@@ -628,7 +622,7 @@
     var openedForPrint = [];
     window.addEventListener('beforeprint', function () {
         openedForPrint = [];
-        var closed = document.querySelectorAll('.hearing-summary details:not([open])');
+        var closed = document.querySelectorAll('.hearing-summary details.summary-section:not([open])');
         for (var i = 0; i < closed.length; i++) {
             closed[i].open = true;
             openedForPrint.push(closed[i]);
