@@ -44,10 +44,10 @@
                     <tr>
                         <td class="record-date" data-sort-value="{{ v.date }}">{{ v.date | display_date }}</td>
                         <td>
-                            {{ rec.matter_link(v.matter_slug, v.file_number) }}
+                            {% if v.matter_slug %}<a class="row-link row-link--main mono" href="/matters/{{ v.matter_slug }}/">{{ v.file_number }}</a>{% else %}<span class="mono">{{ v.file_number }}</span>{% endif %}
                             {% if v.matter_title %}<span class="row-sub">{{ v.matter_title }}</span>{% endif %}
                         </td>
-                        <td data-value="{{ v.body }}">{% if v.link %}<a class="record-link" href="{{ v.link }}">{{ v.body }}</a>{% else %}{{ v.body }}{% endif %}</td>
+                        <td data-value="{{ v.body }}">{% if v.link %}<a class="row-link" href="{{ v.link }}">{{ v.body }}</a>{% else %}{{ v.body }}{% endif %}</td>
                         <td>{{ rec.action(v.action) }}</td>
                         <td data-value="{{ v.vote }}"><span class="vote vote--{{ v.vote | lower | replace(' ', '-') }}">{{ v.vote }}</span></td>
                     </tr>

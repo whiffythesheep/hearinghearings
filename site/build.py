@@ -349,6 +349,7 @@ def attach_records(hearings, records):
         h["voted_items"] = meeting["voted_items"] if meeting else []
         h["summary_html"] = link_members(record.link_matter_numbers(
             h["summary_html"], matter_by_slug))
+        h["chairs_html"] = link_members(", ".join(html_mod.escape(c) for c in h.get("chairs", [])))
         # The overview prose leads; the record sits between it and the
         # Numbers / Action Points dropdowns.
         cut = h["summary_html"].find('<details class="summary-section"')

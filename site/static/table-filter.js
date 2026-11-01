@@ -11,9 +11,9 @@
  *   <td data-value="x">                   filter value (defaults to the cell text);
  *   <td data-values='["a","b"]'>          several values (e.g. committees)
  *   <tr data-find="...">                  search haystack (defaults to the row text)
- *   <table data-page-size="20">           paginate: Prev/Next in the controls row;
- *                                         First, Prev, the current page and its four
- *                                         nearest, Next, Last under the table (?page=N)
+ *   <table data-page-size="20">           paginate: First, Prev, the current page and
+ *                                         its four nearest, Next, Last, above and
+ *                                         below the table (?page=N)
  *
  * Each column's options narrow to what the search and the other columns'
  * filters leave (counts included), so no option leads to an empty table.
@@ -54,28 +54,27 @@
         var pageSize = parseInt(table.dataset.pageSize, 10) || 0;
         var currentPage = 1;
         var pagers = [];
-        var pagesEl = null;
         var lastPage = 1;
         var wrap = table.closest('.table-scroll') || table;
 
-        // Same markup as the hearings index: Prev/Next beside the count,
-        // numbered buttons under the table.
+        // Same markup as the hearings index: the full page line above and
+        // below the table.
         if (pageSize) {
             var prev = '<button type="button" class="pagination__btn" data-page-rel="prev" aria-label="Previous page">‹ Prev</button>';
             var next = '<button type="button" class="pagination__btn" data-page-rel="next" aria-label="Next page">Next ›</button>';
             var first = '<button type="button" class="pagination__btn" data-page-rel="first" aria-label="First page">« First</button>';
             var last = '<button type="button" class="pagination__btn" data-page-rel="last" aria-label="Last page">Last »</button>';
+            var line = first + prev + '<span class="pagination__pages"></span>' + next + last;
             var top = document.createElement('nav');
-            top.className = 'pagination pagination--top';
+            top.className = 'pagination pagination--above';
             top.setAttribute('aria-label', 'Pages');
-            top.innerHTML = prev + next;
-            controls.appendChild(top);
+            top.innerHTML = line;
+            wrap.parentNode.insertBefore(top, wrap);
             var bottom = document.createElement('nav');
             bottom.className = 'pagination';
             bottom.setAttribute('aria-label', 'Pages');
-            bottom.innerHTML = first + prev + '<span class="pagination__pages"></span>' + next + last;
+            bottom.innerHTML = line;
             wrap.parentNode.insertBefore(bottom, wrap.nextSibling);
-            pagesEl = bottom.querySelector('.pagination__pages');
             pagers = [top, bottom];
             pagers.forEach(function (el) {
                 el.hidden = true;
@@ -306,7 +305,7 @@
                     + '" data-page="' + p + '" aria-label="Page ' + p + '"'
                     + (cur ? ' aria-current="page"' : '') + '>' + p + '</button>';
             }
-            pagesEl.innerHTML = html;
+            pagers.forEach(function (el) { el.querySelector('.pagination__pages').innerHTML = html; });
         }
 
         function pushURL() {

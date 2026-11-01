@@ -39,16 +39,16 @@
     {%- if slug -%}<a class="record-link mono" href="/matters/{{ slug }}/">{{ label }}</a>{%- else -%}<span class="mono">{{ label }}</span>{%- endif -%}
 {%- endmacro %}
 
-{# One line per matter taken up at a meeting: number, title, action. #}
+{# One line per matter taken up at a meeting: number, title, and in brackets
+   what happened (and where the matter stands now). The whole line links. #}
 {% macro items_list(items) %}
 <ul class="record-list">
 {% for item in items %}
-    <li>
-        {%- if item.matter_slug %}<a class="matter-ref" href="/matters/{{ item.matter_slug }}/">{{ item.file_number }}</a>{% else %}<span class="mono">{{ item.file_number }}</span>{% endif %}
-        {%- for c in item.companions if not c.folded_into %} with <a class="matter-ref" href="/matters/{{ c.slug }}/">{{ c.file_number }}</a>{% endfor %}
+    <li>{% if item.matter_slug %}<a class="record-line" href="/matters/{{ item.matter_slug }}/">{% else %}<span class="record-line">{% endif %}
+        <span class="mono record-line__num">{{ item.file_number }}{% for c in item.companions if not c.folded_into %} with {{ c.file_number }}{% endfor %}</span>
         <span{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</span>
-        <span class="record-list__action">— {{ action(item.action, "On the agenda", item.tally) }}{% if item.status_note %} ({{ item.status_note }}){% endif %}</span>
-    </li>
+        {%- if item.outcome %} <span class="record-line__outcome"{% if item.action %} title="Legistar: {{ item.action }}"{% endif %}>({{ item.outcome }})</span>{% endif %}
+    {% if item.matter_slug %}</a>{% else %}</span>{% endif %}</li>
 {% endfor %}
 </ul>
 {% endmacro %}
@@ -56,8 +56,9 @@
 {# Collapsible named roll calls, one per voted item. #}
 {% macro rollcalls(voted) %}
 {% if voted %}
-<div class="rollcalls">
-    <h3 class="record-subheading">Roll calls</h3>
+<details class="summary-section rollcalls">
+    <summary><span class="summary-caret" aria-hidden="true">▸ </span>Roll calls</summary>
+    <div class="summary-section-body">
     {% for item in voted %}
     {% for rc in item.roll_calls %}
     <details class="rollcall-block">
@@ -78,6 +79,7 @@
     </details>
     {% endfor %}
     {% endfor %}
-</div>
+    </div>
+</details>
 {% endif %}
 {% endmacro %}

@@ -1186,15 +1186,9 @@ body.desktop {
     text-align: center;
 }
 
-.pagination--top {
-    margin-top: 0;
-    gap: 0.3rem;
-    order: 2;
-}
-
-.pagination--top .pagination__btn {
-    padding: 2px 8px;
-    font-size: 11px;
+/* The same line again between the search header and the table */
+.pagination--above {
+    margin: 0 0 0.75rem;
 }
 
 .pagination__btn:hover:not(:disabled),
@@ -1730,6 +1724,12 @@ body.desktop {
     margin-top: 0.15rem;
 }
 
+/* "Next: November 12, 2026" under a date reads as a date */
+.record-date .row-sub {
+    font-size: inherit;
+    color: inherit;
+}
+
 .row-muted {
     color: var(--text-muted);
 }
@@ -1804,7 +1804,8 @@ body.desktop {
 }
 
 /* Each document a small box, accent on hover like the other links */
-.doc-chip {
+.doc-chip,
+.hearing-summary a.doc-chip {
     display: inline-block;
     font-family: var(--font-chrome);
     font-size: 11px;
@@ -1819,7 +1820,8 @@ body.desktop {
 }
 
 .doc-chip:hover,
-.doc-chip:focus-visible {
+.doc-chip:focus-visible,
+.hearing-summary a.doc-chip:hover {
     color: var(--accent);
     border-color: var(--accent);
     outline: none;
@@ -1864,6 +1866,7 @@ body.desktop {
 .record-link,
 .matter-ref,
 .hearing-summary a.matter-ref,
+.member-ref,
 .hearing-summary a.member-ref {
     color: var(--text);
     text-decoration: underline;
@@ -1875,6 +1878,7 @@ body.desktop {
 .record-link:hover,
 .matter-ref:hover,
 .hearing-summary a.matter-ref:hover,
+.member-ref:hover,
 .hearing-summary a.member-ref:hover {
     color: var(--accent);
     text-decoration-color: var(--accent);
@@ -2007,20 +2011,7 @@ body.desktop {
     border-color: var(--accent);
 }
 
-/* ---------- Roll calls (collapsible, under the record table) ---------- */
-.rollcalls {
-    margin-top: 1.5rem;
-}
-
-.record-subheading {
-    font-family: var(--font-chrome);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    margin: 0 0 0.5rem;
-}
+/* ---------- Roll calls (a dropdown under the record) ---------- */
 
 .rollcall-block {
     border-top: 1px dashed var(--bevel-dark);
@@ -2076,28 +2067,49 @@ body.desktop {
     margin-top: 2.5rem;
 }
 
+/* Lists that stand in for tables (the record, history, fiscal impact):
+   ruled rows like the roll calls, shaded on hover, accent if the row links */
 .hearing-summary .record-list {
     list-style: none;
     margin: 0 0 1rem;
     padding: 0;
     max-width: none;
+    border-bottom: 1px dashed var(--bevel-dark);
 }
 
-/* A history line that links to its meeting: the whole line is the link */
-.history-line {
-    color: inherit;
-    text-decoration: none;
+.hearing-summary .record-list li {
+    margin: 0;
+    border-top: 1px dashed var(--bevel-dark);
 }
 
-.hearing-summary a.history-line {
+.record-list li > .record-line,
+.record-list li:not(:has(.record-line)) {
+    display: block;
+    padding: 0.45rem 0.25rem;
+}
+
+.hearing-summary a.record-line {
     color: var(--text);
     text-decoration: none;
 }
 
-.hearing-summary a.history-line:hover,
-.hearing-summary a.history-line:hover .record-date,
-.hearing-summary a.history-line:hover .record-list__action {
+.record-list li:hover {
+    background: #ece9de;
+}
+
+.hearing-summary a.record-line:hover,
+.hearing-summary a.record-line:hover .record-date,
+.hearing-summary a.record-line:hover .record-line__outcome {
     color: var(--accent);
+}
+
+.record-line__num {
+    margin-right: 0.35rem;
+    font-size: 0.85em;
+}
+
+.record-line__outcome {
+    color: var(--text-muted);
 }
 
 .history-list .record-date {
@@ -2111,10 +2123,6 @@ body.desktop {
 
 .record-list .matter-ref {
     margin-right: 0.35rem;
-}
-
-.record-list__action {
-    color: var(--text-muted);
 }
 
 .hearing-sections {

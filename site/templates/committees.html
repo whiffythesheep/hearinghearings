@@ -10,7 +10,7 @@
         {% include "_skyline.html" %}
     </header>
 
-    {{ rec.filter_header("Committees", "committee-table", committees | length) }}
+    {{ rec.filter_header("Committees", "committee-table", committees | length, "try “Housing”") }}
     <div class="table-scroll listing-well">
         <table class="record-table" id="committee-table" data-page-size="20" data-noun="committee">
             <thead><tr>

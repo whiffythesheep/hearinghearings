@@ -14,7 +14,7 @@
         {% endif %}
         {% if hearing.chairs %}
         <div class="hearing-leadership">
-            <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs | join(', ') }}</span>
+            <span>{% if hearing.chairs|length > 1 %}Chairs{% else %}Chair{% endif %}: {{ hearing.chairs_html | safe if hearing.chairs_html else hearing.chairs | join(', ') }}</span>
         </div>
         {% endif %}
         <div class="hearing-meta">

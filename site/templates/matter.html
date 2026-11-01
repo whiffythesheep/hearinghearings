@@ -98,7 +98,7 @@
         {% endfor %}
         </ul>
         {% endif %}
-        {% if f.omb_declined or f.omb_estimate %}
+        {% if sides and (f.omb_declined or f.omb_estimate) %}
         <p class="record-note">{% if f.omb_declined %}The Office of Management and Budget did not provide its own estimate.{% else %}{{ f.omb_estimate }}{% endif %}</p>
         {% endif %}
         {% endif %}
@@ -110,8 +110,8 @@
         {{ heading("History") }}
         <ul class="record-list history-list">
         {% for a in matter.appearances %}
-            {% set line %}<span class="record-date">{{ a.date | display_date }}</span> {{ a.body }} <span class="record-list__action">— {% if a.date > today %}Scheduled{% else %}{{ rec.action(a.action, "—", a.tally) }}{% endif %}</span>{% endset %}
-            <li>{% if a.link %}<a class="history-line" href="{{ a.link }}">{{ line }}</a>{% else %}{{ line }}{% endif %}</li>
+            {% set line %}<span class="record-date">{{ a.date | display_date }}</span> {{ a.body }}{% if a.outcome %} <span class="record-line__outcome"{% if a.action %} title="Legistar: {{ a.action }}"{% endif %}>({{ a.outcome }})</span>{% endif %}{% endset %}
+            <li>{% if a.link %}<a class="record-line" href="{{ a.link }}">{{ line }}</a>{% else %}<span class="record-line">{{ line }}</span>{% endif %}</li>
         {% endfor %}
         </ul>
     </section>

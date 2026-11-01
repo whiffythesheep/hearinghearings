@@ -146,9 +146,22 @@ def matter_stage(matter):
     return stage or status or "—"
 
 
-def _short_date(iso):
-    d = datetime.strptime(iso, "%Y-%m-%d")
-    return f"{d:%b} {d.day}"
+def lcfirst(text):
+    """'Passed Council' -> 'passed Council', for use mid-sentence. Proper
+    nouns at the start ("Mayor's hearing held") keep their capital."""
+    if not text or text.split()[0].rstrip("'s") in ("Mayor", "Council", "City"):
+        return text
+    return text[0].lower() + text[1:]
+
+
+def outcome(action, tally=None, upcoming=False):
+    """What happened, in the words used everywhere: 'passed committee, 5–1'."""
+    if not action:
+        return "on the agenda" if upcoming else ""
+    text = lcfirst(plain_action(action))
+    if tally:
+        text += f", {tally.get('Affirmative', 0)}–{tally.get('Negative', 0)}"
+    return text
 
 
 def stage_note(m):
@@ -161,16 +174,15 @@ def stage_note(m):
             return "hearing held"
         return {"Withdrawn": "withdrawn", "Disapproved": "rejected",
                 "Vetoed": "vetoed by the Mayor"}.get(status, "filed without a vote")
+    # The next scheduled date is shown beside the last action, not here.
     if stage == "In committee":
-        if nxt:
-            return f"{'hearing' if oversight else 'on the agenda'} {_short_date(nxt)}"
         heard = any(plain_action(e["action"]) == "Heard"
                     for e in m["appearances"] if not e["upcoming"])
         return "heard, awaiting a vote" if heard and not oversight else "awaiting a hearing"
     if stage == "Passed committee":
-        return f"Council vote {_short_date(nxt)}" if nxt else "awaiting a Council vote"
+        return "awaiting a Council vote"
     if stage == "Passed Council":
-        return "with the Mayor" if m.get("type") == "Introduction" else "adopted"
+        return "awaiting the Mayor" if m.get("type") == "Introduction" else "adopted"
     if stage == "Law":
         return m.get("law_label", "")
     return ""
@@ -738,6 +750,8 @@ def load_records(hearings, today=None):
                 e["body"] = "Joint hearing: " + ", ".join(
                     re.sub(r"^(Sub)?[Cc]ommittee on ", "", b) for b in e["bodies"])
         timeline = merged
+        for e in timeline:
+            e["outcome"] = "scheduled" if e["upcoming"] else outcome(e["action"], e["tally"])
         timeline.sort(key=lambda e: e["date"], reverse=True)
         m["appearances"] = timeline
         past = [e for e in timeline if not e["upcoming"]]
@@ -765,27 +779,32 @@ def load_records(hearings, today=None):
     matters.sort(key=lambda m: (m["latest_date"] or m["next_date"], m["file_number"]),
                  reverse=True)
 
-    # Each agenda line says where its matter stands now, in brackets, when
-    # that adds something: what it awaits, or that it has moved on since.
+    # Each agenda line says, in one bracket, what happened to its matter at
+    # the meeting and, where it adds something, where the matter stands now,
+    # in the same words as the stage notes: "heard; awaiting a vote".
     for meeting in meetings:
+        upcoming = meeting["kind"] == "Upcoming"
         for row in meeting["rows"]:
             m = matter_by_slug.get(row["matter_slug"])
-            row["status_note"] = ""
-            if m is None or "stage_note" not in m or m.get("type") == "Oversight":
+            done = outcome(row.get("action"), row.get("tally"), upcoming)
+            row["outcome"] = done
+            if m is None or "stage_note" not in m or m.get("type") == "Oversight" or upcoming:
                 continue
             last = m.get("last_action") or {}
             moved_on = (last.get("date", ""), _norm_body(last.get("body", ""))) != (
                 meeting.get("date", ""), _norm_body(meeting.get("body", "")))
             note = m["stage_note"].removeprefix("heard, ")
             stage = m["stage"]
+            now = ""
             if moved_on and stage == "Law":
-                row["status_note"] = f"now {note}" if note else "now law"
+                now = f"now {note}" if note else "now law"
             elif moved_on and stage in ("Passed Council", "Passed committee", "Closed"):
-                done = stage[0].lower() + stage[1:] if stage != "Closed" else note
-                extra = "" if stage == "Closed" or note == "adopted" else f", {note}"
-                row["status_note"] = f"since {done}{extra}"
+                reached = note if stage == "Closed" else lcfirst(stage)
+                now = f"since {reached}" + ("" if stage == "Closed" or note == "adopted" else f", {note}")
             elif stage not in ("Closed", "Law") and note != "adopted":
-                row["status_note"] = note
+                now = note
+            if now:
+                row["outcome"] = f"{done}; {now}" if done else now
 
     # --- finish members -------------------------------------------------
     for key, person in members.items():
