@@ -5,7 +5,11 @@
 {% block content %}
 <section class="intro-block">
     <h1><a href="/" title="Reset search and filters">Hearing Hearings</a></h1>
-    <p class="intro-subtitle">Summaries and Transcripts of NYC Council Hearings.</p>
+    {# Each kind filters the Meeting column, as the Matters intro does for types. #}
+    <p class="intro-subtitle">{% for kind, text in [("Hearing", "Hearings"), ("Vote", "votes"), ("Hearing and vote", "hearings with votes"), ("Upcoming", "upcoming meetings")] -%}
+        {%- if loop.last %} and {% elif not loop.first %}, {% endif -%}
+        <a class="type-link" href="?type={{ kind | urlencode }}">{{ text }}</a>
+    {%- endfor %} of the NYC Council.</p>
     {% include "_skyline.html" %}
 </section>
 

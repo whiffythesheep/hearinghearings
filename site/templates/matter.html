@@ -98,8 +98,8 @@
         {% endfor %}
         </ul>
         {% endif %}
-        {% if sides and (f.omb_declined or f.omb_estimate) %}
-        <p class="record-note">{% if f.omb_declined %}The Office of Management and Budget did not provide its own estimate.{% else %}{{ f.omb_estimate }}{% endif %}</p>
+        {% if sides and matter.omb_note %}
+        <p class="record-note">{{ matter.omb_note }}</p>
         {% endif %}
         {% endif %}
     </section>

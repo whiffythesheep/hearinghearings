@@ -146,6 +146,21 @@ def matter_stage(matter):
     return stage or status or "—"
 
 
+def omb_note(fiscal):
+    """The fiscal statement's line about the Mayor's budget office, made
+    plain: the figures shown are the Council's, and OMB usually has none."""
+    text = re.sub(r"\s+", " ", (fiscal or {}).get("omb_estimate") or "").strip()
+    if not fiscal or not (text or fiscal.get("omb_declined")):
+        return ""
+    if fiscal.get("omb_declined") or "did not provide" in text:
+        return ("These are the Council Finance Division's figures. The Mayor's Office of "
+                "Management and Budget did not provide its own estimate.")
+    if "provided an estimate" in text:
+        return ("These are the Council Finance Division's figures. The Mayor's Office of "
+                "Management and Budget's own estimate is attached to the fiscal impact statement.")
+    return text
+
+
 def lcfirst(text):
     """'Passed Council' -> 'passed Council', for use mid-sentence. Proper
     nouns at the start ("Mayor's hearing held") keep their capital."""
@@ -171,7 +186,7 @@ def stage_note(m):
     oversight = m.get("type") == "Oversight"
     if stage == "Closed":
         if oversight:
-            return "hearing held"
+            return "hearing held, no further action"
         return {"Withdrawn": "withdrawn", "Disapproved": "rejected",
                 "Vetoed": "vetoed by the Mayor"}.get(status, "filed without a vote")
     # The next scheduled date is shown beside the last action, not here.
@@ -681,7 +696,10 @@ def load_records(hearings, today=None):
             if row["matter_slug"]:
                 rows_by_matter.setdefault(row["matter_slug"], []).append((meeting, row))
     for m in matters:
-        entries = [{"date": h.get("date", ""), "body": h.get("body", ""),
+        # Legistar files the Mayor's steps (signing, or a bill becoming law
+        # unsigned) under "Administration".
+        entries = [{"date": h.get("date", ""),
+                    "body": "Mayor's office" if h.get("body") == "Administration" else h.get("body", ""),
                     "action": h.get("action", ""), "result": h.get("result", "")}
                    for h in m.get("history") or []]
         if any(e["action"] == "City Charter Rule Adopted" for e in entries):
@@ -766,6 +784,7 @@ def load_records(hearings, today=None):
         year, _, num = (m.get("law_number") or "").partition("/")
         m["law_label"] = f"Local Law {int(num)} of {year}" if num.isdigit() else ""
         m["stage_note"] = stage_note(m)
+        m["omb_note"] = omb_note(m.get("fiscal"))
         # The deciding resolution's documents join the application's, less
         # the ones Legistar already files under both.
         docs = list(m.get("attachments") or [])
@@ -828,6 +847,13 @@ def load_records(hearings, today=None):
             person = members.get(normalize_name(member_name))
             if person is not None and name not in person["committees"]:
                 person["committees"].append(name)
+    chair_of = {}
+    for name, entry in roster_committees.items():
+        if entry.get("chair"):
+            chair_of.setdefault(normalize_name(entry["chair"]), []).append(
+                re.sub(r"^(Sub)?[Cc]ommittee on ", "", name))
+    for key, person in members.items():
+        person["chairs"] = sorted(chair_of.get(key, []))
     committee_slug_by_norm = {_norm_body(n): c["slug"] for n, c in committees.items()}
     for person in members.values():
         person["committee_links"] = [

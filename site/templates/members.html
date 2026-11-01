@@ -7,6 +7,15 @@
 <div class="record">
     <header class="intro-block">
         <h1>Council Members</h1>
+        {# Each phrase filters the table: chairs through the search, the rest
+           through the Borough and Party column filters. #}
+        <p class="intro-subtitle">
+            <a class="type-link" href="?q=chair%20of">Committee chairs</a>;
+            {% for b in ["Manhattan", "Brooklyn", "Queens", "Bronx", "Staten Island"] -%}
+            <a class="type-link" href="?borough={{ b | urlencode }}">{{ "the Bronx" if b == "Bronx" else b }}</a>{{ ", " if not loop.last else "; " }}
+            {%- endfor %}
+            <a class="type-link" href="?party=Democrat">Democrats</a> and <a class="type-link" href="?party=Republican">Republicans</a>.
+        </p>
         {% include "_skyline.html" %}
     </header>
 
@@ -25,7 +34,7 @@
             <tbody>
             {% for m in members %}
                 <tr>
-                    <td data-sort-value="{{ m.name.split()[-1] }} {{ m.name }}"><a class="row-link row-link--main" href="/members/{{ m.slug }}/">{{ m.name }}</a></td>
+                    <td data-sort-value="{{ m.name.split()[-1] }} {{ m.name }}"><a class="row-link row-link--main" href="/members/{{ m.slug }}/">{{ m.name }}</a>{% if m.chairs %}<span class="row-sub">Chair of {{ m.chairs | join(", ") }}</span>{% endif %}</td>
                     <td class="num">{{ m.district or "—" }}</td>
                     <td>{{ m.party or "—" }}</td>
                     <td data-values='{{ (m.borough or "—").replace(", ", "/").split("/") | tojson }}'>{{ m.borough or "—" }}</td>

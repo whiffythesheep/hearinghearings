@@ -563,7 +563,10 @@ def build():
             words += [c["file_number"] for c in r.get("companions", [])]
         return " ".join(w for w in words if w)
 
-    listing = [dict(h, kind="Summarised", link=f"/hearings/{h['slug']}/",
+    # Meeting column: a hearing is discussion (oversight, or bills heard), a
+    # vote is a vote with no discussion we summarise, and some are both.
+    listing = [dict(h, kind="Hearing and vote" if h.get("voted_items") else "Hearing",
+                    link=f"/hearings/{h['slug']}/",
                     search_slug=h["slug"], items_text=items_text(h.get("record_items") or []))
                for h in hearings]
     for mt in records["record_only_meetings"]:
@@ -572,11 +575,12 @@ def build():
             "committee_list": mt["bodies"], "date": mt["date"],
             "date_display": mt["date_display"], "month": mt["date"][:7],
             "month_label": datetime.strptime(mt["date"], "%Y-%m-%d").strftime("%B %Y"),
-            "kind": mt["kind"], "link": mt["link"], "search_slug": "",
+            "kind": "Vote" if mt["kind"] == "Vote session" else mt["kind"],
+            "link": mt["link"], "search_slug": "",
             "items_text": items_text(mt["rows"]),
         })
     listing.sort(key=lambda r: r["date"], reverse=True)
-    kinds = [k for k in ("Summarised", "Upcoming", "Vote session")
+    kinds = [k for k in ("Hearing", "Vote", "Hearing and vote", "Upcoming")
              if any(r["kind"] == k for r in listing)]
 
     # Filter facets for the index controls
