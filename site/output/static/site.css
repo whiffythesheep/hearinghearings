@@ -2073,7 +2073,7 @@ details[open] > summary .summary-caret {
     text-decoration-style: solid;
 }
 
-.rollcall[hidden] {
+.hearing-summary .rollcall[hidden] {
     display: none;
 }
 
