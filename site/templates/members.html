@@ -7,8 +7,7 @@
 <div class="record">
     <header class="intro-block">
         <h1>Council Members</h1>
-        <p class="intro-subtitle">The 51 members of the Council and how each has voted, from {{ total_votes }} recorded
-            votes since {{ window_from }}.</p>
+        {% include "_skyline.html" %}
     </header>
 
     {{ rec.filter_header("Members", "member-table", members | length) }}

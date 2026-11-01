@@ -9,7 +9,7 @@
 <article class="record">
     <header class="record-header">
         <p class="record-eyebrow">{{ matter.type_label }}</p>
-        <h1>{{ matter.file_number }} <span class="stage-note" title="Legistar status: {{ matter.display_status }}">({{ matter.stage }})</span></h1>
+        <h1>{{ matter.file_number }} <span class="stage-note" title="Legistar status: {{ matter.display_status }}">({{ matter.stage }}{% if matter.stage_note %}: {{ matter.stage_note }}{% endif %})</span></h1>
         {% if matter.short_title %}<p class="record-subtitle">{{ matter.short_title }}</p>{% endif %}
         <div class="record-meta">
             {# Every item leads with a separator; CSS hides the first. #}
@@ -48,23 +48,25 @@
         </div>
     </header>
 
+    {% macro heading(text) %}<div class="section-header"><h2>{{ text }}</h2></div>{% endmacro %}
+
     {% if matter.official_title and matter.official_title != matter.short_title %}
-    <section class="record-section">
-        <h2>Official title</h2>
-        <p class="record-longtitle">{{ matter.official_title }}</p>
+    <section class="hearing-summary record-section">
+        {{ heading("Official title") }}
+        <p>{{ matter.official_title }}</p>
     </section>
     {% endif %}
 
     {% if matter.plain_summary %}
-    <section class="record-section">
-        <h2>Summary</h2>
-        <p class="record-longtitle">{{ matter.plain_summary }}</p>
+    <section class="hearing-summary record-section">
+        {{ heading("Summary") }}
+        <p>{{ matter.plain_summary }}</p>
     </section>
     {% endif %}
 
     {% if matter.documents %}
-    <section class="record-section">
-        <h2>Documents</h2>
+    <section class="hearing-summary record-section">
+        {{ heading("Documents") }}
         <ul class="doc-list">
         {% for d in matter.documents %}
             <li><a class="doc-chip" href="{{ d.url }}">{{ d.label }}</a></li>
@@ -73,64 +75,45 @@
     </section>
     {% endif %}
 
-    {% if matter.fiscal %}
-    <section class="record-section">
-        <h2>Fiscal impact</h2>
-        <p class="record-note">The Council Finance Division's estimate, from the
-            {% if matter.fiscal.source %}<a class="record-link" href="{{ matter.fiscal.source }}">{{ matter.fiscal.label }}</a>{% else %}{{ matter.fiscal.label }}{% endif %}.
-            {% if matter.fiscal.effective_fy %}First effective FY{{ matter.fiscal.effective_fy }}.{% endif %}</p>
-        <div class="table-scroll listing-well">
-            <table class="record-table fiscal-table">
-                <thead>
-                    <tr>
-                        <th></th>
-                        <th>Effective year</th>
-                        <th>Succeeding year</th>
-                        <th>Full fiscal impact</th>
-                    </tr>
-                </thead>
-                <tbody>
-                {% for label, row in [('Revenues', matter.fiscal.revenues),
-                                      ('Expenditures', matter.fiscal.expenditures),
-                                      ('Net', matter.fiscal.net)] %}
-                    {% if row %}
-                    <tr{% if label == 'Net' %} class="fiscal-net"{% endif %}>
-                        <th scope="row">{{ label }}</th>
-                        <td class="num">${{ "{:,}".format(row.effective) }}</td>
-                        <td class="num">${{ "{:,}".format(row.succeeding) }}</td>
-                        <td class="num">${{ "{:,}".format(row.full) }}</td>
-                    </tr>
-                    {% endif %}
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>
-        {% if matter.fiscal.omb_declined %}
-        <p class="record-note">The Office of Management and Budget did not provide its own estimate.</p>
-        {% elif matter.fiscal.omb_estimate %}
-        <p class="record-note">OMB: {{ matter.fiscal.omb_estimate }}</p>
+    {% set f = matter.fiscal %}
+    {% if f or matter.type == "Introduction" %}
+    <section class="hearing-summary record-section">
+        {{ heading("Fiscal impact") }}
+        {% if not f %}
+        <p>No fiscal impact statement has been published.</p>
+        {% else %}
+        {% set fy = (f.effective_fy or "")[-2:] | int(0) %}
+        {% set sides = [] %}
+        {% for label, row in [("Costs", f.expenditures), ("Revenue", f.revenues)] %}
+            {% if row and (row.effective or row.succeeding or row.full) %}{% set _ = sides.append((label, row)) %}{% endif %}
+        {% endfor %}
+        {% if not sides %}
+        <p>None, according to the Council's Finance Division.</p>
+        {% else %}
+        <ul class="record-list">
+        {% for label, row in sides %}
+            <li><strong>{{ label }}:</strong> ${{ "{:,}".format(row.effective) }}{% if fy %} in FY{{ fy }}{% else %} in the first year{% endif %},
+                ${{ "{:,}".format(row.succeeding) }}{% if fy %} in FY{{ fy + 1 }}{% else %} the year after{% endif %},
+                then ${{ "{:,}".format(row.full) }} a year when fully in effect.</li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+        {% if f.omb_declined or f.omb_estimate %}
+        <p class="record-note">{% if f.omb_declined %}The Office of Management and Budget did not provide its own estimate.{% else %}{{ f.omb_estimate }}{% endif %}</p>
+        {% endif %}
         {% endif %}
     </section>
     {% endif %}
 
     {% if matter.appearances %}
-    <section class="record-section">
-        <h2>History</h2>
-        <p class="record-note">Every step, newest first.</p>
-        <div class="table-scroll listing-well">
-            <table class="record-table">
-                <thead><tr><th>Date</th><th>Body</th><th>Action</th></tr></thead>
-                <tbody>
-                {% for a in matter.appearances %}
-                    <tr>
-                        <td class="record-date">{% if a.link %}<a class="row-link row-link--main" href="{{ a.link }}">{{ a.date | display_date }}</a>{% else %}{{ a.date | display_date }}{% endif %}</td>
-                        <td>{% if a.link %}<a class="row-link" href="{{ a.link }}">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
-                        <td>{% if a.date > today %}<span class="row-muted">Scheduled:</span> {% endif %}{{ rec.action(a.action, "On the agenda" if a.date > today else "—", a.tally) }}</td>
-                    </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>
+    <section class="hearing-summary record-section">
+        {{ heading("History") }}
+        <ul class="record-list history-list">
+        {% for a in matter.appearances %}
+            {% set line %}<span class="record-date">{{ a.date | display_date }}</span> {{ a.body }} <span class="record-list__action">— {% if a.date > today %}Scheduled{% else %}{{ rec.action(a.action, "—", a.tally) }}{% endif %}</span>{% endset %}
+            <li>{% if a.link %}<a class="history-line" href="{{ a.link }}">{{ line }}</a>{% else %}{{ line }}{% endif %}</li>
+        {% endfor %}
+        </ul>
     </section>
     {% endif %}
 

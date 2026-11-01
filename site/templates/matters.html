@@ -7,7 +7,12 @@
 <div class="record">
     <header class="intro-block">
         <h1>Matters</h1>
-        <p class="intro-subtitle">Bills, resolutions, land use applications and oversight.</p>
+        {# Each type filters the table below, through the Type column's filter. #}
+        <p class="intro-subtitle">{% for label, text in [("Proposed law", "Proposed laws"), ("Land use", "land use applications"), ("Resolution", "resolutions"), ("Approval", "approvals"), ("Oversight", "oversight")] -%}
+            {%- if loop.last %} and {% elif not loop.first %}, {% endif -%}
+            <a class="type-link" href="?type={{ label | urlencode }}">{{ text }}</a>
+        {%- endfor %}.</p>
+        {% include "_skyline.html" %}
     </header>
 
     {{ rec.filter_header("Matters", "matter-table", matters | length, "search — try “Int 0892”, “rezoning”") }}
@@ -28,7 +33,7 @@
                     <td>{{ m.type_label }}</td>
                     <td{% if m.plain_title %} title="Legistar: {{ m.official_title }}"{% endif %}>{{ m.short_title }}</td>
                     <td data-value="{{ m.committee or '—' }}">{{ (m.committee or "—") | replace("Committee on ", "") | replace("Subcommittee on ", "Sub. ") }}</td>
-                    <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}{% if m.law_label %}<span class="row-sub">{{ m.law_label }}</span>{% endif %}</td>
+                    <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}{% if m.stage_note %}<span class="row-sub">{{ m.stage_note }}</span>{% endif %}</td>
                     <td class="record-date" data-sort-value="{{ m.latest_date or m.next_date or '' }}">{{ (m.latest_date or m.next_date) | display_date or "—" }}{% if m.next_date and m.latest_date %}<span class="row-sub">Next: {{ m.next_date | display_date }}</span>{% endif %}</td>
                 </tr>
             {% endfor %}

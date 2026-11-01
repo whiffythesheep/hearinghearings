@@ -269,9 +269,12 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
 - **Member names need normalising**, not more data: folding diacritics and middle
   initials matches all 51 to their district ("Elsie Encarnación"/"Encarnacion",
   "Kamillah Hanks"/"Kamillah M. Hanks" — the initial sits on either side).
-- **Matter numbers auto-link in summary prose; member names deliberately do not.**
-  Transcript spellings are caption-derived, and a wrong link would point at a real person
-  who was not in the room.
+- **Matter numbers auto-link in summary prose; member names link only on exact matches**
+  (`member_name_linker()` in `site/record.py`, since 2026-11-01, at the user's request): a
+  current member's full name, or a title ("CM", "Chair", "Speaker", "Council Members A, B and
+  C") followed by a surname unique among current members. Transcript spellings are
+  caption-derived, so a garble that spells another real member (Wong/Zhuang) still mislinks;
+  the user accepted that risk. Transcripts themselves are never linked.
 - Vote sessions get record-only pages at `/meetings/<event_id>/`, rendered with
   `hearing.html` minus summary/transcript. A meeting that gains a published hearing loses
   its record-only page automatically and its items render as the hearing page's "The
@@ -317,7 +320,10 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   until their hearing and Closed after (Legistar files them the same day). Matter history
   and hearing record tables show three columns; the vote score follows the action after a
   comma ("Passed Council, 50–0"). `PLAIN_ACTIONS` has ~14 phrases and never repeats the body
-  ("Heard, no vote yet" = Legistar's "Laid Over", always recorded with a same-day hearing).
+  ("Heard" covers Legistar's "Laid Over", always recorded with a same-day hearing). What
+  happens next is `stage_note()`: a bracket after the stage ("In committee: heard, awaiting a
+  vote", "Closed: withdrawn", "Passed Council: with the Mayor") and after each hearing-page
+  record line ("Heard (now: law, …)").
 - **A hearing's record and a matter's history always agree**: per (date, body) the more
   decisive of Legistar's history step and the meeting's own item wins, and both views show
   it (Stated Meeting agendas say "Referred" where the history says "Introduced"; histories

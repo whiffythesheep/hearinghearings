@@ -47,7 +47,7 @@
         {%- if item.matter_slug %}<a class="matter-ref" href="/matters/{{ item.matter_slug }}/">{{ item.file_number }}</a>{% else %}<span class="mono">{{ item.file_number }}</span>{% endif %}
         {%- for c in item.companions if not c.folded_into %} with <a class="matter-ref" href="/matters/{{ c.slug }}/">{{ c.file_number }}</a>{% endfor %}
         <span{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</span>
-        <span class="record-list__action">— {{ action(item.action, "On the agenda", item.tally) }}</span>
+        <span class="record-list__action">— {{ action(item.action, "On the agenda", item.tally) }}{% if item.status_note %} ({{ item.status_note }}){% endif %}</span>
     </li>
 {% endfor %}
 </ul>

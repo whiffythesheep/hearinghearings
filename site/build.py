@@ -341,13 +341,14 @@ def attach_records(hearings, records):
     """
     by_event = records["meetings"]
     matter_by_slug = records["matter_by_slug"]
+    link_members = record.member_name_linker(records["members"])
     for h in hearings:
         m = re.search(r"MeetingDetail\.aspx\?ID=(\d+)", h.get("council_url", "") or "")
         meeting = by_event.get(m.group(1)) if m else None
         h["record_items"] = meeting["rows"] if meeting else []
         h["voted_items"] = meeting["voted_items"] if meeting else []
-        h["summary_html"] = record.link_matter_numbers(
-            h["summary_html"], matter_by_slug)
+        h["summary_html"] = link_members(record.link_matter_numbers(
+            h["summary_html"], matter_by_slug))
         # The overview prose leads; the record sits between it and the
         # Numbers / Action Points dropdowns.
         cut = h["summary_html"].find('<details class="summary-section"')

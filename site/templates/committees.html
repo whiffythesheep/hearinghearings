@@ -7,7 +7,7 @@
 <div class="record">
     <header class="intro-block">
         <h1>Committees</h1>
-        <p class="intro-subtitle">Every committee that has met since {{ window_from }}, with what it considered.</p>
+        {% include "_skyline.html" %}
     </header>
 
     {{ rec.filter_header("Committees", "committee-table", committees | length) }}

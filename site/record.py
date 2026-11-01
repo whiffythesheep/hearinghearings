@@ -36,15 +36,16 @@ EXCLUDED_TYPES = {"Communication", "Mayor's Message", "Commissioner of Deeds", "
 PLAIN_ACTIONS = {
     # The Body column says which committee or subcommittee acted, so the
     # wording doesn't repeat it. A committee always hears an item on the day
-    # it holds it over, so "held over" reads as "heard, no vote yet".
+    # it holds it over, so "held over" reads as "heard"; what happens next is
+    # the matter's status note (stage_note), not part of the action.
     "Introduced by Council": "Introduced and sent to committee",
     "Referred to Comm by Council": "Sent to committee",
     "Re-referred to Committee by Council": "Sent back to committee",
     "Hearing Held by Committee": "Heard",
     "Hearing on P-C Item by Comm": "Heard",
-    "Laid Over by Committee": "Heard, no vote yet",
-    "Laid Over by Subcommittee": "Heard, no vote yet",
-    "P-C Item Laid Over by Comm": "Heard, no vote yet",
+    "Laid Over by Committee": "Heard",
+    "Laid Over by Subcommittee": "Heard",
+    "P-C Item Laid Over by Comm": "Heard",
     "Amendment Proposed by Comm": "Amended",
     "Amended by Committee": "Amended",
     "Approved by Committee": "Passed committee",
@@ -90,8 +91,9 @@ def plain_action(action):
 # Where a matter stands, the same five stages for every type. "Passed
 # Council" is the end of the line for everything but a bill, which goes on
 # to the Mayor and becomes "Law". An oversight item is "In committee" until
-# its hearing and "Hearing held" once the committee files it (the same day).
-STAGES = ["In committee", "Passed committee", "Passed Council", "Law", "Closed", "Hearing held"]
+# its hearing and "Closed" once the committee files it (the same day); the
+# stage note then says "hearing held".
+STAGES = ["In committee", "Passed committee", "Passed Council", "Law", "Closed"]
 
 _STAGE_BY_STATUS = {
     "Introduced": "In committee",
@@ -133,7 +135,7 @@ def matter_stage(matter):
     status = matter.get("status") or ""
     stage = _STAGE_BY_STATUS.get(status, "")
     if matter.get("type") == "Oversight":
-        return "Hearing held" if stage == "Closed" else "In committee"
+        return "Closed" if stage == "Closed" else "In committee"
     # Legistar leaves status at "Committee" between a committee vote and the
     # Council vote; the history tells them apart.
     history = matter.get("history") or []
@@ -142,6 +144,36 @@ def matter_stage(matter):
         if any(plain_action(h.get("action")).startswith("Passed committee") for h in latest_day):
             stage = "Passed committee"
     return stage or status or "—"
+
+
+def _short_date(iso):
+    d = datetime.strptime(iso, "%Y-%m-%d")
+    return f"{d:%b} {d.day}"
+
+
+def stage_note(m):
+    """What the stage means now, in a few words: what happened, or what
+    the matter is waiting for. Shown in brackets after the stage."""
+    stage, status, nxt = m["stage"], m.get("status") or "", m.get("next_date")
+    oversight = m.get("type") == "Oversight"
+    if stage == "Closed":
+        if oversight:
+            return "hearing held"
+        return {"Withdrawn": "withdrawn", "Disapproved": "rejected",
+                "Vetoed": "vetoed by the Mayor"}.get(status, "filed without a vote")
+    if stage == "In committee":
+        if nxt:
+            return f"{'hearing' if oversight else 'on the agenda'} {_short_date(nxt)}"
+        heard = any(plain_action(e["action"]) == "Heard"
+                    for e in m["appearances"] if not e["upcoming"])
+        return "heard, awaiting a vote" if heard and not oversight else "awaiting a hearing"
+    if stage == "Passed committee":
+        return f"Council vote {_short_date(nxt)}" if nxt else "awaiting a Council vote"
+    if stage == "Passed Council":
+        return "with the Mayor" if m.get("type") == "Introduction" else "adopted"
+    if stage == "Law":
+        return m.get("law_label", "")
+    return ""
 
 
 def neighbourhood_summary(hoods, limit=3):
@@ -666,13 +698,19 @@ def load_records(hearings, today=None):
             meeting = meeting_by_day_body.get((e["date"], _norm_body(e["body"])))
             e["date_display"] = display_date(e["date"])
             e["link"] = meeting["link"] if meeting and meeting["linkable"] else ""
+            # A joint hearing's sibling committees often have no event in
+            # data/; the published hearing still covers them.
+            hearing = None if e["link"] else hearing_by_day_body.get((e["date"], _norm_body(e["body"])))
+            if hearing:
+                e["link"] = f"/hearings/{hearing['slug']}/"
             e["tally"] = {}
             if meeting:
                 for row in meeting["rows"]:
                     if row["matter_slug"] in slugs and row.get("tally"):
                         e["tally"] = row["tally"]
                         break
-            e["joint"] = bool(meeting and "jointly" in (meeting.get("location") or "").lower())
+            e["joint"] = bool(meeting and "jointly" in (meeting.get("location") or "").lower()
+                              or hearing and len(hearing.get("committee_list", [])) > 1)
             # Scheduled but not yet held: an upcoming meeting, or a future
             # step Legistar lists with no meeting of ours behind it.
             e["upcoming"] = (meeting["kind"] == "Upcoming" if meeting
@@ -713,6 +751,7 @@ def load_records(hearings, today=None):
         # "2026/135" is how Legistar writes Local Law 135 of 2026.
         year, _, num = (m.get("law_number") or "").partition("/")
         m["law_label"] = f"Local Law {int(num)} of {year}" if num.isdigit() else ""
+        m["stage_note"] = stage_note(m)
         # The deciding resolution's documents join the application's, less
         # the ones Legistar already files under both.
         docs = list(m.get("attachments") or [])
@@ -726,10 +765,33 @@ def load_records(hearings, today=None):
     matters.sort(key=lambda m: (m["latest_date"] or m["next_date"], m["file_number"]),
                  reverse=True)
 
+    # Each agenda line says where its matter stands now, in brackets, when
+    # that adds something: what it awaits, or that it has moved on since.
+    for meeting in meetings:
+        for row in meeting["rows"]:
+            m = matter_by_slug.get(row["matter_slug"])
+            row["status_note"] = ""
+            if m is None or "stage_note" not in m or m.get("type") == "Oversight":
+                continue
+            last = m.get("last_action") or {}
+            moved_on = (last.get("date", ""), _norm_body(last.get("body", ""))) != (
+                meeting.get("date", ""), _norm_body(meeting.get("body", "")))
+            note = m["stage_note"].removeprefix("heard, ")
+            stage = m["stage"]
+            if moved_on and stage == "Law":
+                row["status_note"] = f"now {note}" if note else "now law"
+            elif moved_on and stage in ("Passed Council", "Passed committee", "Closed"):
+                done = stage[0].lower() + stage[1:] if stage != "Closed" else note
+                extra = "" if stage == "Closed" or note == "adopted" else f", {note}"
+                row["status_note"] = f"since {done}{extra}"
+            elif stage not in ("Closed", "Law") and note != "adopted":
+                row["status_note"] = note
+
     # --- finish members -------------------------------------------------
     for key, person in members.items():
         info = roster_by_name.get(key, {})
         person["district"] = info.get("district", "")
+        person["roster_name"] = info.get("roster_name", "")
         person["party"] = info.get("party", "")
         person["borough"] = info.get("borough", "")
         person["area"] = info.get("area", "")
@@ -784,6 +846,97 @@ def load_records(hearings, today=None):
         "members": member_list,
         "committees": committee_list,
     }
+
+
+# --- linking member names in prose -------------------------------------
+
+MEMBER_TITLE_RE = (r"(?:CM|Chair|Co-Chair|Speaker|Deputy Speaker|Majority Leader|"
+                   r"Minority Leader|Council ?Members?|Councilmembers?)")
+_PARTICLES = {"De", "Del", "La", "Van", "Von", "Da"}
+
+
+def _fold(text):
+    return unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
+
+
+def _surname(name):
+    tokens = [t for t in name.split()[1:] if not re.fullmatch(r"[A-Z]\.", t)]
+    for i, t in enumerate(tokens):
+        if t in _PARTICLES:
+            return " ".join(tokens[i:])
+    return tokens[-1] if tokens else ""
+
+
+def member_name_linker(members):
+    """Build a function that links current members' names in rendered prose.
+
+    Summary names come from captions, so only exact matches are linked: a
+    current member's full name, or a title ("CM", "Chair", "Speaker",
+    "Council Members A, B and C") followed by a surname that belongs to
+    exactly one current member. A garble that happens to spell another real
+    member's name will still link to that member; that risk is accepted.
+    """
+    current = [p for p in members if p.get("district")]
+    by_form = {}
+    surnames = {}
+    for p in current:
+        for full in {p["name"], p.get("roster_name") or p["name"]}:
+            for form in {full, _fold(full), re.sub(r" [A-Z]\. ", " ", full)}:
+                by_form[form] = p["slug"]
+        sur = _surname(p.get("roster_name") or p["name"])
+        surnames.setdefault(sur, set()).add(p["slug"])
+    unique = {}
+    for sur, slugs in surnames.items():
+        if len(slugs) == 1:
+            unique[sur] = unique[_fold(sur)] = next(iter(slugs))
+    if not by_form:
+        return lambda html: html
+    alt = lambda forms: "|".join(re.escape(f) for f in sorted(forms, key=len, reverse=True))
+    full_re = re.compile(rf"\b({alt(by_form)})\b")
+    sur = alt(unique)
+    titled_re = re.compile(
+        rf"\b({MEMBER_TITLE_RE}) ((?:{sur})(?:(?:, | and |, and )(?:{sur}))*)\b")
+    one_re = re.compile(rf"\b({sur})\b")
+
+    def link(slug, text):
+        return f'<a class="member-ref" href="/members/{slug}/">{text}</a>'
+
+    def text_node(t):
+        out, pos = [], 0
+        spans = []
+        for m in full_re.finditer(t):
+            spans.append((m.start(), m.end(), link(by_form[m.group(1)], m.group(1))))
+        for m in titled_re.finditer(t):
+            names_start = m.start(2)
+            for n in one_re.finditer(m.group(2)):
+                a, b = names_start + n.start(), names_start + n.end()
+                if not any(x <= a < y for x, y, _ in spans):
+                    spans.append((a, b, link(unique[n.group(1)], n.group(1))))
+        for a, b, rep in sorted(spans):
+            if a < pos:
+                continue
+            out.append(t[pos:a])
+            out.append(rep)
+            pos = b
+        out.append(t[pos:])
+        return "".join(out)
+
+    def apply(html):
+        if not html:
+            return html
+        parts = re.split(r"(<[^>]+>)", html)
+        depth = 0
+        for i, part in enumerate(parts):
+            if part.startswith("<"):
+                if re.match(r"<a\b", part):
+                    depth += 1
+                elif part.startswith("</a"):
+                    depth -= 1
+            elif depth == 0 and part.strip():
+                parts[i] = text_node(part)
+        return "".join(parts)
+
+    return apply
 
 
 # --- linking matter numbers in prose ------------------------------------
