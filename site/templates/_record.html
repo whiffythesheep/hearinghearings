@@ -53,6 +53,21 @@
 </ul>
 {% endmacro %}
 
+{# A long record (a Stated Meeting takes up dozens of items) as one
+   dropdown per matter type, in the order the Matters page lists them. #}
+{% macro items_grouped(items) %}
+{% for label, heading in [("Law", "Laws"), ("Proposed law", "Proposed laws"), ("Land use", "Land use applications"),
+                          ("Resolution", "Resolutions"), ("Approval", "Approvals"), ("Oversight", "Oversight"), ("Other", "Other")] %}
+{% set group = items | selectattr("type_label", "equalto", label) | list %}
+{% if group %}
+<details class="summary-section record-group">
+    <summary><span class="summary-caret" aria-hidden="true">▸ </span>{{ heading }} ({{ group | length }})</summary>
+    <div class="summary-section-body">{{ items_list(group) }}</div>
+</details>
+{% endif %}
+{% endfor %}
+{% endmacro %}
+
 {# Collapsible named roll calls, one per voted item. #}
 {% macro rollcalls(voted) %}
 {% if voted %}
@@ -64,14 +79,13 @@
     <details class="rollcall-block">
         <summary>
             <span class="rollcall-toggle" aria-hidden="true">▸</span>
-            <span class="mono">{{ item.file_number }}</span>
-            <span class="rollcall-summary-action">{{ (rc.action or item.action) | plain }}</span>
-            <span class="mono rollcall-summary-tally">{{ tally(rc.tally) }}</span>
+            <span class="mono rollcall-summary-num">{{ item.file_number }}</span>
+            <span class="rollcall-summary-action">{{ item.name }} <span class="record-line__outcome">({{ (rc.action or item.action) | outcome(rc.tally) }})</span></span>
         </summary>
         <ul class="rollcall">
         {% for v in rc.roll_call %}
             <li class="rollcall-row">
-                <span class="rollcall-name">{{ v.name }}</span>
+                <a class="rollcall-name member-ref" href="/members/{{ v.name | member_slug }}/">{{ v.name }}</a>
                 <span class="vote vote--{{ v.vote | lower | replace(' ', '-') }}">{{ v.vote }}</span>
             </li>
         {% endfor %}

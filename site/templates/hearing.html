@@ -55,7 +55,11 @@
         {% if hearing.kind == "Upcoming" %}
         <p class="record-note">Scheduled. Actions and votes appear once the meeting has taken place.</p>
         {% endif %}
+        {% if hearing.record_items | length > 12 %}
+        {{ rec.items_grouped(hearing.record_items) }}
+        {% else %}
         {{ rec.items_list(hearing.record_items) }}
+        {% endif %}
         {{ rec.rollcalls(hearing.voted_items) }}
     </section>
     {% endif %}

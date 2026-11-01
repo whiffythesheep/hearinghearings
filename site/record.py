@@ -147,18 +147,12 @@ def matter_stage(matter):
 
 
 def omb_note(fiscal):
-    """The fiscal statement's line about the Mayor's budget office, made
-    plain: the figures shown are the Council's, and OMB usually has none."""
-    text = re.sub(r"\s+", " ", (fiscal or {}).get("omb_estimate") or "").strip()
-    if not fiscal or not (text or fiscal.get("omb_declined")):
-        return ""
-    if fiscal.get("omb_declined") or "did not provide" in text:
-        return ("These are the Council Finance Division's figures. The Mayor's Office of "
-                "Management and Budget did not provide its own estimate.")
-    if "provided an estimate" in text:
-        return ("These are the Council Finance Division's figures. The Mayor's Office of "
-                "Management and Budget's own estimate is attached to the fiscal impact statement.")
-    return text
+    """Mention the Mayor's Office of Management and Budget only when it gave
+    an estimate of its own (rare); its usual "did not provide" is dropped."""
+    text = re.sub(r"\s+", " ", (fiscal or {}).get("omb_estimate") or "")
+    if fiscal and "provided an estimate" in text and "not" not in text.split("provided")[0]:
+        return "The Mayor's Office of Management and Budget also gave its own estimate, in the"
+    return ""
 
 
 def lcfirst(text):
@@ -535,7 +529,8 @@ def load_records(hearings, today=None):
         m["plain_summary"] = p.get("summary", "")
         m["display_status"] = m.get("status") or "—"
         m["stage"] = matter_stage(m)
-        m["type_label"] = matter_type_label(m)
+        # A bill that has become law is no longer a proposed law.
+        m["type_label"] = "Law" if m["stage"] == "Law" else matter_type_label(m)
         m["short_title"] = m["plain_title"] or (m.get("name") or m.get("title") or "").strip()
     _link_companions(matters, matter_by_slug)
     # A land use application and the resolution that decides it are one item.
@@ -807,6 +802,7 @@ def load_records(hearings, today=None):
             m = matter_by_slug.get(row["matter_slug"])
             done = outcome(row.get("action"), row.get("tally"), upcoming)
             row["outcome"] = done
+            row["type_label"] = m["type_label"] if m is not None else "Other"
             if m is None or "stage_note" not in m or m.get("type") == "Oversight" or upcoming:
                 continue
             last = m.get("last_action") or {}

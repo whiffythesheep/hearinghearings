@@ -13,9 +13,9 @@
         {% if matter.short_title %}<p class="record-subtitle">{{ matter.short_title }}</p>{% endif %}
         <div class="record-meta">
             {# Every item leads with a separator; CSS hides the first. #}
-            {% if matter.law_label %}
+            {% if matter.enactment_date %}
             <span class="meta-sep">·</span>
-            <span>{{ matter.law_label }}{% if matter.enactment_date %}, enacted {{ matter.enactment_date | display_date }}{% endif %}</span>
+            <span>Enacted {{ matter.enactment_date | display_date }}</span>
             {% endif %}
             {% if matter.sponsors %}
             <span class="meta-sep">·</span>
@@ -98,8 +98,8 @@
         {% endfor %}
         </ul>
         {% endif %}
-        {% if sides and matter.omb_note %}
-        <p class="record-note">{{ matter.omb_note }}</p>
+        {% if matter.omb_note %}
+        <p class="record-note">{{ matter.omb_note }} {% if f.source %}<a class="record-link" href="{{ f.source }}">fiscal impact statement</a>{% else %}fiscal impact statement{% endif %}.</p>
         {% endif %}
         {% endif %}
     </section>

@@ -2053,9 +2053,9 @@ body.desktop {
     transform: rotate(90deg);
 }
 
-.rollcall-summary-tally {
-    margin-left: auto;
-    color: var(--text-muted);
+.rollcall-summary-num {
+    font-size: 0.85em;
+    white-space: nowrap;
 }
 
 .rollcall-block .rollcall {

@@ -8,7 +8,7 @@
     <header class="intro-block">
         <h1>Matters</h1>
         {# Each type filters the table below, through the Type column's filter. #}
-        <p class="intro-subtitle">{% for label, text in [("Proposed law", "Proposed laws"), ("Land use", "land use applications"), ("Resolution", "resolutions"), ("Approval", "approvals"), ("Oversight", "oversight")] -%}
+        <p class="intro-subtitle">{% for label, text in [("Law", "Laws"), ("Proposed law", "proposed laws"), ("Land use", "land use applications"), ("Resolution", "resolutions"), ("Approval", "approvals"), ("Oversight", "oversight")] -%}
             {%- if loop.last %} and {% elif not loop.first %}, {% endif -%}
             <a class="type-link" href="?type={{ label | urlencode }}">{{ text }}</a>
         {%- endfor %}.</p>

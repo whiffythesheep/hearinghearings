@@ -539,6 +539,8 @@ def build():
             return hashlib.sha256(f.read()).hexdigest()[:10]
     env.globals["asset_version"] = asset_version
     env.filters["plain"] = record.plain_action
+    env.filters["outcome"] = record.outcome
+    env.filters["member_slug"] = lambda name: record.slugify(record.normalize_name(name))
     env.filters["display_date"] = record.display_date
 
     hearings = load_content()
