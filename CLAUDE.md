@@ -216,6 +216,10 @@ The name validator is **advisory, never blocking**: witnesses, agency staff, sta
 ### Config constants (top of `summarize_council_meeting.py`)
 - `ANTHROPIC_MODEL` (Sonnet 4.6: agenda reading and the summary, where the voice matters)
 - `TRANSCRIPT_MODEL` (Haiku 5.5: speaker segmentation, proper nouns, cleaning; ~30x cheaper)
+- Cleaning retries: Haiku sometimes leaves utterances out of a long batch. Only the missing ones
+  are asked for again, once more on Haiku, then on Sonnet; nothing is published uncleaned. The
+  "CM" rule is enforced in code. (The first version redid whole batches on Sonnet: 10 of 17 on
+  the first cloud run, which cost most of the saving.)
 - `USE_BATCH` / `BATCH_WAIT_MINUTES`: every stage goes through the Message Batches API at half
   price; a batch unfinished after 45 minutes is cancelled and its requests sent directly.
   `--no-batch` sends everything directly (a manual run you are waiting on).

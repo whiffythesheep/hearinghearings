@@ -1656,8 +1656,8 @@ def clean_transcript(utterances, proper_nouns, client):
     cleaned = list(utterances)  # shallow copy
 
     separator = "---UTTERANCE---"
-    prompts = []
-    for batch in batches:
+
+    def make_prompt(batch):
         # Build input with clear separators, pre-processing YouTube artifacts
         batch_lines = []
         for idx, (orig_i, u) in enumerate(batch):
@@ -1725,12 +1725,11 @@ cleaned text here
 {separator}
 
 You MUST return the same number of entries with the same index numbers. Return ONLY the cleaned transcript, no other text."""
-
-        prompts.append(prompt)
+        return prompt
 
     def apply(batch_num, batch, response):
-        """Write a batch's cleaned entries into ``cleaned``; return how many
-        of its utterances came back."""
+        """Write a batch's cleaned entries into ``cleaned``; return the
+        indices (within the batch) that came back."""
         cleaned_text = reply_text(response).strip()
 
         if response.stop_reason == "max_tokens":
@@ -1757,21 +1756,29 @@ You MUST return the same number of entries with the same index numbers. Return O
                     orig_i = batch[idx][0]
                     cleaned[orig_i] = {**utterances[orig_i], "text": text}
                     got.add(idx)
-        return len(got)
+        return got
 
-    responses = run_requests(client, [transcript_request(p) for p in prompts], "Cleaning")
-    # Haiku occasionally answers a batch in the wrong format, which would
-    # publish those utterances uncleaned. Any batch that comes back short is
-    # cleaned again on the summary model.
-    retry = [i for i, (batch, response) in enumerate(zip(batches, responses))
-             if apply(i, batch, response) < len(batch)]
-    if retry:
-        logger.warning(f"  {len(retry)} cleaning batch(es) came back incomplete; "
-                       f"redoing them on {ANTHROPIC_MODEL}.")
-        redone = run_requests(client, [summary_request(prompts[i], 16000) for i in retry],
-                              "Cleaning retry")
-        for i, response in zip(retry, redone):
-            apply(i, batches[i], response)
+    # Haiku sometimes leaves a few utterances out of a long batch. Those are
+    # asked for again on their own, once more on Haiku and then, for anything
+    # still missing, on the summary model, so nothing is published uncleaned.
+    pending = batches
+    for attempt, (make_request, model) in enumerate(
+            [(transcript_request, TRANSCRIPT_MODEL), (transcript_request, TRANSCRIPT_MODEL),
+             (lambda p: summary_request(p, 16000), ANTHROPIC_MODEL)]):
+        if not pending:
+            break
+        if attempt:
+            logger.warning(f"  {sum(map(len, pending))} utterance(s) came back missing; "
+                           f"asking again on {model}.")
+        label = "Cleaning" if not attempt else f"Cleaning retry {attempt}"
+        responses = run_requests(client, [make_request(make_prompt(b)) for b in pending], label)
+        missing = []
+        for i, (batch, response) in enumerate(zip(pending, responses)):
+            got = apply(i, batch, response)
+            left = [item for j, item in enumerate(batch) if j not in got]
+            if left:
+                missing.append(left)
+        pending = missing
 
     logger.info("  Transcript cleaning complete.")
     return cleaned
