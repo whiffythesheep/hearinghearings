@@ -2054,6 +2054,26 @@ details[open] > summary .summary-caret {
     color: var(--accent);
 }
 
+/* Over the vote bracket, or inside an open roll call, only the bracket is
+   live: no row shading, and the row's own text stays as it was */
+.record-list li:has(.vote-toggle:hover),
+.record-list li:has(.rollcall:hover) {
+    background: transparent;
+    cursor: default;
+}
+
+.history-list li:has(.vote-toggle:hover) .record-line__link,
+.history-list li:has(.vote-toggle:hover) .record-date,
+.history-list li:has(.rollcall:hover) .record-line__link,
+.history-list li:has(.rollcall:hover) .record-date {
+    color: inherit;
+}
+
+.history-list li:has(.vote-toggle:hover) .record-date,
+.history-list li:has(.rollcall:hover) .record-date {
+    color: var(--text-muted);
+}
+
 .vote-toggle {
     appearance: none;
     background: none;
