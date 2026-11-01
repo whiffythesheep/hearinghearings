@@ -811,7 +811,9 @@ def load_records(hearings, today=None):
               "members": vote_rows(rc["roll_call"])}
              for meeting, row in rows_by_matter.get(m["slug"], [])
              for rc in row.get("roll_calls") or []),
-            key=lambda v: v["date"], reverse=True)
+            # Same day: the Council votes after the committee, as in History.
+            key=lambda v: (v["date"], _norm_body(v["body"]) == _norm_body("City Council")),
+            reverse=True)
         past = [e for e in timeline if not e["upcoming"]]
         future = [e for e in timeline if e["upcoming"]]
         # Nothing has happened to it yet: greyed like upcoming hearings.
