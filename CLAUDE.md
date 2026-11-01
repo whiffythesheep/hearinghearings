@@ -43,7 +43,7 @@ hearinghearings/
     │   ├── base.html              # shared window chrome, section nav, subscribe block
     │   ├── index.html             # listing page
     │   ├── hearing.html           # single hearing page (+ "The record" block)
-    │   ├── _record.html           # shared record macros (tables, roll calls, filters)
+    │   ├── _record.html           # shared record macros (record lists, type groups, filters)
     │   ├── matters.html / matter.html        # matters index + lookup; matter pages
     │   ├── members.html / member.html        # voting records
     │   └── committees.html / committee.html  # committee activity
@@ -306,6 +306,11 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   lowest T-number of a joint set), agenda items are shown under the real number, and the old URL
   301s. Exact title + type match only; a T-number matching several real matters is left alone.
   Oversight items read "Hearing held", not "Closed".
+- **Votes live on matter pages only** (2026-11-01). Hearing pages have no roll-call section:
+  their record groups into dropdowns by matter type whenever the meeting voted (or has more
+  than 12 items), and each tally ("39–10") is underlined with a pop-up naming everyone who
+  did not vote yes (`vote_tip()`). The matter page's Votes section lists every roll call in
+  full (`vote_groups()`), names linked to member pages.
 - **Five plain matter types** (`matter_type_label()` in `site/record.py`): Proposed law (Int),
   Land use (LU applications + call-ups), Approval (resolutions that decide something:
   budget, tax rates, appointments, funding, SEQRA findings; matched by `APPROVAL_RE` on the

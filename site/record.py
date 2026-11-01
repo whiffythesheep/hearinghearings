@@ -155,6 +155,30 @@ def omb_note(fiscal):
     return ""
 
 
+# Every vote that isn't a yes, in the order a reader cares about.
+VOTE_GROUPS = [("Negative", "Against"), ("Abstain", "Abstained"), ("Absent", "Absent"),
+               ("Medical", "Medical leave"), ("Bereavement", "Bereavement leave"),
+               ("Non-voting", "Non-voting")]
+
+
+def vote_groups(roll_call):
+    """[(label, [{name, slug}])] for one roll call: in favour, then the rest."""
+    groups = []
+    for code, label in [("Affirmative", "In favour")] + VOTE_GROUPS:
+        names = [{"name": v["name"], "slug": slugify(normalize_name(v["name"]))}
+                 for v in roll_call if v.get("vote") == code]
+        if names:
+            groups.append((label, names))
+    return groups
+
+
+def vote_tip(roll_call):
+    """The pop-up on a tally: who did not vote yes, and why."""
+    lines = [f"{label}: " + ", ".join(n["name"] for n in names)
+             for label, names in vote_groups(roll_call) if label != "In favour"]
+    return "\n".join(lines) or "Every member voted in favour."
+
+
 def lcfirst(text):
     """'Passed Council' -> 'passed Council', for use mid-sentence. Proper
     nouns at the start ("Mayor's hearing held") keep their capital."""
@@ -767,6 +791,16 @@ def load_records(hearings, today=None):
             e["outcome"] = "scheduled" if e["upcoming"] else outcome(e["action"], e["tally"])
         timeline.sort(key=lambda e: e["date"], reverse=True)
         m["appearances"] = timeline
+        # Every roll call on this matter, newest first: the one place the site
+        # names how each member voted.
+        m["votes"] = sorted(
+            ({"date": meeting.get("date", ""), "body": meeting.get("body", ""),
+              "link": meeting["link"] if meeting["linkable"] else "",
+              "outcome": outcome(rc.get("action") or row.get("action"), rc.get("tally")),
+              "groups": vote_groups(rc["roll_call"])}
+             for meeting, row in rows_by_matter.get(m["slug"], [])
+             for rc in row.get("roll_calls") or []),
+            key=lambda v: v["date"], reverse=True)
         past = [e for e in timeline if not e["upcoming"]]
         future = [e for e in timeline if e["upcoming"]]
         # Nothing has happened to it yet: greyed like upcoming hearings.
@@ -803,6 +837,10 @@ def load_records(hearings, today=None):
             done = outcome(row.get("action"), row.get("tally"), upcoming)
             row["outcome"] = done
             row["type_label"] = m["type_label"] if m is not None else "Other"
+            tally = row.get("tally")
+            row["tally_text"] = f"{tally.get('Affirmative', 0)}–{tally.get('Negative', 0)}" if tally else ""
+            calls = [c for c in row.get("roll_calls") or [] if c.get("tally") == tally] or row.get("roll_calls") or []
+            row["vote_tip"] = vote_tip(calls[-1]["roll_call"]) if calls else ""
             if m is None or "stage_note" not in m or m.get("type") == "Oversight" or upcoming:
                 continue
             last = m.get("last_action") or {}

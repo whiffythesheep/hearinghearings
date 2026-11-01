@@ -117,5 +117,26 @@
     </section>
     {% endif %}
 
+    {% if matter.votes %}
+    <section class="hearing-summary record-section">
+        {{ heading("Votes") }}
+        {% for v in matter.votes %}
+        <details class="rollcall-block">
+            <summary>
+                <span class="rollcall-toggle" aria-hidden="true">▸</span>
+                <span class="record-date">{{ v.date | display_date }}</span>
+                <span class="rollcall-summary-action">{{ v.body }} <span class="record-line__outcome">({{ v.outcome }})</span></span>
+            </summary>
+            <ul class="vote-groups">
+            {% for label, names in v.groups %}
+                <li><strong>{{ label }} ({{ names | length }}):</strong>
+                    {% for n in names %}<a class="member-ref" href="/members/{{ n.slug }}/">{{ n.name }}</a>{{ ", " if not loop.last }}{% endfor %}</li>
+            {% endfor %}
+            </ul>
+        </details>
+        {% endfor %}
+    </section>
+    {% endif %}
+
 </article>
 {% endblock %}

@@ -47,7 +47,9 @@
     <li>{% if item.matter_slug %}<a class="record-line" href="/matters/{{ item.matter_slug }}/">{% else %}<span class="record-line">{% endif %}
         <span class="mono record-line__num">{{ item.file_number }}{% for c in item.companions if not c.folded_into %} with {{ c.file_number }}{% endfor %}</span>
         <span{% if item.official_name and item.official_name != item.name %} title="Legistar: {{ item.official_name }}"{% endif %}>{{ item.name }}</span>
-        {%- if item.outcome %} <span class="record-line__outcome"{% if item.action %} title="Legistar: {{ item.action }}"{% endif %}>({{ item.outcome }})</span>{% endif %}
+        {%- if item.outcome %} <span class="record-line__outcome"{% if item.action and not item.tally_text %} title="Legistar: {{ item.action }}"{% endif %}>
+            {%- set parts = item.outcome.split(item.tally_text, 1) if item.tally_text else [item.outcome] -%}
+            ({{ parts[0] }}{% if parts | length > 1 %}<span class="vote-tip" tabindex="0" data-tip="{{ item.vote_tip }}">{{ item.tally_text }}</span>{{ parts[1] }}{% endif %})</span>{% endif %}
     {% if item.matter_slug %}</a>{% else %}</span>{% endif %}</li>
 {% endfor %}
 </ul>
@@ -68,32 +70,3 @@
 {% endfor %}
 {% endmacro %}
 
-{# Collapsible named roll calls, one per voted item. #}
-{% macro rollcalls(voted) %}
-{% if voted %}
-<details class="summary-section rollcalls">
-    <summary><span class="summary-caret" aria-hidden="true">▸ </span>Roll calls</summary>
-    <div class="summary-section-body">
-    {% for item in voted %}
-    {% for rc in item.roll_calls %}
-    <details class="rollcall-block">
-        <summary>
-            <span class="rollcall-toggle" aria-hidden="true">▸</span>
-            <span class="mono rollcall-summary-num">{{ item.file_number }}</span>
-            <span class="rollcall-summary-action">{{ item.name }} <span class="record-line__outcome">({{ (rc.action or item.action) | outcome(rc.tally) }})</span></span>
-        </summary>
-        <ul class="rollcall">
-        {% for v in rc.roll_call %}
-            <li class="rollcall-row">
-                <a class="rollcall-name member-ref" href="/members/{{ v.name | member_slug }}/">{{ v.name }}</a>
-                <span class="vote vote--{{ v.vote | lower | replace(' ', '-') }}">{{ v.vote }}</span>
-            </li>
-        {% endfor %}
-        </ul>
-    </details>
-    {% endfor %}
-    {% endfor %}
-    </div>
-</details>
-{% endif %}
-{% endmacro %}

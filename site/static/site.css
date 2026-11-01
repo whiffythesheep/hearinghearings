@@ -2058,9 +2058,6 @@ body.desktop {
     white-space: nowrap;
 }
 
-.rollcall-block .rollcall {
-    padding: 0.25rem 0.25rem 0.9rem 1.4rem;
-}
 
 /* ---------- The record block on a hearing page ---------- */
 .hearing-record {
@@ -2167,26 +2164,49 @@ body.desktop {
     border-color: var(--bevel-dark);
 }
 
-/* ---------- Roll call list ---------- */
-.rollcall {
+/* ---------- Votes on a matter page, and the tally pop-up ---------- */
+.vote-groups {
     list-style: none;
-    padding: 0;
     margin: 0;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
-    gap: 2px 1.25rem;
+    padding: 0.25rem 0.25rem 0.9rem 1.4rem;
+    font-size: 0.95rem;
 }
 
-.rollcall-row {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0.75rem;
-    padding: 3px 0;
-    border-bottom: 1px dotted var(--rule);
+.hearing-summary .vote-groups li {
+    margin-bottom: 0.35rem;
 }
 
-.rollcall-name {
-    font-size: 0.9rem;
+/* A tally ("39–10"): hover or focus shows who did not vote yes, in a box
+   anchored under the whole row so it never runs off the page */
+.record-list li {
+    position: relative;
+}
+
+.vote-tip {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+    cursor: help;
+}
+
+.vote-tip:hover::after,
+.vote-tip:focus::after {
+    content: attr(data-tip);
+    position: absolute;
+    left: 0.25rem;
+    top: calc(100% - 2px);
+    z-index: 20;
+    width: max-content;
+    max-width: 24rem;
+    white-space: pre-line;
+    padding: 6px 9px;
+    background: var(--window-bg, #fbfaf6);
+    color: var(--text);
+    border: 1px solid var(--bevel-darker);
+    box-shadow: 2px 2px 0 var(--bevel-dark);
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    line-height: 1.45;
+    text-align: left;
 }
 

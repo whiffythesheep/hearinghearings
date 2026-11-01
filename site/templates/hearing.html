@@ -55,12 +55,13 @@
         {% if hearing.kind == "Upcoming" %}
         <p class="record-note">Scheduled. Actions and votes appear once the meeting has taken place.</p>
         {% endif %}
-        {% if hearing.record_items | length > 12 %}
+        {# Meetings with votes, and long agendas, open by matter type; how each
+           member voted lives on the matter pages (and in the tally pop-ups). #}
+        {% if hearing.voted_items or hearing.record_items | length > 12 %}
         {{ rec.items_grouped(hearing.record_items) }}
         {% else %}
         {{ rec.items_list(hearing.record_items) }}
         {% endif %}
-        {{ rec.rollcalls(hearing.voted_items) }}
     </section>
     {% endif %}
 
