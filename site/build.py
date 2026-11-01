@@ -546,8 +546,18 @@ def build():
 
     # The index lists every meeting: published hearings, plus record-only
     # vote sessions and unsummarised hearings, which carry no transcript.
+    def items_text(rows):
+        # What was on the agenda, so the search finds a meeting by the
+        # matters it took up, not only by its title or transcript.
+        words = []
+        for r in rows:
+            words += [r.get("file_number", ""), r.get("name", "")]
+            words += [c["file_number"] for c in r.get("companions", [])]
+        return " ".join(w for w in words if w)
+
     listing = [dict(h, kind="Summarised", link=f"/hearings/{h['slug']}/",
-                    search_slug=h["slug"]) for h in hearings]
+                    search_slug=h["slug"], items_text=items_text(h.get("record_items") or []))
+               for h in hearings]
     for mt in records["record_only_meetings"]:
         listing.append({
             "title": mt["title"], "committee": " | ".join(mt["bodies"]),
@@ -555,6 +565,7 @@ def build():
             "date_display": mt["date_display"], "month": mt["date"][:7],
             "month_label": datetime.strptime(mt["date"], "%Y-%m-%d").strftime("%B %Y"),
             "kind": mt["kind"], "link": mt["link"], "search_slug": "",
+            "items_text": items_text(mt["rows"]),
         })
     listing.sort(key=lambda r: r["date"], reverse=True)
     kinds = [k for k in ("Summarised", "Upcoming", "Vote session")

@@ -23,12 +23,12 @@
             </tr></thead>
             <tbody>
             {% for m in matters %}
-                <tr{% if m.upcoming %} class="row-upcoming"{% endif %} data-find="{{ ([m.file_number] + (m.companion_matters | map(attribute="file_number") | list) + [m.type_label, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or '']) | join(' ') | lower }}">
+                <tr{% if m.upcoming %} class="row-upcoming"{% endif %} data-find="{{ ([m.file_number] + (m.companion_matters | map(attribute="file_number") | list) + [m.type_label, m.short_title, m.official_title, m.plain_summary, m.stage, m.law_label, m.committee or '']) | join(' ') | lower }}">
                     <td class="num">{% if m.slug %}<a class="row-link row-link--main mono" href="/matters/{{ m.slug }}/">{{ m.file_number }}</a>{% else %}<span class="mono">{{ m.file_number }}</span>{% endif %}</td>
                     <td>{{ m.type_label }}</td>
                     <td{% if m.plain_title %} title="Legistar: {{ m.official_title }}"{% endif %}>{{ m.short_title }}</td>
                     <td data-value="{{ m.committee or '—' }}">{{ (m.committee or "—") | replace("Committee on ", "") | replace("Subcommittee on ", "Sub. ") }}</td>
-                    <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}</td>
+                    <td data-value="{{ m.stage }}" title="Legistar status: {{ m.display_status }}">{{ m.stage }}{% if m.law_label %}<span class="row-sub">{{ m.law_label }}</span>{% endif %}</td>
                     <td class="record-date" data-sort-value="{{ m.latest_date or m.next_date or '' }}">{{ (m.latest_date or m.next_date) | display_date or "—" }}{% if m.next_date and m.latest_date %}<span class="row-sub">Next: {{ m.next_date | display_date }}</span>{% endif %}</td>
                 </tr>
             {% endfor %}

@@ -318,6 +318,7 @@ def scrape_matter(fetcher, legistar_id, guid, file_number):
         "type": labelled_field(page, "Type"),
         "title": labelled_field(page, "Title"),
         "status": labelled_field(page, "Status"),
+        **enactment(page),
         "sponsors": sponsors,
         "by_request_of_mayor": by_mayor,
         "attachments": attachments,
@@ -329,6 +330,17 @@ def scrape_matter(fetcher, legistar_id, guid, file_number):
 
 
 # --- attachments and fiscal impact --------------------------------------
+
+
+def enactment(page):
+    """Local law number ("2026/135") and enactment date, once a bill is law."""
+    out = {}
+    for key, span in (("law_number", "lblEnactmentNumber2"), ("enactment_date", "lblEnactmentDate2")):
+        m = re.search(rf'id="ctl00_ContentPlaceHolder1_{span}"[^>]*>([^<]*)<', page)
+        value = html.unescape(m.group(1)).strip() if m else ""
+        if value:
+            out[key] = _iso_date(value) if key == "enactment_date" else value
+    return out
 
 
 def classify_attachment(label):

@@ -229,7 +229,8 @@
                 data-title="{{ hearing.title }}"
                 data-month="{{ hearing.month }}"
                 data-kind="{{ hearing.kind }}"
-                data-slug="{{ hearing.search_slug }}">
+                data-slug="{{ hearing.search_slug }}"
+                data-items="{{ hearing.items_text }}">
                 <a href="{{ hearing.link }}">
                     <time class="hearing-row__date" datetime="{{ hearing.date }}">
                         {{ hearing.date_display }}
@@ -730,7 +731,7 @@
                     if (!match) show = false;
                 }
                 if (show && q) {
-                    var hay = (row.dataset.title + ' ' + rowCommittees[i].join(' ')).toLowerCase();
+                    var hay = (row.dataset.title + ' ' + rowCommittees[i].join(' ') + ' ' + (row.dataset.items || '')).toLowerCase();
                     var titleMatch = titleRe ? titleRe.test(hay) : hay.indexOf(q) !== -1;
                     var transcriptMatch = transcriptState.matches
                         && Object.prototype.hasOwnProperty.call(transcriptState.matches, row.dataset.slug);

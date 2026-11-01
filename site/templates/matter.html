@@ -13,9 +13,21 @@
         {% if matter.short_title %}<p class="record-subtitle">{{ matter.short_title }}</p>{% endif %}
         <div class="record-meta">
             <span class="status-badge" title="Legistar status: {{ matter.display_status }}">{{ matter.stage }}</span>
+            {% if matter.law_label %}
+            <span class="meta-sep">·</span>
+            <span>{{ matter.law_label }}{% if matter.enactment_date %}, enacted {{ matter.enactment_date | display_date }}{% endif %}</span>
+            {% endif %}
             {% if matter.sponsors %}
             <span class="meta-sep">·</span>
-            <span>Sponsor{% if matter.sponsors|length > 1 %}s{% endif %}: {{ matter.sponsors | join(', ') }}</span>
+            {# Legistar lists the prime sponsor first; the co-sponsors fold away. #}
+            <span>Sponsor: {{ matter.sponsors[0] }}</span>
+            {% if matter.sponsors|length > 1 %}
+            {% set rest = matter.sponsors[1:] %}
+            <details class="co-sponsors">
+                <summary>+ {{ rest|length }} co-sponsor{% if rest|length > 1 %}s{% endif %}</summary>
+                <span>{{ rest | join(', ') }}</span>
+            </details>
+            {% endif %}
             {% endif %}
             {% if matter.by_request_of_mayor %}
             <span class="meta-sep">·</span>
@@ -36,17 +48,28 @@
         </div>
     </header>
 
-    {% if matter.plain_summary %}
-    <section class="record-section">
-        <h2>In brief</h2>
-        <p class="record-longtitle">{{ matter.plain_summary }}</p>
-    </section>
-    {% endif %}
-
     {% if matter.official_title and matter.official_title != matter.short_title %}
     <section class="record-section">
         <h2>Official title</h2>
         <p class="record-longtitle">{{ matter.official_title }}</p>
+    </section>
+    {% endif %}
+
+    {% if matter.plain_summary %}
+    <section class="record-section">
+        <h2>Summary</h2>
+        <p class="record-longtitle">{{ matter.plain_summary }}</p>
+    </section>
+    {% endif %}
+
+    {% if matter.documents %}
+    <section class="record-section">
+        <h2>Documents</h2>
+        <ul class="doc-list">
+        {% for d in matter.documents %}
+            <li><a class="doc-chip" href="{{ d.url }}" title="{{ d.kind }}, on Legistar">{{ d.label }} ↗</a></li>
+        {% endfor %}
+        </ul>
     </section>
     {% endif %}
 
@@ -90,38 +113,19 @@
     </section>
     {% endif %}
 
-    {% set folded_docs = [] %}
-    {# The deciding resolution's documents, less the ones Legistar already files under the application. #}
-    {% set own_labels = (matter.attachments or []) | map(attribute="label") | list %}
-    {% for c in matter.companion_matters if c.folded_into %}{% for d in c.attachments or [] if d.label not in own_labels %}{% set _ = folded_docs.append(d) %}{% endfor %}{% endfor %}
-    {% if matter.attachments or folded_docs %}
-    <section class="record-section">
-        <h2>Documents</h2>
-        <p class="record-note">Committee reports, fiscal impact statements and bill text, hosted by Legistar.</p>
-        <ul class="doc-list">
-        {% for d in matter.attachments %}
-            <li><span class="doc-kind">{{ d.kind }}</span> <a class="council-link" href="{{ d.url }}">{{ d.label }} ↗</a></li>
-        {% endfor %}
-        {% for d in folded_docs %}
-            <li><span class="doc-kind">{{ d.kind }}</span> <a class="council-link" href="{{ d.url }}">{{ d.label }} ↗</a></li>
-        {% endfor %}
-        </ul>
-    </section>
-    {% endif %}
-
     {% if matter.appearances %}
     <section class="record-section">
         <h2>History</h2>
         <p class="record-note">Every step Legistar records, newest first. Where a body took several steps on one day
-            (heard, amended, passed) only the decisive one is shown. Hover an action for Legistar's wording. Linked dates have a page here.</p>
+            (heard, amended, passed) only the decisive one is shown. Hover an action for Legistar's wording. Click a row to open that meeting.</p>
         <div class="table-scroll listing-well">
             <table class="record-table">
                 <thead><tr><th>Date</th><th>Body</th><th>Action</th></tr></thead>
                 <tbody>
                 {% for a in matter.appearances %}
                     <tr>
-                        <td class="record-date">{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.date | display_date }}</a>{% else %}{{ a.date | display_date }}{% endif %}</td>
-                        <td>{% if a.link %}<a class="record-link" href="{{ a.link }}">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
+                        <td class="record-date">{% if a.link %}<a class="row-link row-link--main" href="{{ a.link }}">{{ a.date | display_date }}</a>{% else %}{{ a.date | display_date }}{% endif %}</td>
+                        <td>{% if a.link %}<a class="row-link" href="{{ a.link }}">{{ a.body }}</a>{% else %}{{ a.body }}{% endif %}</td>
                         <td>{% if a.date > today %}<span class="row-muted">Scheduled:</span> {% endif %}{{ rec.action(a.action, "On the agenda" if a.date > today else "—", a.tally) }}</td>
                     </tr>
                 {% endfor %}

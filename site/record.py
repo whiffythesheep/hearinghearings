@@ -90,8 +90,8 @@ def plain_action(action):
 # Where a matter stands, the same five stages for every type. "Passed
 # Council" is the end of the line for everything but a bill, which goes on
 # to the Mayor and becomes "Law". An oversight item is "In committee" until
-# its hearing and "Closed" once the committee files it (the same day).
-STAGES = ["In committee", "Passed committee", "Passed Council", "Law", "Closed"]
+# its hearing and "Hearing held" once the committee files it (the same day).
+STAGES = ["In committee", "Passed committee", "Passed Council", "Law", "Closed", "Hearing held"]
 
 _STAGE_BY_STATUS = {
     "Introduced": "In committee",
@@ -133,7 +133,7 @@ def matter_stage(matter):
     status = matter.get("status") or ""
     stage = _STAGE_BY_STATUS.get(status, "")
     if matter.get("type") == "Oversight":
-        return "Closed" if stage == "Closed" else "In committee"
+        return "Hearing held" if stage == "Closed" else "In committee"
     # Legistar leaves status at "Committee" between a committee vote and the
     # Council vote; the history tells them apart.
     history = matter.get("history") or []
@@ -308,6 +308,90 @@ def _link_companions(matters, matter_by_slug):
             lu["companions"].append(m["slug"])
 
 
+def _oversight_heard(entry):
+    """An oversight topic is "filed" once its hearing is over. Nothing was
+    closed: the hearing happened, so say that."""
+    if plain_action(entry.get("action")) == "Closed":
+        entry["action"] = "Hearing held"
+
+
+def _preconsidered_aliases(matters):
+    """Map each T-number that duplicates another matter to the one it duplicates.
+
+    Legistar gives an item a T-number while it is preconsidered and a real
+    number (Int, LU, Res, M) once introduced, and the two then live on as
+    separate matters with the same title. A joint oversight hearing also gets
+    one T-number per committee. Either way it is one item, so the T-number is
+    folded into the real number, or into the lowest T-number of the set.
+    """
+    real_by_key = {}
+    for m in matters:
+        if not m["file_number"].startswith("T"):
+            key = ((m.get("title") or "").strip(), m.get("type"))
+            real_by_key.setdefault(key, []).append(m)
+    alias = {}
+    groups = {}
+    for m in sorted(matters, key=lambda m: m["file_number"]):
+        if not m["file_number"].startswith("T"):
+            continue
+        key = ((m.get("title") or "").strip(), m.get("type"))
+        real = real_by_key.get(key, [])
+        if len(real) == 1:
+            alias[m["slug"]] = real[0]["slug"]
+        elif not real and m.get("type") == "Oversight":
+            # Same topic, same day: the per-committee copies of one hearing.
+            first = min((h.get("date", "") for h in m.get("history") or []), default="")
+            groups.setdefault(key + (first,), []).append(m)
+    for group in groups.values():
+        for m in group[1:]:
+            alias[m["slug"]] = group[0]["slug"]
+    return alias
+
+
+def _merge_alias(canonical, dup):
+    """Give the canonical matter the duplicate's history and documents."""
+    seen = {(h.get("date"), h.get("body"), h.get("action")) for h in canonical.get("history") or []}
+    canonical.setdefault("history", [])
+    for h in dup.get("history") or []:
+        if (h.get("date"), h.get("body"), h.get("action")) not in seen:
+            canonical["history"].append(h)
+    have = {a.get("label") for a in canonical.get("attachments") or []}
+    canonical.setdefault("attachments", [])
+    for a in dup.get("attachments") or []:
+        if a.get("label") not in have:
+            canonical["attachments"].append(a)
+    if not canonical.get("sponsors"):
+        canonical["sponsors"] = dup.get("sponsors") or []
+
+
+DOC_DATE_RE = re.compile(
+    r"\b(\d{1,2})[/-](\d{1,2})[/-](\d{4}|\d{2})\b"
+    r"|\b(January|February|March|April|May|June|July|August|September|October"
+    r"|November|December) (\d{1,2}), (\d{4})\b")
+MONTHS = ["January", "February", "March", "April", "May", "June", "July",
+          "August", "September", "October", "November", "December"]
+
+
+def _doc_date(label):
+    """The date in a document label ("Committee Report 3/3/26"), or ""."""
+    m = DOC_DATE_RE.search(label)
+    if not m:
+        return ""
+    if m.group(1):
+        year = m.group(3) if len(m.group(3)) == 4 else "20" + m.group(3)
+        return f"{year}-{int(m.group(1)):02d}-{int(m.group(2)):02d}"
+    return f"{m.group(6)}-{MONTHS.index(m.group(4)) + 1:02d}-{int(m.group(5)):02d}"
+
+
+def _sort_documents(docs):
+    """Undated documents (bill text, summaries, memos) first, in Legistar's
+    order, then dated ones newest first, like the history."""
+    undated = [d for d in docs if not _doc_date(d["label"])]
+    dated = sorted((d for d in docs if _doc_date(d["label"])),
+                   key=lambda d: _doc_date(d["label"]), reverse=True)
+    return undated + dated
+
+
 def _record_only_title(meeting):
     """A descriptive title for a meeting with no published summary."""
     body = meeting.get("body", "")
@@ -343,9 +427,26 @@ def load_records(hearings, today=None):
     meetings = [mt for mt in _read_dir("meetings")
                 if mt.get("date", "") <= tomorrow and mt.get("agenda_status") != "Deferred"]
     matters = [m for m in _read_dir("matters") if m.get("type") not in EXCLUDED_TYPES]
+    for m in matters:
+        if m.get("type") == "Oversight":
+            for h in m.get("history") or []:
+                _oversight_heard(h)
+    alias = _preconsidered_aliases(matters)
+    by_slug = {m["slug"]: m for m in matters}
+    for dup, canon in alias.items():
+        _merge_alias(by_slug[canon], by_slug[dup])
+    aliased = [by_slug[s] for s in alias]
+    matters = [m for m in matters if m["slug"] not in alias]
     for meeting in meetings:
         meeting["items"] = [i for i in meeting.get("items", [])
                             if i.get("type") not in EXCLUDED_TYPES]
+        # Agendas name the T-number; show the item under its real number.
+        for i in meeting["items"]:
+            if i.get("type") == "Oversight":
+                _oversight_heard(i)
+            canon = alias.get(slugify(i.get("file_number") or ""))
+            if canon:
+                i["file_number"] = by_slug[canon]["file_number"]
     roster_by_name, roster_committees = _load_roster()
 
     # event id -> published hearing, via the council_url in front matter
@@ -368,6 +469,9 @@ def load_records(hearings, today=None):
         m["appearances"] = []
         m["official_title"] = (m.get("title") or m.get("name") or "").strip()
         p = plain.get(m["file_number"]) or {}
+        if not p:
+            p = next((plain[d["file_number"]] for d in aliased
+                      if alias[d["slug"]] == m["slug"] and d["file_number"] in plain), {})
         m["plain_title"] = p.get("title", "")
         m["plain_summary"] = p.get("summary", "")
         m["display_status"] = m.get("status") or "—"
@@ -383,6 +487,11 @@ def load_records(hearings, today=None):
               if m["file_number"].startswith("Res") and m["companions"]}
     for slug, lu_slug in folded.items():
         matter_by_slug[slug]["folded_into"] = lu_slug
+    # T-number duplicates redirect and link to their real matter too.
+    for d in aliased:
+        d["folded_into"] = alias[d["slug"]]
+        matter_by_slug[d["slug"]] = d
+        folded[d["slug"]] = alias[d["slug"]]
 
     members = {}
     committees = {}
@@ -601,6 +710,17 @@ def load_records(hearings, today=None):
         m["latest_date"] = past[0]["date"] if past else ""
         m["next_date"] = future[-1]["date"] if future else ""
         m["companion_matters"] = [matter_by_slug[s] for s in m.get("companions", [])]
+        # "2026/135" is how Legistar writes Local Law 135 of 2026.
+        year, _, num = (m.get("law_number") or "").partition("/")
+        m["law_label"] = f"Local Law {int(num)} of {year}" if num.isdigit() else ""
+        # The deciding resolution's documents join the application's, less
+        # the ones Legistar already files under both.
+        docs = list(m.get("attachments") or [])
+        labels = {d["label"] for d in docs}
+        for c in m["companion_matters"]:
+            if c.get("folded_into"):
+                docs += [d for d in c.get("attachments") or [] if d["label"] not in labels]
+        m["documents"] = _sort_documents(docs)
         m["committee"] = next((e.get("bodies", [e["body"]])[0] for e in timeline
                                if "committee" in e.get("bodies", [e["body"]])[0].lower()), "")
     matters.sort(key=lambda m: (m["latest_date"] or m["next_date"], m["file_number"]),
