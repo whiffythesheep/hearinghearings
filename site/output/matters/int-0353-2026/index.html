@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=6dfcf5b51b">
+    <link rel="stylesheet" href="/static/site.css?v=665093ba98">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/matters/int-0353-2026/">
     <meta name="description" content="Int 0353-2026 on Hearing Hearings.">
@@ -137,16 +137,21 @@
         <div class="section-header"><h2>History</h2></div>
         <ul class="record-list history-list">
         
-            
-            <li><a class="record-line" href="/hearings/committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01/"><span class="record-date">July 1, 2026</span> Committee on Sanitation and Solid Waste Management <span class="record-line__outcome" title="Legistar: Laid Over by Committee">(heard)</span></a></li>
         
-            
-            <li><span class="record-line"><span class="record-date">January 29, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Introduced by Council">(introduced and sent to committee)</span></span></li>
+            <li data-href="/hearings/committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01/">
+                <div class="record-line"><a class="record-line__link" href="/hearings/committee-on-sanitation-and-solid-waste-management-legislation-on-commercial-waste-zones-composting-2026-07-01/"><span class="record-date">July 1, 2026</span> Committee on Sanitation and Solid Waste Management</a> <span class="record-line__outcome" title="Legistar: Laid Over by Committee">(heard)</span>
+                </div>
+                
+            </li>
+        
+            <li>
+                <div class="record-line"><span class="record-date">January 29, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Introduced by Council">(introduced and sent to committee)</span>
+                </div>
+                
+            </li>
         
         </ul>
     </section>
-    
-
     
 
 </article>
@@ -258,6 +263,25 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    // History rows: a click anywhere opens the meeting, except on a link,
+    // on the vote bracket (which opens the roll call beneath) or inside it.
+    document.querySelectorAll('.history-list > li').forEach(function (li) {
+        var toggle = li.querySelector('.vote-toggle');
+        var votes = li.querySelector('.rollcall');
+        if (toggle) toggle.addEventListener('click', function () {
+            votes.hidden = !votes.hidden;
+            toggle.setAttribute('aria-expanded', String(!votes.hidden));
+        });
+        if (!li.dataset.href) return;
+        li.addEventListener('click', function (ev) {
+            if (ev.target.closest('a, button, .rollcall')) return;
+            if (String(window.getSelection())) return;
+            window.location.href = li.dataset.href;
+        });
+    });
+</script>
+
     <script src="/static/table-filter.js?v=4cceaa41d6"></script>
 </body>
 </html>

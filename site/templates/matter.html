@@ -109,36 +109,52 @@
     <section class="hearing-summary record-section">
         {{ heading("History") }}
         <ul class="record-list history-list">
+        {# The row opens its meeting; a bracket with a vote opens the roll call. #}
         {% for a in matter.appearances %}
-            {% set line %}<span class="record-date">{{ a.date | display_date }}</span> {{ a.body }}{% if a.outcome %} <span class="record-line__outcome"{% if a.action %} title="Legistar: {{ a.action }}"{% endif %}>({{ a.outcome }})</span>{% endif %}{% endset %}
-            <li>{% if a.link %}<a class="record-line" href="{{ a.link }}">{{ line }}</a>{% else %}<span class="record-line">{{ line }}</span>{% endif %}</li>
+            <li{% if a.link %} data-href="{{ a.link }}"{% endif %}>
+                <div class="record-line">
+                    {%- if a.link %}<a class="record-line__link" href="{{ a.link }}">{% endif -%}
+                    <span class="record-date">{{ a.date | display_date }}</span> {{ a.body }}
+                    {%- if a.link %}</a>{% endif %}
+                    {%- if a.vote_members %} <button type="button" class="vote-toggle" aria-expanded="false" title="Show how each member voted">({{ a.outcome }})</button>
+                    {%- elif a.outcome %} <span class="record-line__outcome"{% if a.action %} title="Legistar: {{ a.action }}"{% endif %}>({{ a.outcome }})</span>{% endif %}
+                </div>
+                {% if a.vote_members %}
+                <ul class="rollcall" hidden>
+                {% for n in a.vote_members %}
+                    <li class="rollcall-row">
+                        <a class="member-ref" href="/members/{{ n.slug }}/">{{ n.name }}</a>
+                        <span class="vote vote--{{ n.code }}">{{ n.label }}</span>
+                    </li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
         {% endfor %}
         </ul>
     </section>
     {% endif %}
 
-    {% if matter.votes %}
-    <section class="hearing-summary record-section">
-        {{ heading("Votes") }}
-        {% for v in matter.votes %}
-        <details class="rollcall-block">
-            <summary>
-                <span class="rollcall-toggle" aria-hidden="true">▸</span>
-                <span class="record-date">{{ v.date | display_date }}</span>
-                <span class="rollcall-summary-action">{{ v.body }} <span class="record-line__outcome">({{ v.outcome }})</span></span>
-            </summary>
-            <ul class="rollcall">
-            {% for n in v.members %}
-                <li class="rollcall-row">
-                    <a class="member-ref" href="/members/{{ n.slug }}/">{{ n.name }}</a>
-                    <span class="vote vote--{{ n.code }}">{{ n.label }}</span>
-                </li>
-            {% endfor %}
-            </ul>
-        </details>
-        {% endfor %}
-    </section>
-    {% endif %}
-
 </article>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    // History rows: a click anywhere opens the meeting, except on a link,
+    // on the vote bracket (which opens the roll call beneath) or inside it.
+    document.querySelectorAll('.history-list > li').forEach(function (li) {
+        var toggle = li.querySelector('.vote-toggle');
+        var votes = li.querySelector('.rollcall');
+        if (toggle) toggle.addEventListener('click', function () {
+            votes.hidden = !votes.hidden;
+            toggle.setAttribute('aria-expanded', String(!votes.hidden));
+        });
+        if (!li.dataset.href) return;
+        li.addEventListener('click', function (ev) {
+            if (ev.target.closest('a, button, .rollcall')) return;
+            if (String(window.getSelection())) return;
+            window.location.href = li.dataset.href;
+        });
+    });
+</script>
 {% endblock %}

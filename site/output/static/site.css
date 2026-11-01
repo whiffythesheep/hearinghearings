@@ -1996,54 +1996,6 @@ details[open] > summary .summary-caret {
     transform: rotate(90deg);
 }
 
-/* ---------- Vote dropdowns on a matter page ---------- */
-
-.rollcall-block {
-    border-top: 1px dashed var(--bevel-dark);
-}
-
-.rollcall-block:last-child {
-    border-bottom: 1px dashed var(--bevel-dark);
-}
-
-.rollcall-block > summary {
-    list-style: none;
-    cursor: pointer;
-    display: flex;
-    align-items: baseline;
-    gap: 0.75rem;
-    padding: 0.45rem 0.25rem;
-    font-size: 0.9rem;
-}
-
-.rollcall-block > summary::-webkit-details-marker {
-    display: none;
-}
-
-.rollcall-block > summary:hover {
-    background: #ece9de;
-}
-
-.rollcall-block > summary:hover .rollcall-summary-action {
-    color: var(--accent);
-}
-
-.rollcall-toggle {
-    font-size: 10px;
-    color: var(--text-muted);
-    transition: transform 0.1s;
-}
-
-.rollcall-block[open] .rollcall-toggle {
-    transform: rotate(90deg);
-}
-
-.rollcall-summary-num {
-    font-size: 0.85em;
-    white-space: nowrap;
-}
-
-
 /* ---------- The record block on a hearing page ---------- */
 .hearing-record {
     margin-top: 2.5rem;
@@ -2083,6 +2035,46 @@ details[open] > summary .summary-caret {
 .hearing-summary a.record-line:hover .record-date,
 .hearing-summary a.record-line:hover .record-line__outcome {
     color: var(--accent);
+}
+
+/* History rows link to their meeting through the whole row (script in
+   matter.html); a bracket with a vote is a button that opens the roll call */
+.history-list li[data-href] {
+    cursor: pointer;
+}
+
+.hearing-summary a.record-line__link {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.history-list li[data-href]:hover .record-line__link,
+.history-list li[data-href]:hover .record-date,
+.history-list li[data-href]:hover .record-line__outcome {
+    color: var(--accent);
+}
+
+.vote-toggle {
+    appearance: none;
+    background: none;
+    border: 0;
+    padding: 0;
+    font: inherit;
+    color: var(--text-muted);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+    cursor: pointer;
+}
+
+.vote-toggle:hover,
+.vote-toggle[aria-expanded="true"] {
+    color: var(--accent);
+    text-decoration-style: solid;
+}
+
+.rollcall[hidden] {
+    display: none;
 }
 
 .record-line__num {

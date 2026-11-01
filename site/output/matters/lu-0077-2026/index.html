@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=6dfcf5b51b">
+    <link rel="stylesheet" href="/static/site.css?v=665093ba98">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/matters/lu-0077-2026/">
     <meta name="description" content="LU 0077-2026 on Hearing Hearings.">
@@ -142,28 +142,45 @@
         <div class="section-header"><h2>History</h2></div>
         <ul class="record-list history-list">
         
-            
-            <li><span class="record-line"><span class="record-date">July 16, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Approved, by Council">(passed Council)</span></span></li>
         
-            
-            <li><a class="record-line" href="/hearings/city-council-fy-2027-budget-adoption-2026-06-30/"><span class="record-date">June 30, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.">(passed Council with changes)</span></a></li>
+            <li>
+                <div class="record-line"><span class="record-date">July 16, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Approved, by Council">(passed Council)</span>
+                </div>
+                
+            </li>
         
-            
-            <li><span class="record-line"><span class="record-date">June 25, 2026</span> Committee on Land Use <span class="record-line__outcome" title="Legistar: Approved by Committee with Modifications and Referred to CPC">(passed committee with changes)</span></span></li>
+            <li data-href="/hearings/city-council-fy-2027-budget-adoption-2026-06-30/">
+                <div class="record-line"><a class="record-line__link" href="/hearings/city-council-fy-2027-budget-adoption-2026-06-30/"><span class="record-date">June 30, 2026</span> City Council</a> <span class="record-line__outcome" title="Legistar: Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.">(passed Council with changes)</span>
+                </div>
+                
+            </li>
         
-            
-            <li><span class="record-line"><span class="record-date">June 25, 2026</span> Subcommittee on Zoning and Franchises <span class="record-line__outcome" title="Legistar: Approved by Subcommittee with Modifications and Referred to CPC">(passed committee with changes)</span></span></li>
+            <li>
+                <div class="record-line"><span class="record-date">June 25, 2026</span> Committee on Land Use <span class="record-line__outcome" title="Legistar: Approved by Committee with Modifications and Referred to CPC">(passed committee with changes)</span>
+                </div>
+                
+            </li>
         
-            
-            <li><a class="record-line" href="/hearings/subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-park-north-zoning-applications/"><span class="record-date">May 27, 2026</span> Subcommittee on Zoning and Franchises <span class="record-line__outcome" title="Legistar: Laid Over by Subcommittee">(heard)</span></a></li>
+            <li>
+                <div class="record-line"><span class="record-date">June 25, 2026</span> Subcommittee on Zoning and Franchises <span class="record-line__outcome" title="Legistar: Approved by Subcommittee with Modifications and Referred to CPC">(passed committee with changes)</span>
+                </div>
+                
+            </li>
         
-            
-            <li><span class="record-line"><span class="record-date">May 14, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Introduced by Council">(introduced and sent to committee)</span></span></li>
+            <li data-href="/hearings/subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-park-north-zoning-applications/">
+                <div class="record-line"><a class="record-line__link" href="/hearings/subcommittee-on-zoning-and-franchises-monitor-point-and-dewitt-clinton-park-north-zoning-applications/"><span class="record-date">May 27, 2026</span> Subcommittee on Zoning and Franchises</a> <span class="record-line__outcome" title="Legistar: Laid Over by Subcommittee">(heard)</span>
+                </div>
+                
+            </li>
+        
+            <li>
+                <div class="record-line"><span class="record-date">May 14, 2026</span> City Council <span class="record-line__outcome" title="Legistar: Introduced by Council">(introduced and sent to committee)</span>
+                </div>
+                
+            </li>
         
         </ul>
     </section>
-    
-
     
 
 </article>
@@ -275,6 +292,25 @@
     <script>fetch("https://assets.mailerlite.com/jsonp/2271536/forms/184864037765383434/takel");</script>
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "45f4a9883e7e46eb94b2ce5ddee0b375"}'></script>
     
+<script>
+    // History rows: a click anywhere opens the meeting, except on a link,
+    // on the vote bracket (which opens the roll call beneath) or inside it.
+    document.querySelectorAll('.history-list > li').forEach(function (li) {
+        var toggle = li.querySelector('.vote-toggle');
+        var votes = li.querySelector('.rollcall');
+        if (toggle) toggle.addEventListener('click', function () {
+            votes.hidden = !votes.hidden;
+            toggle.setAttribute('aria-expanded', String(!votes.hidden));
+        });
+        if (!li.dataset.href) return;
+        li.addEventListener('click', function (ev) {
+            if (ev.target.closest('a, button, .rollcall')) return;
+            if (String(window.getSelection())) return;
+            window.location.href = li.dataset.href;
+        });
+    });
+</script>
+
     <script src="/static/table-filter.js?v=4cceaa41d6"></script>
 </body>
 </html>

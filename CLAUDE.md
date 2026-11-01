@@ -309,8 +309,9 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
 - **Votes live on matter pages only** (2026-11-01). Hearing pages have no roll-call section:
   their record groups into dropdowns by matter type whenever the meeting voted (or has more
   than 12 items), and each tally ("39–10") is underlined with a pop-up naming everyone who
-  did not vote yes (`vote_tip()`). The matter page's Votes section lists every roll call in
-  full (`vote_groups()`), names linked to member pages.
+  did not vote yes (`vote_tip()`). On a matter page each history line with a roll call has
+  its bracket as a toggle that opens every member's vote beneath it (`vote_rows()`); the rest
+  of the row links to the meeting. There is no separate Votes section.
 - **Five plain matter types** (`matter_type_label()` in `site/record.py`): Proposed law (Int),
   Land use (LU applications + call-ups), Approval (resolutions that decide something:
   budget, tax rates, appointments, funding, SEQRA findings; matched by `APPROVAL_RE` on the

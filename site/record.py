@@ -814,6 +814,12 @@ def load_records(hearings, today=None):
             # Same day: the Council votes after the committee, as in History.
             key=lambda v: (v["date"], _norm_body(v["body"]) == _norm_body("City Council")),
             reverse=True)
+        # Each roll call hangs off its history line, opened from the bracket.
+        for e in timeline:
+            bodies = {_norm_body(b) for b in e.get("bodies", [e["body"]])}
+            vote = next((v for v in m["votes"]
+                         if v["date"] == e["date"] and _norm_body(v["body"]) in bodies), None)
+            e["vote_members"] = vote["members"] if vote else []
         past = [e for e in timeline if not e["upcoming"]]
         future = [e for e in timeline if e["upcoming"]]
         # Nothing has happened to it yet: greyed like upcoming hearings.
