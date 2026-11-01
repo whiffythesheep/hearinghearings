@@ -136,7 +136,7 @@ def collapse_summary_sections(html):
             body = parts[i + 1] if i + 1 < len(parts) else ""
             out.append(
                 '<details class="summary-section">'
-                f'<summary><span class="summary-caret" aria-hidden="true">▸ </span>{match.group(1)}</summary>'
+                f'<summary><span class="summary-caret" aria-hidden="true">▸</span> {match.group(1)}</summary>'
                 f'<div class="summary-section-body">{body}</div>'
                 "</details>"
             )
@@ -540,6 +540,7 @@ def build():
     env.globals["asset_version"] = asset_version
     env.filters["plain"] = record.plain_action
     env.filters["outcome"] = record.outcome
+    env.filters["vote_label"] = lambda code: record.VOTE_LABELS.get(code, code)
     env.filters["member_slug"] = lambda name: record.slugify(record.normalize_name(name))
     env.filters["display_date"] = record.display_date
 

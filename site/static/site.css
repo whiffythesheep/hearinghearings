@@ -1774,26 +1774,6 @@ body.desktop {
 }
 
 /* ---------- Chips and document lists ---------- */
-.chip-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-}
-
-.chip-item {
-    font-family: var(--font-chrome);
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    background: #f3f1e9;
-    border: 1px solid var(--rule);
-    padding: 3px 8px;
-    display: inline-block;
-}
-
 .doc-list {
     list-style: none;
     padding: 0;
@@ -1801,6 +1781,11 @@ body.desktop {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem;
+}
+
+.hearing-summary .doc-list {
+    margin: 0;
+    max-width: none;
 }
 
 /* Each document a small box, accent on hover like the other links */
@@ -2001,17 +1986,17 @@ body.desktop {
     margin-top: 0;
 }
 
-.chip-link {
-    color: var(--text);
-    text-decoration: none;
+/* Every dropdown's arrow turns to point down while it is open */
+.summary-caret {
+    display: inline-block;
+    transition: transform 0.1s;
 }
 
-.chip-link:hover {
-    color: var(--accent);
-    border-color: var(--accent);
+details[open] > summary .summary-caret {
+    transform: rotate(90deg);
 }
 
-/* ---------- Roll calls (a dropdown under the record) ---------- */
+/* ---------- Vote dropdowns on a matter page ---------- */
 
 .rollcall-block {
     border-top: 1px dashed var(--bevel-dark);

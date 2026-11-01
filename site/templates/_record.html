@@ -63,7 +63,7 @@
 {% set group = items | selectattr("type_label", "equalto", label) | list %}
 {% if group %}
 <details class="summary-section record-group"{% if open %} open{% endif %}>
-    <summary><span class="summary-caret" aria-hidden="true">▸ </span>{{ heading }} ({{ group | length }})</summary>
+    <summary><span class="summary-caret" aria-hidden="true">▸</span> {{ heading }} ({{ group | length }})</summary>
     <div class="summary-section-body">{{ items_list(group) }}</div>
 </details>
 {% endif %}
