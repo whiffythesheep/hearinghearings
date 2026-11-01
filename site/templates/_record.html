@@ -57,12 +57,12 @@
 
 {# A long record (a Stated Meeting takes up dozens of items) as one
    dropdown per matter type, in the order the Matters page lists them. #}
-{% macro items_grouped(items) %}
+{% macro items_grouped(items, open=False) %}
 {% for label, heading in [("Law", "Laws"), ("Proposed law", "Proposed laws"), ("Land use", "Land use applications"),
                           ("Resolution", "Resolutions"), ("Approval", "Approvals"), ("Oversight", "Oversight"), ("Other", "Other")] %}
 {% set group = items | selectattr("type_label", "equalto", label) | list %}
 {% if group %}
-<details class="summary-section record-group">
+<details class="summary-section record-group"{% if open %} open{% endif %}>
     <summary><span class="summary-caret" aria-hidden="true">▸ </span>{{ heading }} ({{ group | length }})</summary>
     <div class="summary-section-body">{{ items_list(group) }}</div>
 </details>

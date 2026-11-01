@@ -127,10 +127,12 @@
                 <span class="record-date">{{ v.date | display_date }}</span>
                 <span class="rollcall-summary-action">{{ v.body }} <span class="record-line__outcome">({{ v.outcome }})</span></span>
             </summary>
-            <ul class="vote-groups">
-            {% for label, names in v.groups %}
-                <li><strong>{{ label }} ({{ names | length }}):</strong>
-                    {% for n in names %}<a class="member-ref" href="/members/{{ n.slug }}/">{{ n.name }}</a>{{ ", " if not loop.last }}{% endfor %}</li>
+            <ul class="rollcall">
+            {% for n in v.members %}
+                <li class="rollcall-row">
+                    <a class="member-ref" href="/members/{{ n.slug }}/">{{ n.name }}</a>
+                    <span class="vote vote--{{ n.code }}">{{ n.label }}</span>
+                </li>
             {% endfor %}
             </ul>
         </details>

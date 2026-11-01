@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=1126e9fddd">
+    <link rel="stylesheet" href="/static/site.css?v=f0a822cf4e">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/hearings/committee-on-housing-and-buildings-oversight-shared-housing-in-nyc/">
     <meta name="description" content="The Housing and Buildings Committee held an oversight hearing on shared housing in NYC and reviewed six pieces of legislation addressing various housing and...">
@@ -441,6 +441,33 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Tally pop-ups: who did not vote yes, just above the pointer (or above
+    // the tally when it has keyboard focus), in the title-bar tooltip style.
+    (function () {
+        var tip = document.createElement('div');
+        tip.className = 'aesthetic-tooltip vote-tooltip';
+        tip.hidden = true;
+        document.body.appendChild(tip);
+        function place(x, y) {
+            var w = tip.offsetWidth, h = tip.offsetHeight;
+            tip.style.left = Math.max(8, Math.min(x - w / 2, window.innerWidth - w - 8)) + 'px';
+            tip.style.top = Math.max(8, y - h - 10) + 'px';
+        }
+        function show(el) { tip.textContent = el.dataset.tip; tip.hidden = false; }
+        document.querySelectorAll('.vote-tip').forEach(function (el) {
+            el.addEventListener('mouseenter', function (ev) { show(el); place(ev.clientX, ev.clientY); });
+            el.addEventListener('mousemove', function (ev) { place(ev.clientX, ev.clientY); });
+            el.addEventListener('mouseleave', function () { tip.hidden = true; });
+            el.addEventListener('focus', function () {
+                show(el);
+                var r = el.getBoundingClientRect();
+                place(r.left + r.width / 2, r.top);
+            });
+            el.addEventListener('blur', function () { tip.hidden = true; });
+        });
+        window.addEventListener('scroll', function () { tip.hidden = true; }, { passive: true });
+    })();
 
     // Closed <details> render empty in print; open the summary sections
     // for the PDF and restore them afterwards. Covers Ctrl+P too.

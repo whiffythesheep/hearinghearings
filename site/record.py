@@ -172,6 +172,17 @@ def vote_groups(roll_call):
     return groups
 
 
+VOTE_LABELS = dict([("Affirmative", "In favour")] + VOTE_GROUPS)
+
+
+def vote_rows(roll_call):
+    """Each member and how they voted, in Legistar's order."""
+    return [{"name": v["name"], "slug": slugify(normalize_name(v["name"])),
+             "code": (v.get("vote") or "").lower().replace(" ", "-"),
+             "label": VOTE_LABELS.get(v.get("vote"), v.get("vote", ""))}
+            for v in roll_call]
+
+
 def vote_tip(roll_call):
     """The pop-up on a tally: who did not vote yes, and why."""
     lines = [f"{label}: " + ", ".join(n["name"] for n in names)
@@ -797,7 +808,7 @@ def load_records(hearings, today=None):
             ({"date": meeting.get("date", ""), "body": meeting.get("body", ""),
               "link": meeting["link"] if meeting["linkable"] else "",
               "outcome": outcome(rc.get("action") or row.get("action"), rc.get("tally")),
-              "groups": vote_groups(rc["roll_call"])}
+              "members": vote_rows(rc["roll_call"])}
              for meeting, row in rows_by_matter.get(m["slug"], [])
              for rc in row.get("roll_calls") or []),
             key=lambda v: v["date"], reverse=True)

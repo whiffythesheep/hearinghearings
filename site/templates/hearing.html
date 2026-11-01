@@ -58,7 +58,7 @@
         {# Meetings with votes, and long agendas, open by matter type; how each
            member voted lives on the matter pages (and in the tally pop-ups). #}
         {% if hearing.voted_items or hearing.record_items | length > 12 %}
-        {{ rec.items_grouped(hearing.record_items) }}
+        {{ rec.items_grouped(hearing.record_items, open=hearing.record_items | length <= 10) }}
         {% else %}
         {{ rec.items_list(hearing.record_items) }}
         {% endif %}
@@ -93,6 +93,33 @@
         window.print();
         setTimeout(function () { document.title = original; }, 1000);
     }
+
+    // Tally pop-ups: who did not vote yes, just above the pointer (or above
+    // the tally when it has keyboard focus), in the title-bar tooltip style.
+    (function () {
+        var tip = document.createElement('div');
+        tip.className = 'aesthetic-tooltip vote-tooltip';
+        tip.hidden = true;
+        document.body.appendChild(tip);
+        function place(x, y) {
+            var w = tip.offsetWidth, h = tip.offsetHeight;
+            tip.style.left = Math.max(8, Math.min(x - w / 2, window.innerWidth - w - 8)) + 'px';
+            tip.style.top = Math.max(8, y - h - 10) + 'px';
+        }
+        function show(el) { tip.textContent = el.dataset.tip; tip.hidden = false; }
+        document.querySelectorAll('.vote-tip').forEach(function (el) {
+            el.addEventListener('mouseenter', function (ev) { show(el); place(ev.clientX, ev.clientY); });
+            el.addEventListener('mousemove', function (ev) { place(ev.clientX, ev.clientY); });
+            el.addEventListener('mouseleave', function () { tip.hidden = true; });
+            el.addEventListener('focus', function () {
+                show(el);
+                var r = el.getBoundingClientRect();
+                place(r.left + r.width / 2, r.top);
+            });
+            el.addEventListener('blur', function () { tip.hidden = true; });
+        });
+        window.addEventListener('scroll', function () { tip.hidden = true; }, { passive: true });
+    })();
 
     // Closed <details> render empty in print; open the summary sections
     // for the PDF and restore them afterwards. Covers Ctrl+P too.
