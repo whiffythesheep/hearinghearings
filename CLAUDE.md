@@ -40,7 +40,7 @@ hearinghearings/
     ├── build.py                   # Jinja2 + markdown → static HTML
     ├── record.py                  # loads data/, derives members + committees
     ├── templates/
-    │   ├── base.html              # shared window chrome, section nav, subscribe block
+    │   ├── base.html              # shared window chrome, section nav, AI-disclosure footer
     │   ├── index.html             # listing page
     │   ├── hearing.html           # single hearing page (+ "The record" block)
     │   ├── _record.html           # shared record macros (record lists, type groups, filters)
@@ -433,32 +433,14 @@ tokens (a one-night stopgap was removed at the user's request).
 
 `site/output/` is **committed** to the repo (not gitignored) — this is how Cloudflare Pages serves the pre-built site without running a build step.
 
-## MailerLite subscription
+## Email
 
-- Account: user's personal MailerLite account ([owner's email])
-- Free tier limit (since 2026-07-01): 250 active subscribers / 2,500 emails per month — migrate ESPs before the list approaches 250
-- Embed form lives in `site/templates/base.html` inside the `{% block subscribe %}` block, so it renders on both the index and every hearing page
-- Form styling is in `site/static/site.css` under `.subscribe-*` selectors to inherit the Win95 palette
-- MailerLite account must have `hearinghearings.nyc` added as an allowed domain for embed submissions to succeed in production
-
-### Email step (currently manual)
-
-As of 2026-05-07 the pipeline does **not** send subscriber emails by default. MailerLite's free-tier API rejects custom HTML campaigns (422 since 2026-05-06), and a Buttondown migration was investigated but rejected — Buttondown's free tier wraps custom HTML in template chrome that can't be removed without paid tier. Subscribers currently receive no notifications. A manual weekly-digest script (`weekly_digest.py`) existed from June to October 2026 but was removed on 2026-10-17 as something the user would not realistically keep up.
-
-The email-rendering and -sending code is preserved for when the user upgrades or migrates:
-
-Flags:
-- Default (no flag) — pipeline skips the email step entirely.
-- `--send-email` — attempt to send via MailerLite API (will 422 on free tier until upgrade).
-- `--skip-preview` — when used with `--send-email`, broadcasts directly to all subscribers without preview prompt.
-
-Preview group setup (still required if/when `--send-email` is used):
-1. In MailerLite → Subscribers → Groups → create a group named `Preview`.
-2. Add `[owner's email]` (or whichever address is the preview recipient) as the only subscriber in that group.
-3. Copy the group ID and add to `.env`:
-   ```
-   MAILERLITE_PREVIEW_GROUP_ID=<id>
-   ```
+There is no email list. The MailerLite sign-up form and all subscriber-email code
+(`--send-email`, `--skip-preview`, the campaign builder) were removed on 2026-11-01: nobody had
+been sent an email since May 2026, and keeping a list meant needing a privacy policy. The only
+email on the site is the title-bar ✉ / footer "send corrections via email" link to
+`email@hearinghearings.nyc`, which Cloudflare Email Routing forwards to the owner. That does not
+depend on MailerLite.
 
 ## Inherited standards
 
