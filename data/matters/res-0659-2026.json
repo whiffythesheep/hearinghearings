@@ -3,21 +3,32 @@
  "slug": "res-0659-2026",
  "legistar_id": "8237733",
  "type": "Resolution",
- "title": "Application number C 240161 ZMX (815 Hutchinson River Parkway Rezoning) submitted by MD Hutch Owner LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 7a, changing from an M1-2 District to a C8-3 District, Borough of the Bronx, Community District 10, Council District 13.",
+ "title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 240161 ZMX, for a Zoning Map amendment (L.U. No. 120).",
  "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
   "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966365&GUID=AF8BAAC4-4373-4D81-89C9-00DA40EB19AA"
+  },
+  {
+   "label": "Res. No. 659",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966366&GUID=BC7BA3BF-E398-4FE9-948F-8375D90C1C0D"
+  }
+ ],
  "fiscal": null,
  "history": [
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

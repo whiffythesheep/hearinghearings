@@ -51,6 +51,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16049780&GUID=08A9EE1F-87EF-4BB0-B29C-79E8647D6A48"
   },
   {
+   "label": "Hearing Transcript - Zoning 9/23/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16087928&GUID=7DF57B71-283A-4DFA-9B1A-825EB3866E3E"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930191&GUID=C571F9D3-6FCE-4935-B608-102924698D63"
@@ -59,6 +64,11 @@
    "label": "Committee Report",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966660&GUID=718ACA51-9A2B-4F81-B435-2AB9B11890E5"
+  },
+  {
+   "label": "Hearing Transcript - Land Use 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089878&GUID=C4BEA231-CF7C-45B0-8A31-121FD34ADC43"
   },
   {
    "label": "Res. No. 673",
@@ -74,6 +84,16 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048383&GUID=A6ADF6E9-910F-4276-96AB-1DC8E963A723"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061881&GUID=1FB4331D-3C9E-4EE1-859D-D34D3C5A22DF"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091925&GUID=9E9AB667-A8AF-4F37-B33F-FEACEC36BFAE"
   }
  ],
  "fiscal": null,
@@ -81,8 +101,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",
@@ -93,14 +113,14 @@
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Approved by Committee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",

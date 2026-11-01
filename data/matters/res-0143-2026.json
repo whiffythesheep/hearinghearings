@@ -86,6 +86,11 @@
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849138&GUID=61A28730-6D58-41DF-975C-358D25E75186"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093851&GUID=88BEC2B3-D65A-450B-AC11-4FDE5AC06857"
   }
  ],
  "fiscal": null,
@@ -128,6 +133,12 @@
   },
   {
    "date": "2026-05-06",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-05-06",
    "body": "Committee on General Welfare",
    "action": "Laid Over by Committee",
    "result": ""
@@ -136,12 +147,6 @@
    "date": "2026-05-06",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-05-06",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

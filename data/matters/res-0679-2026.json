@@ -3,7 +3,7 @@
  "slug": "res-0679-2026",
  "legistar_id": "8279422",
  "type": "Resolution",
- "title": "Application number C 260238 ZMK (Fort Hamilton Mews Rezoning) submitted by 9305 5th Ave LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 22b: eliminating from within an R6B District a C2-3 District; changing from an R5B District to an R7X District; changing from an R6B District to an R7X District; and establishing within the proposed R7X District a C2-4 District, Borough of Brooklyn, Community District 10, Council District 47.",
+ "title": "Resolution approving with modifications the decision of the City Planning Commission on ULURP No. C 260238 ZMK, for a Zoning Map amendment (L.U. No. 131).",
  "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
@@ -15,6 +15,26 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048492&GUID=02C67227-CCD1-40E1-B216-EE9C93BC19CA"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061894&GUID=1E76AE45-2976-40C0-89AD-C071438E3335"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067536&GUID=EF75C776-890F-4090-848B-E8F9896A77A4"
+  },
+  {
+   "label": "Res. No. 679",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067537&GUID=6AE50130-C235-4682-B3C4-9723FE80BF50"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091938&GUID=B4D73100-9D74-45C5-B69A-2C3365DEB280"
   }
  ],
  "fiscal": null,
@@ -28,8 +48,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-06",

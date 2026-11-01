@@ -42,6 +42,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548242&GUID=53724946-0812-47F1-BAC2-26DB2950794D"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849004&GUID=DE783C24-8B2B-47C3-87CB-146FE6B582FC"
+  },
+  {
    "label": "Committee Report 5/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15490630&GUID=FE1E8D86-05A1-4813-9376-48636B709910"
@@ -72,6 +77,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844014&GUID=00A97074-65EE-43BD-9032-5AD5ECEBF7FA"
   },
   {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088244&GUID=D75323CE-3371-4256-B64C-360E2E87F56C"
+  },
+  {
    "label": "Int. No. 906-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847348&GUID=BAADFDE0-30BB-4815-9AFB-CEF4FFF4544E"
@@ -80,11 +90,6 @@
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847347&GUID=F2BDACC5-F82F-46D8-B941-B5B8D251172A"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849004&GUID=DE783C24-8B2B-47C3-87CB-146FE6B582FC"
   },
   {
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
@@ -115,6 +120,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834387&GUID=A4FD71BF-2EB7-453F-A632-82E5040DBEA0"
  },
  "history": [
+  {
+   "date": "2026-10-13",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-10-10",
    "body": "Administration",

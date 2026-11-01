@@ -102,19 +102,24 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837730&GUID=CFAE066A-B973-4508-B30F-3D0FBB6D31D1"
   },
   {
+   "label": "Hearing Transcript 9/9/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088034&GUID=04E347DC-CEA6-4B1F-9863-7B8DE3E2BA63"
+  },
+  {
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845096&GUID=BE571D0F-37A9-4865-8CA3-930BC81925CF"
   },
   {
-   "label": "Int. No. 803-A (FINAL)",
-   "kind": "Bill text",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845097&GUID=1F915494-03CF-492D-9D8B-C5AF3AA8B438"
-  },
-  {
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862891&GUID=372B2FFC-B476-4482-948F-323BA42452CA"
+  },
+  {
+   "label": "Int. No. 803-A (FINAL)",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845097&GUID=1F915494-03CF-492D-9D8B-C5AF3AA8B438"
   }
  ],
  "fiscal": {
@@ -140,6 +145,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15836127&GUID=8FF61E7B-D741-4909-BE32-47092AD5BD8C"
  },
  "history": [
+  {
+   "date": "2026-10-13",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-10-10",
    "body": "Administration",

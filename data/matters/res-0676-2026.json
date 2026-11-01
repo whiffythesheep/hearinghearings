@@ -25,6 +25,16 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051294&GUID=82862BDA-75FB-4FB4-843A-BEAF90D80CB1"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061888&GUID=E897B0DA-DAD9-4700-872E-4FE0E3FE3CCE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091932&GUID=47814FAC-AC55-417F-A7FB-4FA7A781A398"
   }
  ],
  "fiscal": null,
@@ -32,8 +42,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

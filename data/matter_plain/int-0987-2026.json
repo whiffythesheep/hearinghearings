@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0987-2026",
- "title": "Law to let groups request shared street trash bins",
- "summary": "This bill would require the Department of Sanitation to create a process letting block associations or non-profit groups request a stationary on-street container shared by two or more residential buildings for trash setout. Sanitation would contact affected building owners for their agreement, decide if the shared container is workable given its routes and the number of units involved, and if so install it and notify owners of their responsibilities and any fees. The law would take effect 180 days after being enacted.",
+ "title": "Law to let groups request shared street waste bins",
+ "summary": "This bill would require the Department of Sanitation to create a process for block associations or non-profit groups to request a stationary on-street container shared by two or more residential buildings. The department would contact building owners to confirm they want to opt in, decide whether a shared container is workable given its routes and the number of units involved, and if so install it and notify owners of their responsibilities and any fees. The law would take effect 180 days after being enacted.",
  "model": "claude-sonnet-5",
- "input_hash": "8e4d95e1ce940243"
+ "input_hash": "da48926f1ae5cd36"
 }

@@ -115,6 +115,11 @@
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849091&GUID=9B09C5CF-7637-4488-8FA3-8146ACBC38CD"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093257&GUID=885C1052-F1FE-4E3B-9587-49F55674FDE1"
   }
  ],
  "fiscal": {
@@ -167,6 +172,12 @@
   {
    "date": "2026-06-30",
    "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-30",
+   "body": "Committee on Education",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
@@ -184,20 +195,14 @@
   },
   {
    "date": "2026-06-30",
-   "body": "Committee on Education",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-30",
-   "body": "Subcommittee on Early Childhood Education",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-30",
    "body": "Subcommittee on Early Childhood Education",
    "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-06-30",
+   "body": "Subcommittee on Early Childhood Education",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {
@@ -215,6 +220,12 @@
   {
    "date": "2026-04-22",
    "body": "Committee on Oversight and Investigations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-22",
+   "body": "Subcommittee on Early Childhood Education",
    "action": "Hearing Held by Committee",
    "result": ""
   },
@@ -240,12 +251,6 @@
    "date": "2026-04-22",
    "body": "Subcommittee on Early Childhood Education",
    "action": "Laid Over by Subcommittee",
-   "result": ""
-  },
-  {
-   "date": "2026-04-22",
-   "body": "Subcommittee on Early Childhood Education",
-   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

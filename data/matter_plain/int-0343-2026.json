@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0343-2026",
  "title": "Law to waive permit fees for rooftop solar installs",
- "summary": "This bill would exempt rooftop solar thermal and photovoltaic installations from fees charged for street crane permit applications. It would take effect 120 days after becoming law and apply to construction documents already pending with the Department of Buildings. The Department of Buildings would need to issue rules to implement the change before the effective date.",
+ "summary": "This bill would exempt rooftop solar power installations from fees for street crane permits needed to install them. It adds a new section to the city's Administrative Code and would take effect 120 days after becoming law. The change would apply to construction documents already pending with the Department of Buildings as of the effective date.",
  "model": "claude-sonnet-5",
- "input_hash": "f65cd21b4c3fa08b"
+ "input_hash": "58aee8e3830a6767"
 }

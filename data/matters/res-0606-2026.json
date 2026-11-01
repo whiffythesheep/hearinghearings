@@ -18,6 +18,7 @@
   "Nantasha M. Williams",
   "Harvey D. Epstein",
   "Shirley Aldebol",
+  "Jennifer Gutiérrez",
   "Public Advocate Jumaane Williams",
   "(in conjunction with the Bronx Borough President)"
  ],
@@ -37,6 +38,16 @@
    "label": "Committee Report 9/24/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884528&GUID=EAE10633-3F15-4F65-BE87-A1F675EE9F20"
+  },
+  {
+   "label": "Hearing Transcript 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089804&GUID=F725E506-A882-4CB3-967C-B8D764FDCF9B"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969352&GUID=6DB34A60-1E90-4096-BBFC-6C8BCE53378F"
   }
  ],
  "fiscal": null,
@@ -44,8 +55,8 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

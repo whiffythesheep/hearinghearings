@@ -3,7 +3,7 @@
  "slug": "res-0681-2026",
  "legistar_id": "8279424",
  "type": "Resolution",
- "title": "Application number C 240218 ZMK (Park Avenue Brooklyn Rezoning) submitted by Park Avenue Rezoning Partners LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 12d & 13b: changing from an M1-1 District to an M1-4/R6-1 District; changing from an M1-2 District to an M1-4/R6-1 District; changing from an M1-1 District to an M1-4/R7D District; changing from an M1-2 District to an M1-4/R7D District; and establishing a Special Mixed Use District (MX-4), Borough of Brooklyn, Community District 3, Council District 33.",
+ "title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 240218 ZMK, for a Zoning Map amendment (L.U. No. 133).",
  "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
@@ -15,20 +15,40 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048551&GUID=EE729EDB-AE12-43DC-95E6-86B138B5C429"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061898&GUID=45955725-9EAE-40C5-8E00-7FBD6AFDD2E2"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067565&GUID=CFC20EA2-BFD8-4E69-B099-16AAAA466143"
+  },
+  {
+   "label": "Res. No. 681",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067570&GUID=2ACFCF29-E7D0-4FBD-8517-15D8201E36A5"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091942&GUID=D64BC7B7-E831-4B77-B8D9-223A765828F5"
   }
  ],
  "fiscal": null,
  "history": [
   {
-   "date": "2026-10-22",
+   "date": "2026-10-08",
    "body": "City Council",
-   "action": "Introduced by Council",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
+   "action": "Introduced by Council",
    "result": ""
   },
   {

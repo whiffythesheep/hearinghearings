@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0078-2026",
- "title": "Law to require delivery data tracking from delivery services",
- "summary": "This bill would require licensed delivery services to submit detailed trip data to the Department of Consumer and Worker Protection, including delivery worker identification, timing of orders and pickups, drop-off locations, GPS route data and vehicle type used. The law would take effect alongside a related bill (Introduction 1448) on licensing delivery services.",
+ "title": "Law to require delivery apps to report route data",
+ "summary": "This bill would require licensed delivery services to submit detailed trip data to the Department of Consumer and Worker Protection, including delivery worker IDs, order and pickup/drop-off times and locations, GPS route data, and vehicle type. It would take effect once a related bill on licensing delivery services (Introduction 1448) becomes law.",
  "model": "claude-sonnet-5",
- "input_hash": "d44a43819919eb5a"
+ "input_hash": "5f27b2e93331ff15"
 }

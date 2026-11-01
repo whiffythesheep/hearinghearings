@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0943-2026",
  "title": "Law to phase out horse-drawn carriages by 2028",
- "summary": "This bill would end the horse-drawn carriage industry by barring new or renewed horse, cab and driver licenses after June 1, 2028, when all existing licenses would expire. It requires humane disposition of carriage horses, banning sale or transfer for slaughter or reuse in the industry, and directs the City to create a transition plan by April 1, 2027 covering worker retraining and possible compensation for owners. The bill follows recent carriage horse deaths and a fatal 2026 Central Park accident.",
+ "summary": "This bill would ban new or renewed licenses for carriage horses, horse-drawn cabs and their drivers starting June 1, 2028, ending any existing licenses on that date. It requires carriage horses be disposed of humanely, barring sale for slaughter or reuse in the industry. The city must create a transition plan by April 1, 2027 to help owners, drivers and stable workers, including possible compensation and workforce assistance.",
  "model": "claude-sonnet-5",
- "input_hash": "5a2e855bf2d475c1"
+ "input_hash": "0bb96a1e7cea37e8"
 }

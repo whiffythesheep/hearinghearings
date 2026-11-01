@@ -36,6 +36,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15700882&GUID=214E4B4B-2E57-40F0-9AA2-825F2C87C9FE"
   },
   {
+   "label": "Hearing Transcript - Zoning 7/1/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969035&GUID=5C4E5A23-F97B-4937-8F6B-346E5110544E"
+  },
+  {
    "label": "Calendar of the Subcommittee and Land Use Meetings - July 14, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15682922&GUID=DEDB958D-C0C8-4742-AB8F-EBF5DDE96462"
@@ -49,6 +54,11 @@
    "label": "Res. No. 575",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692142&GUID=9722E66D-EB55-4818-981D-E6666FAE5CF2"
+  },
+  {
+   "label": "Hearing Transcript - Zoning 7/14/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953463&GUID=8A6E95C2-E245-4D1F-978C-AE67A2DB52DB"
   },
   {
    "label": "Hearing Transcript - Land Use 7/14/26",
@@ -89,14 +99,14 @@
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee",
+   "result": "Pass"
   },
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-07-01",

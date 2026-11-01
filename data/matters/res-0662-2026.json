@@ -3,7 +3,7 @@
  "slug": "res-0662-2026",
  "legistar_id": "8237734",
  "type": "Resolution",
- "title": "Application number D 2550162086 SWQ (Cali Tajadas Bakery & Restaurant) pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens, Community District 4, Council District 21.",
+ "title": "Resolution disapproving of the petition for a revocable consent for a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens (Non-ULURP No. D 2550162086 SWQ; DOT No. 20250724040001; L.U. No. 141).",
  "status": "Disapproved",
  "sponsors": [
   "Kevin C. Riley",
@@ -30,6 +30,16 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting – September 23, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933042&GUID=C13DF04E-B2A3-4010-92ED-DAF34A6A5D50"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966391&GUID=14A7B61F-4217-4581-9EFC-A18BBCE3DA72"
+  },
+  {
+   "label": "Res. No. 662",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16043149&GUID=83EEE8AA-C7A5-453A-B2C6-7F7C3BE8AEFB"
   }
  ],
  "fiscal": null,
@@ -37,8 +47,8 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Disapproved by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

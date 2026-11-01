@@ -3,7 +3,7 @@
  "slug": "res-0686-2026",
  "legistar_id": "8279450",
  "type": "Resolution",
- "title": "Application number N 260088 ZRK (289 Kent Avenue Rezoning) submitted by Web Holdings LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 1, Council District 33.",
+ "title": "Resolution approving with modifications the decision of the City Planning Commission on ULURP No. N 260088 ZRK, for an amendment of the text of the Zoning Resolution (L.U. No. 140)",
  "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
@@ -15,6 +15,26 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048522&GUID=42B8F511-69C1-412D-9305-95508E970408"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061908&GUID=C1FEEA18-D979-4621-B382-2E4915150809"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067838&GUID=E58734EF-D8DF-49C8-AE4E-70FC7E2F5BCE"
+  },
+  {
+   "label": "Res. No. 686",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067843&GUID=9BE2F5D8-1ACD-4D57-A29B-1EF323650A31"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091953&GUID=5F9A4876-825D-40F4-B9F4-DB61BA0D2DCF"
   }
  ],
  "fiscal": null,
@@ -22,13 +42,13 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "Introduced by Council",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
+   "action": "Introduced by Council",
    "result": ""
   },
   {

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0214-2026",
- "title": "Law to require rules-of-road notices on bike and scooter share apps",
- "summary": "This bill would require operators of shared bike and scooter systems, like Citi Bike, to display safe-riding rules to users through their apps and at physical docking stations. Users would need to review the rules at least once a year before unlocking a device, and apps could not charge for the time spent reviewing them. Physical station displays would be required within one year of the law taking effect.",
+ "title": "Law to require bike and scooter share apps to show safety rules",
+ "summary": "This bill would require operators of shared bike and scooter systems to display traffic safety rules to users through their apps and at physical docking stations. Users would have to review the rules at least once a year before unlocking a device, with no fee charged for that time, and stations must display the rules within one year of the law taking effect. The rules must cover topics like yielding to pedestrians, obeying traffic signals, riding direction, sidewalk use, bell use, headphone use and safe speeds.",
  "model": "claude-sonnet-5",
- "input_hash": "285c16029ae574d8"
+ "input_hash": "6bbb8c27ef0da39c"
 }

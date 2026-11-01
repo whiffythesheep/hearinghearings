@@ -30,6 +30,16 @@
    "label": "Committee Report 10/8/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046578&GUID=6833FA39-1FF0-4F40-A94F-3DC994EDBCF5"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061912&GUID=CE1C4251-40FE-4B93-8394-F47FD5116C18"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091958&GUID=CB4C0C24-64DC-4766-A6A7-D8494AE193AF"
   }
  ],
  "fiscal": null,
@@ -37,8 +47,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-08",
@@ -55,13 +65,13 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "Introduced by Council",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Introduced by Council",
    "result": ""
   }
  ],

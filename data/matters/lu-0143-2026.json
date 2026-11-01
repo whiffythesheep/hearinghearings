@@ -49,6 +49,11 @@
    "label": "Res. No. 712",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084723&GUID=56EECE39-DD87-4BBE-BA6E-204E2271C570"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091409&GUID=906B26AD-7B2B-4E7E-A1C7-1C537FE8C370"
   }
  ],
  "fiscal": null,
@@ -74,14 +79,14 @@
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee",
+   "result": "Pass"
   },
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",

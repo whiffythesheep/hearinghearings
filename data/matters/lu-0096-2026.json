@@ -36,14 +36,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15682910&GUID=FB11C8FB-C8AD-4758-9C96-F3636044F915"
   },
   {
-   "label": "Committee Report",
-   "kind": "Committee Report",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691942&GUID=98826548-E4DF-4964-B8BA-45E5A4409062"
-  },
-  {
-   "label": "Res. No. 613",
-   "kind": "Bill text",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691943&GUID=99E28E5E-126F-4C97-9A38-925BF089045E"
+   "label": "Hearing Transcript - Zoning 7/14/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953451&GUID=7439BA5B-9099-43E2-8437-55BE7BFEEF52"
   },
   {
    "label": "Hearing Transcript - Land Use 7/14/26",
@@ -64,6 +59,26 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15744906&GUID=0E96F833-74E2-41CD-B9E3-F0C0B3F86243"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691942&GUID=98826548-E4DF-4964-B8BA-45E5A4409062"
+  },
+  {
+   "label": "Res. No. 613",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15691943&GUID=99E28E5E-126F-4C97-9A38-925BF089045E"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968965&GUID=427C0B93-8AA2-4EC1-AF41-B1C9ABB170CF"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969397&GUID=0EF3691D-3467-4EFB-A1F7-31691955C567"
   }
  ],
  "fiscal": null,

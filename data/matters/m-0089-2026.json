@@ -44,6 +44,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844055&GUID=E6FFD17E-28DC-4317-9725-5BA41DEB7E24"
   },
   {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088204&GUID=1484F555-E8E9-4B8E-8A5C-434B7FA9E8BE"
+  },
+  {
    "label": "Res. No. 640",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844614&GUID=248E8D9C-5B41-43BA-AAEE-6A21D16B3F79"
@@ -57,6 +62,11 @@
    "label": "Mayor's Appointment Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15929931&GUID=6A881590-C069-484F-841F-09DE1F8B71F8"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969371&GUID=805F1334-C0CA-489F-9EDE-73590EC517C2"
   }
  ],
  "fiscal": null,

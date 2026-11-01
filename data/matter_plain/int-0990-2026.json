@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0990-2026",
- "title": "Law to alert public when ambulance dispatches are backlogged",
- "summary": "This bill would require New York City Emergency Management to issue public alerts whenever the Fire Department has more than 25 pending ambulance dispatches at once. The alerts would share information on non-emergency medical care options and when people might need to seek alternative transportation to an emergency room. Notifications would be limited to once per hour, and the law would take effect 90 days after passage.",
+ "title": "Law to require alerts when ambulance dispatches are backlogged",
+ "summary": "This bill would require New York City Emergency Management to send public emergency notifications whenever the Fire Department has more than 25 pending ambulance dispatches at once. The alerts would include information on non-emergency medical resources and alternative transportation to emergency rooms, issued no more than once per hour. The law would take effect 90 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "123b8977389733f4"
+ "input_hash": "6a8810a3eb603ffe"
 }

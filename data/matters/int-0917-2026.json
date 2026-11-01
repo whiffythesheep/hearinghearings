@@ -46,6 +46,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15748479&GUID=25EF7C4D-2882-428E-B7F5-172B44F89E7D"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 5-20-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862705&GUID=99F2E727-E778-499E-9F04-19D3A39BD605"
+  },
+  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650609&GUID=65E5455B-E22F-4227-859D-9190416C7452"
@@ -96,14 +101,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765190&GUID=B824952D-BCB1-4F61-8077-1BB768C6C1DF"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969393&GUID=554F4E00-8345-4A1C-987D-D6233874626C"
+  },
+  {
    "label": "Int. No. 917-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15775666&GUID=15682A1C-4CF6-4464-A4AA-35A6811C6499"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 5-20-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862705&GUID=99F2E727-E778-499E-9F04-19D3A39BD605"
+   "label": "Local Law 144",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16064575&GUID=EECCEDF3-B8AE-4E75-80C1-CF37244DD1E8"
   }
  ],
  "fiscal": {

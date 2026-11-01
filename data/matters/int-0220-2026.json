@@ -72,6 +72,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252315&GUID=CEF58BA2-2427-4029-93E7-42CADC5331D9"
   },
   {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093585&GUID=B2D85113-AB4A-4036-BAA2-C5DD9B331D80"
+  },
+  {
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15333405&GUID=950743EE-3BF3-4B73-9189-9690E6E875B0"
@@ -112,6 +117,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15839918&GUID=43ADE611-6011-4E81-8BE2-2C344C7A3F09"
   },
   {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088309&GUID=CDBB0AF5-7E0B-4F80-9BAC-69E827B7FFE0"
+  },
+  {
    "label": "Int. No. 220-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15845098&GUID=1D73A43A-894C-4F1E-A3BD-CBFD99585088"
@@ -142,6 +152,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834080&GUID=3A489038-7D9F-4379-B934-0D9C9064DA79"
  },
  "history": [
+  {
+   "date": "2026-10-13",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-10-10",
    "body": "Administration",

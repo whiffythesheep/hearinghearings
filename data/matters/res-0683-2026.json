@@ -3,7 +3,7 @@
  "slug": "res-0683-2026",
  "legistar_id": "8279447",
  "type": "Resolution",
- "title": "Application number C 260186 ZMQ (69-67 108th Street Rezoning) submitted by 108 St., LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 14a, changing from an R1-2A District to an R7D District and establishing within the proposed R7D District a C2-4 District, Borough of Queens, Community District 6, Council District 29.",
+ "title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 260186 ZMQ, for a Zoning Map amendment (L.U. No. 137).",
  "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
@@ -15,6 +15,26 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048553&GUID=DBA41C27-7459-46FF-B2DA-2920D5D01F2B"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061902&GUID=99BCAC95-EC55-4728-8D2C-B7C61816E80D"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067646&GUID=8208CDF5-6F75-49EB-A351-4A7900FA5895"
+  },
+  {
+   "label": "Res. No. 683",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067650&GUID=FBCC740D-246B-4F6F-B34A-3647F627DA25"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091947&GUID=3617F2D8-11B5-4F35-A2F3-9901207CCB95"
   }
  ],
  "fiscal": null,
@@ -22,8 +42,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-08",

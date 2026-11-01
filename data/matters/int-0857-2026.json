@@ -75,6 +75,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755299&GUID=8E77E8F1-E5CB-4112-A6AF-BD89C2DFE8AB"
   },
   {
+   "label": "Hearing Transcript 8/13/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16043157&GUID=B12037BD-5720-4869-ACA2-6EA09A5DE410"
+  },
+  {
    "label": "Proposed Int. No. 857-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15755323&GUID=B0B7C971-280E-4C4F-9AC1-058117EA505D"
@@ -93,6 +98,16 @@
    "label": "Int. No. 857-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765399&GUID=71451DAB-2E26-4A1E-9FFF-DC94CACE16FE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969389&GUID=242F1655-E0C8-494F-B1E7-C04B45F4F009"
+  },
+  {
+   "label": "Local Law 139",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16064482&GUID=4FF26A50-BF43-4F12-B24C-6557F750FA28"
   }
  ],
  "fiscal": {

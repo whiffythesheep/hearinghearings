@@ -1,0 +1,137 @@
+{
+ "file_number": "Int 1102-2026",
+ "slug": "int-1102-2026",
+ "legistar_id": "8223676",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the installation of sidewalk riding detection technology on electric bicycles and electric scooters that are part of share systems",
+ "status": "Committee",
+ "sponsors": [
+  "Shaun Abreu",
+  "Virginia Maloney",
+  "Mercedes Narcisse",
+  "Lincoln Restler",
+  "Shirley Aldebol",
+  "Frank Morano"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1102",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881457&GUID=FECB1B4D-49C8-4CF6-810B-E6D1FCCCB45C"
+  },
+  {
+   "label": "Int. No. 1102",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884964&GUID=B745BA18-2E18-4333-8B70-8E95D002AC86"
+  },
+  {
+   "label": "Committee Report 9/30/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15937501&GUID=E08DE15E-2D22-4583-9CF6-7324566C64EE"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966099&GUID=2E55ED84-6550-4682-8FBC-A0E7E81D7160"
+  },
+  {
+   "label": "Hearing Testimony 9/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056796&GUID=01C78B60-2B67-41E0-94B9-A94954F55618"
+  },
+  {
+   "label": "Appearance Cards 9/30/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16056880&GUID=FB46F3DA-A771-4051-BB4A-0762B0DE8599"
+  },
+  {
+   "label": "Hearing Transcript 9/30/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076983&GUID=070951A0-1503-4200-A6A7-19D79267D81D"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061763&GUID=68610805-C1CA-4B5E-A931-BF32F764C8FE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091868&GUID=77296B5F-91E7-4FA3-B676-C056767A3E62"
+  }
+ ],
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966099&GUID=2E55ED84-6550-4682-8FBC-A0E7E81D7160"
+ },
+ "history": [
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-10-08",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Public Safety",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Public Safety",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8223676&GUID=199736E6-BAE2-4866-B63B-456AE9D2EEC7"
+}

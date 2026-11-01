@@ -40,11 +40,6 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15551139&GUID=95E5D292-167A-4FAD-A925-030745843CB9"
   },
   {
-   "label": "June 11, 2026 - Stated Meeting Agenda",
-   "kind": "Agenda",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575721&GUID=52C3E2C1-30F4-4413-BA21-CAA360BC5667"
-  },
-  {
    "label": "Committee Report 6/10/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567885&GUID=DE9D089D-0FD0-45A6-9F62-ABF1380FD245"
@@ -58,6 +53,16 @@
    "label": "Hearing Transcript 6/10/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15811995&GUID=731455C4-4A0B-4467-ACE8-7B2FB2D689EF"
+  },
+  {
+   "label": "June 11, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15575721&GUID=52C3E2C1-30F4-4413-BA21-CAA360BC5667"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 6-11-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968924&GUID=4D3ABC94-E85B-4891-BAAA-FE7D5577CE42"
   },
   {
    "label": "Proposed Int. No. 935-A - 8/11/26",
@@ -75,6 +80,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15760475&GUID=50521310-D848-48B0-B4AD-2319F721D010"
   },
   {
+   "label": "Hearing Transcript 8/13/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16043168&GUID=9132AFB0-E12C-461E-840A-D6B6BD1E6F7A"
+  },
+  {
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765185&GUID=5FD0FFD0-4022-42F1-B714-D09F26ED71D4"
@@ -83,6 +93,16 @@
    "label": "Int. No. 935-A (FINAL)",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765344&GUID=1967ABDD-ADA4-48DD-A72A-0E9F52623EE0"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969388&GUID=0D911F99-E32D-4BD9-B164-509139D379B5"
+  },
+  {
+   "label": "Local Law 146",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16064578&GUID=C2FD986F-E9D7-436A-8903-FAE862C0D52E"
   }
  ],
  "fiscal": {

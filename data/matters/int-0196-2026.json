@@ -74,6 +74,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252284&GUID=E46BB735-DDCD-47FB-8FDC-947F59344C97"
   },
   {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093552&GUID=8C51B45A-758F-4535-921D-188808D349E3"
+  },
+  {
    "label": "Proposed Int. No. 196-A - 2/5/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15170261&GUID=D39A4703-EE45-48B9-A7AF-2B96BEC49DD7"
@@ -129,6 +134,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835059&GUID=34B7C2AA-D5D1-4181-9842-92C3173C25BE"
   },
   {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16082937&GUID=8FF922E7-F0A4-48CA-917C-1E7432714B49"
+  },
+  {
    "label": "Proposed Int. No. 196-C Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837935&GUID=51B58B5D-BAB0-4244-BCB8-D1A153A30271"
@@ -177,6 +187,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837935&GUID=51B58B5D-BAB0-4244-BCB8-D1A153A30271"
  },
  "history": [
+  {
+   "date": "2026-10-13",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-10-10",
    "body": "Administration",

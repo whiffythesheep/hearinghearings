@@ -16,6 +16,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765166&GUID=8DF7DE92-05B5-41D1-8C83-B05077BF3243"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969367&GUID=C89265EC-728C-45F6-BF7D-4E74954FCCFA"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824895&GUID=276B57DF-5B3E-4E17-825D-113B137CCDFA"
@@ -36,6 +41,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16049784&GUID=49677211-82FA-41BB-B723-1446254CD6B1"
   },
   {
+   "label": "Hearing Transcript - Zoning 9/23/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16087926&GUID=8DC032E4-7420-493E-9CC1-0524D3C8A3CC"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting - September 24, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930193&GUID=27DD6A6B-007A-4FE5-8524-D2CD18B51B57"
@@ -46,19 +56,29 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966812&GUID=06EB08AE-6929-47FC-8C3D-ED424976846B"
   },
   {
+   "label": "Hearing Transcript - Land Use 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089882&GUID=00E0296A-14F5-409C-8CCF-60DDA0D7693E"
+  },
+  {
    "label": "Res. No. 677",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966813&GUID=3B90F061-4D4E-466B-ABE6-8AA02C9CBD7F"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 8-13-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969367&GUID=C89265EC-728C-45F6-BF7D-4E74954FCCFA"
-  },
-  {
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048295&GUID=325BF9C6-F9ED-48FC-A49C-9BDDE871CB06"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061889&GUID=FE6AC040-5600-4D4E-9F8A-49C377615449"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091933&GUID=8E0F3F80-CFD1-4FAD-90BA-762743C7EA34"
   }
  ],
  "fiscal": null,
@@ -66,8 +86,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",
@@ -78,14 +98,14 @@
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",
    "body": "Committee on Land Use",
-   "action": "Approved by Committee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-24",

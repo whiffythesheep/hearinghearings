@@ -3,21 +3,37 @@
  "slug": "res-0672-2026",
  "legistar_id": "8279426",
  "type": "Resolution",
- "title": "Application number N 240207 ZRX (Sojourner Truth – Mapes Rezoning) submitted by 2136 Crotona Parkway Housing Development Fund Corporation, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of the Bronx, Community District 6, Council District 15.",
+ "title": "Resolution approving the decision of the City Planning Commission on ULURP No. N 240207 ZRX, for an amendment of the text of the Zoning Resolution (L.U. No. 136)",
  "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley",
   "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061878&GUID=65858FB1-0532-435E-81B4-F1DB545043DD"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067576&GUID=59B5C59E-E9C8-4F5A-B05C-482D9F30B4E4"
+  },
+  {
+   "label": "Res. No. 672",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067643&GUID=E1C3ED47-9D31-41EF-9C30-CC7F33FD7F19"
+  }
+ ],
  "fiscal": null,
  "history": [
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-08",

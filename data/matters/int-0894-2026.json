@@ -41,6 +41,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548222&GUID=9F4BDB12-A3D8-4EDA-9DC3-CBBDFF2289BB"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848984&GUID=CD977999-862B-446F-9C39-6C9EDCF715B8"
+  },
+  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15650608&GUID=6D8149F3-9FD6-44ED-BE01-1D55BE46C176"
@@ -81,14 +86,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15851011&GUID=E9EA81F9-0CB9-4BB6-9491-A60CC71C3A13"
   },
   {
+   "label": "August 13, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765189&GUID=4DBD92FF-2F58-40DD-8CAD-6322BA0E6589"
+  },
+  {
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15764035&GUID=A8A638D8-B623-48F6-8134-3287A01B475C"
   },
   {
-   "label": "August 13, 2026 - Stated Meeting Agenda",
-   "kind": "Agenda",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765189&GUID=4DBD92FF-2F58-40DD-8CAD-6322BA0E6589"
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969392&GUID=D6FAA80F-CD4C-45E8-9B49-53BF8BF55E59"
   },
   {
    "label": "Int. No. 894-A (FINAL)",
@@ -96,9 +106,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15775667&GUID=9DFE097A-46B6-4E23-8BD0-7F023C03603F"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848984&GUID=CD977999-862B-446F-9C39-6C9EDCF715B8"
+   "label": "Local Law 143",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16064570&GUID=AD8A21F9-101A-4ABF-99AE-5FDEA93322FD"
   }
  ],
  "fiscal": {

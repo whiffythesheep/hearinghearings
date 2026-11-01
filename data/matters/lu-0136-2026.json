@@ -44,6 +44,21 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting – October 6, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969119&GUID=B40B3F16-22D3-4C9F-BA06-F3A02020C38D"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061877&GUID=C28511F8-ECE9-4A2D-B25D-B85C43ED6D39"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067575&GUID=84EC64DB-1C87-4CB4-A54D-731AAFBFFE21"
+  },
+  {
+   "label": "Res. No. 672",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067644&GUID=4C75C8AE-2901-410E-861A-09E82920BEE3"
   }
  ],
  "fiscal": null,
@@ -51,20 +66,20 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
-  },
-  {
-   "date": "2026-10-06",
-   "body": "Committee on Land Use",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-06",
    "body": "Committee on Land Use",
    "action": "Approved by Committee with Companion Resolution",
    "result": "Pass"
+  },
+  {
+   "date": "2026-10-06",
+   "body": "Committee on Land Use",
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-10-06",

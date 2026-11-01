@@ -1,0 +1,33 @@
+{
+ "event_id": "1449028",
+ "date": "2026-11-02",
+ "body": "Committee on Sanitation and Solid Waste Management",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1449028&GUID=937F9679-9860-42BB-A66D-FCB8E904478E&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2596",
+   "type": "Oversight",
+   "name": "Oversight - City’s Snow Removal and Winter Storm Response.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8284795",
+   "legistar_guid": "D87B7D1B-66F8-47DC-969A-7E882C579FC7"
+  },
+  {
+   "file_number": "Int 1042-2026",
+   "type": "Introduction",
+   "name": "Publication and visualization of snow plowing operations data.",
+   "sponsor": "Ty Hankerson",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8206810",
+   "legistar_guid": "7A17D6A0-9216-4EFB-B1A9-E130C24FE0B5"
+  }
+ ]
+}

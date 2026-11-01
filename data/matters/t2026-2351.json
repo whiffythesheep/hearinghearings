@@ -7,7 +7,28 @@
  "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050870&GUID=8315A57A-14C5-468B-903D-E2ED0B1CAC12"
+  },
+  {
+   "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050225&GUID=B651F175-E5FD-4EFB-A877-267DE8F3CC79"
+  },
+  {
+   "label": "Appearance Cards",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050234&GUID=0425714F-C952-4839-9827-E5721CDE6FFC"
+  },
+  {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091474&GUID=D5E4BC35-9BD5-47FB-A470-CCD50AEC95F1"
+  }
+ ],
  "fiscal": null,
  "history": [
   {

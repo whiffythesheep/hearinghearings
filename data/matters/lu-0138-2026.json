@@ -44,6 +44,26 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048289&GUID=B0D8AE19-7BBD-4D00-AA29-100885FFAFBA"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061903&GUID=498229B8-58CC-4FA9-A2BC-847E51E8D61B"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067648&GUID=12B85313-C756-455D-9048-4DA50489ABBC"
+  },
+  {
+   "label": "Res. No. 684",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16067834&GUID=E4AAAC7B-AE1D-4ED3-AECF-6824BC6E16BE"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091948&GUID=E655CCD4-BB84-4535-A048-15F643C29C7E"
   }
  ],
  "fiscal": null,
@@ -51,14 +71,14 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
+   "action": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
    "result": ""
   },
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-10-06",
@@ -75,14 +95,14 @@
   {
    "date": "2026-10-06",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-10-06",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-10",

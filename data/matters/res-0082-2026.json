@@ -4,7 +4,7 @@
  "legistar_id": "7861934",
  "type": "Resolution",
  "title": "Resolution celebrating the Feast of San Gennaro and the Ferragosto Festival annually in September to honor the contributions of Italian immigrants and Italian Americans to the cultural, political, and economic fabric of the City of New York",
- "status": "Adopted",
+ "status": "Committee",
  "sponsors": [
   "Amanda C. Farías",
   "David M. Carr",
@@ -63,6 +63,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15839920&GUID=998FEA50-8A11-49D2-88D5-FC43CA17E2F3"
   },
   {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088346&GUID=A659B08F-5B77-410A-8CD1-B5763279B386"
+  },
+  {
    "label": "September 10, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15847456&GUID=0AFE3FE7-5222-428C-B3B0-EFB3812C9B93"
@@ -71,6 +76,11 @@
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862917&GUID=12BED4E0-1AF9-44EF-A5AD-A488ABD518F3"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093545&GUID=8E48E341-767B-4E1E-B481-D6901D36E29C"
   }
  ],
  "fiscal": null,
@@ -120,7 +130,7 @@
   {
    "date": "2026-03-24",
    "body": "City Council",
-   "action": "Referred to Comm by Council",
+   "action": "Re-referred to Committee by Council",
    "result": ""
   },
   {

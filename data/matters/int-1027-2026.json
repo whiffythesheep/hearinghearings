@@ -39,6 +39,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15843295&GUID=1AED7784-20F3-4AE5-BBD6-D1DB6691A5BA"
   },
   {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088004&GUID=8774CF2B-9618-4471-B9B2-6919B9F5AFF5"
+  },
+  {
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844444&GUID=C8F96BB7-831E-4C99-BA68-6EE27E9411F4"
@@ -77,6 +82,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15844385&GUID=F3B60DF7-9D91-47B0-9296-769E54116E6F"
  },
  "history": [
+  {
+   "date": "2026-10-13",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-10-10",
    "body": "Administration",

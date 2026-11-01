@@ -36,6 +36,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15700879&GUID=5573671F-26D1-46E2-B368-11455468274A"
   },
   {
+   "label": "Hearing Transcript - Zoning 7/1/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969032&GUID=949183B5-9861-4BD6-BA80-DC48FD1D67C0"
+  },
+  {
    "label": "Calendar of the Subcommittee and Land Use Meetings - July 14, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15682919&GUID=DF436B01-0743-4C2D-9FAC-7A72ABE49021"
@@ -46,9 +51,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692106&GUID=90128F99-6293-4287-A3D4-4EE14CEB071E"
   },
   {
-   "label": "Res. No.",
+   "label": "Res. No. 616",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15692107&GUID=8216D6B1-D56F-4C2D-8A89-9E6476E33482"
+  },
+  {
+   "label": "Hearing Transcript - Zoning 7/14/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15953460&GUID=FA8B0C6A-DE01-4B98-B149-C8893A96D8B4"
   },
   {
    "label": "Hearing Transcript - Land Use 7/14/26",
@@ -69,6 +79,11 @@
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15744901&GUID=8785D22B-C171-44AB-B12D-81E3163CC777"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969403&GUID=C5BC0003-43E0-45C5-A262-52FD5904101E"
   }
  ],
  "fiscal": null,
@@ -100,14 +115,14 @@
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-07-14",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-07-01",

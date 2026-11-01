@@ -20,6 +20,7 @@
   "Alexa Avilés",
   "Ty Hankerson",
   "Amanda C. Farías",
+  "Jennifer Gutiérrez",
   "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
@@ -38,6 +39,16 @@
    "label": "Committee Report 9/24/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884529&GUID=80DFAA22-5B05-4ABB-8B22-ABB38CB2416F"
+  },
+  {
+   "label": "Hearing Transcript 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089805&GUID=040AF591-DE75-4A08-935F-12357966A7F7"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969353&GUID=7BAE1E86-F8FF-47CB-A072-E0F952B247A2"
   }
  ],
  "fiscal": null,
@@ -45,8 +56,8 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

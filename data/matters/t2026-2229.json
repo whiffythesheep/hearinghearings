@@ -14,14 +14,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835779&GUID=C3B3E3DE-3FD9-4535-BB7D-50B15A7F792C"
   },
   {
-   "label": "Hearing Testimony 9/9/26",
+   "label": "Hearing Testimony",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15863133&GUID=C346BB20-73D3-4288-AC9A-C1CF896ABDD4"
   },
   {
-   "label": "Appearance Cards 9/9/26",
+   "label": "Appearance Cards",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15859967&GUID=CC0D292F-84C9-4F65-9C7D-9E5DB3959EBE"
+  },
+  {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075942&GUID=0AE1D73C-0AC7-4FCF-B969-E98BB472F72C"
   }
  ],
  "fiscal": null,

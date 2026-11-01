@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0936-2026",
- "title": "Law to create a city Department of Coastal Protection",
- "summary": "This bill would establish a new Department of Coastal Protection, led by a Commissioner of Coastal Protection, to develop policies and programs addressing shoreline erosion, storms and climate-related flooding in New York City. The department would also educate the public about coastal protection measures and coordinate with state and federal agencies. The law would take effect 180 days after being enacted.",
+ "title": "Law to create a City Department of Coastal Protection",
+ "summary": "This bill would establish a new Department of Coastal Protection, led by a Commissioner, to develop policies and infrastructure programs protecting the city's shoreline from storms, erosion and climate change. The Commissioner could receive and spend funds for coastal protection, issue reports, make rules and run public education efforts. The law would take effect 180 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "c581822ea2f3465c"
+ "input_hash": "ef67f92569776d9a"
 }

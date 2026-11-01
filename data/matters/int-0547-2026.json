@@ -68,6 +68,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15302404&GUID=84552765-952C-4D20-B2C1-40BB43393C26"
   },
   {
+   "label": "Minutes of the Stated Meeting - February 12, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092191&GUID=A2D72F3E-32B3-4733-AB33-40C00C5F6864"
+  },
+  {
    "label": "Hearing Transcript 3/5/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15186760&GUID=206DBAAF-4637-4061-9577-560AE4819078"
@@ -111,6 +116,11 @@
    "label": "Committee Report 9/10/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15835060&GUID=00E2B4FF-72F0-42D3-B350-2B5C4D4B49A3"
+  },
+  {
+   "label": "Hearing Transcript 9/10/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16082938&GUID=47506FCF-C5CC-4030-926A-F91B14DC237D"
   },
   {
    "label": "Proposed Int. No. 547-B Fiscal Impact Statement - City Council",
@@ -161,6 +171,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837936&GUID=3DE23CDD-DF21-4756-AAD3-0330ECB9F99B"
  },
  "history": [
+  {
+   "date": "2026-10-13",
+   "body": "City Council",
+   "action": "Returned Unsigned by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-10-10",
    "body": "Administration",

@@ -12,6 +12,16 @@
    "label": "Committee Report",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866269&GUID=398838C2-3776-4C5B-BA9D-7435A485AAB6"
+  },
+  {
+   "label": "Hearing Testimony",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15954945&GUID=8861DD15-2F07-4B33-8400-09DFA697AB32"
+  },
+  {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088143&GUID=D945207E-4FC1-420B-BF06-DFA57796BE8D"
   }
  ],
  "fiscal": null,

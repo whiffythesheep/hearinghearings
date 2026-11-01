@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0641-2026",
- "title": "Law to require earlier CityFHEPS rent payments to landlords",
- "summary": "This bill would require the Department of Social Services to make CityFHEPS rental assistance payments to landlords no later than 7 days before the first day of the month the payment covers. It would take effect 120 days after becoming law.",
+ "title": "Law to require timely CityFHEPS rent payments to landlords",
+ "summary": "This bill would require the Department of Social Services to make CityFHEPS rental assistance payments no later than 7 days before the first day of the month they cover. The change affects landlords who receive these payments on behalf of low-income tenants under the CityFHEPS voucher program. The law would take effect 120 days after becoming law.",
  "model": "claude-sonnet-5",
- "input_hash": "7e183effee57f250"
+ "input_hash": "187afe6afea466f5"
 }

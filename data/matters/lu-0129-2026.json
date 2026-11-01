@@ -54,6 +54,11 @@
    "label": "Res. No. 709",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084816&GUID=DE391E22-72D4-4DA8-8350-1D0AF0824E46"
+  },
+  {
+   "label": "October 22, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091403&GUID=0ABF6131-EF3F-4742-AB8C-A89BBEC52F1D"
   }
  ],
  "fiscal": null,
@@ -79,14 +84,14 @@
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee",
+   "result": "Pass"
   },
   {
    "date": "2026-10-20",
    "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-   "action": "Approved by Subcommittee",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-10",

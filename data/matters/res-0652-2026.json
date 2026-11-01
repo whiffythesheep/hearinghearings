@@ -21,6 +21,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932266&GUID=52EA2DAC-5DF2-46CD-BF7D-444B455F495D"
   },
   {
+   "label": "Hearing Transcript",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089842&GUID=24689AA3-D444-46BF-A618-F8774050EE74"
+  },
+  {
    "label": "Res. No. 652",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932076&GUID=D196E0CE-02DC-4077-876B-64C1EB728222"
@@ -36,8 +41,8 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",
@@ -48,7 +53,7 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

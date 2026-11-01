@@ -31,6 +31,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765164&GUID=57AACA0F-70DB-42F5-A6A4-CB22950B2CF1"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969365&GUID=9EEB5E75-8F8D-41BE-98EE-EE4945160034"
+  },
+  {
    "label": "Calendar of the Zoning Subcommittee Meeting - September 9, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15824893&GUID=0EE6D1FD-4EEF-48B8-AE58-1D26F5BA86B9"
@@ -56,19 +61,29 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966778&GUID=4216D0E7-6A28-4721-AD2B-69B33F2F682F"
   },
   {
+   "label": "Hearing Transcript - Land Use 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089880&GUID=E673FE38-0E8C-4A01-8551-E4E56D19D8F5"
+  },
+  {
    "label": "Res. No. 675",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15966777&GUID=EDD24E4C-0B3B-488B-8638-6C1A7EFD3400"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 8-13-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969365&GUID=9EEB5E75-8F8D-41BE-98EE-EE4945160034"
-  },
-  {
    "label": "City Planning Commission Approval Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16048380&GUID=03FB1107-1641-40A6-B21B-EA9843AC371D"
+  },
+  {
+   "label": "October 8, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16061885&GUID=F786C7A8-5A99-4617-8638-EA16DB01517C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 10-8-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16091929&GUID=DE21EB0D-CD09-4CA7-8706-0DDA550A6D40"
   }
  ],
  "fiscal": null,
@@ -76,8 +91,8 @@
   {
    "date": "2026-10-08",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

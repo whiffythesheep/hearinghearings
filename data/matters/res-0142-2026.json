@@ -59,9 +59,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15931251&GUID=1C864EE6-37C4-4D33-9630-A0677D3727BD"
   },
   {
+   "label": "Hearing Transcript 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089802&GUID=C921D574-DE20-4C48-A3FA-50C14703162B"
+  },
+  {
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15932628&GUID=00D570D8-6570-4CE7-9764-B44B31F58B0D"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093850&GUID=6955154A-60C8-440F-A2C3-3D696D796E5E"
   }
  ],
  "fiscal": null,
@@ -69,8 +79,8 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

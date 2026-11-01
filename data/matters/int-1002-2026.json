@@ -33,7 +33,7 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15791259&GUID=0885F804-A69D-4FF0-B058-E48C7D12937E"
   },
   {
-   "label": "Hearing Transcript 8/11/2026",
+   "label": "Hearing Transcript 8/11/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15853517&GUID=8792C708-4C7D-45C4-92D2-1D3C722C02D9"
   },
@@ -48,6 +48,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15762249&GUID=5F941065-EA11-4039-B5D0-B395BAF46FA6"
   },
   {
+   "label": "Hearing Transcript 8/13/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047870&GUID=D988A935-F7E2-4687-B90E-032484FB33AC"
+  },
+  {
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15764946&GUID=AC9DB789-B8F7-4990-9AE9-95EA1267CFEF"
@@ -56,6 +61,16 @@
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765173&GUID=98822D42-504E-4570-A25F-4556F85A44A7"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969374&GUID=248E12FF-E602-4E66-8BB3-2203FD24DF95"
+  },
+  {
+   "label": "Local Law 147",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16064580&GUID=EE32BF71-96D5-4A8E-8B6A-672F96ED6DF7"
   }
  ],
  "fiscal": {

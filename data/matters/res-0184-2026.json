@@ -37,6 +37,16 @@
    "label": "Committee Report 9/24/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15884527&GUID=00E89904-2301-4C8D-8A4F-2521663FAED6"
+  },
+  {
+   "label": "Hearing Transcript 9/24/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089803&GUID=FA373563-BB84-4D49-A9CD-A9F6D50B307E"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - February 12, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092176&GUID=276C1A7A-2D7D-4A7A-B2DD-C85C18165096"
   }
  ],
  "fiscal": null,
@@ -44,8 +54,8 @@
   {
    "date": "2026-09-24",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved, by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-09-24",

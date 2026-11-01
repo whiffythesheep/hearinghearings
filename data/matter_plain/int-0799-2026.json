@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0799-2026",
  "title": "Law to help small businesses hurt by road construction",
- "summary": "This bill would require the Department of Small Business Services to run a program giving loans, grants, services or materials to small businesses harmed by city construction projects that disrupt traffic for at least 30 days. Loans would be capped at $50,000 per storefront per year with interest no higher than 3%, and grants or reimbursements would be capped at $15,000 per storefront per year. The agency would have to set an application process and decide eligibility within 30 days, disbursing funds within 14 days after approval.",
+ "summary": "This bill would require the Department of Small Business Services to run a program offering loans, grants, services or materials to small businesses affected by city construction projects lasting 30 days or more. Loans would be capped at $50,000 per storefront per year with interest no higher than 3 percent, and grants or reimbursements capped at $15,000 per storefront per year. The agency would need to decide on applications within 30 days and pay out approved awards within 14 days.",
  "model": "claude-sonnet-5",
- "input_hash": "aff15b33701c287e"
+ "input_hash": "5232971b88d4b635"
 }

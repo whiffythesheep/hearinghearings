@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0064-2026",
  "title": "Law to keep pedicabs away from theater entrances",
- "summary": "This bill would prohibit pedicab drivers from parking, stopping or standing, or picking up or dropping off passengers, within 50 feet of any theater entrance or exit in the Theatre District zone. It would also require the Department of Transportation to post signs marking these restricted areas. The law would take effect 120 days after becoming law.",
+ "summary": "This bill would bar pedicab drivers from parking, stopping or picking up and dropping off passengers within 50 feet of any theater entrance or exit in the Theatre District. The Department of Transportation would have to post signs marking these restricted zones. The law would take effect 120 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "ddeba69e77466618"
+ "input_hash": "78b504bcb761f7fe"
 }

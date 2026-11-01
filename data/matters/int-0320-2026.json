@@ -31,7 +31,6 @@
   "Shanel Thomas-Henry",
   "Lynn C. Schulman",
   "Carl Wilson",
-  "Tiffany L. Cabán",
   "Virginia Maloney",
   "Jennifer Gutiérrez",
   "Vickie Paladino",
@@ -101,6 +100,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15759760&GUID=0E306056-19F4-4779-A35C-5833F5C35483"
   },
   {
+   "label": "Hearing Transcript 8/13/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16042732&GUID=CC3A3096-6EC1-495F-8959-4A9BDE4A1ADD"
+  },
+  {
    "label": "August 13, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765175&GUID=CC7E4BC3-D509-4051-B9BE-0504444F821D"
@@ -111,9 +115,19 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765290&GUID=C5E539BB-5855-4DC2-B530-7221ABD99987"
   },
   {
-   "label": "Local Laws 136",
+   "label": "Local Law 136",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15858953&GUID=19517474-9774-4C6D-A37C-6EAF65F8738C"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969376&GUID=189028FC-3FDE-45EA-8322-1984353397EB"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093709&GUID=F4B3E67D-AF98-454D-B516-E9D9EC0D0D7E"
   }
  ],
  "fiscal": {

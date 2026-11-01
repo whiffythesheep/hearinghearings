@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0874-2026",
- "title": "Law to create a legacy business registry and grants",
- "summary": "This bill would direct the Department of Small Business Services to set up a registry recognizing businesses that have operated in a New York City neighborhood for at least 20 years, based on nominations from the mayor, public advocate, borough presidents or Council members. It also creates a Legacy Business Preservation Fund to give grants to these businesses and to landlords who sign them to 10-year leases, when the business faces a significant risk of being displaced. The agency would report annually on which businesses are designated and which grants are awarded.",
+ "title": "Law to create a city registry and fund for legacy businesses",
+ "summary": "This bill would direct the Department of Small Business Services to create a Legacy Business Registry recognizing businesses that have operated in New York City for at least 20 years and contributed to a neighborhood's history or character. Businesses would need a nomination from the mayor, public advocate, a borough president or a council member, and the agency would consult the local community board and Landmarks Preservation Commission before designation. The bill also sets up a Legacy Business Preservation Fund to give grants to qualifying businesses facing displacement risk and to landlords who sign them to 10-year leases.",
  "model": "claude-sonnet-5",
- "input_hash": "a933303b15058a06"
+ "input_hash": "f3618508ca9ccfaf"
 }
