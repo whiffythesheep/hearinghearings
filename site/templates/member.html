@@ -14,6 +14,10 @@
             <span>{{ member.votes_cast }} vote{{ '' if member.votes_cast == 1 else 's' }} cast</span>
             <span class="meta-sep">·</span>
             <span>{{ member.attendance_pct }}% present</span>
+            {% if member.dissent_pct is not none %}
+            <span class="meta-sep">·</span>
+            <span title="Voted against most of their own party ({{ member.party }}s) on {{ member.party_dissents }} of {{ member.party_votes_counted }} votes where the party leaned one way">{{ member.dissent_pct }}% against their party</span>
+            {% endif %}
             {% if member.chairs %}
             <span class="meta-sep">·</span>
             <span>Chair of {{ member.chairs | join(", ") }}</span>
@@ -23,12 +27,13 @@
             <span>{{ member.dissents }} vote{{ '' if member.dissents == 1 else 's' }} against</span>
             {% endif %}
         </div>
-        <p class="record-note">Recorded roll calls only, from {{ window_from }} onward. Committee hearings without a vote are not counted.</p>
     </header>
+
+    {% macro heading(text) %}<div class="section-header"><h2>{{ text }}</h2></div>{% endmacro %}
 
     {% if member.committees %}
     <section class="hearing-summary record-section">
-        <div class="section-header"><h2>Committees</h2></div>
+        {{ heading("Committees") }}
         <ul class="doc-list">
         {% for c in member.committee_links %}
             <li>{% if c.slug %}<a class="doc-chip" href="/committees/{{ c.slug }}/">{{ c.name }}</a>{% else %}<span class="doc-chip">{{ c.name }}</span>{% endif %}</li>
@@ -37,29 +42,53 @@
     </section>
     {% endif %}
 
+    {% macro sponsored_list(matters) %}
+    <ul class="record-list">
+    {% for m in matters %}
+        <li><a class="record-line" href="/matters/{{ m.slug }}/">
+            <span class="mono record-line__num">{{ m.file_number }}</span>
+            <span{% if m.title and m.title != m.short_title %} title="Legistar: {{ m.title }}"{% endif %}>{{ m.short_title or m.title }}</span>
+            <span class="record-line__outcome" title="Legistar status: {{ m.display_status }}">({{ m.stage }}{% if m.stage_note %}: {{ m.stage_note }}{% endif %})</span>
+        </a></li>
+    {% endfor %}
+    </ul>
+    {% endmacro %}
+
+    {% if member.sponsored_primary or member.sponsored_co %}
+    <section class="hearing-summary record-section">
+        {{ heading("Bills sponsored") }}
+        {% for label, group in [("Primary sponsor", member.sponsored_primary), ("Co-sponsor", member.sponsored_co)] if group %}
+        <details class="summary-section record-group"{% if group | length <= 10 %} open{% endif %}>
+            <summary><span class="summary-caret" aria-hidden="true">▸</span> {{ label }} ({{ group | length }})</summary>
+            <div class="summary-section-body">{{ sponsored_list(group) }}</div>
+        </details>
+        {% endfor %}
+    </section>
+    {% endif %}
+
     {% if member.votes %}
-    <section class="record-section record-section--flush">
-        {{ rec.filter_header("Voting record", "vote-table", member.votes | length) }}
-        <div class="table-scroll listing-well">
-            <table class="record-table" id="vote-table" data-page-size="20" data-noun="vote">
-                <thead><tr><th>Date</th><th>Matter</th><th data-filter>Body</th><th>Action</th><th data-filter="count">Vote</th></tr></thead>
-                <tbody>
-                {% for v in member.votes %}
-                    <tr>
-                        <td class="record-date" data-sort-value="{{ v.date }}">{{ v.date | display_date }}</td>
-                        <td>
-                            {% if v.matter_slug %}<a class="row-link row-link--main mono" href="/matters/{{ v.matter_slug }}/">{{ v.file_number }}</a>{% else %}<span class="mono">{{ v.file_number }}</span>{% endif %}
-                            {% if v.matter_title %}<span class="row-sub">{{ v.matter_title }}</span>{% endif %}
-                        </td>
-                        <td data-value="{{ v.body }}">{% if v.link %}<a class="row-link" href="{{ v.link }}">{{ v.body }}</a>{% else %}{{ v.body }}{% endif %}</td>
-                        <td>{{ rec.action(v.action) }}</td>
-                        <td data-value="{{ v.vote | vote_label }}"><span class="vote vote--{{ v.vote | lower | replace(' ', '-') }}">{{ v.vote | vote_label }}</span></td>
-                    </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>
-        {{ rec.empty_row("vote-table", "No vote matches.") }}
+    <section class="hearing-summary record-section">
+        {{ heading("Voting record") }}
+        {# One dropdown per month, newest open. Each line says how they voted
+           and, in the hearing record's words, what happened to the matter. #}
+        {% for month in member.vote_months %}
+        <details class="summary-section record-group"{% if loop.first %} open{% endif %}>
+            <summary><span class="summary-caret" aria-hidden="true">▸</span> {{ month.label }} ({{ month.votes | length }})</summary>
+            <div class="summary-section-body">
+            <ul class="record-list">
+            {% for v in month.votes %}
+                <li><{% if v.matter_slug %}a class="record-line" href="/matters/{{ v.matter_slug }}/"{% else %}span class="record-line"{% endif %}>
+                    <span class="vote vote--{{ v.vote_code }}">{{ v.vote_label }}</span>
+                    <span class="record-date">{{ v.date | display_date }}</span>
+                    <span class="mono record-line__num">{{ v.file_number }}</span>
+                    {% if v.matter_title %}<span>{{ v.matter_title }}</span>{% endif %}
+                    {% if v.outcome %}<span class="record-line__outcome"{% if v.action %} title="Legistar: {{ v.action }} ({{ v.body }})"{% endif %}>({{ v.body | replace("Committee on ", "") }}: {{ v.outcome }})</span>{% endif %}
+                </{% if v.matter_slug %}a{% else %}span{% endif %}></li>
+            {% endfor %}
+            </ul>
+            </div>
+        </details>
+        {% endfor %}
     </section>
     {% endif %}
 </article>

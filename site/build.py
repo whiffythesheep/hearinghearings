@@ -342,6 +342,10 @@ def attach_records(hearings, records):
     by_event = records["meetings"]
     matter_by_slug = records["matter_by_slug"]
     link_members = record.member_name_linker(records["members"])
+    committee_slug = {record._norm_body(c["name"]): c["slug"] for c in records["committees"]}
+
+    def committee_links(names):
+        return [{"name": n, "slug": committee_slug.get(record._norm_body(n), "")} for n in names]
     for h in hearings:
         m = re.search(r"MeetingDetail\.aspx\?ID=(\d+)", h.get("council_url", "") or "")
         meeting = by_event.get(m.group(1)) if m else None
@@ -349,6 +353,7 @@ def attach_records(hearings, records):
         h["voted_items"] = meeting["voted_items"] if meeting else []
         h["summary_html"] = link_members(record.link_matter_numbers(
             h["summary_html"], matter_by_slug))
+        h["committee_links"] = committee_links(h.get("committee_list") or [])
         h["chairs_html"] = link_members(", ".join(html_mod.escape(c) for c in h.get("chairs", [])))
         # The overview prose leads; the record sits between it and the
         # Numbers / Action Points dropdowns.
@@ -499,6 +504,8 @@ def build_record_pages(env, records, ctx):
     for mt in records["record_only_meetings"]:
         page = {
             "title": mt["title"], "committee": " | ".join(mt["bodies"]), "chairs": [],
+            "committee_links": [{"name": c["name"], "slug": c["slug"]} for c in records["committees"]
+                                if record._norm_body(c["name"]) in {record._norm_body(b) for b in mt["bodies"]}],
             "date": mt["date"], "date_display": mt["date_display"],
             "council_url": mt.get("council_url", ""), "kind": mt["kind"],
             "record_items": mt["rows"], "voted_items": mt["voted_items"],

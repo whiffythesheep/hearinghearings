@@ -295,11 +295,12 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
 ### How the site presents it (redesigned 2026-09-28)
 
 - **One Hearings list** on `/` holds every event: summarised hearings, vote sessions
-  (titled "Vote: <plain title> + N more") and the **next day's** upcoming meetings (rows in
+  (titled "Vote: <plain title> + N more") and the **next two working days'** upcoming meetings
+  (`upcoming_cutoff()` in `site/record.py`, mirrored in `scrape_record.py`; rows in
   a lighter grey). A "Meeting ▾" column filter switches between them. The nav is Hearings,
   Matters, Members, Committees.
 - **Left out entirely:** deferred meetings (`agenda_status == "Deferred"`; they never
-  happened), meetings more than a day ahead, and "process only" meetings (held, unsummarised,
+  happened), meetings beyond the next two working days, and "process only" meetings (held, unsummarised,
   no vote: items only held over). Matter types Communication, Mayor's Message, Commissioner
   of Deeds and N/A are excluded as paperwork (`EXCLUDED_TYPES` in `site/record.py`).
 - **One row per matter per meeting**: Legistar's heard/amended/approved rows (and the Stated
@@ -348,6 +349,12 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   lag a meeting by a day or so).
 - **Matter timelines** come from Legistar's own history, one row per body per day; joint
   hearings merge into one "Joint hearing: A, B, C" row; future-dated steps show "Scheduled:".
+- **Member pages** (2026-11-01): header shows votes cast, % present and **% against their
+  party** (of roll calls where the rest of their party leaned one way, how often they voted the
+  other way; abstentions, absences and party ties excluded). Sections: Committees, Bills
+  sponsored (Primary sponsor / Co-sponsor dropdowns, stage in brackets), Voting record (one
+  dropdown per month; each line reuses the hearing record's outcome wording for that matter).
+- **Hearing pages** link each committee name in the header to its committee page.
 - **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov
   districts page (`refresh_council_roster.py` now stores them in `council_roster.json`).
 - **Tables** share `site/static/table-filter.js` (search box, Explorer-style column filter
@@ -389,7 +396,7 @@ It keeps the **whole site** current in two stages, both pushing **straight to ma
 with no review):
 
 - **Record refresh** (`refresh_record_nightly.py`): matters, votes, vote sessions and the next
-  day's meetings.
+  two working days' meetings.
 - **New hearings** (`discover_pending.py --publish`, up to 3 a night): each new recording is
   summarised and committed to master directly. There are no `pending/*` branches or PRs any
   more; without `--publish` the script still has the old branch-and-PR behaviour for manual use.
@@ -404,8 +411,8 @@ is rebuilt each run.
 The record refresh does this:
 
 1. Sync master to origin (tree must be clean, else it exits and changes nothing).
-2. `scrape_record.py --refresh`: re-fetches meetings from the last 7 days, the next day's
-   meetings, and every matter not in a settled status; the rest from the HTML cache
+2. `scrape_record.py --refresh`: re-fetches meetings from the last 7 days, the next two working
+   days' meetings, and every matter not in a settled status; the rest from the HTML cache
    (~650 requests, ~5 min). Note the plain `scrape_record.py` serves **everything** from
    cache; use `--no-cache` for a full re-check (~2,100 requests, ~18 min).
 3. `summarize_matters.py --new` (failure is non-fatal).

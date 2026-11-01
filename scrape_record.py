@@ -34,6 +34,7 @@ import os
 import re
 import sys
 import time
+from datetime import datetime, timedelta
 import zipfile
 from html.parser import HTMLParser
 from pathlib import Path
@@ -496,6 +497,18 @@ def matter_settled(file_number):
     return status in SETTLED_STATUSES
 
 
+
+def upcoming_cutoff(today, working_days=2):
+    """The last date fetched as upcoming: the next two working days (Monday to
+    Friday) after ``today``. Mirrors upcoming_cutoff() in site/record.py."""
+    d = datetime.strptime(today, "%Y-%m-%d")
+    left = working_days
+    while left:
+        d += timedelta(days=1)
+        if d.weekday() < 5:
+            left -= 1
+    return d.strftime("%Y-%m-%d")
+
 def main():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -507,7 +520,7 @@ def main():
                    help="skip downloading Fiscal Impact Statements")
     p.add_argument("--refresh", action="store_true",
                    help="nightly mode: re-fetch meetings from the last %d days, the next "
-                        "day's meetings, and every matter not yet settled; the rest from cache"
+                        "two working days' meetings, and every matter not yet settled; the rest from cache"
                         % REFRESH_DAYS)
     p.add_argument("--skip-votes", action="store_true",
                    help="skip roll calls (much faster; use to sanity-check the grid)")
@@ -521,13 +534,13 @@ def main():
 
     fresh_from = time.strftime(
         "%Y-%m-%d", time.localtime(time.time() - REFRESH_DAYS * 86400))
-    tomorrow = time.strftime("%Y-%m-%d", time.localtime(time.time() + 86400))
+    cutoff = upcoming_cutoff(today)
 
     # Filter on the dates we already hold, before fetching anything. The next
-    # day's meetings are kept: their agendas are the site's "Upcoming" rows.
-    # Anything further out waits until the night before.
+    # two working days' meetings are kept: their agendas are the site's
+    # "Upcoming" rows. Anything further out waits.
     meetings = [(eid, guid, date) for eid, (guid, date) in known.items()
-                if date and date <= tomorrow
+                if date and date <= cutoff
                 and (not args.since or date >= args.since)]
     meetings.sort(key=lambda m: (m[2], m[0]))
     logger.info("Meetings known: %d; in scope after date filter: %d",

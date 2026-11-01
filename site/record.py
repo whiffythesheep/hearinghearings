@@ -501,6 +501,19 @@ def _record_only_title(meeting):
     return body
 
 
+def upcoming_cutoff(today, working_days=2):
+    """The last date shown as upcoming: the next two working days (Monday to
+    Friday) after ``today``. Friday and the weekend both look ahead to Monday
+    and Tuesday. Mirrored in scrape_record.py, which fetches the same window."""
+    d = datetime.strptime(today, "%Y-%m-%d")
+    left = working_days
+    while left:
+        d += timedelta(days=1)
+        if d.weekday() < 5:
+            left -= 1
+    return d.strftime("%Y-%m-%d")
+
+
 def load_records(hearings, today=None):
     """Return meetings, matters, members and committees for the templates.
 
@@ -508,12 +521,12 @@ def load_records(hearings, today=None):
     back to its published page where one exists.
     """
     today = today or datetime.now().strftime("%Y-%m-%d")
-    tomorrow = (datetime.strptime(today, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
-    # Only the next day's agendas are shown; anything later waits.
+    cutoff = upcoming_cutoff(today)
+    # Only the next two working days' agendas are shown; anything later waits.
     # Deferred meetings never took place (Legistar keeps the event, with the
     # agenda status and time both reading "Deferred"), so they are left out.
     meetings = [mt for mt in _read_dir("meetings")
-                if mt.get("date", "") <= tomorrow and mt.get("agenda_status") != "Deferred"]
+                if mt.get("date", "") <= cutoff and mt.get("agenda_status") != "Deferred"]
     matters = [m for m in _read_dir("matters") if m.get("type") not in EXCLUDED_TYPES]
     for m in matters:
         if m.get("type") == "Oversight":
@@ -661,6 +674,7 @@ def load_records(hearings, today=None):
                     "action": item.get("action", ""),
                     "result": item.get("result", ""),
                     "vote": vote["vote"],
+                    "roll_call": item["roll_call"],
                 })
                 person["tally"][vote["vote"]] = person["tally"].get(vote["vote"], 0) + 1
                 if body:
@@ -887,7 +901,15 @@ def load_records(hearings, today=None):
         person["borough"] = info.get("borough", "")
         person["area"] = info.get("area", "")
         for v in person["votes"]:
-            v["link"] = v.pop("meeting")["link"]
+            meeting = v.pop("meeting")
+            v["link"] = meeting["link"]
+            # The same words as the hearing page's record line for this
+            # matter: what happened, and where it stands now.
+            row = next((r for r in meeting["rows"]
+                        if v["matter_slug"] and r["matter_slug"] == v["matter_slug"]), None)
+            v["outcome"] = (row or {}).get("outcome") or outcome(v["action"], (row or {}).get("tally"))
+            v["vote_code"] = (v["vote"] or "").lower().replace(" ", "-")
+            v["vote_label"] = VOTE_LABELS.get(v["vote"], v["vote"])
         person["votes"].sort(key=lambda v: (v["date"], v["file_number"]), reverse=True)
         cast = sum(person["tally"].get(v, 0) for v in CAST_VOTES)
         away = sum(n for v, n in person["tally"].items() if v not in CAST_VOTES)
@@ -895,6 +917,37 @@ def load_records(hearings, today=None):
         person["times_away"] = away
         person["attendance_pct"] = round(100 * cast / (cast + away)) if cast + away else 0
         person["dissents"] = person["tally"].get("Negative", 0)
+        # Dissent rate: of the votes where the rest of their party leaned one
+        # way (more yes than no, or the reverse), how often they voted the
+        # other way. Abstentions, absences and party ties don't count.
+        split = counted = 0
+        for v in person["votes"]:
+            mine = v["vote"]
+            if mine not in ("Affirmative", "Negative") or not person["party"]:
+                continue
+            side = {"Affirmative": 0, "Negative": 0}
+            for other in v["roll_call"]:
+                k = normalize_name(other["name"])
+                if (k != key and other.get("vote") in side
+                        and roster_by_name.get(k, {}).get("party") == person["party"]):
+                    side[other["vote"]] += 1
+            if side["Affirmative"] == side["Negative"]:
+                continue
+            counted += 1
+            party_line = "Affirmative" if side["Affirmative"] > side["Negative"] else "Negative"
+            split += mine != party_line
+        person["party_dissents"] = split
+        person["party_votes_counted"] = counted
+        person["dissent_pct"] = round(100 * split / counted) if counted else None
+        for v in person["votes"]:
+            del v["roll_call"]
+        # Voting record by month, newest first, for the member page.
+        months = {}
+        for v in person["votes"]:
+            months.setdefault(v["date"][:7], []).append(v)
+        person["vote_months"] = [
+            {"label": datetime.strptime(k, "%Y-%m").strftime("%B %Y"), "votes": vs}
+            for k, vs in months.items()]
     for name, entry in roster_committees.items():
         for member_name in entry.get("members", []):
             person = members.get(normalize_name(member_name))
@@ -912,6 +965,17 @@ def load_records(hearings, today=None):
         person["committee_links"] = [
             {"name": n, "slug": committee_slug_by_norm.get(_norm_body(n), "")}
             for n in person["committees"]]
+    # Everything each member sponsored, as prime sponsor (Legistar lists them
+    # first) or co-sponsor, in the Matters page's order: latest activity first.
+    for person in members.values():
+        person["sponsored_primary"], person["sponsored_co"] = [], []
+    for m in matters:
+        if m["slug"] in folded:
+            continue
+        for i, name in enumerate(m.get("sponsors") or []):
+            person = members.get(normalize_name(name))
+            if person is not None:
+                (person["sponsored_co"] if i else person["sponsored_primary"]).append(m)
     member_list = sorted(members.values(), key=lambda p: p["name"].split()[-1].lower())
 
     # --- finish committees ----------------------------------------------
