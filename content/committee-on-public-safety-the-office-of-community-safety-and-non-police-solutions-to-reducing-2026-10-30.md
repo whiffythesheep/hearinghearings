@@ -1,0 +1,2309 @@
+---
+committee: "Committee on Public Safety | Committee on Governmental Operations, State & Federal Legislation"
+committee_slug: committee-on-public-safety
+title: "The Office of Community Safety and Non-Police Solutions to Reducing Violence"
+date: 2026-10-30
+slug: committee-on-public-safety-the-office-of-community-safety-and-non-police-solutions-to-reducing-2026-10-30
+duration: "5hrs 2m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_261030-131325.mp4"
+viebit_hash: "iPSKbgTdfwvihqZP"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456231&GUID=328125E3-8011-4F8F-81CB-E02379F208D9&Search="
+chairs: "Oswald J. Feliz | Gale A. Brewer"
+members: "Joann Ariola, Chris Banks, Jennifer Gutiérrez, Ty Hankerson, Kamillah Hanks, Sandy Nurse, Justin E. Sanchez, Phil Wong"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Public Safety, jointly with the Committee on Governmental Operations, State and Federal Legislation, held its first oversight hearing on the Office of Community Safety (OCS), the new mayoral office established by Mayor Mamdani's Executive Order 15 in March 2026. The hearing examined OCS's structure, early performance, and relationship to five constituent offices it now oversees: the Office for Neighborhood Safety and Prevention of Gun Violence, the Office of Community Mental Health, the Office to End Domestic and Gender-Based Violence, the Office for the Prevention of Hate Crimes, and the Office of Crime Victim Services. The committee also heard three bills: Int 0403-2026 (CM Restler), which would elevate OCS into a full Charter-mandated Department of Community Safety; Int 0414-2026 (CM Riley), which would establish a three-digit 24/7 gun violence intervention hotline; and Int 0667-2026 (CM Williams), which would allow community service in lieu of civil penalties for certain littering violations.
+
+OCS Commissioner Delaney Brahms led the administration's testimony alongside staff from each component office. She outlined a public health approach to violence prevention, described the B-HEARD behavioral health emergency response program as a key initiative, and cited program statistics across mediations, participatory budgeting, and victim services. The administration's core argument was that consolidating these offices creates a force multiplier: since violence, mental illness, domestic abuse, and hate crimes often affect the same people and neighborhoods, a unified office can coordinate responses across silos. The administration said it had invested an additional $67 million under the new structure and is engaged in a strategic planning process to formalize how the offices work together toward becoming a full department. OCS broadly supported the intent of Int 0403, said a three-digit hotline as proposed in Int 0414 would require federal authorization and suggested leveraging existing resources like 988 instead, and was not asked substantively about Int 0667.
+
+Council members were largely supportive of the underlying mission but relentless in probing whether OCS has actually done anything new, or merely rebranded and reorganized existing programs. CM Morano pressed hardest on accountability, asking for one measurable improvement attributable specifically to OCS's creation rather than to pre-existing programs, and received an answer about restoring B-HEARD training that had lapsed since 2024. She also questioned the fiscal note on Int 0403 claiming zero cost, and asked whether the City tracks B-HEARD patients' outcomes beyond the initial call. CM Wong questioned the value of an additional management layer overseeing offices that were already functional, drawing a direct comparison to the Thrive mental health initiative widely considered a cautionary tale of expensive consolidation with weak accountability. Public Advocate Jumaane Williams raised a pointed concern about integration: OCS is not currently attending CompStat or crime stat briefings, and Commissioner Brahms acknowledged the last meeting between OCS and the police commissioner at the top level was months ago, with regular contact limited to deputy commissioners and civilian staff. Williams argued the office needs to be treated as a full partner in the city's public safety apparatus, not as an adjunct.
+
+Several substantive gaps emerged beyond political sparring. B-HEARD, the signature behavioral health 911 response program, responded to around 8,500 of approximately 11,000 eligible calls last fiscal year, out of roughly 150,000 total mental health 911 calls annually. It operates only from 9am to 1am, covers 31 precincts, and underwent no integrated training for over a year before a recent class of 27 new staff. The Office for the Prevention of Hate Crimes had just three employees before a new $26 million investment was announced, and job postings had not yet been made. The Office to End Domestic and Gender-Based Violence carries a 25% vacancy rate. OCS does not yet track repeat B-HEARD contacts or long-term outcomes for people it serves, cannot report how many of its 14,232 Crisis Management System mediations involved credible imminent threats versus routine disputes, and does not have a firm timeline for transferring contracts from host agencies to its own contracting infrastructure. Chair Feliz noted that approximately 40% of shootings occur in the Bronx and questioned why an office focused on community safety is headquartered at 253 Broadway rather than in the communities most affected.
+
+Meeting Overview
+
+The hearing accomplished what a first oversight hearing is supposed to do: establish a baseline, surface the gaps, and put the administration on notice. OCS is clearly still in construction. The $271 million budget sounds large until you note that 95% of it is pre-existing program funding transferred from other agencies, the new management layer costs $2.9 million, and the deputy mayor's team has eight people. Whether consolidation adds value or just adds hierarchy remains genuinely unproven six months in. The administration was competent in testimony but could not point to much that is concretely new. The 60-person public testimony queue suggests the community is paying close attention.
+
+Numbers
+
+- OCS total fiscal year 2027 budget: $271 million, not including discretionary funding.
+- Additional new investment by the Mamdani administration in OCS programs: $67 million above transferred existing budgets.
+- Breakdown of new investment: $29 million for Office for the Prevention of Hate Crimes, $57 million for Office of Neighborhood Safety, $7 million for Office of Community Mental Health, $2.9 million for OCS staffing.
+- OCS central office staff: approximately 100 employees.
+- OCS staffing cost as share of total budget: approximately 5%, equating to roughly $2.9 million for staff added by the new OCS structure.
+- Deputy Mayor for Community Safety's team size: 8 staff.
+- B-HEARD program budget: $35.3 million across both FDNY and Health and Hospitals teams.
+- Total mental health 911 calls annually: approximately 150,000.
+- B-HEARD eligible calls in fiscal year 2026: approximately 10,945.
+- B-HEARD calls actually responded to in fiscal year 2026: 8,524.
+- Share of B-HEARD-served individuals receiving care in the community rather than being transported to hospital: 42%.
+- B-HEARD patient satisfaction rate among surveyed participants: 96%.
+- B-HEARD operating hours: 9am to 1am, 365 days a year, covering 31 precincts.
+- Most recent B-HEARD training class: 27 new personnel across FDNY and Health and Hospitals, first integrated training since 2024.
+- Crisis Management System mediations and de-escalations conducted in fiscal year 2026: 14,232.
+- Crisis Management System caseload participants in fiscal year 2026: 1,633.
+- ATLAS program participants in fiscal year 2026: 2,027.
+- Neighborhood residents participating in Mayor's Action Plan participatory budgeting in fiscal year 2026: 5,564; funds invested back into communities: $530,000.
+- Shooting incidents in fiscal year 2026: 673, down 16% from 804 in fiscal year 2025, and down 61% from a peak of 1,741 in fiscal year 2021.
+- New investment in community violence prevention and intervention for fiscal year 2027: $14.8 million, expanding into two additional neighborhoods.
+- New investment in domestic violence and victim services: $15.7 million.
+- New investment in hate crime prevention and education: $26 million, including $1 million for security at houses of worship and a 153% increase in PATH program partner funding.
+- Office to End Domestic and Gender-Based Violence vacancy rate: 25.3%, with 79 current staff.
+- Office for the Prevention of Hate Crimes prior to new investment: approximately 3 employees and a $3 million budget.
+- Family Justice Centers served approximately 1,200 people with about 64,000 visits last fiscal year, up from 2024; 40-60% of visits now conducted remotely depending on borough.
+- Crisis Management System investment in the Bronx: approximately $22 million across 11 hot spot areas in 8 precincts.
+- CMS footprint citywide: 49 catchment areas across 33 NYPD precincts in 20 neighborhoods across all five boroughs.
+- Reported rapes up approximately 4% compared to 2025; subway felony assaults up 11%; hate crimes up 13%; subway murders increased from 4 to 7 this year; citations for low-level quality-of-life offenses up 12%.
+- Providers in OCS network now receive a 50% advance payment at the start of the fiscal year following feedback on cash flow gaps.
+
+Action Points
+
+- OCS Commissioner to provide committee with a breakdown of OCS budget split between personnel costs and program/contract spending.
+- OCS Commissioner to follow up with Chair Feliz offline on the case for locating OCS presence or headquarters in high-violence communities such as the Bronx.
+- OCS to provide committee with a list of the approximately 50 schools currently receiving OCS youth intervention programming and the criteria by which those schools were selected.
+- OCS to report back to committee with updated B-HEARD coverage percentage relative to total eligible calls, once internal data analysis and staffing expansion plan are complete.
+- OCS to develop and share with the Council a plan and timeline for B-HEARD expansion toward 24/7 operation, including cost estimates, in coordination with OMB.
+- OCS to report back to committee on the number of B-HEARD responses that resulted in involuntary hospital transport.
+- OCS to develop and publicly report longer-term outcome metrics for B-HEARD, including repeat emergency calls, subsequent crisis incidents, and whether patients connected to referred services, as requested by CM Morano.
+- OCS to track and report the number of unique individuals served by B-HEARD, not just total call volume, as requested by CM Sanchez.
+- OCS to work with CM Riley and the Council to refine Int 0414-2026 to address federal authorization requirements for a three-digit hotline, with OCS proposing leveraging 988 and the NYC Hope Hotline as alternatives.
+- OCS to work collaboratively with CM Restler and the Council to amend Int 0403-2026 to align shared goals around establishing a Department of Community Safety.
+- OCS Commissioner to clarify and correct the fiscal impact statement for Int 0403-2026, which claims zero cost, given the administration's own testimony about significant new program investments.
+- OCS to establish regular senior-level meetings between OCS leadership and NYPD uniformed operational leadership, including the police commissioner or chief of department, as flagged by Public Advocate Williams.
+- OCS to pursue inclusion of OCS leadership in CompStat and crime stat briefings on a regular basis.
+- OCS to develop a concrete plan and timeline for transferring contracts from host agencies to OCS's own contracting infrastructure and share progress with committee.
+- OCS to work with CM Banks and juvenile justice stakeholders to improve communication to judges and court-involved youth about available OCS-affiliated programs, addressing the gap where judges report no programs exist.
+- OCS to explore incorporating peer support workers directly into B-HEARD response teams, building on the Associate Director role recently hired at Health and Hospitals.
+- OCS to present strategic plan to the Council once complete, including metrics, geographic priorities, and criteria for evaluating program effectiveness.
+- OCS to explore maximizing use of Family Justice Center physical spaces for co-located providers and community programming given declining in-person utilization.
+- OCS to engage with CM Restler's office and CM Stevens on rebuilding youth programming landscape disrupted during the Adams administration, with particular focus on Department of Probation coordination.
+- OCS to expand B-HEARD coverage to Lower Manhattan and Lower East Side, as requested by CM Wilson, as part of next expansion phase.
+
+## Full Transcript
+
+**(00:00:13)**
+
+
+
+To assist you. Hello. Good afternoon. Welcome to today's New York City Council hearing for the Committee on Public Safety, joint with Governmental Operations, State and Federal Legislation. At this time, please silence cell phones. If you wish to speak in today's hearing, please fill out a appearance card with one of the sergeants. Moving forward, no one is to approach the dais. Chair, you may begin.
+
+**(00:00:43)**
+
+
+
+Good afternoon, everyone. I am CM Feliz, Chair of the Committee on Public Safety. Good afternoon and welcome to today's hearing on the Office of Community Safety.
+
+**(00:00:54)**
+
+
+
+At today's hearing we will examine the newly created Office of Community Safety and other non-police solutions to reducing violence. I would like to thank CM and Co-Chair Gale Brewer and the Committee on Governmental Operations for co-chairing this hearing. I would also like to acknowledge members who have joined us, including Speaker Julie Menin, Public Advocate Jumaane Williams, CM Riley, CM Wong, CM Morano, CM Nurse and CM Wilson. Before I begin my opening statement, I would like to pass it on to Speaker Julie Menin.
+
+**(00:01:25)**
+
+
+
+Thank you, Chair. I want to welcome everyone to today's New York City Council hearing. Let me begin by thanking Chair Feliz and Chair Brewer, chairs of these committees, for convening this very important oversight hearing on the Office of Community Safety and non-police solutions to reducing violence. We will also be hearing three pieces of legislation that the chairs will discuss shortly.
+
+A crucial aspect of community safety is fostering trust between government and the people it serves. That trust is earned over time through transparency, through ensuring impacted New Yorkers have a seat at the table and mostly through proven results. This past March, the Mayor established an Office of Community Safety, tasked with developing citywide community safety strategies and to supervise and coordinate the work of mayoral offices that operate in furtherance of community safety, including crime and violence prevention initiatives, victim assistance services and community mental health services. As part of the establishment of OCS, five existing mayoral offices moved under its umbrella: the Office of Crime Victim Services, the Office for the Prevention of Hate Crimes, the Office of Community Mental Health, the Office to End Domestic and Gender-Based Violence, the Office for Neighborhood Safety and the Prevention of Gun Violence. All of them were previously independent offices. Some have existed for over a decade, so it is important for us to come away from today's hearing with a greater understanding of why the offices were shifted from operating independently to being managed by the new OCS.
+
+We also want to learn which advocates were consulted before the change was made and whether those organizations that have been working in these spaces for years are part of the decision-making moving forward. Certain providers have contacted us and testified at prior hearings, particularly a hearing we held in the Gender Equity Committee about the move of the Office to End Domestic and Gender-Based Violence, and voiced concerns. At our hearing, Safe Horizon said that they were concerned that they had not been contacted prior to the restructuring, and Sanctuary for Families specifically said that the move occurred without meaningful collaboration. So one of the goals we have today is to understand what can happen moving forward to increase that level of collaboration and make sure that those organizations have a seat at the table.
+
+Most importantly, we want to understand the overarching goal of the office and what approaches it plans on taking moving forward. We do want to say that the goal of keeping New Yorkers safe is obviously incredibly important. We are concerned that compared to 2025, reported rapes have increased nearly 4%, subway felony assaults have climbed by 11% and hate crimes are up 13%. So these are all questions that we plan on asking, and we look forward to having a really fulsome hearing and conversation. I will turn it back over to the Chair for his opening statement. Thank you.
+
+**(00:04:46)**
+
+
+
+Thank you, Speaker. Earlier this year, New York City Mayor Mamdani issued Executive Order Number 15, which established the Office of Community Safety, known as OCS, broadly tasked with developing citywide community safety initiatives. It is also empowered to supervise and coordinate the work of five existing mayoral offices that operate with similar safety-oriented goals. These offices are the Office for Neighborhood Safety and Prevention of Gun Violence, the Office of Community Mental Health, the Office to End Domestic and Gender-Based Violence, the Office for Prevention of Hate Crimes and the Office for Crime Victim Services. The Executive Order also directs a citywide mental health crisis response program, including the B-HEARD program, an emergency response initiative that sends teams of mental health practitioners to certain mental health emergency calls.
+
+**(00:05:42)**
+
+
+
+So this hearing is an
+
+**(00:05:42)**
+
+
+
+opportunity for the Council to examine the administration's plan and vision for the newly created Office of Community Safety, to better understand what has been accomplished since it was established, to learn about how OCS plans to coordinate the work of the five offices under its jurisdiction and other City agencies as well, including our New York City Police Department. The Council also wants to know what changes have been made to existing programs and how it will be connecting New Yorkers in need with services.
+
+Through today's hearing, the Committee seeks a clear understanding of OCS and its plans for the future. Establishing an office is one step. We need to know what it is doing, how it is working with the agencies and organizations responsible for delivering services and what measurable results the City expects to achieve.
+
+Two specific areas of work that I plan to closely examine include how OCS is responding to mental health emergencies and the Crisis Management System, which operates anti-violence initiatives citywide. The committees will also examine how OCS is working with community-based organizations that deliver violence prevention services, notably the Crisis Management System, which relies on community members and violence interrupters to mediate conflicts, connect people with services and help prevent violence. We want to understand how OCS is supporting these efforts, how everybody evaluates their effectiveness and whether existing programs have the resources and coordination needed to reach the communities they serve.
+
+Public safety is one of the most important responsibilities of City government and we have to continue to explore new initiatives, but at the same time we have to make sure that they are effective. So I look forward to a conversation on these new initiatives and this new office. Finally, the committees will hear related legislation. Specifically, two bills are being heard by the Public Safety Committee. Introduction Number 0414, sponsored by CM Riley, which would require a study to establish a three-digit emergency hotline known as the Gun Violence Intervention Hotline, to assist individuals seeking assistance with mental health and supportive services and programs related to gun violence intervention. And Introduction Number 0667, sponsored by CM Williams, which would require that judges offer the option to complete community service in lieu of paying civil penalties for violations given for improper disposal of garbage.
+
+I would like to thank the leadership team at the Office of Community Safety and all the stakeholders who have joined us today. I would also like to thank my staff, including the Committee staff: Josh King, counsel to this committee; Chad Benjamin, policy analyst; and Prasad, who is
+
+**(00:08:30)**
+
+
+
+my legislative director. I look forward to a productive discussion, and I would like to acknowledge Co-Chair Brewer for her opening remarks before offering those bill sponsors an opportunity. Thank you very much. CM Brewer, I greatly appreciate this.
+
+**(00:08:47)**
+
+
+
+Thank you. I am Gale Brewer. I chair the Committee on Governmental Operations, State and Federal Legislation, and it is important to talk about the Office of Community Safety — and notice that it already has an acronym, OCS — and everything to do with non-police solutions to reducing violence. We are obviously going to hear about Int 0403, sponsored by CM Restler. I want to give him credit for really working on creating a Department of Community Safety. He has been very focused on this, to his credit.
+
+**(00:09:17)**
+
+
+
+As you have heard, earlier this year the Mayor created this Office of Community Safety to develop safety strategies. It is made up of several already existing offices and is a step towards fulfilling the Mayor's campaign pledge to create this department.
+
+**(00:09:36)**
+
+
+
+That pledge contemplated the creation of an agency with more expansive powers and duties than those of the current Office of Community Safety. In proposing this, the candidate Mamdani imagined a department that would fill the gaps of our programs and services and would address, most importantly, violence with a public health focus. The Department of Community Safety, as envisioned by the Mayor, was meant to help decrease the myriad tasks police perform and allow trained health and social professionals to take the lead in addressing issues that have strained our social safety net.
+
+**(00:10:16)**
+
+
+
+While the proposed Department of Community Safety would mark a drastic change in how New York City would deal with so many different safety issues, we know that there are many of them. Int 0403 would create a Department of Community Safety, as you heard, based on a similar principle of removing police response from certain interactions where the main need is access to services, often mental health. This new agency would build upon the infrastructure of non-police response currently exemplified in the Office of Community Safety, and that infrastructure is one that advocates and members of the Council have called for for years.
+
+**(00:11:02)**
+
+
+
+The Department of Community Safety contemplated by Int 0403 would be tasked with promoting community safety, providing emergency responses that support the preservation of public safety and health and welfare. It would be involved in collaboration with emergency responders, social service professionals and public health officials, and the maintenance of field operations to facilitate the delivery of services. Today we will take a hard look at the administration's efforts to take a public health approach to public
+
+**(00:11:33)**
+
+
+
+safety. This means examining how the Office of Community Safety has worked so far in its six months of existence. We can analyze what works, what does not, where there needs to be more and what we should not do at all.
+
+**(00:11:47)**
+
+
+
+We will evaluate how this office meets promises made by the Mayor and the goals of the Council, look at what the consequences — good or bad — of expanding this office into an agency would be, and the creation of the Office of Community Safety indicated a step toward a drastic change to both public safety and community safety in the City.
+
+**(00:12:08)**
+
+
+
+The primary oversight in the City is the Council's job, to make sure we are making that change right. I do want to say one thing about the topic that the Speaker mentioned about the gender aspect to it. I visited the place at the District Attorney's office where women and families go after some kind of horrific sexual assault situation, and I hope that that would be part of this discussion also.
+
+**(00:12:37)**
+
+
+
+It is a very important part of community safety.
+
+**(00:12:40)**
+
+
+
+From the Governmental Operations staff, I want to thank Abra Cohen and our staffer Samooh Mead, and for myself, Schuler and Pooter. I thank everyone. I will turn it back over to the Chair. Thank you so much.
+
+**(00:12:56)**
+
+
+
+Thank you, Chair Brewer. Next, we will hear from our Public Advocate Jumaane Williams.
+
+**(00:13:00)**
+
+
+
+Williams. Thank you, Chair. I just want to make sure I am focused. The Knicks have won two straight and they are going to beat your 76ers tonight. But thank you.
+
+**(00:13:11)**
+
+
+
+Chair and Speaker and Chair Brewer, as mentioned, my name is Public Advocate Jumaane Williams of the City of New York. I want to thank the chairs and the members of the committees for holding this very important hearing today. Earlier this year, the Office of Community Safety, OCS, was established to coordinate efforts across neighborhood safety, victim and survivor services, domestic and gender-based violence prevention, hate crime prevention and community mental health. I am encouraged by this administration's desire to build a safer city for everyone and want to see the office become its own department.
+
+**(00:13:41)**
+
+
+
+So I am thankful for Int 0403, of which I am a prior co-sponsor, to codify a full Department of Community Safety. Building it out requires close coordination with NYPD and others, and adequate resources to centralize violence prevention and crisis response initiatives. The action our City takes to prevent violence and strengthen communities does not just impact everyone across the five boroughs — it sets a blueprint for what is possible across the entire country.
+
+**(00:14:10)**
+
+
+
+Ten months into this administration, your office has seen genuine public safety wins, like the continued downward trend of most major crimes. As we heard, unfortunately some are up, including rape and sexual assault. However, citations for low-level quality-of-life crimes like turnstile jumping have increased by 12%. Any increase in police presence, especially when directed at commonplace low-level offenses, will by definition produce an increasing number of arrests for these incidents. OCS can play an important role in providing the targeted services and programs that are more appropriate for addressing the underlying causes of many of these low-level offenses, so NYPD can focus on responding to and investigating more serious crimes. Additionally, the NYPD's response to people in mental health crisis continues to be a major concern.
+
+**(00:14:52)**
+
+
+
+In 2024, 19-year-old Win Rosario was killed during a mental health crisis by responding police officers. NYPD officers agree that allowing clinicians to respond to those who need mental health care frees them up to do their jobs investigating and responding to crime.
+
+**(00:15:07)**
+
+
+
+Our law enforcement should not be expected to serve as mental health professionals. We have mental health response initiatives, as you heard, but it will take full collaboration across agencies to make it successful. The creation of OCS represents an opportunity to align our City's current community safety initiatives under a single, cohesive vision, to scale promising practices, and eventually a department will enable us to build safer, thriving communities across the five boroughs. I do want to say we are at a really critical time here, so I am excited this office is being built. But where I see this working, there needs to be full integration — full coordination and full buy-in. I am not sure that is the case across the board in the administration, so I am really hoping that we can figure out how we can have OCS not treated as an aside but as a fully integrated partner when it comes to public safety — at the meetings, at the press conferences and in every place they need to be, helping develop a strategy. I do not think that we have reached that point at this moment in time and we are hoping that we can. And of course, I did a lot of work around gun violence and I am very proud of the work OCS is doing.
+
+**(00:16:20)**
+
+
+
+Shout out — I think some of that work has stagnated now, so now is a great time to look at how we can build on the work that was there, continue to build an infrastructure and build on it. The whole country can see what New York City is doing, as they have done before, so I believe that we can get this right and we have to get it right. So I am very much looking forward to this hearing to figure out how we can do this better and actually build measurable things so we can measure it even better. So thank you so much, and I want to shout out my brother, who is not here now, but who was very helpful and instrumental in helping build this up. Thank you.
+
+**(00:16:58)**
+
+
+
+Thank you so much. I would also like to recognize CM Stevens and also CM Joann Ariola, who has joined us virtually. Next, we will hear from CM Kevin Riley, whose Bill, Introduction Number 0414, is being heard today. Thank you.
+
+**(00:17:13)**
+
+
+
+Chair Feliz and Charles Brewer, for him, my legislation, Int 0414-2026, establishment of a three-digit, 24/7 gun violence intervention hotline. Let me start by saying what so many of us are feeling: we are tired. Tired of the shootings. Tired of losing our young people. Tired of families burying loved ones. Just yesterday, 15-year-old Javid was tragically shot and killed while walking to school in the Bronx. The day before, he marked what would have been today one year since he arrived from Ghana, a young boy with his entire future ahead of him, stolen by a senseless act of gun violence. As a father, I am heartbroken, but most importantly, I am outraged. No parent should have to bury their child. No child should fear for their life walking to school.
+
+While shootings have declined citywide, those statistics mean little to a grieving family. One shooting is still one shooting too many. Int 0414-2026 establishes a 24/7 hotline staffed by trained mental health professionals connecting New Yorkers to crisis counseling, conflict mediation, outreach and intervention resources. We cannot keep waiting until shots are fired to take action. This is not about replacing 911. Law enforcement plays a critical role in keeping our community safe and community-based violence intervention strengthens those efforts. We need both working together to prevent violence and protect lives.
+
+I want to thank my colleagues, advocates and community partners for their support. Our communities are tired of mourning. They demand safety solutions and action. Today I want us to remember his name: Javid Frimpong, 15 years old, killed yesterday. His family should have been preparing for his future, not mourning his loss. This is unacceptable and we have to do more. Int 0414-2026 is just one more tool to intervene before violence escalates and to help prevent another family from experiencing this pain. We owe Javid and his family and every child in this City more than condolences. We owe them safety and we owe them action. Thank you.
+
+**(00:19:25)**
+
+
+
+Sure. Thank you.
+
+**(00:19:25)**
+
+
+
+Thank you, CM. Next we will hear from CM Lincoln Restler. Is his bill still being heard today? Thank you.
+
+**(00:19:32)**
+
+
+
+So much, Feliz, and Chair Brewer, for having this hearing today. I really especially want to thank the Speaker for the opportunity to hear this legislation. I would like to
+
+**(00:19:43)**
+
+
+
+also take a moment to thank Josh Kingsley, Committee Counsel, for his great work in drafting this Bill, and my Chief of Staff Molly Haley, who is absolutely brilliant and really the brains of our operation. I am really grateful to her on this and on everything.
+
+**(00:19:59)**
+
+
+
+I just wanted to start by thanking all of the people who do the work of community safety every day — City workers, nonprofit workers who help make our communities safer and are helping people in need. When I ran for City Council, the idea of a new community safety agency that could address issues in our neighborhoods in real time and actually connect people to the help, to the solutions that they need, rather than just punitive enforcement, was a big part of my campaign platform. We began the Bill drafting process early in my term and we were pleased to finally introduce the legislation last year.
+
+**(00:20:40)**
+
+
+
+After the Department of Community Safety gained some traction on the Mayor's campaign, the overwhelming majority of 911 calls for mental health assistance are responded to by NYPD officers rather than mental health professionals, social workers or others trained to handle and defuse these challenging situations. We ask our police to respond to every issue under the sun and it distracts from their core work of preventing and solving violent crime. We need a new agency, a new City agency, that can ensure real-time response to mental health calls and other non-violent issues and actually connect New Yorkers to the solutions that they desperately need, like housing and health care. We all know that public
+
+**(00:21:30)**
+
+
+
+safety is about much more than just policing. To deepen public safety, we must make greater investments in violence-interrupting strategies to help our young people get on the right track. We need to do so much more to help chronically homeless New Yorkers who are often dealing with mental illness, who are struggling daily on our streets and in our subways. We also need to significantly improve coordination across our siloed City agencies so that New Yorkers will finally stop cycling through our jails, our hospitals and our shelters.
+
+**(00:22:05)**
+
+
+
+Making this a City agency in our Charter will offer permanence and ensure that we can continue to provide robust Council oversight through budget hearings, reporting and more.
+
+**(00:22:18)**
+
+
+
+I am honored to have the support of 34 Council Members — a supermajority — on this Bill, and our distinguished Public Advocate. I look forward to working closely with the Speaker, with my colleagues, with the administration, with many advocates and providers. Together we can refine the Bill language and make sure that this agency is set up for success permanently. Thank you.
+
+**(00:22:47)**
+
+
+
+Thank you so much, Council
+
+**(00:22:49)**
+
+
+
+Member. The first panel: representatives from the Office of Community Safety. Commissioner Delaney Brahms.
+
+**(00:22:59)**
+
+
+
+Seen Clifford, Werla Roche, Edward Gil Hill. Sorry. Rantie Aguilan, Geagea Ram, Jatin Michael Williams, Evan Ellis Santos, and a key ground. I will pass it to the Committee Counsel to administer the oath. Good afternoon, everyone. Can you just raise your right hand and affirm to tell the truth, the whole truth and nothing but the truth and to answer honestly the Council Members' questions. Please be quiet in the chambers or you will be escorted out if you cannot remain quiet. Do you acknowledge that? Thank you. You may go ahead. This is the second warning. On the third one, you will be escorted out as well. Please be quiet in the chambers. We have a panel who will be
+
+**(00:24:21)**
+
+
+
+testifying now.
+
+**(00:24:21)**
+
+
+
+Good morning, Chair Feliz, Chair Brewer and members of the Committee on Public Safety and Committee on Governmental Operations, State and Federal Legislation.
+
+**(00:24:31)**
+
+
+
+I am Doctor Delaney Brahms, Commissioner of the Office of Community Safety. Thank you for the opportunity to speak today about OCS's work. Established through Executive Order 15 in March 2026, OCS advances a whole-of-government approach to preventing violence and promoting safety. OCS brings together five offices: the Office of Crime Victims Services, the Office of Neighborhood Safety, the Office to End Domestic and Gender-Based Violence, the Office of Community Mental Health and the Office for the Prevention of Hate Crimes. Our work recognizes that New York City needs multiple tools and strategies to build safer communities. This means investing in community-led solutions that prevent violence, intervening when conflicts
+
+**(00:25:16)**
+
+
+
+and crises arise and ensuring that victims, survivors and families have the support they need to heal and recover. Bringing these offices together also recognizes that the challenges New Yorkers face do not exist in isolation. For instance, research shows that communities with high rates of gun violence also experience high rates of domestic violence.
+
+**(00:25:42)**
+
+
+
+A survivor of domestic violence needs mental health care. Communities affected by gun violence or hate crimes also need immediate intervention and sustained support.
+
+**(00:25:50)**
+
+
+
+Together, our offices work toward a City where New Yorkers can live safely and access the support they need.
+
+**(00:25:58)**
+
+
+
+The Office of Community Mental Health works to expand access to mental health care and improve behavioral health crisis response. The Office of Neighborhood Safety works to prevent gun violence among the people in neighborhoods at greatest risk. The Office to End Domestic and Gender-Based Violence works toward a City free from domestic and gender-based violence where survivors can access safety and support. The Office for the Prevention of Hate Crimes works to prevent violence and bias and to build a New York where everyone feels safe and welcome. Our approaches are grounded in research and evidence, informed by what we hear directly from survivors and communities about what they need to be safe and thrive, and implemented in partnership with our fellow government agencies and community-based partners.
+
+**(00:26:46)**
+
+
+
+One way you can see this approach is in the work of the Office of Community Mental Health, which addresses gaps in the behavioral health system and expands access to care for New Yorkers.
+
+**(00:26:56)**
+
+
+
+The Office of Community Mental Health invests in community-based approaches that bring mental health support to where New Yorkers live, learn and work, helping reduce stigma, promote early intervention and strengthen community capacity.
+
+**(00:27:09)**
+
+
+
+One critical part of that work is ensuring that when New Yorkers experience a behavioral health crisis, they receive an appropriate response.
+
+**(00:27:17)**
+
+
+
+Across the country, jurisdictions are increasingly bringing behavioral health professionals into 911 behavioral health crisis response. Research supports this approach. A study of Denver's STAR program, which pairs a mental health clinician with a paramedic to respond to certain 911 calls, found a 34% reduction in reports of lower-level offenses and no detectable increase in more serious crime.
+
+**(00:27:42)**
+
+
+
+Here, our signature 911 behavioral health response initiative, B-HEARD, pairs Emergency Medical Services professionals with one social worker to respond to eligible calls, assess needs and crises and connect people to appropriate care.
+
+**(00:27:58)**
+
+
+
+The program is operated by New York City's Fire Department and New York City Health + Hospitals and it is overseen by OCS. In fiscal year 2026, B-HEARD responded to 8,524 calls, with 42% of the individuals served receiving care in the community rather than being transported to a hospital. Also, among surveyed participants, 96% reported that B-HEARD helped them. Expanding and strengthening B-HEARD is a key priority for OCS and this administration. We are working in close partnership with FDNY and New York City Health + Hospitals to strengthen operations and expand the program's reach so that many more New Yorkers can receive a response from teams of professionals and social workers.
+
+**(00:28:45)**
+
+
+
+Different public safety challenges require different approaches.
+
+**(00:28:47)**
+
+
+
+While the Office of Community Mental Health is focused on improving behavioral health care and crisis response, the Office of Neighborhood Safety works to prevent community violence, assaults and shootings that typically occur outside the home.
+
+**(00:28:58)**
+
+
+
+New York City has seen declines in shooting incidents from 804 in fiscal year 2025 to 673 in fiscal year 2026 — a 16% reduction and a 61% decline from a recent peak of 1,741 incidents in fiscal year 2021.
+
+**(00:29:16)**
+
+
+
+The Office of Neighborhood Safety contributes to the City's broader crime reduction efforts through complementary strategies focused on the people and places at greatest risk of violence.
+
+**(00:29:23)**
+
+
+
+Improving environmental conditions, interrupting conflicts and providing intensive therapeutic and wraparound supports to people at risk. One way the Office of Neighborhood Safety works is through the Neighborhood Action Plan for neighborhood safety. MAP hosts participatory budgeting events designed to leverage the expertise of neighborhood residents in identifying and proposing local solutions to safety and wellness priorities.
+
+**(00:29:54)**
+
+
+
+Through this approach, residents draw on their experience and local expertise to identify, propose, discuss and vote on projects and initiatives most important to them. In fiscal year 2026, 5,564 neighborhood residents participated in a participatory budgeting process and $530,000 was invested back into communities through physical space improvements or community-based programs.
+
+**(00:30:19)**
+
+
+
+By using evidence-based crime prevention through environmental design principles, MAP also worked with residents to improve their social and physical environment. This includes enhancement and revitalization of gardens, playgrounds, basketball courts, lighting and murals. Together, these efforts create vibrant neighborhoods that promote safety, build community and address the immediate needs of residents. Research supports this approach. A University of Chicago Crime Lab randomized control trial in New York City found that installing new lighting in public housing developments reduced nighttime outdoor index crime by 36%. Another randomized trial in Philadelphia found that restoring vacant land reduced gun violence by 29% in neighborhoods below the poverty line.
+
+**(00:31:03)**
+
+
+
+In addition to addressing broader environmental conditions,
+
+**(00:31:06)**
+
+
+
+the Office of Neighborhood Safety works to prevent violence by identifying and intervening in conflicts before they escalate. This includes supporting the Crisis Management System, where locally credible outreach workers and violence interrupters build trusted relationships with people at elevated risk of violence, mediate conflicts and connect people to employment, education, mental health care, legal services and other resources.
+
+**(00:31:31)**
+
+
+
+In fiscal year 2026, providers conducted 14,232 mediations and served 1,633 participants on caseloads.
+
+**(00:31:44)**
+
+
+
+The Office of Neighborhood Safety also works closely with individuals at elevated risk of violence, providing therapeutic supports and other supports that can help prevent future violence. Through ATLAS, the Office of Neighborhood Safety connects participants to intensive therapeutic services and practical support, such as help accessing housing, employment, education and other essential resources.
+
+**(00:32:02)**
+
+
+
+In fiscal year 2026, ATLAS engaged 2,027 participants. Research supports this approach as well. A Chicago study found that combining mentoring and cognitive behavioral therapy reduced arrests for up to five years into adulthood.
+
+**(00:32:22)**
+
+
+
+Together, these strategies, along with others that the Office of Neighborhood Safety implements, address both immediate risks of violence and longer-term conditions that contribute to it. Recognizing the importance of this work, this administration invested an additional $14.8 million in fiscal year 2027 to expand community violence prevention and intervention, including bringing in two additional neighborhoods and increasing access to clinical and mental health supports for people at risk of or impacted by violence.
+
+**(00:32:52)**
+
+
+
+The Office to End Domestic and Gender-Based Violence also works to reduce violence by working directly with people who have caused or are at risk of causing harm.
+
+**(00:33:03)**
+
+
+
+Here, however, the focus is on violence in intimate and family relationships. Through the Abusive Partner Intervention Program, it helps participants reflect on their behavior, take accountability for harm they have caused and build healthier relationships. These programs and services
+
+**(00:33:18)**
+
+
+
+respond to what survivors have told us they need: options to stop abusive behavior, including when they are not ready, able or willing to engage with law enforcement. Supporting survivors and their families is central to this work, not only to promote healing and well-being but also to help interrupt cycles of violence and trauma. Research shows that children exposed to domestic violence are nearly three times more likely to experience domestic violence as adults. Childhood exposure to family violence is also associated with an increased risk of perpetrating domestic violence later in life. Through the five Family Justice Centers and the Crime Victims Assistance Bureau program, survivors of domestic and gender-based violence and victims of other crimes receive advocacy, safety planning, counseling, legal services and other supports. The office is also expanding community-based access to these services so survivors can receive support regardless of whether they engage with law enforcement. Recognizing the importance of this work, the administration invested an additional $15.7 million, including services for victims and survivors. Like the Office to End Domestic and Gender-Based Violence, the Office for the Prevention of Hate Crimes works to address the needs of people who have been harmed. The Office for the Prevention of Hate Crimes takes a big-tent approach to preventing hate and bias that can escalate into violence,
+
+**(00:34:43)**
+
+
+
+working closely with
+
+**(00:34:44)**
+
+
+
+government partners,
+
+**(00:34:45)**
+
+
+
+government agencies, community-based organizations and affected New Yorkers.
+
+**(00:34:50)**
+
+
+
+In fiscal year 2026, it worked with 159 community partners and its prevention programs served more than 280,000 participants, including over 7,500 young people reached
+
+**(00:35:01)**
+
+
+
+through educational initiatives with programming delivered in more than 20 languages.
+
+**(00:35:07)**
+
+
+
+The administration has invested $26 million in new funding to expand hate violence prevention, education, community engagement and support for affected communities.
+
+**(00:35:19)**
+
+
+
+Across all of OCS, no one can do the work of building safety alone. OCS works closely with City agency partners, community-based organizations, service providers and New Yorkers directly affected by violence and trauma. At its core, OCS is built on the understanding that safety is something we create together.
+
+**(00:35:42)**
+
+
+
+As OCS grows and evolves, we will continue using data, research and community feedback to assess progress, address gaps and strengthen our work.
+
+**(00:35:51)**
+
+
+
+We look forward to continued collaboration with the Council and all our partners to ensure all New Yorkers have the support and opportunities they need to be safe and thrive. OCS supports the intent of Int 0403-2026 to connect New Yorkers affected by gun violence with intervention and support.
+
+**(00:36:09)**
+
+
+
+Establishing a new three-digit emergency number of this kind would require federal authorization. Additionally, we believe that existing resources such as 988 and the New York City Hope Hotline could be leveraged more quickly and efficiently to connect New Yorkers to needed services. We welcome the opportunity to work with the Council, our City agency partners and community-based organizations to expand access to those resources and ensure they meet the needs of people affected by gun violence, advancing the Bill's community safety goals. We are currently working collaboratively with the Council to amend Int 0403-2026 to align our shared goals and advance this effort. Thank you for the opportunity to testify today. I welcome any questions you have.
+
+**(00:36:57)**
+
+
+
+Thank you. Thank you so much for your testimony. Thank you for being here. We are going to see you again. I also want to recognize CM Justin Sanchez and Shaun Abreu, who have joined. This is obviously a new office, and this is the first hearing that we have on this matter, so we have many questions. I'll pass it first to Speaker Julie Menin for her questions. Great, thank you, Chair. Thank you so much for your testimony. I have a number of questions on your fiscal year 2027 budget.
+
+**(00:37:15)**
+
+
+
+MUCH FOR YOUR TESTIMONY. I HAVE A NUMBER OF QUESTIONS OM YOUR FISCAL YEAR 20 27 BUDGE
+
+**(00:37:22)**
+
+
+
+Was $271 million.
+
+**(00:37:27)**
+
+
+
+What are those numbers? Is that an accurate number?
+
+**(00:37:29)**
+
+
+
+What are the numbers today, and how many staff members do you have?
+
+**(00:37:33)**
+
+
+
+Yes, that is accurate. Our budget is $271 million, not including our discretionary funding. That represents an additional $67 million that this administration invested in the work of the Office of Community Safety and the component offices. That breaks down as follows: $29 million for the Office for the Prevention of Hate Crimes, $57 million for the Office of Neighborhood Safety, $7 million for the Office of Mental Health, and $2.9 million for staffing needs. So how much does that represent in total new resources rather than existing programs that were transferred into your office? $67 million. New resources from this administration.
+
+**(00:38:22)**
+
+
+
+Okay. And what is the
+
+**(00:38:22)**
+
+
+
+division of responsibilities
+
+**(00:38:24)**
+
+
+
+between the Deputy Mayor for Community Safety and the Commissioner of Community Safety, and how many employees report to each?
+
+**(00:38:32)**
+
+
+
+My office has approximately a hundred staff. My role as the Commissioner of the Office of Community Safety is to manage the office, to build out the office and the component offices that are part of it, to ensure that we have a strong strategy that knits together the existing work of these offices into a comprehensive approach for addressing violence, preventing harm, and also supporting people in the aftermath of harm. I report to the Deputy Mayor for Community Safety. The other commissioners report to the Deputy Mayor across the city. Her role is to support the office, but also to build out work across New York City that advances community safety.
+
+**(00:39:10)**
+
+
+
+I noted in my testimony, the work of community safety is something that is held by the Office of Community Safety but held by all of our government partners, our community partners, and many others. A couple of questions.
+
+**(00:39:24)**
+
+
+
+First, on subway violence. Subway felony assaults are up 11% so far this year, and subway murders have increased from four to seven this year. Just this month, a man was fatally shot on the E train platform in Midtown. Is your office deploying personnel into the subways, and how are you working with the NYPD to prevent attacks? Our office works very closely with NYPD on a number of initiatives. We are in a process right now of ensuring that across all of the work there, our existing relationships with NYPD at the ground level and all the way up to senior leadership are informed by and in partnership with the work we are doing around violence prevention, domestic and gender-based violence, mental health, and hate crimes.
+
+**(00:40:15)**
+
+
+
+Those relationships exist, and we continue to build on them, just in a deliberative way.
+
+**(00:40:22)**
+
+
+
+But are you? I'm sorry, I just want to make sure I understand: is your office deploying personnel into the subway? You do not currently have a program that deploys personnel into the subways as part of your work? Oh, okay.
+
+**(00:40:36)**
+
+
+
+And how often do you meet with the NYPD? We work at different levels across the entire office. As I said, there are a hundred people in the office, so I don't have a literal number of exactly how often we are meeting, but we are in daily contact with our entire office. Okay. Do you meet with them every week on a leadership basis?
+
+**(00:41:03)**
+
+
+
+We certainly meet with them every week, and on the leadership basis we are meeting with them on a daily basis throughout the office.
+
+**(00:41:08)**
+
+
+
+Okay. For mental health response, the Independent Budget Office found that only 33% of eligible mental health calls received a B-Heard response in the third quarter of 2025. What is the percentage today?
+
+**(00:41:24)**
+
+
+
+Our most recent percentage... I'll turn to our Deputy Executive Director for the Office of Community Mental Health. What I will say is that the goal of this administration and the goal of the Office of Community Safety is to strengthen and expand B-Heard.
+
+**(00:41:33)**
+
+
+
+We know that the necessity of providing a 911 mental health response to more New Yorkers is crucial to our work, and so we are in the moment of expanding the work that has existed for some time so that over time we can build it. We are responding to more and more calls. That work had been stagnant for some time, but now this administration is providing the support necessary. The office and the agencies we were working with, New York City Health and Hospitals as well as others, have continued to advance that work, and we've made some significant advances in just the last few months on increasing staffing and improving how we are triaging calls. We are in a moment of working toward expansion. Thank you, Commissioner. We'd have to do some math on the exact percentage, but there were about 11,000 calls that were eligible for B-Heard response last fiscal year, 2026, and of those, about 8,500 received a B-Heard response. There are about 150,000 overall 911 mental health calls, so we just have to do the math on how much that calculates to. Of those, over 8,000 received a B-Heard response. I'm sorry, 8,000? 8,000 of what? Overall amount? So 8,000 calls received a B-Heard response out of 8,500 calls? There were about 10,945 calls that were eligible. Okay. Okay. Given staffing shortages and rising ambulance response times, how much does B-Heard rely on ambulances, and has the administration made any decision regarding its role in B-Heard?
+
+The administration has made the decision that FDNY will operate B-Heard. Right now the program is a partnership between FDNY and New York City Health and Hospitals, as managed by OCS. While we are working very closely to ensure that we have the resources necessary, both staffing and vehicles, to make sure this program operates and can expand, I'll also turn it over to Grams to talk about some recent improvements we've been able to make with staffing.
+
+**(00:50:39)**
+
+
+
+Yes, we just earlier this month completed the latest class of B-Heard teams, which included about 27 personnel across FDNY and H+H combined. They underwent a four-week integrated training where staff learned techniques such as motivational interviewing and suicide prevention. For the first time this year, they were able to hear from other jurisdictions that are operating similar programs across the country. Also for the first time, during this training class, they received a workshop on peer support principles, including a panel where they got to hear directly from peers who have been impacted by the 911 mental health response systems. So from what you're saying, it sounds like you're saying B-Heard will remain involved? Yes. Okay, understood. I will also say that training was the first integrated training that B-Heard has had since 2024. We are in the process of filling staffing gaps and have been making significant progress on that. We're on track to have additional trainings early next year as well. And that will include both New York City Health and Hospitals social workers? Okay, I'm very concerned about the decision to remove the Commissioner for Energy from the commissioner leadership position that was made in the spring. Why was that decision made? Commissioner Sloane is still a significant and important member of the Office of Community Safety's leadership team.
+
+The decision that was made was to combine these five offices into one office, and that was made in order to strengthen the work of all of the component offices. That was a reflection of the recognition that the necessity to prevent violence and harm requires all of the component offices working very closely together, and I'm really excited to continue that work in partnership with the Commissioner, with her team, as well as the rest of the team.
+
+**(00:50:56)**
+
+
+
+I just think, and I said this at the Gender Equity Committee when we had this, I just think it sends the wrong message to victims of domestic violence and survivors when there's not an independent office that's dedicated to this, and there's not that commissioner-level leadership, when they're basically made an executive director. We heard from Safe Horizon and Family Justice Centers voicing concerns about that decision. How many vacancies are currently in that particular office? I'll turn to Deputy Commissioner Hill for the exact number. However, one thing I will note is that since the office has become part of us, the administration has made the largest investment in programs under any administration since its creation. In addition, we've been able to fill some longstanding vacancies, including vacancies such as the head of the Staten Island Family Justice Center, which is a CM Brewer, one of the places that I believe you mentioned, where people, families, and individuals who've experienced harm can receive services and walk in. So Commissioner, what is the head count? There are currently 79 staff members at the agency, and so the vacancy rate is 25.3%. Right? That's what our data is showing too. I mean, that is concerning. Why is there a high vacancy rate for an entity that is obviously serving such a critical mission? And then I also want to say, reported rapes are up in the city nearly 4%. A woman was recently sexually assaulted in Central Park.
+
+So what is going to be done to really address the vacancy rate?
+
+**(00:52:24)**
+
+
+
+We share your concern about the vacancy rate. Some of that vacancy rate is longstanding and related to hiring freezes, and we are working right now to ensure that we are filling key positions, because we know that the charge of the Office of Community Safety is to grow and expand, and to ensure that we have the people and the staff to do that. We cannot do that without a robust team, so we are working very hard right now with the leadership to ensure we are doing that work. And what specific efforts is the office doing to address rising rape in the City of New York? I'll alternate to Deputy Commissioner Hill to talk about some of the programs that we have. However, the work of the office, the Community... has existed in this city for 25 years, and the focus of that work is both on preventing harm and supporting individuals in the response and the aftermath of harm, and people who themselves have caused harm, to interrupt that cycle. The team has a robust set of resources, from supporting the New York City Hope Hotline, which is a 24-hour hotline to support survivors of victims of domestic and gender-based violence, as well as other crimes. We have the Family Justice Centers that I mentioned. We do provide mental health services within New York City shelters. There is a range of work that's happening within that addresses the needs of people who have been sexually assaulted or who have experienced other victimization, and I'll turn to the Deputy Commissioner.
+
+**(00:52:29)**
+
+
+
+Yeah, I'll add on to what the Commissioner noted: we do, in fact, have Family Justice Centers in each borough that provide services to victims of rape and other sexual violence. In addition to that, we have the SAFE program, which is in every precinct in New York City, and they have dedicated staff with a Sexual Assault Response Team that the District Attorney's offices operate. SAFE is integrated into that program to offer deeper support for victims of sexual violence who are interacting with the criminal justice system. Okay. Thank you. On hate crimes: hate crimes, half targeting Jewish New Yorkers. It was reported that the Office for the Prevention of Hate Crimes had just three employees. Is that correct?
+
+**(00:52:45)**
+
+
+
+That is correct. I will turn to our Executive Director to double-check my numbers, but the Office for the Prevention of Hate Crimes had approximately a $3 million budget before the budget was increased and adopted by... excuse me, in preliminary by $26 million. So we are in the process right now of expanding that office, both in terms of staff as well as in terms of the programs and initiatives that we work on to address hate, hate violence, and hate crime. I will say that we are working very closely with our partners in the Mayor's Office to combat antisemitism, as well as our community-based partners, to ensure that as we are expanding this office, we are paying attention to all communities who experience hate violence and bias. We recognize that to do this work we need good staff internally, we need good partnerships across the city, and we need good partnerships with our community-based partners. We recently are one of the first programs that we were able to increase. The PATH program, we doubled that budget so that we can meet more New Yorkers. We also recently invested a million dollars to support security initiatives for houses of worship, including synagogues and other culturally sensitive locations, in recognition of the urgency of this need.
+
+That is just the very first type of intervention investment that we are working on, and you will have seen that announced in the Mayor's Office to Combat Antisemitism report, because we worked very closely with our colleagues in that office on designing and building that out.
+
+**(00:53:34)**
+
+
+
+I turn to you to give them something.
+
+**(00:53:44)**
+
+
+
+Yeah, thank you. We recognize that hate crimes continue to be a concern, but I think with that, we are grateful for the additional investment that was made to this office by this administration. For the first time, by over a hundred percent, our office finally has the resources to put meaningful work on the ground.
+
+**(00:54:09)**
+
+
+
+And as the Commissioner mentioned, each of our anchor partners as part of the PATH initiative program has received an additional 153% increase in funding to make sure that we are taking this work across the five boroughs, but across communities that historically have not been given the resources to make sure that they feel safe and can live and thrive here in New York City. What I would add is that we're talking about a team that has been quite small that we are building, but now, with the Office of Community Safety being part of this support as we build out, our Executive Director has worked very closely with Deputy Commissioner Hill and her team to think about how we build in mental health support to the work that PATH is expanding. That is the kind of coordination and support we are seeing across our office. So while we're talking about teams being small, one of the things they also want to escalate is that building this work together makes us stronger. So I guess with the three employees you have, since you do have this significant new investment, what are the plans in terms of why there are still just three employees? Well, what are the plans? There. Oh, we are actively in the process of crafting and posting job descriptions and intend to be hiring very shortly, and in the meantime, we are working with existing staff to support the office. Okay, just two more questions, and I'll pass it to the Chair.
+
+The Mayor originally supported adding 580 police officers in the budget before reversing course at budget adoption. What is your view in terms of believing expanding community safety? Do you believe it can replace the need for additional NYPD officers?
+
+**(00:54:33)**
+
+
+
+I believe, as many of you testified, that we have relied on law enforcement for too long to respond to social service needs that are really outside the scope and expertise of law enforcement. The vision of the Office of Community Safety is to build out a set of responses that will be a core component of our public safety and public health system. As we do that work, we will continue to be able to meet people in moments of crisis, in moments of distress, after they've experienced harm, with the kinds of responses that are both specific and flexible. Whether that's a behavioral health response, whether that's connecting them to a victim's advocate, whether that's connecting them to a violence interrupter, that is the work that the Office of Community Safety does. That's the vision.
+
+**(00:55:20)**
+
+
+
+So because you mentioned that the budget is around $271 million, the city is investing hundreds of millions of dollars in the office, yet we have increasing rapes, subway violence, and hate crimes. So what benchmarks and deadlines should the office be held accountable for moving forward?
+
+**(00:55:45)**
+
+
+
+We are holding ourselves accountable, and we should be held accountable for the idea that we are going to have a comprehensive approach to violence. We are in the midst right now of a strategic planning process, which is helping us think even more sharply about how all of these offices work together. For example, there is victim's services support across every single one of the offices that you see represented here.
+
+**(00:56:10)**
+
+
+
+And so we are doing the work to think about how do we knit those together so that we have a single place where people can go to get victims services, that those services are responsive to the needs of people who have experienced assault, those responsive to the needs of people who experience gun violence, and responsive to the needs of people who also have behavioral health needs or experienced hate crime. So the work that we have been held accountable for is to bring all of those together, to be able to expand and to reach more and more New Yorkers over time. Okay. Thank you so much.
+
+**(00:56:37)**
+
+
+
+And I will pass it over to the Chair. Thank you. Thank you so much, Speaker, for the
+
+**(00:56:46)**
+
+
+
+questions. So I just wanted to follow up on some of the questions that the Speaker asked. This is obviously the person that we have an office. I will start with general questions related to the staff
+
+**(00:56:53)**
+
+
+
+structure and the budget. How is the leadership team structured? There is obviously a Deputy Mayor, Commissioner, and then officers on the ground. Can you elaborate on the general office structure?
+
+Absolutely. So the office includes myself, and the leadership team includes leaders across each of the four offices: the Office of Neighborhood Safety, the Office to End Domestic and Gender-Based Violence, which includes our Office for Victims of Crime, the Office of Community Mental Health, and the Office of Differential Hate Crimes. We were in the midst of both a strategic planning process, as I noted, and that will inform our future structure because what we want to do is make sure we are building a structure that is responsive to this work but also responsive to the goal of becoming an independent department. And part of that is that Mayor's offices all have their operations usually embedded within other agencies, and so we are also building out the operational capacity to become our own department. So the structure of this team will shift over time, but the core work of this team will be maintained and continue to grow.
+
+Currently, who does the Deputy Mayor of Public Safety supervise versus are you Commissioner of the Office of Community Safety, and what is the difference between the two positions? So the Deputy Mayor of Community Safety supervises me, and we have a First Deputy Mayor who oversees a number of offices and departments across the City, including some of our other public safety departments.
+
+**(00:58:24)**
+
+
+
+How large is the Deputy Mayor's team? I have to double check my math, but the Deputy Mayor's team has
+
+**(00:58:35)**
+
+
+
+five staff right now. Her role is to oversee the Office of Community Safety but also to build out the work that is going to be outside of the Office of Community Safety to improve how New York City in general improves community safety, because it is not just the work of one office to do community safety work. The work of all of City government focuses on improving safety. So when we think about how lighting is, where we light New York City, where there is access to parks — all of that work can affect community safety. And so the Deputy Mayor's role is not just to support our office, which is crucial, but also to think about how this entire administration is focused on community safety.
+
+**(00:59:16)**
+
+
+
+Okay. And earlier you
+
+**(00:59:17)**
+
+
+
+mentioned the total budget for the Office of Community Safety is approximately $271 million. How much of this is for staff versus for programs such as violence programs? I would have to get back to you, and we can get back on the exact split between personnel versus OTP.
+
+**(00:59:37)**
+
+
+
+Could you give us a rough ballpark — would you say 50/50 or
+
+**(00:59:39)**
+
+
+
+70/30?
+
+**(00:59:40)**
+
+
+
+I cannot say 50/50. There are about a hundred staff total across the Office of Community Safety, which are paid for by the $271 million. I would say it is like 70 to 80% being... I will not be able to do that math on the fly. I will definitely make sure that we get back to you with that split.
+
+**(00:59:57)**
+
+
+
+Okay. This is, you know, again, obviously an important question. Does the Office of Community Safety currently have a permanent work location? Where is it headquartered, and also what is the plan to have a stronger presence in the communities that are disproportionately affected by the issues that we are all working on — safety and mental
+
+**(01:00:12)**
+
+
+
+health? Absolutely. The bulk of our team, the vast majority of our team, sits within two across the street. Into 253 Broadway. We also have staff members who sit within our Family Justice Centers across the five boroughs, but the vast majority of our team are within our central office, which is 253 Broadway.
+
+**(01:00:33)**
+
+
+
+Are there any plans to have a stronger presence in the communities that are affected by these issues, and if so, can you elaborate on those plans?
+
+**(01:00:41)**
+
+
+
+So what I will say is that the Office of Community Safety and the teams that work within it have a really strong connection to the communities that we serve. We have our Family Justice Centers across all five boroughs. We have our CVE program, our Crime Victims Assistance Program, where our staff members and contract providers are located within precincts. The goal of this office is to ensure that we are in very close contact with community, and so as we are building out our strategic planning process, one thing that we are contemplating is where we need to be located across the City so that we can make sure that we are doing the work of being embedded within community and we are able to reach the community members that we need to connect with.
+
+However, even with the work as it is structured now, our team is frequently on a daily basis in the field across the City, working with communities and with our community-based partners to do the work of improving safety.
+
+**(01:01:38)**
+
+
+
+Thank you for the information. I will certainly be interested in continuing that conversation offline. You know, when I see an office like this one that is working on improving safety in the City of New York, especially around gun violence, and when I see numbers including, for example, approximately 40% of the shootings that occur in this City happening in communities in the Bronx, I do not see a reason why an office like this one would not be headquartered out of a community that is disproportionately affected by these issues. I will be interested in chatting offline about that.
+
+**(01:02:09)**
+
+
+
+Absolutely, we would love to speak with you about that. And I will say that we have a significant amount of work that we do in the Bronx through the Office of Neighborhood Safety, which I can turn to Executive Director Laurie Rochelle to talk about, but we are in agreement that the need to be in close communication and in close contact with the communities we support is essential and that is embedded in the way we work right now, and it will continue to be embedded in the work as we build out our office.
+
+**(01:02:37)**
+
+
+
+All right. So there are five offices under the Office of Community Safety. Would you
+
+**(01:02:46)**
+
+
+
+say the Office of Community Safety so far has established any new functions, or at least at this point was it simply a reorganization and a consolidation of programs that already existed? At least at this point, are there plans to expand in a meaningful way, but at least these past seven months have there been any new functions established?
+
+So there are a few ways that I would like to tackle that question. The first is I would characterize the combination of this work as a force multiplier for our success. And I mean that on a micro level. For example, we have right now the Office to End Domestic and Gender-Based Violence and our Office of Neighborhood Safety thinking very carefully about how we support emergency housing transfers for people who are either victims of crime or at risk for retaliation. And so while that is not a new function, it is a new way of working together that makes those offices stronger because they are not having to think in silos or utilize only their own resources to address really crucial public safety needs.
+
+**(01:04:00)**
+
+
+
+In addition to that, during this time since the office has launched, we expanded several of our initiatives, and I can turn to a couple of my team members. I will ask about some of the expansions that have been made to culturally specific services and some of our other services. So we are continuing to do that expansion as we work.
+
+So under the new budget, we are able to expand our mental health services at the Family Justice Center and also at homeless shelters, so there are additional funds for that to expand those services and get them out to more people. I apologize, give me just one second. There has also been
+
+**(01:04:55)**
+
+
+
+increased funding for a relationship abuse prevention program which works with middle school and high school students, as well as staff and their parents, to raise awareness about relationship abuse and what a healthy relationship should look like. In addition, that program also provides group counseling and individual counseling to students who are identified through the program as already experiencing a relationship
+
+**(01:05:32)**
+
+
+
+abuse situation. And that is just one example of the way we have been able to expand and deepen some of the work. I would also like to turn to Executive Director Laurie Rochelle to talk about some of the expansions we have seen in our neighborhood safety work over the last several months.
+
+**(01:05:45)**
+
+
+
+Yeah. Thank you so much, Commissioner. So we recently expanded services to Bushwick, Inwood, as well as Harlem, so again just expanding the footprint of the Crisis Management System throughout the City. Just some, you know, at a glance here — we are in 49 catchment areas across 33 NYPD precincts spanning 20 neighborhoods across all five boroughs. So we have a footprint in each of the five boroughs. And Chair, you mentioned the Bronx. I just want to talk a little bit about the assets that we have in the Bronx, which includes street outreach teams, mobile trauma units, hospital-based violence intervention programs and a host of therapeutics.
+
+**(01:06:31)**
+
+
+
+Okay. Yes, thank you for all that information. You know, these are all obviously very important programs, programs that I think all of us here support, but I am just wondering though — have there been any new functions, because these were things that were already
+
+**(01:06:44)**
+
+
+
+there, being expanded, but they were already in the works. I just wanted to ask whether there have been any new functions. We have been working on making sure we are expanding and strengthening the work that exists, because that will be the foundation upon which we build out any new functions or any new initiatives as we expand and grow.
+
+**(01:06:59)**
+
+
+
+All right. Thank you for the information. I will move on to a few questions related to the B-HEARD program and then pass it on to colleagues. Thank everybody for being patient on this Friday afternoon.
+
+**(01:07:09)**
+
+
+
+So the B-HEARD program — obviously a very important program. We want to make sure that New Yorkers facing emergencies receive the help that they need. In this case it is individuals facing mental health emergencies, and something that obviously requires mental health professionals. You kind of touched on it earlier today, but briefly — how large is the B-HEARD team, and what precincts are B-HEARD eligible, and how do you determine
+
+**(01:07:41)**
+
+
+
+that? So I will turn to our Deputy Executive Director of Grants to talk about some of the precincts that we are in as well as the size of the program. But the way that B-HEARD was developed and the way it has expanded is by utilizing our 911 call system data to identify the precincts with the highest rates of 911 behavioral health crisis calls and prioritizing those for the initial launch and then subsequent expansions of B-HEARD. And that is the kind of work that we will continue to do as we expand the program — looking for where there is high need, where we go next, and then continuing across the City. Thank you, Commissioner.
+
+**(01:08:19)**
+
+
+
+B-HEARD currently operates in 31 precincts in the surrounding area, so it is fully operational in the Bronx and then operational in parts of Manhattan, all of upper Manhattan and up through Washington Heights, in Brooklyn neighborhoods including East New York and Brownsville, and parts of Queens as well. And as the Commissioner mentioned, we identified those neighborhoods and those precincts using 911 mental health call data, and so the precincts where B-HEARD operates have some of the highest rates of 911 mental health emergencies.
+
+**(01:09:04)**
+
+
+
+Thank you. I want to recognize CM Banks and... who have joined. What calls are eligible for a B-HEARD response, and what calls are not eligible? For example, if there is violence or weapons, that would not be eligible. So could you give us a summary on those calls?
+
+**(01:09:21)**
+
+
+
+Sure. So B-HEARD responds to what we call lower acuity mental health calls, so those are calls where there is an indication of mental health need, there is no known violence, no known weapons and no imminent risk of serious harm. So an example of what would not be eligible would be calls where the caller is indicating that the person in crisis has a weapon or is actively violent. And again, that is because we send EMTs and social workers to those calls without police, so we do not want them to be in a situation where there is already an indication of safety concerns and danger. If the caller does not know whether or not the person in question who is in crisis is violent or has a weapon, we will still send B-HEARD to those calls. Those calls are still eligible for B-HEARD while we try to get more information about what is happening on the ground. And if the teams do need support from police, they have that available.
+
+**(01:10:46)**
+
+
+
+How many 911 calls do we receive every year, and what percentage would you say are B-HEARD eligible? Could you provide some data on the last two years, and also how many calls are you able to respond to? So how many 911 calls, how many are B-HEARD eligible, and how many are you able to respond to of those that are eligible?
+
+**(01:11:02)**
+
+
+
+So there are about 150,000 mental health calls per year. Of those, typically around — we had last year 10,945 calls where eligible for B-HEARD, and then B-HEARD responded to 8,524.
+
+**(01:11:36)**
+
+
+
+Okay. And how many total 911 calls do we usually receive per year? Do you have any data on that? It is about
+
+**(01:11:46)**
+
+
+
+the B-HEARD budget. Is there a plan to get it up and running 24/7? My understanding is that it is not 24/7 currently, and
+
+**(01:11:57)**
+
+
+
+how much would it take — what would be the cost for getting it to 24/7 and also in the areas that you are planning, based on the many
+
+**(01:12:06)**
+
+
+
+needs that we have in the City related to mental health and other issues? So our goal is to make sure that we are responding to as many behavioral health calls as possible, and we are doing that and we are expanding across the City so that more and more New Yorkers can receive access to B-HEARD. Right now the program operates 9:00 AM to 1:00 AM, 365 days a year. And you asked the question about the budget...
+
+**(01:12:34)**
+
+
+
+So how much did it cost, or what is the budget — the budget is $35.3 million across both
+
+**(01:12:40)**
+
+
+
+teams. As we are working on this expansion, we are in very close contact with both OMB and others to determine when and if there are additional resources needed, and we will work very closely with our colleagues to make those requests. We do not have a specific estimate right now because we are in the process of doing that work of assessing exactly how many calls there are that we would need to be expanding to. We are working on a joint data analysis as well as a staffing and expansion plan across all of those teams, and that will give us a more precise determination of the necessary resources. We will work with all of those partners as needed.
+
+**(01:13:21)**
+
+
+
+Final question. Talk to us about the response time for those that are eligible for B-HEARD. What does a B-HEARD response look like, and what exactly does a response include? I know it includes an EMT or paramedic and mental health professionals. But what exactly would the
+
+**(01:13:38)**
+
+
+
+response involve? Absolutely. So the teams include a medical professional and a New York City Health and Hospitals social worker. They work together in pairs to respond to these calls. That is a necessary combination of staffing because we want to make sure that when we do show up to the call, we have the expertise to assess if someone is also in a medical crisis. You may be aware that sometimes a panic attack can look like a heart attack or vice versa. So the medical professional is there to clear someone medically and the social worker is there to support their behavioral health needs.
+
+The way I just described that actually sounds significantly more separate than it is, because those teams work really closely together to ensure that they are supporting the patient and helping to de-escalate the situation. The response on the ground includes a very robust clinical intervention. The social worker will assess what the person's needs are, they will connect with them about what their past history is, they will provide calming techniques, they will assess whether or not the person needs to go to the hospital or whether they can reconnect them to existing community-based services or other services. So it is a flexible response, but it is a behavioral health response.
+
+**(01:14:58)**
+
+
+
+All right. Thank you so much. I have many more questions, but I will pause for now. I will pass it on to colleagues.
+
+**(01:15:02)**
+
+
+
+Thank you very much. I have been out, would be heard a couple of times, and I would absolutely second the fact that they are. This is the issue. What do you do with the person who has been serviced by being heard? My understanding is it's hard to find a place that that person gets quality services, which was really needed. And Dr. Katz agrees. It is a 24-hour nurse and
+
+**(01:15:29)**
+
+
+
+psychiatric only one place, and East Harlem has such a location, so I'm just wondering, are you aware of that situation? Where do you say they go, and what are you doing?
+
+**(01:15:39)**
+
+
+
+I just want to say this is a great hearing. You have the most important topic in the whole city.
+
+**(01:15:46)**
+
+
+
+What the hell we're going to do with people who need help? And so I'm just excited to hear this, but your shoulders have to be very big to carry all this. Go ahead, be heard.
+
+**(01:15:55)**
+
+
+
+Where are you going to put everybody, because they need help? Yeah, myself and the team are acutely aware of both the importance of this work and the responsibility that has been placed on this office to build out the work in a way that is effective and responsive to what New Yorkers need. And I will say that this is the work of our office, but it's the work of the entire city. So to your question about where else do you take people, this has been a challenge that we are continuing to work on, not just in Be Heard, but with our partners at H+H, at the New York. We were just yesterday connected with them on their plans around improving access to serious mental illness services, because that's the kind of work that you need to have so that you can reduce the likelihood that people go into crisis. So we right now are engaged in an interagency working group to think very clearly about what are the other, we call them disposition options. But what are the other places that we can connect people to when a Be Heard team connects with them that is not the hospital and it's not their home? Now, one of the great things about Be Heard is we are able to bring such an effective clinical care to people that we are often able to support them in their home, in the school, in shelter, support them in that moment and let them stay there safely. But there are a group of people who need additional care, but it's not quite as acute as going to a hospital, and we are trying to work on that gap.
+
+Sometimes we are able to take people to supportive connection centers. We are sometimes able to connect people to respite health centers. But there is a gap in the system that we are working to fill, and that's exactly the kind of challenge we are working to, and would love to continue discussing. Okay, a little, Doctor Katz, is what we need, is what I just listened.
+
+**(01:17:37)**
+
+
+
+Yes, absolutely. I go with Dr. Katz always, always, always number two when I go to the family centers. There are a lot of people there, so I'm just wondering how are you going to feed them? What is their plan for them? They're wonderful. They're beautiful. They're, you know, well laid out, et cetera. Children, families, everything's there. Casework, location, so on, but they don't seem to be extremely well utilized. So how are we? Is that true or is it? Just me going on the wrong day? And how do you look at it?
+
+**(01:18:09)**
+
+
+
+The Family Justice Center, alternative to deputy
+
+**(01:18:13)**
+
+
+
+commissioner, for some numbers on utilization, but those centers are a core part of work. One of our goals is to make sure not only that they continue to remain strong, but that we are continuing to connect as many people as possible to them. I will say, especially post-COVID, one of the things that has been a big shift in the behavioral health space and social service base is this shift toward services being remote. We find that that actually really is helpful for survivors, and so often when you're going to a physical location, you're not necessarily seeing the people. That they were telling me people are remote. Yeah, yeah.
+
+**(01:18:45)**
+
+
+
+But we have been seeing really significant, strong pre-COVID, all services had to be done in person. We had no remote services at all. Of course, responding to COVID changed literally overnight, over a weekend, I should say. Last fiscal year, we served about 1,200 people, about 64,000 visits. That's actually increased since 2024, and depending on the borough, because it varies across the five, somewhere between 40 and 60% of visits are done remotely.
+
+**(01:19:31)**
+
+
+
+Okay. I mean, the time goes on. Just, I guess real estate is always an issue because it's a beautiful space, and I
+
+**(01:19:38)**
+
+
+
+should be, but people are going remote. Even the caseworkers were remote.
+
+**(01:19:41)**
+
+
+
+Everybody was remote when I was there. So my question would be, what are you going to use it for if nobody's, fewer people are there? Not now, but I would like to hear that, because the space is phenomenal.
+
+**(01:19:53)**
+
+
+
+No, those spaces are beautiful. They're a real asset to the community, there assets to the city. And one of the conversations that we have been having, to Chair Felicia's question, is how do we ensure that we are utilizing any physical resources that we have, to ensure that we are having space for contract providers or for others to operate out of them and serving more and more people, because we want to make sure that we are both meeting people where they are, if that's in their home, if that's remotely, if that's physically. But I completely agree with you, and that is absolutely a space where we will put that on your strategic list. Absolutely.
+
+**(01:20:26)**
+
+
+
+What does it mean to take a public health approach to violence? How can you explain that? Because that is, I think, the core of your work, that is the core of our work. I will also ask Executive Director LaRochelle to speak to this, but when I think of a public health response to violence, that to me talks about recognizing that the places that we live, the resources that we have access to, the people in our networks, those all affect our likelihood for experiencing violence, and that to address it, to prevent it, we need to make adjustments in all of that. We need to think about the lived environment. We need to think about the social environment, and we need to connect people to resources that have been shown by evidence, as well as what we hear from our partners and from survivors, is necessary to reduce violence now. Thank you so much, Commission.
+
+**(01:21:16)**
+
+
+
+And I think for us, the public health approach to violence means leveraging data. We know that resources are limited, so we want to make sure that the data is helping to inform where we need to be. It also means really understanding and recognizing the root causes of violence, whether it's health, whether it's housing, employment, education, and that we're addressing those needs, because we know when we address those needs, invariably violence goes down. I mean, that was a good answer, hard to implement.
+
+**(01:21:56)**
+
+
+
+I do have specific metrics that you're using to determine whether you are helping make the community safer, either with the violence interrupter or any of these other programs. I think I know all your
+
+**(01:22:06)**
+
+
+
+programs. You, you, dollars, every one of them, and I've been to every one of them going. Amazing. We
+
+**(01:22:12)**
+
+
+
+really appreciate your partnership and support around
+
+**(01:22:13)**
+
+
+
+this. I mean, the way that we think about metrics across the team, there are a few. There are a number of metrics we use. Certainly we look at crime data from our NYPD partners, that's one kind of metric that we use. We also use metrics such as B-Heard program data around how we're supporting people. So you heard me quote numbers about how many mediations, crisis management service providers have had, how many people we are serving. We also look at whether or not the people that we are serving are satisfied with our work. So you heard me quote numbers from Be Heard about patient satisfaction. Similarly, we get numbers from our Family Justice Center around satisfaction. So we look across all of that type of data to understand whether we're having an impact. However, one of the things that I will say is that as OCS builds and develops, one of the things we want to do is take the work that we have right now around data and evaluation and expand and grow that, because we know
+
+**(01:23:14)**
+
+
+
+that to be effective and stewards of this vision and of New York City's taxpayer dollars, we need to be able to show both what we're doing and the impact that we are having.
+
+**(01:23:26)**
+
+
+
+And so building out that data and evaluation framework is something we're actively engaged in. Okay.
+
+**(01:23:32)**
+
+
+
+I used to be on the Large Cities Board, chair of the National League of Cities, and so Albuquerque, and I know my friend, who is the mayor of Baltimore. He gets lots of great press. I don't know if he's doing a great job, but he thinks he's doing a great job, and the press does too. So my question to you is,
+
+**(01:23:46)**
+
+
+
+what are you doing to look at other cities to see if what they're doing is helpful, if at all? Oh, we're doing so much.
+
+**(01:23:54)**
+
+
+
+Actually, we were just set up a meeting with Baltimore leadership to make sure that we are connecting with them on what they're doing. We have a team here that has had calls with the leadership from cities across the country. We have worked in, very worked with various jurisdictions to learn from them. We've looked at places like Tucson, that has a really strong mental health crisis system. So part of the work of building out what happens in New York City, we are, of course, an extremely unique city, not just because of our size, but our structure. But that is also about making sure that we are learning from other jurisdictions, and we're doing that actively. You cannot do this work with a kind of your blinders on. You have to be able to hear what is happening in other jurisdictions, as well as talk to who's been doing this work in New York for so long, to learn from people there too.
+
+**(01:24:46)**
+
+
+
+I'll give you the mayor's cell phone in.
+
+**(01:24:49)**
+
+
+
+Baltimore. My other question is, over time, for I'm always an issue that comes up every year. Do you think the work you're doing might help to decrease over time at that, 01:00, of your metrics?
+
+**(01:25:03)**
+
+
+
+I will say that I'm really hopeful that the work that we do allows New York City to say that we have a really robust community-based response to lots of different types of safety and crisis issues, and that we have stopped relying only or solely on police in those situations. And that's what I'm hoping that we will be able to see over time.
+
+**(01:25:27)**
+
+
+
+Do you have ideas about other agencies coming under your umbrella, or is this it? I would say that we are really excited to partner with other agencies who do work that is essential for us. So we are in active partnership with, I hesitate to even try to name agencies, because that means we will leave people
+
+**(01:25:47)**
+
+
+
+out. But active relationship, as you heard, Health and Hospitals, OMH, Department of Sanitation, Probation. Probation. Yeah, the fact is that everything can't live under one umbrella, but we can do this work comprehensively, and we can do it in partnership. Okay, last
+
+**(01:26:06)**
+
+
+
+question. Do you overlap in the work between you and Mark? Mark has a lot of contracts working also in trying to reduce
+
+**(01:26:16)**
+
+
+
+challenges and keeping people out of the criminal justice. Do you work together? We work together very, very closely. I was actually just on a call this morning with Justin Older Men, the criminal justice coordinator. We have joint meetings with Mark. We work with their data team. We recognize that for the work that Mark is doing to be successful, our work has to be successful, and vice versa. And so we recognize ourselves to be part of an ongoing, continuing project of building out safety together.
+
+**(01:26:46)**
+
+
+
+All right, thank you. Thank you so much. CM Brewer, next, pass on to the Public Advocate Williams. But before that, just curious. So I'm actually impressed by the amount of Be Heard calls that you're able to respond to. I know or mentioned about 10 or 11,000, Be Heard. How did you, you were able to respond about 8.5. That's impressive based on the budget they have. Just curious, though. Do you have, do you keep track of what happens after you connect these individuals to other services?
+
+**(01:27:18)**
+
+
+
+So what we do is we track where are we people. So if we are taking them to the hospital, whether we're connecting them to another type of community-based service, whether we left them, say, at their home with referrals and support, because that's really the goal of Be Heard is to respond in that moment and to take that moment of crisis and change it into a moment where we are supporting people and helping people heal. We don't yet have a metric where we track exactly what happens to people afterwards. Sometimes we're taking people to private hospitals that are outside of the city's purview. However, one thing that we do have is New York City Health and Hospitals has community health workers who will call patients to check in with them, conduct the patient survey, and see if there was any support that's necessary.
+
+**(01:28:04)**
+
+
+
+If you'd like to add to that? Yeah, just as part of that follow-up, they are also asking if they, if they made it to the appointments that were set for them, or they followed, they used the referrals that were provided. Thank you. Is there a plan, I
+
+**(01:28:23)**
+
+
+
+guess, to keep information related? So what happens after you? Because I'm just
+
+**(01:28:29)**
+
+
+
+wondering whether you know, one thing is for us to be able to connect them to services and be able to have enough capacity to do that for everybody. That helps me to.
+
+**(01:28:38)**
+
+
+
+Needs to be connected to services, but then after they're connected, nothing happens, and then we're back to square one. Don't make any progress.
+
+**(01:28:44)**
+
+
+
+Yeah, you're pointing to a really real challenge for the system and for crisis response in general, and I think the way that we are approaching it now is really around the way that we follow up with the patients to see if they have connected to their provider. We do a lot of work on the ground to make sure that any disposition that we are giving really is helpful for people, but what we also want to make sure that we are doing is, what's the word. Sorry, I'm losing my chair thought, but what we do right now is that kind of follow-up, and we also are right now doing the work of merging, getting an MOU that we can see more clearly what's happening from the point of call all the way through our response, which will help us get even more precise about how we're understanding the program. But what you are raising around making sure we're interrupting that cycle is a very real challenge, and I would just add, as the commissioner mentioned earlier, we do have an interagency working group that's looking at kind of what are the options in the community for when we bring someone to someone who had a visit from a Be Heard team, as we're referring them to different community-based options, kind of.
+
+**(01:30:00)**
+
+
+
+They have raised this
+
+**(01:30:02)**
+
+
+
+question around, you know, they need to understand what is happening after that, and so that is something that we're actively thinking about with our partners in the Health Department, at H+H, and other health care agencies in the city. And I am sorry. I just got two notes from people who are faster on their feet with numbers. I misstated the number you asked previously, Chair, about how many people were on the Deputy Mayor's staff. It might have been some miles, but you asked, curious how many people were on the Deputy Mayor's staff. It's actually eight staff, and someone else was able to do the math on this for me as well. The question about how much of OCS's budget is for city staff versus programs: approximately 5% of our budget is for city staff.
+
+**(01:30:49)**
+
+
+
+All right. Thank you for that information.
+
+**(01:30:51)**
+
+
+
+And also going back to the earlier question, based on the New Yorkers that you've been able to help this past year, you know, you to services, depending on the needs that they have, what would you say are programs that we absolutely have to think about expanding based on the needs, to continue to, you continue to try? That's a really good question. I would say that that's
+
+**(01:31:20)**
+
+
+
+actually a hard choice, because we help New Yorkers across every single one of our programs, and so it's not about picking just one or two. It's about recognizing that all of the work that we do is essential. I think about the funding that we were able to provide for flexible grants for people who've experienced violence, to make sure that if they need, for example, money to buy new furniture for a new apartment, that's a kind of need that we had not been able to serve in the way we needed, and so we were able to expand into that. I think about the kind of work that we are doing with young people in schools to address bias, and the necessity of teaching young people how to interact with each other with respect, and the necessity of teaching young people how to go into their first relationships in a way that allows them to recognize what consent and a like and should look like, and what it should feel like to be in a loving relationship. All of that work is essential, and so I wouldn't want to pick just one thing or two things. Okay.
+
+**(01:32:32)**
+
+
+
+Thank you. Next, we'll hear from Public Advocate Williams. Thank you.
+
+**(01:32:36)**
+
+
+
+Thank you. I think Commissioner and your team for being here. I want to go down a little bit, because I am so appreciative of the office.
+
+**(01:32:44)**
+
+
+
+Being appreciative of the work that is being done, but I have to say, from afar, when I travel with all the cities that have been successful in this, back to when I believe that...
+
+**(01:32:58)**
+
+
+
+Speaker asked how many times you meet with, so my question is very specific. I would like to know what the definition of leadership is, of who is meeting with who, and when was the last time the commissioner or you or the deputy mayor has met with the commissioner, the police department, or the chief of department. So the commissioner, the deputy mayor and I met with the police commissioner early on in our tenure. We have continued to have meetings at the leadership level that includes with the first deputy commissioner and a variety of deputy commissioners. I meet regularly with deputy commissioners across NYPD. The way we are doing this work is that for any particular program we are working with the leadership who is most closely related to that work. And that also includes the leadership here who is working with their counterparts across NYPD.
+
+**(01:33:56)**
+
+
+
+I appreciate that, and I
+
+**(01:33:57)**
+
+
+
+do not want to put anyone in difficult situations, but I am going to. I am going to keep pressing because I appreciate what you said, but it sounds like the last time the deputy mayor or you, the commissioner, met with the police commissioner or the chief of department was roughly eight or nine months ago. I came on board in late... the last time that I met with the police commissioner herself was sometime after that. I would have to get the exact date. But since then, I have been in regular, weekly, sometimes more than weekly contact with her leadership team. Okay, it is important to me because I want to differentiate your meeting with civilian leaders in the police department and operational police leaders in the police department.
+
+**(01:34:36)**
+
+
+
+Absolutely. Yeah.
+
+**(01:34:38)**
+
+
+
+So it does not seem like the latter is happening with any regularity. And so I just want to make sure that is on the record. I think that is a part of the problem.
+
+**(01:34:46)**
+
+
+
+I will say also, and I will turn to Dr. La Rochelle after this to talk about some of the ways that we are working very closely with senior members of NYPD's uniform service across the Officer Neighborhood Safety program. As you know, I know you are very familiar with that work.
+
+**(01:35:05)**
+
+
+
+Absolutely. Thank you. So we have been working very, very closely with NYPD around data. We get police alerts, for instance, on a daily basis, which helps inform our work. We operationalize around violence and our groups. We work with them on special activations like Labor Day, for instance. So we are working very, very closely with them. And I think the important thing to understand is that the roles are distinct but different. Our role obviously is to make sure that we are advocating and supporting civilian and community-based approaches to violence prevention, and their job is law enforcement. But it is very important to make sure, because we operate in the same neighborhoods and the same communities and we interface with the same populations, that we are working together. We also make sure that we are talking to their leadership on almost a weekly basis around data that they can offer to us, so we could trickle it down to our folks on the ground doing this work and help out with their operations. The Office of Community Safety is invited to CompStat meetings and crime briefings.
+
+**(01:36:16)**
+
+
+
+We were invited to the CompStat that was prior to... we were really, really happy to be able to participate in that, just as we had had... remind me the inspector's name.
+
+**(01:36:26)**
+
+
+
+Out of the average... yes. So we worked really closely with NYPD, both uniform and civilian. We were part of, we were invited to the CompStat before that, and then they were participating in our preparation, which we were doing at that point on, I want to say, a weekly basis. The deputy mayor's team was managing that.
+
+**(01:36:51)**
+
+
+
+Wait. It sounds like it is not constant, regular meetings that you are invited to. We are not currently attending those meetings regularly.
+
+**(01:36:57)**
+
+
+
+And crime stat briefings. I am not currently attending CompStat or crime stat briefings.
+
+**(01:37:06)**
+
+
+
+Okay. And the reason I am bringing this up is because the $275 million is a significant budget.
+
+**(01:37:13)**
+
+
+
+The police department, the City's budget without federal funding is roughly, please, maybe $60 to $65 billion. And so I think we are at a point now where people actually understand more than they did 15 or 16 years ago why we need alternatives. So we have reached that point, which is a success. I am now at
+
+**(01:37:30)**
+
+
+
+a point where we have to stand up a structure that can be compatible with what the
+
+**(01:37:37)**
+
+
+
+police department is at $60 billion and it is 24 hours a day. In order to do that, we really have to push the envelope and make sure that when people think of the Office of Community Safety, they think of it the way they think of other safety measures. And so when you mention NYPD, those things trigger something in people's minds that I do not think is where we want to be right now for the alternatives. So we need the funding and we need the structure. The funding is
+
+**(01:38:03)**
+
+
+
+going to come. I will build this up. I know we will not get to $60 billion. Imagine if this office had $1 billion, what it could do. But we can build out the infrastructure that respects the work. And I have not seen that yet, and that is part of the questions that we have here. No, I appreciate it. I
+
+**(01:38:24)**
+
+
+
+appreciate the concern, and I would say that this is part of that process of building. Nothing that we do that is strong, that works well, is built overnight. And the fact is that the Office of Neighborhood Safety and all of these programs do work with different leadership levels, both uniform and non-uniform, and we are continuing to build that relationship and we will continue to strengthen it.
+
+**(01:38:46)**
+
+
+
+The chair allowed me to squeeze in, so there are more questions. I just want to make it clear that I do not want to be confused. You have a different function than the police department. But wherever they are, they are going to be the 800-pound gorilla in the room. That is what everybody knows. So we want to make sure that coordination happens, and not just with them but with so many others. We want to stand up some of those who have lost their lives doing this work. There is no job, there is no upward mobility, there are not the pensions,
+
+**(01:39:19)**
+
+
+
+not the things that people think about. And we have to stand that up. This administration has been very good at standing up things very quickly and I want to push them to really push the envelope on this as well. So thank you so much for being here and I will continue to ask some very difficult questions as efficiently and effectively as possible.
+
+**(01:39:35)**
+
+
+
+Thank you. Thank you for your support and your push. Appreciate it.
+
+**(01:39:40)**
+
+
+
+Thank you so much. Next we will hear from Council members.
+
+**(01:39:42)**
+
+
+
+Thank you, Chair. Thank you for all your testimony here today. A few questions, but based on some of the conversations that have happened, I am glad to hear about the staff for the BE HEARD project. That is really, really great. I would love, at some point, maybe in the follow up, to get information on where those folks are and what their calls look like out on the ground. You do not have to detail all of that here just for the sake of time. But the only other thing I wanted to mention on that is that over the last couple of years, a lot of the community groups and advocacy groups have really called for the deployment of peers within these teams in the vehicles. So I am wondering if you have had any conversations about exploring that.
+
+Absolutely. And I will say, just to answer your question quickly because it is an easy answer, those 27 staff are the staff that will be responding to calls. The training that we were doing, those are not necessarily administrative folks. So that is what those staff are. We have had not just conversations, but we are making strides towards how do we incorporate peers into BE HEARD. New York City Health and Hospitals did hire a person who is their Associate Director focused on how do we build peers into that program, and that work is currently underway right now. We are looking forward to working with our partners and the advocates who really pushed this work as we structure that role. I would really love to hear more about that.
+
+My other question was really about: could you list out some of the specific opportunities or intervention points where youth and impacted communities are going to be informing, or are currently informing, the overall strategy of where this office is going?
+
+**(01:41:34)**
+
+
+
+Yeah, no, thank you so much for asking that. It is such an important question.
+
+**(01:41:39)**
+
+
+
+From the beginning of this
+
+**(01:41:42)**
+
+
+
+office, and well before the creation of this office, because all of these offices work so very closely with impacted communities and with youth. We started off the work — the deputy mayor began her tenure with her and myself on a listening tour — and that listening tour began with young people. It was across New York City schools. We had more than 14 young people talking to the deputy mayor about what they understand and see as their major safety concerns and what they need to be safe. We are expanding that work as we are going to our partners who support people with behavioral health needs and organizations that support people who have experienced domestic and gender-based violence. And that is part of how we are informing that work.
+
+We are also in the midst of launching our strategic planning process and as part of that we are going to be hearing from our staff, counsel, other government agency partners, but we will also be soliciting feedback and thoughts from impacted communities, both youth and otherwise.
+
+**(01:42:46)**
+
+
+
+I think you have answered all my other questions. The one thing I will comment on is that while we applaud the expansion of funding into an organization like the Wick over in North Brooklyn, the Bushwick community does not feel that that is serving Bushwick specifically. That was a lot of the feedback I am getting — that that is Williamsburg and those areas. So I just want to flag that for you all, as that caused a little bit of some ruffled feathers.
+
+**(01:43:18)**
+
+
+
+I appreciate that, and I appreciate that correction. I should have said, you know, focused on Bushwick houses. We also know that that is a concern and criticism that has been raised, and we would like to continue to work with our partners with the Wick and otherwise to make sure that we are meeting the needs of all the communities that we are looking to serve. Thank you.
+
+**(01:43:40)**
+
+
+
+Thank you so much. Next we will hear from CM Morano.
+
+**(01:43:50)**
+
+
+
+I know it is Friday afternoon and before Halloween and Election Day. I am sure you are eager to get the weekend started. I want to start by saying that I am certainly not opposed to non-police approaches to public safety. I think if we can prevent a shooting or get somebody mental health treatment before a situation becomes dangerous, that is a great thing. I am concerned about creating additional layers of bureaucracy. We have seen something similar in the past with Thrive, where the City put numerous programs under one umbrella, spent a lot of taxpayer dollars and struggled with accountability. Your testimony describes the accomplishments of five existing offices, most of which were operating long before your office was established. Can you identify one measurable public safety improvement that occurred specifically because the Office of Community Safety was created, rather than because of programs that already existed?
+
+**(01:44:56)**
+
+
+
+That is a great question. What I will say is that since the Office of Community Safety was created, we have been able to advance programs that have been either stuck or that needed additional support. So, for example, you heard that this year was the first year that we were able to hold a BE HEARD integrated staff training since 2024. That is in part because our office was created to advance the goals of BE HEARD. And that is a public safety outcome, whether or not we are able to staff an initiative that responds to 911 calls at the rate that it should. You also heard that we were able to expand into three additional neighborhoods.
+
+**(01:45:34)**
+
+
+
+Part of what we are doing is the work of expanding and building out additional programs. So we are not doing this from a place where we hover above the work. We are doing the work of implementing these programs. And the fact is that some of these programs have existed for a long time because they are effective, and we do not want to jettison that. We want to invest more.
+
+**(01:45:57)**
+
+
+
+Deeply. Your testimony says that in fiscal year 2026, your Crisis Management System providers conducted 14,232 mediations and de-escalations. I think that is a really impressive number, but I have a question about what that number actually means. How many of those 14,232 interventions involved a credible threat of imminent violence and how many were routine disputes that might never have escalated?
+
+**(01:46:32)**
+
+
+
+And as you answer that, how does the City independently verify that these interventions actually
+
+**(01:46:37)**
+
+
+
+occurred? Yeah, absolutely. I will turn to my colleague for more details, but what I will say is that we think it is important to intervene at any level of dispute that we are seeing, whether it is a minor dispute or a dispute that is significant while we are seeing it, because we know that something that is minor can over time become serious. I am not saying that there are only certain types of disputes that we should be intervening in. However, what I will also say is that the staff of the Crisis Management System are people who have both deep expertise in their communities and who have been trained as credible messengers. They are trained to identify when there is a challenge that can be significant. They are working in jurisdictions where we have selected them because they have high rates of gun violence, and we are working there at the deep end of that need.
+
+**(01:47:35)**
+
+
+
+And so we both collect information from the providers directly. We also conduct site visits to make sure we are getting an independent review of what is happening. Are we relying on the organizations receiving taxpayer funding to report their own accomplishments? Well, you know, just like any program that we operate, we do rely on our providers to report what they are doing. However, we ourselves conduct site visits. We also have a technical assistance partner who conducts training and otherwise, so we have other kinds of information. We also talk to our partners who are working with our Crisis Management System partners and get feedback. So we make sure that we are hearing from a variety of people around what our contracted providers are doing.
+
+**(01:48:20)**
+
+
+
+And Council member, to the commissioner's point, we do frequent site visits. We also have frequent touch points in various ways with our providers on the ground. They are trained in conflict mediations and these are folks who obviously understand the dynamics in their communities. And when we talk about de-escalations and conflict mediations, there is a very specific definition. These are either incidents that could become a little bit more serious and might lead to community violence, and so when that happens, our folks are able to track every single conflict mediation or de-escalation between either individuals or groups. Then they report that back to us. I will continue to the chair. Thank
+
+**(01:49:14)**
+
+
+
+you. Is there an independent auditing mechanism to verify these numbers or are we essentially accepting what the contractors tell us? Well, I think the site visits are one way where we do independent auditing. The other thing that we also do is we have, at various points in time, conducted third-party evaluations of our work as well, because that is also a way that we ensure that the work that we are doing is effective.
+
+**(01:49:43)**
+
+
+
+Then commissioner, I read the fiscal impact statement for Int 0403-2026. It says the cost of a Department of Community Safety is $0. Yet
+
+**(01:49:54)**
+
+
+
+the legislation calls for offices in every borough, operating 24 hours a day, seven days a week, with personnel conducting field operations. Meanwhile, your testimony references additional investments of $14.8 million in neighborhood safety programs, $15.7 million in domestic violence services and $26 million in hate crime prevention. How can we tell taxpayers that creating this department costs nothing when we are simultaneously talking about expanding these programs and potentially adding a whole new level of administration? I will have to check on that fiscal impact statement. I am not familiar with that. We certainly would not anticipate that expansion of initiatives would cost no dollars. We are really supportive of Int 0403-2026 and the intention to create a Department of Community Safety that is independent, and have already spoken with CM Restler about working closely with any potential amendments.
+
+**(01:50:54)**
+
+
+
+One final question, and I appreciate the chair's patience. Your testimony cites the BE HEARD
+
+**(01:51:00)**
+
+
+
+program, which you again just referenced, which responded to 8,524 calls last fiscal year.
+
+**(01:51:08)**
+
+
+
+You report that 42% of individuals served received care in the community instead of being transported to a hospital. And I think that raises an important question, which is: how many of those people required another emergency response within 24 hours, seven days or 30 days? Because avoiding a hospital trip is not necessarily a success if the person ends up in another crisis the next day. Are we tracking repeat emergency calls, subsequent violent incidents or whether people actually receive ongoing treatment?
+
+**(01:51:44)**
+
+
+
+That is a great question. The ability to support someone in their home in that moment, I would characterize as a success. We want to make sure that if someone is in a crisis and we were able to support them right then and there and help them connect to services and stay at home, that is a success. When necessary, we take someone to the hospital. One of the things that we are doing as part of the build of the Office of Community Safety and ongoing support is building out even more robust support. That image is providing that program is building out our capacity to look at data across agencies and answer some of the longer-term questions that we have not been able to answer. Today, do we know how many are repeats? Not that that is not a metric that I have data on, but going forward, would you support publicly reporting those outcomes rather than simply reporting how many calls the program answers?
+
+**(01:52:36)**
+
+
+
+I think that is a really interesting and important question. I would love to think about that and connect with you about that. I appreciate it. Thank you very much. Thank you, sir.
+
+**(01:52:43)**
+
+
+
+Thank you. Thank you so much.
+
+**(01:52:46)**
+
+
+
+Council, quick point. So as we know, we are in a well-documented public health crisis and mental health crisis. We see it in our subways, we see it in our streets, we see it in our homes, and the big question is what steps do we have to take to truly resolve this issue. Are we simply not reaching enough people, or is it that we are reaching people but after we reach them we connect them and then things fall through the cracks, given that the services that we have are not enough to resolve that. I am wondering, and I do not...
+
+**(01:53:15)**
+
+
+
+...know if this is a very similar question that comes to my colleague CM Morano asked. We mentioned...
+
+**(01:53:20)**
+
+
+
+...that you responded to about calls. Do we know how many individuals were served or were reached...
+
+**(01:53:28)**
+
+
+
+...through those 8,500 calls that you responded to? I am just wondering about the unique client number.
+
+**(01:53:33)**
+
+
+
+Yeah, that is a great question. I do not have the number disaggregated by individual clients. However, what we do is New York City Health and Hospitals does have a part of their work where they look at people who we have seen more frequently and connect internally to that team, because that is the health side of the team and we want to make sure that we are protecting patients' health information. They see if there is something that we can provide to that person to reduce the likelihood that they call back. So we are attuned to the fact that some people we are having repeat contact with and we are focusing on those folks and providing additional support. I just do not have that specific number of individual patient contacts versus the overall number, but that is something we are both attuned to and working on.
+
+**(01:54:26)**
+
+
+
+Yeah, and that is a very important piece of data, just so that we could really think about what is the root of the problem. Is it that we are not reaching people? I mean, obviously we could always expand those programs, but whether after we reach them the things that we connect them to are not enough and therefore we are back to square one...
+
+**(01:54:40)**
+
+
+
+I will say that Be Heard is an important initiative, an important part of New York City's behavioral health and mental health system. But it is not the only piece of work that needs to happen in order to build out a comprehensive crisis system. I utilize the SAMSA framework: you need someone somewhere to call, someone to come to you and somewhere to go. So, for example, we have 988 in the City, which is an amazing resource that operates 24 hours a day, 365 days a year. It is available by phone, by text, by chat. Some of the work that the Office of Community Mental Health is doing right now is trying to ensure that more and more New Yorkers know about 988, because it exists. It is a free number. It is 24 hours a day and there are trained counselors that staff that center. We want to make sure that more people are actually utilizing that.
+
+**(01:55:31)**
+
+
+
+That is just one gap in the system that we are also working in close partnership to address. But what your question speaks to is the ways in which we want to shore up our entire system, and I am in complete agreement around that.
+
+**(01:55:43)**
+
+
+
+All right. Thank you so much. So next is going to be CM Wong and then Wilson and the rest.
+
+**(01:55:47)**
+
+
+
+Thank you. I have actually read the committee report regarding the five offices. This is the community services, neighborhood safety and prevention of gun violence office, the office to end domestic and gender-based violence, the office of the prevention of hate crimes and the office of community mental health. They have been in existence for a while. It sounds like you mentioned that the office to end domestic and gender-based violence has been around for decades — 25 years. Yeah. So what I am wondering — you mentioned Be Heard many, many times — but it is my understanding that Health and Hospitals and FDNY retain operational control of Be Heard. Is that right? Be Heard is operated as a partnership between FDNY and Health and Hospitals. They staff it, they are deployed together. However, we convene the agencies on a weekly and more than weekly basis to ensure that the program is operating effectively. We also engage our other partners, whether it is NYPD, who are involved in the 911 system, to make sure that this initiative functions. When you have a cross-agency initiative like this, it is important to have a single point of responsibility for that work and that is our team.
+
+**(01:57:18)**
+
+
+
+Yeah, okay.
+
+**(01:57:21)**
+
+
+
+I am confused. These offices that I mentioned already existed, and so did Health and Hospitals and the services they offer, before your office. So why can the existing agencies continue delivering these services? Why do we need this? The existing agencies are continuing to deliver these services. The goal of combining all of them within the Office of Community Safety was so we can have a more comprehensive approach to violence...
+
+**(01:57:53)**
+
+
+
+...because, as I mentioned in my testimony, what we know is that people do not experience violence and harm in silos. People who have experienced domestic violence have significant behavioral health needs. Neighborhoods with higher rates of gun violence also have higher rates of domestic violence. Combining these offices together allows us to have the resources and the expertise across all of these offices supporting New Yorkers as one unit.
+
+**(01:58:20)**
+
+
+
+Your budget of $270 million — this funding was transferred from these existing programs, not added. This budget is not adding anything in addition to these offices. So I do not see how you are enhancing these offices. It seems like you are taking funding away from them. Can you explain that to me? Because then they have less budget to work with. No, all of the offices have their budget to work with. The staff within the offices exist. They are doing the work. Their programs...
+
+**(01:58:54)**
+
+
+
+...and contracts exist. This administration invested an additional $67 million in the offices. We are now all under one roof and so these teams are continuing to do the work with the resources. Our goal as an administration, my commitment as a Commissioner, is to ensure that we are continuing to ensure that we have the resources available. We have not taken away from these offices. We have only added to the offices. Yeah, but is it not true that the $260 million was taken away from the existing funding from these five offices? No. The offices have not had anything taken away, because those offices still have their funding. They are just now part of the larger structure. The $157 million of funding is money that supports their programs and it is now just part of a...
+
+**(01:59:51)**
+
+
+
+Yeah, okay. Again, it seems to me that we are paying for another layer of management to get existing offices to do their jobs and I do not see that as beneficial to what we already have. So unless you can convince me otherwise, I see it as an extra layer of red tape. This reminds me of Thrive from a couple of...
+
+**(02:00:19)**
+
+
+
+...years ago. I appreciate that concern. I would like to actually turn to some of my team members to talk about how they have worked across the office to support some of the work that they are doing. I might start with the office of the prevention of hate crimes, which you heard was quite small and is now working very closely with some of the offices to enhance the work that they are doing.
+
+**(02:00:37)**
+
+
+
+Thank you, Commissioner, and for your concern. I will say that now that we are part of this larger network of providers and people, we are able to do wrap-around services when it comes to hate crimes and occurrences of bias in communities. Additionally, being in an office with three staff, we now have an additional 97 staff members to collectively help us do all of that work as well. And the reason... previously we...
+
+**(02:01:00)**
+
+
+
+No, thank you. I have saved my questions — the next set of questions — for round two. Thank you. Thank...
+
+**(02:01:10)**
+
+
+
+...you so much. So next is Council...
+
+**(02:01:13)**
+
+
+
+...Wilson. What are the different ways that we can get a Be Heard response? Obviously the most obvious one is calling 911. I am wondering if the NYPD, for example, relays different data on incidents and whether other agencies do as well. Yeah, the primary way, as you mentioned, the primary way to get a Be Heard response is through 911. However, if police on the ground respond to an incident that they find to be a mental health-related incident and they think Be Heard would be beneficial, they do have a mechanism to be able to request Be Heard from the ground. There are some calls that might come into 988, for instance, and if the 988 crisis counselor determines that a 911 response is needed, 988 counselors know how to escalate a call to the 911 system and then those calls could potentially also get a Be Heard response.
+
+**(02:02:16)**
+
+
+
+Thank you. Next, CM Wilson and then Russ.
+
+**(02:02:19)**
+
+
+
+Thank you. I also have a couple of questions about Be Heard. The City spends a lot of money on contracted outreach teams that are not necessarily contracted for serious mental health episodes, but oftentimes that does overlap, and there are also nonprofits and CBOs that also do this kind of outreach work.
+
+**(02:02:47)**
+
+
+
+How does Be Heard coordinate with those folks so that if one of them has a personal relationship with people, we are not duplicating work? One of the really strong aspects of the way the program is designed is that it is built into our public hospital system. Because it is co-managed by New York City Health and Hospitals and FDNY, it means that our Health and Hospitals providers are able to, for example, if someone is already a Health and Hospitals patient, look in their charts and see if they have other providers that they are in contact with. They are also able to connect with our colleagues to see if someone has already been made part of an ACT team or otherwise. So the social workers in that program are highly trained to ensure that they are gathering information about the kinds of resources and programs that people are already connected to and making sure to reconnect them. What about coordinating with groups like Breaking Ground and Urban Pathways and all these groups that are out there doing that? Absolutely. We coordinate with those organizations in a variety of ways, both in terms of ensuring that as we are building out programs or policies, we are in the room with them to make sure that we are talking about what we are...
+
+**(02:04:02)**
+
+
+
+...seeing and what they are seeing. I can also turn to a colleague to talk about some of the inner work that she manages across that, because we are acutely aware that we are part of a system. We are not the system. We must make sure that we are coordinating with our partners and we are doing that frequently.
+
+**(02:04:20)**
+
+
+
+Yeah, thank you, Commissioner. As it relates to B-HEARD, one of the referral options that B-HEARD teams make very often is to the Joint Command Center that's operated by... so if they do encounter someone who needs housing support, they facilitate that connection directly with the CCS, outside of B-HEARD. As you know, our office does a lot of work with the other social service agencies, such as the Health Department, H and H, around quality of life concerns in specific neighborhoods, especially those neighborhoods that have a high presence of people who appear to need behavioral health support or housing support. So we will continue to do that work. We will continue to grow that work under OCS. If B-HEARD responds, and the person experiencing the crisis refuses service or is not well enough to understand that they are in need of service, how do you deal with that? What is the next step in that engagement, and who happens to that person who refuses service?
+
+It depends. If it rises to the level of involuntary transport to the hospital, then the B-HEARD team has a social worker there to make that assessment and that determination that a person actually does need to go to the hospital imminently for an additional psychiatric evaluation, and will make arrangements for that to happen. They'll also call ahead to the hospital to do a warm handoff, particularly if it is an H and H hospital, so that the hospital knows that this individual just met with the B-HEARD team and B-HEARD has recommended additional evaluation. We try to ensure that process happens as smoothly and in the best way for the patient as possible. Do you have data on how many B-HEARD responses have resulted in an involuntary removal?
+
+We can get that data, but I do know that it does not happen frequently. The social workers are so skilled at de-escalating and supporting individuals during a mental health crisis, so the need for involuntary transport is quite minimal. If someone doesn't meet the threshold for involuntary removal and refuses service, is there a caseload they get assigned to, or is there follow-up with that person after this particular engagement has concluded?
+
+B-HEARD will attempt to give that individual a referral to ongoing care or an additional service if they do not wish to be served by B-HEARD. Every person B-HEARD comes in contact with gets a little palm card with information about available services in their community, and also an attempt from the team to make a referral to services. I have one more question, Chair. You touched on this a second ago with your response, but I happen to believe that there is a pretty direct link between the mental health crisis and our housing crisis, and I am sure the Commissioner shares that view. If so, what are some of the tools, data sharing, or advocacy that you're doing to help build more supportive and affordable housing?
+
+We recognize that there is a significant overlap between people with mental health needs and people who are experiencing homelessness or who are unstable. That is absolutely true, and it is something we understand and support. We work closely with our partners across the City to identify ways in which we can be supportive of the efforts the City is making, whether that means sitting on the committees where the City is thinking through how to expand access to housing, whether that means funding services like rapid rehousing work, or whether that means ensuring that we are supporting providers who are also connecting people with behavioral health services with housing. We know this is absolutely an intersection that we can and should address. Yeah, and I would just add that being part of this is having all of these different offices under one umbrella, which also means that we are not only thinking about it from a mental health perspective. We're thinking about how housing helps to prevent violence, and how supportive housing options can support people who are victims of gender-based violence. This just gives another opportunity to elevate more of those voices and concerns as we think about housing for people who have mental health needs.
+
+And then just a comment, and I'm done. When you're contemplating the expansion, we would really like it in Lower East Side and Lower Manhattan. I think one of the biggest calls I get to my office are people concerned about folks who appear to be experiencing a mental health crisis or appear to be very resistant to services, and around big transit hubs like the Port Authority Bus Terminal and Penn Station, where we see a lot of this. So please come, please come down to Manhattan.
+
+Yeah, we appreciate that. Lower Manhattan is an area that we have also received very similar requests from. So thank you for that ask, and we look forward to working with you. Thank you. Chair, thank you so much. Next, Council Member, out there.
+
+Students, good afternoon. I will try. Probably brief, but if we can, I just have a lot of questions. So if you could be as succinct as possible.
+
+I want to start with, I know CM Reilly spoke about Jarvis, who was on his way to school. He's a young person from my district, and a school that's in my district. This is actually the second shooting.
+
+Your microphone, sorry, your microphone will be...
+
+Off. Oh, it's a very fun day here. Are you? Perfect. Thank you.
+
+I've never been accused of not being loud, so that's the first. Oh, so this is a second shooting, and this is a school that's outside of the attachment area, which is one of the things I've been yelling about, like the Touch My. Like, what does that really look like in the expansion? But also just thinking about how is the office coordinating across prevention, education, interventions that support young people and communities? Houses being done within the school communities as well. What does that look like? I know we have some safe passage programs. There are some programs, but again, in a tragedy where a young person is gunned down and there was a shooting outside the school, and they're telling me that they did get policy, printing money out, and not on a list. What does that look like other than the interventions being poured in for one day? What are the long-term solutions?
+
+For, yeah, no, I mean, there have been so many tragic incidents in the last few days, and I just really want to send condolences to the families and friends of everyone who's been affected, because it has been really awful. Our team has been on the ground. Obviously we want to respect the privacy of the people affected, so we won't talk about the literal specifics, but we can talk about the ways in which we tend to support young people, their families, and the aftermath of incidents like this. We work very closely with schools as well as with other agency partners to do the work of responding in the moment, but also the long-term work of supporting people in the aftermath of these kinds of incidents. Whether that means
+
+**(02:12:40)**
+
+
+
+Well, I'll turn to, yeah.
+
+**(02:12:42)**
+
+
+
+No, thank you so much.
+
+**(02:12:44)**
+
+
+
+Commissioner, and... Hello. Hi. Everything in a while.
+
+**(02:12:49)**
+
+
+
+While.
+
+**(02:12:49)**
+
+
+
+Hi, I was just on a call with New York City Public Schools yesterday, last night. Actually, just figure out how we can extend resources to the young man and his family. We're looking at various things that might be cost-neutral, like you mentioned, even if we're not in that school. This is information that we're receiving from New York City Public Schools. What we're going to be doing in the days and weeks ahead is working very closely with our teams in the Bronx on the ground, and not only in the Bronx, but the other five boroughs, to figure out operationally where we need to be canvassing, who we need to be engaging, even if this is not a Youth Enrichment Services school. How do we engage with these young people?
+
+Making sure that when young people are going to school in the mornings, and they're let go in the afternoons, that... and I were on the ground with a heavy presence.
+
+Right. So this is something that we're working very closely with New York City Public Schools right now to accomplish. Is there already a plan in place that exists, or is this something you're still in the process of developing?
+
+So the plan in place, and the interventions that we have right now, are funded, but that's another plan. I'm sorry, how many schools is that in?
+
+50 schools, two different... you probably don't have it now, but if you can send over a list to the committee so that we can look at the schools.
+
+Absolutely. And how would those schools be picked? Through New York City Public Schools, they provide us a list of Level Four and Level Five cases, cases that involve suspensions, young people who might be bringing weapons to school, and we go ahead and operationalize on that.
+
+Interesting. I have some thoughts, so I'll... because I have my passion. The next question I have is, I've been a woman bad around juvenile justice, and I have been the reason for the alarm, because one of the things, especially with talking to the judges and folks, is just around programming. I know that you guys have a set of programming. Can you guys do programming in things like that? I'm trying to get a better understanding of why we're not using some of these programs for these young people. Like an 80 DOT media program, but I know that you guys have specific programs that have funding attached to them, and things like that. My big concern is that no one is talking to anyone, and we have all these programs and they're working in silos. We have set the program, and the guys used to be under... so things used to be a little bit more coherent around programming and integrating into them. So I'm trying to understand what is the through line of these programs, and young people having access, because again, I've been meeting with judges, and they're like, there's no programs. And I'm like, what are you talking about? There are programs.
+
+Yeah, we have, certainly in all courses, turned to two cliffs to describe more, but we absolutely do have programs that work with youth who are in the juvenile system, both youth who are in detention as well as... you know, I know you guys have programs. But what I am saying is, how is this all being connected? Because when I am talking to judges, they're saying there's no programs. I know, and I know for a fact, because I haven't done this for 20 years, and I'm here, and I see all of these things, which is why I have Sandy...
+
+How is it being connected, and how are people knowing to refer people to these programs? I'm trying to understand how you guys are all working together, because again, it seems very distant. I know there are programs, you guys have programs, everybody's got programs. But every time I talk, turn around, there's no programs for these kids. I think one of the challenges of working at a place like New York City is that it is so large, and it is really hard to know everything that is going on. But one of the goals that we have is to make sure that we are in very close coordination. So, for example, we're at the Office of Neighborhood Safety, as well as the rest of the Office of Community Safety, as part of the Youth Justice Force that is being run right now, to ensure that this administration is making improvements to the youth justice system, and we are in very close contact with our partners as we continue... not to cut short, because I have another question.
+
+The issue is that you guys are talking, everyone else needs to know, and so that's the issue. You guys are having a meeting, and I'm a part of the Justice Working Group. Don't get me started. But if people who are supposed to refer the kids are not knowing about these programs, on my cares, and so I need us to figure out a way. I'm going to have legislation around it, but this is a real problem. When I am in these spaces and judges are saying these kids are being detained because there's no programs, and so if you have not heard that, I don't know how people are not hearing that, because I'm hearing that. That is something we need to work on as a City, because that is really important. So I had another question. My last question, I'm so sorry to hear, and I will be done, is just around... you guys have mentioned that you were in support of Councilman Reilly's hotline bill. On the hotline bill, do you have a plan on how you'll be protecting information on the hotline from, like, NYPD and things like that? And is there a plan in place that you guys are thinking about to make sure the information that's being shared on the hotline is protected?
+
+**(02:18:02)**
+
+
+
+So we are in support of the intent of the hotline bill. We're suggesting that there are resources already within New York City, like 988, the New York City Hope Hotline, that could be utilized more effectively and more quickly and more efficiently to meet the goals of the bill, and we would really welcome conversations with the Council Member to discuss that.
+
+**(02:18:21)**
+
+
+
+To your point about making sure that the judges and others are aware, we were really welcome. As somebody working with you and working with others, to make sure we are getting the word out, because we want to make sure that when there are gaps and people understanding what exists, that we are filling those gaps. I've been yelling about it, I will complain to yell about it, and I've also been promoting these programs, because I'm telling you, people are pretending like they don't know what it is. I know for a fact, because I know the work, but there are a lot of people who do not know that you guys have these programs. Listen, as you're seeing gaps, I know the team is aware of those. We would love to just continue working on it. That is part of the work: making sure that the people who make decisions are aware of and utilize these programs. Thank you so much.
+
+**(02:19:03)**
+
+
+
+Next, CM Restler.
+
+**(02:19:05)**
+
+
+
+Our thank you so much, Chair. I really just want to thank you again for your flexibility in accommodating this bill in the hearing today. I really appreciate it, and the opportunity for the Department to report to be heard.
+
+**(02:19:17)**
+
+
+
+Chris, I just have to say, I think that testimony today has been clear and compelling. You've demonstrated a really impressive command of the range of issues. It's really helpful for the Council to hear the benefits of consolidating these offices, and the opportunities that the new investment the administration is making, and how that can help us address the surge in hate crimes that we're experiencing, among other challenges.
+
+**(02:19:42)**
+
+
+
+I'd love to just touch on a few areas.
+
+**(02:19:52)**
+
+
+
+Maybe I'll start with B-HEARD, just because it's gotten so much attention today, and I know this is an area where you have a lot of expertise, and the Mayor has rightly said that B-HEARD is a top priority. As you've noted today, I think, and the Deputy Executive Director noted, there were just 8,500 calls that were responded to and B-HEARD last year. That's down, I think, 40-odd percent from two years ago. I was disturbed by the police and fire departments kind of competing, and somewhat inconsistent testimony at our budget hearings earlier this year, and it felt to me that it was indicative of a program that had been orphaned. I was hoping you could elaborate further on how, as you're looking to ramp B-HEARD back up, are there new goals in terms of people we're hoping to serve, and calls we're hoping to divert from the NYPD that B-HEARD social workers can respond to? Recognizing that we have a major staffing crisis, I'm sure we'd love to understand, as you look ahead, the universe of people we're hoping to serve with this program.
+
+**(02:21:05)**
+
+
+
+Yeah, absolutely. As you noted, there was a decrease in the calls. We were proud of every single call that we respond to. We think that's important, but we also know we're not responding to as many calls as we need or want to, and that is really the goal: to make sure we are increasing day by day, week over week, so that we are responding to more and more calls, and that we are doing that effectively.
+
+**(02:21:27)**
+
+
+
+One of the things that has been a challenge with the agencies is the, like, insurance. So we have a clear point of leadership within the City across this program, because any program that is managed by two different agencies still needs to have a clear point of leadership. That leadership is... and so we are able to convene the agencies on, at minimum, a weekly basis, but quite frankly, nearly daily basis in the moment, to make sure that we are
+
+**(02:21:54)**
+
+
+
+Expanding, that means identifying locations from which we can send our teams out as we are going across the city. That means increasing staffing. As you heard, we ran the first training that we had run in over a year for staff. So we are currently, right now, building out our data sharing agreement so that we can see with more specificity what the calls are. How we are responding to those, all of that work is happening right now and is going quickly, and we will continue to build on this program, making it more and more coherent, making it more important, more effective over time.
+
+I wish Counselor, Mr. Stevens was still here for this, but I, you know, we've seen this deeply troubling increase during the ... of youth and detention. You know, well over twice as many kids are incarcerated today as at the beginning of the Eric Adams term. I'm just wondering what kind of initiatives you are prioritizing now to address the rise in violence that is impacting our teens. I am, and helping us to drive down the population that we're experiencing in Horizons and Crossroads.
+
+**(02:23:09)**
+
+
+
+Yeah, absolutely. So I will turn to my colleague for more details, but not only are we sitting on the Justice Task Force, which is focused on, you know, improving how the justice system works, including the real crisis in the detention centers and making sure that we are bringing to bear any resources we can to support. We also have our providers in the detention centers to address and support violence, because we know that for the youth who are there, that is essential. And we all have work where we are also providing support to young people who have been justice involved, including summer youth employment, because we know that employment is one of the key preventative factors for being engaged in the justice system.
+
+And what would you like? Yeah. No, thank you so much, Commissioner.
+
+**(02:23:52)**
+
+
+
+And so we worked very, very closely to be activating public spaces like our Corner and Beacons. We have employment programs, to the Commissioner's point, which is an anti-gun violence employment program, as well as somewhere you can plan it. Working very, very closely to add additional slots to extend to young people. You find this again in New York City public schools, as I mentioned earlier, as well as our facilities. And our Mayor's Action Plan for Neighborhood Safety also has a youth leadership component, where we are engaging young people, again, just to extend resources, make referrals to them, and make sure that we are reducing their risk of being involved in community violence.
+
+**(02:24:41)**
+
+
+
+Out. I'm going to try to just, I want to try and get through a few more topics if I can. I appreciate those responses. I hope this is an area, I'll just say, I hope this is an area where with other agencies we can really rebuild the landscape of programs that were obliterated during the Adams administration that are serving these young people and are effective preventative tools that we really need. I think the Department of Probation in particular needs a lot of help. Metrics and success: as you're thinking about measuring the success of this office, what are their short-term goals and targets that you might want to highlight? What data points or metrics are you prioritizing for success for this fiscal year that you might want to highlight?
+
+**(02:25:27)**
+
+
+
+Us. All of our programs include, or I would say they are, programs include a set of programmatic metrics. So usually when I think about those, what I talk about is the number of people we're serving, what kind of support we're able to provide, what their satisfaction is. All of those are essential. But also, as we're building that out, we are also continuing to build out our ability to look and say, things like, for neighborhoods where we are operating, what are we seeing? Reductions in violence? Are we seeing increasing access to care among the people we are serving? So that's the kind of metrics, and building that out, we will continue to do great.
+
+**(02:26:02)**
+
+
+
+And I thought this section in this year was helpful, and hopefully that's something where more metrics can be added and elaborated on. I fully appreciate that setting up a new office in government is far from easy. It's, I would probably say, often painful, especially when contracting is involved. Could you share with the Council today a little bit more about what you've done to make sure that the office is set up and structured to be successful? And just elaborate a little bit on that internal work that might not be super sexy, but it is really important.
+
+**(02:26:38)**
+
+
+
+Important? No, thank you so much, because people often don't ask about the behind-the-scenes work of ensuring that this office functions and is ready to be a department. And that is, I would say, equally as essential as the programming that we do. So right now we are a Mayoral office, so our staff lines as well as our contracts are embedded within other agencies. The back-end things, like administration, HR, payroll, contracting, are all managed by other entities. The process of building that out, the process of becoming, going from office to department, when that happened in New York City before, we're thinking about it. If you're thinking about the Department of Veterans Services, that often takes years. Our goal is, we're doing this to ensure that when we're making that transition, we're doing so in a way that allows us to make sure there are no gaps in our ability to pay the people who are contract providers,
+
+**(02:27:26)**
+
+
+
+to pay our own staff, that we continue to be able to manage the data that we have in a way that is in line with all data protection and security protocols. And to do that, we've already launched the work with an interagency task force to help us plan out. That task force includes not only the agencies here, but the agencies that serve as our back end, for the city, that manage some of the operational functions of the city. The Mayor's Office of Contracts. We have the staffing, the infrastructure, and the technology resources necessary to do that work, and we are already doing it, because we know that it will take time, but we want to do it as quickly and as effectively as possible.
+
+**(02:28:16)**
+
+
+
+That's great. Um,
+
+**(02:28:20)**
+
+
+
+As you look ahead a little bit more to a longer-term vision, I know you mentioned that you're undertaking a strategic planning process.
+
+**(02:28:27)**
+
+
+
+Interested in how you see the agency. I recognize you've got a variety of existing programs that are under your umbrella. But how do you look at the agency as a direct service provider, versus providing its own standalone response, versus serving as a coordinating force between existing programs? Is it all of the above?
+
+**(02:28:50)**
+
+
+
+Yeah, we will need to do all of that in order to be an effective community safety department. We will need to be able to directly serve people. We will need to coordinate. We'll need to be able to speak to policy and research, and that work exists, but we will need to make sure that we are doing that even more so.
+
+**(02:29:08)**
+
+
+
+I'm interested in just your view today. I will say I often encounter situations in my district where there are individuals who are struggling with mental illness on our streets, in our subways, and they don't appear to be getting the help they need. And I can say that's me being generous. They are not getting the help they need by the existing programs that the City offers. And I'm interested, you know, we often get inadequate responses from non-police agencies. The police get called in, and their involvement doesn't address the problem or the challenge or the condition that somebody's facing. Folks often are cycling through Rikers, hospitals, shelters, one versus the other, to the next. And I'm just interested in generally how you think the Department of Community Safety can help to address this particular challenge.
+
+**(02:30:09)**
+
+
+
+Yeah, that's a great question. That challenge of people cycling. When people are cycling, we're seeing them often in the street. We have not yet been able to connect with that person in a way where we have provided what they need, whether that is housing, with serious support for serious mental illness. The thing that I am most hopeful about is having this kind of combined expertise within the office to address those really thorny problems. It will help us move the needle on closing some of those gaps, because if we are able to really address gun violence and access to mental health services at the same time, we're closing a gap. If we're able to do so in a way that addresses victim services and domestic violence, we're closing the gap. So part of what we are going to be doing, and continue to do, is think about how do we get into those really sticky problems where people are falling through the gaps, and either ourselves provide services or work with our community partners to do that work.
+
+**(02:30:31)**
+
+
+
+And so one of the great things about having a pause, Eric, because I know you...
+
+Yeah. No, look, I want to be mindful. Chair, you were gracious. Give me some extra time. I just thought two things. I just want to repeat what you've said earlier that I thought were helpful. Your role in overseeing the operations day to day and making the work of the Office of Community Safety successful, and the Deputy Mayor's role in serving as a coordinator across City government to help bring in other partners and make sure that they are collaborating and supporting that work as effectively as possible. I thought that was really clear and beneficial to understand. And the second thing that you talked about, how each of these five offices provides victim services in one form or another, and how do we better integrate those efforts? Because oftentimes, if it's a victim of violence in one form or another, it might cut across multiple offices, and yet tiling these things out doesn't necessarily help the people who need it. So I think it provided some really helpful color on why things are being structured the way that they are. So I appreciate your testimony today, and very much look forward to working with you and your team on this effort.
+
+Likewise. Thank you.
+
+**(02:31:09)**
+
+
+
+Thank you. Thank you so much. CM Restler, quick question, and then we'll hear from CM Banks, and then we'll do a second round.
+
+**(02:32:16)**
+
+
+
+So as someone who represents the Bronx, I'm always talking about public safety. I don't see how anybody who represents a neighborhood like the one that I represent, where about 40% of the shootings and shooting incidents in the City happened in the Bronx, could talk about anything else when that is such a big problem in the borough. And not too long ago I was visiting Brooklyn, and I was speaking with the Brooklyn elected officials. We were talking about the history of the neighborhood. They basically said that back in the '90s, that specific neighborhood, they had a real challenge with gun violence. They created new programs, and they were able to bring a new building with basically everything related to these issues, including a building with a one-stop shop, services for victims, counselors, programs for children, teen dating violence, hate crimes, and so much more.
+
+**(02:32:23)**
+
+
+
+What I have said was that by having it directly in the community, that portion affected that, basically completely transformed that community permanently, or practically a man. Crime is almost nonexistent. It also brought jobs to the families that needed them the most. Obviously we know the correlation between high unemployment rates and lack of opportunity and crime and violence, and mental health issues. I think this says a lot about the difference that we can make when we have programs like the ones that we're talking about today directly embedded in the communities that need them. So I'm just wondering, what would it take to have an office like the Office of Community Safety headquartered out of a neighborhood like the ones that need it the most, such as in Brooklyn or the Bronx? Obviously, as we know, the real work gets done in the communities facing these issues. So what would that take?
+
+Yeah, I could not have said it better. The real work gets done when you're in the community. So we absolutely are in agreement that in order to do this work, we have to work in the communities with the highest needs. We have to work closely with partners that are already embedded in that community. And as we grow, we will look at where we need to be positioned within the community, whether that's physically or otherwise, in terms of being based. Our partners are already doing that work, so completely agree on the statement.
+
+**(02:33:17)**
+
+
+
+Okay, sounds good. I'll definitely be interested in having conversations about how we could support the partners already there. But also, given that this issue is often going to be working on these issues, having the office specifically in the community that's been affected by these issues.
+
+**(02:34:39)**
+
+
+
+Absolutely. Love City Hall and the region, but we're talking about safety. Why not have these services directly in the communities affected?
+
+**(02:34:51)**
+
+
+
+And I would say we've not just started, we've been doing this for a long time, and continue to fund services in the Bronx, because we know that the Bronx is a place with significant rates of violence. So we are doing work all the time in the Bronx. My guess is that there are several team members currently right now in the Bronx doing work with our providers on any given day. That is the case, and I can certainly turn to our Executive Director. We'll always be able to talk about some of the resources we already have in the Bronx that we would be building on.
+
+**(02:35:01)**
+
+
+
+Yes, share with Lisa. So I just want to, at a glance, let you know exactly what type of assets we have in the Bronx.
+
+**(02:35:32)**
+
+
+
+First, we serve 11 hot spot areas across eight precincts in our Crisis Management System. Investment is roughly $22 million, and that includes street outreach work that includes work directly with our hospital-based violence intervention programs, our mobile trauma units. We even have investments through our Mayor's Action Plan, Neighborhood Safety. So look at Patterson, for instance, with that unfortunate incident that happened a few days ago, we were fully mobilized there. So I just want you to know, in the Bronx, and obviously there are ways for us to hopefully increase our presence and footprint there. But we are working very closely with our community-based partners and civilians in the Bronx and make sure that we're lowering rates of community violence. Thank you.
+
+**(02:35:40)**
+
+
+
+Thank you so much. But I guess the overall point is, yes, we absolutely appreciate expansion of the programs in the Bronx. But I guess the overall point is, this is where most of the issues are. Why not be headquartered out of there?
+
+Yeah, but I appreciate the point. Thank you.
+
+Thank you. Next, CM Banks, and then we'll go for a second round. Thank you.
+
+**(02:36:31)**
+
+
+
+Chair, when it comes to the contracts, when can we expect the transfer of responsibility from...
+
+So in terms of the contracts, as well as all the other contracts, as we come into this, myself included, all of us are in programmatic control of those contracts. In terms of literally moving the contracts, we are in the process right now of working really closely with others to ensure that we can build out a contracting team. So we need staff. We need equipment. We need all of our technology, all of that, to make sure that we are actually able to manage the contracts, and that we do so in a way that there are no gaps in our ability to provide funding, because that's also something that we want to be very careful about. So we are working right now to work towards that transfer. But in terms of programmatic operations, we are doing that, and then we are in very, very close contact, on a, I would say probably daily basis, around making sure that the contracts continue to move and operate. So we are making sure that even in this kind of transitional space, we are managing that work. Thank
+
+**(02:36:47)**
+
+
+
+You for that. How will we
+
+**(02:37:08)**
+
+
+
+And ensure that the providers and other community-based violence prevention organizations have adequate and reliable funding to retain experienced workers, mediate conflicts, and prevent shootings and retaliation?
+
+Yeah, well, one of the things that we are doing, of course, is making sure that we are continuing to ensure that the contract is managed. And then as we're doing this transition, we are able to continue to fund our partners. Another thing that we have that is happening is that as the current contract is set to expire, we are working right now on releasing a new... the focus of that will be ensuring that we are making continued investments in the work, but also making adjustments to modernize the work, which has existed in New York City for a great deal of time, and it's really strong, and we want to make sure that we are reflecting the changes that have happened in the system. So, I mean, no surprise to you, but of course, when COVID happened, it changed a lot about how people operate, and we want to make sure that we are also reflecting that in our new work, and that that work is invested in the providers, and they can do their work effectively.
+
+**(02:37:53)**
+
+
+
+And when it comes to the delayed payments and the gaps in the contract funding, how are we addressing that?
+
+So that's the... under delayed
+
+**(02:37:55)**
+
+
+
+Payments.
+
+**(02:39:06)**
+
+
+
+
+
+**(02:39:14)**
+
+
+
+
+
+**(02:39:16)**
+
+
+
+
+
+**(02:39:17)**
+
+
+
+So we were really closely in on this. Let Cliff speak to us. We work really closely to identify when there are issues with delaying payments or any other issues in the contract, to make sure we are addressing those as we are building out our contract shop to be as effective as possible. We know that making sure that we are providing consistent funding and on-time funding to our contract providers is essential for us to do our
+
+**(02:39:46)**
+
+
+
+work. Yeah. No, absolutely.
+
+**(02:39:47)**
+
+
+
+It is a specious point. One thing that we are doing is working very closely to identify the organizations and providers that needed additional assistance. One thing that recently happened is that the providers are now receiving a 50% advance at the top of the fiscal year. That is directly related to their feedback to us around what they needed to be fully operational at the top of the year. But we also understand, and we want to be very equitable, in making sure that we are applying resources to our providers who need them
+
+**(02:40:26)**
+
+
+
+the most. Thank you for that.
+
+**(02:40:27)**
+
+
+
+How will we coordinate with other City agencies to connect young folks most impacted by violence to employment, mental health services and safe after-school programs? Please speak to that.
+
+**(02:40:47)**
+
+
+
+Yeah. So we are working very, very closely to make sure that summer youth employment slots are being allocated directly to our population of young people. We also, as I mentioned earlier, have our anti-gun violence employment program that we are extending to folks as well, to young people particularly. We are working very closely to make sure that public spaces like Cornerstone and Beacon sites remain open and serve as secure and safe spaces for young people to congregate.
+
+**(02:41:25)**
+
+
+
+Thank you. And
+
+**(02:41:27)**
+
+
+
+what outcomes will the Office of Community Safety use to evaluate whether its investments are improving youth safety, including conflict-mediated retaliation prevention? And what is being done to address that?
+
+**(02:41:49)**
+
+
+
+So right now we are tracking our partners' conflict mediations, de-escalations and referrals that are made. We really want to be able to tell a comprehensive story about the work that is happening and we want to effectively be able to keep score. So we are working very closely with the other offices within the administration right now to see how we can collaborate and coordinate a lot better. And my last question: we know this
+
+**(02:42:18)**
+
+
+
+administration and the Council have been vocal about the dehumanizing conditions in the detention centers. I think that has been touched on a little earlier, as well as the lack of citywide support for children. Can you please describe the role that you believe your office will play in protecting our youth from the criminal legal system?
+
+Yeah, I think there are a few
+
+**(02:42:41)**
+
+
+
+different roles, and we share the concern. We recognize the urgency of the issue. Absolutely. So thank you so much for raising that. One thing that we do is, by preventing violence and working with young people who are at risk, we are preventing them from coming into contact
+
+**(02:42:55)**
+
+
+
+with the system. In addition, for young people who are in the system, our providers — especially in the detention facilities — work to address conflict and reduce violence there. You also heard from the Executive Deputy about jobs and other supports that would reduce the likelihood that they cycle back in. We do focus on connecting with young people who have either had contact with the juvenile system, or young adults who have had contact with the criminal justice system, and people who are at high risk, so that we are doing our part to make sure that we are both being preventative and addressing the needs of people who have come into contact with the system.
+
+**(02:43:41)**
+
+
+
+Thank you, Commissioner, for your responses and your team. Thank
+
+**(02:43:47)**
+
+
+
+you. Thank you so much. CM Banks, back to Co-Chair Brewer. Two quick things. One is, again, back to the gender-based violence
+
+**(02:43:57)**
+
+
+
+centers. Someone has some
+
+**(02:43:59)**
+
+
+
+work. So there is a lot of interest. I have heard from the Council's
+
+**(02:44:04)**
+
+
+
+Women's Caucus. I speak at a lot of women's events and this comes up constantly. So I guess what I am saying is, I think as time goes on, you could make it clear what you are doing in that domain, because there is a feeling that it is not being covered — whether it is or is not, that is how it feels — and because the individual who was head of that is not part of your leadership team.
+
+You have... I think you are doing a great job. Everybody up here is saying she is really good, but that issue is still hanging out there. Yeah. I will say Commissioner Simoni is still part of my life. She testified with me at the last hearing. She just happens not to be available today. But the work of the office is so essential to the work of the Office of Community Safety and it is important for us to tell the story of that. So I appreciate that feedback. We will continue to work on that. Okay.
+
+**(02:44:49)**
+
+
+
+And then just secondly, the... I mean, the Council...
+
+**(02:44:56)**
+
+
+
+The mental illness in our districts is huge
+
+**(02:45:01)**
+
+
+
+and so I know you can only be heard in certain districts. We would all love to have it. I assume hopefully something like it or it will move to other districts. But again, it is sort of on you because the street homeless outreach cannot handle them in many cases. People do not want to move. I often say to them — these are encampments — something like, I have been here ten years. That is what we have got then.
+
+Not going anywhere unless something miraculous happens. And it is trying.
+
+**(02:45:29)**
+
+
+
+So, but the issue would be
+
+**(02:45:33)**
+
+
+
+to try to come up as soon as possible with what the City's response is to this mental illness issue, because it is, I think, the number one issue on our streets. Yeah. I will say I am
+
+**(02:45:43)**
+
+
+
+working really closely with the team as they are doing the work of figuring out how to address street outreach and homeless encampments, recognizing that our part is to support them, to make sure that we are thinking about how we support any work they are doing around expanding access to behavioral health care and helping to knit in a focus on community safety within that work. We have been really excited to be able to work with that team to do that, because we agree that is a really essential issue. But it is hard. They are not easy. I always say to them: did you go up to Central Park West? What is going on there? Because they are so intractable. And so I do not know the answer, but I can say everybody is looking to you for help. Thank you. Thank
+
+**(02:46:25)**
+
+
+
+you. Thank you so much, Co-Chair. We are going to go back to CM Wong for a second round of questions. Okay. Thank you.
+
+**(02:46:31)**
+
+
+
+Chairs, my next round of questions regards who is going to pay and what gets cut. I read today's political playbook, which reports that the Bill creating this office does not specify the department's funding, and the City faces big deficits heading into the next budget process. So my question regards how any expansion would get financed. What pays for any expansion beyond the existing programs? Are we going to get higher taxes or cuts to other services, or savings you expect to achieve? Please.
+
+**(02:47:20)**
+
+
+
+Yeah. So this administration has made a commitment to the Office of Community Safety and to the expansion of the Office of Community Safety. As we do that expansion, we will be working very closely with the Office of Management and Budget and with City Hall to identify any necessary resources that would be needed to support that expansion. To date, the administration has invested an additional $67 million in this work.
+
+**(02:47:45)**
+
+
+
+Now I also... okay. Granted. I also heard from you that
+
+**(02:47:50)**
+
+
+
+you work with NYPD. Are you actually saving police officer hours by working with them? How many net police officer hours have actually been saved after accounting for backup and repeat responses? Can you talk about that?
+
+**(02:48:08)**
+
+
+
+I do not have data on exactly how many hours might be saved. But what I will say is that the work that we are doing is meant to build out a response that is effective for people with needs. What we know — both in New York City, and you will hear this from across the country, including from law enforcement themselves — is that we have been asking law enforcement to take on functions that are not part of their purview, that they are not best positioned to do. So bringing in behavioral health providers, community violence interrupters and victims' advocates to that work is essential for providing an effective response to those in need. Okay. Do I have time for
+
+**(02:48:44)**
+
+
+
+one final question? You
+
+**(02:48:47)**
+
+
+
+mentioned the structure of the Office of Community Safety, that there is a new role reporting to the Deputy Mayor and supervising five existing offices. But what is the administrative cost involved? I am talking about other than the programs and the front-line employees that already existed. What is the annual cost of this additional management structure?
+
+**(02:49:13)**
+
+
+
+Across... if I am hearing you correctly, across the Office of Community Safety budget, about 5% goes to staffing. But what about the management structure that you mentioned, where you report to the Deputy Mayor and you have staff? The Deputy Mayor's budget — all the Deputy Mayors are part of City Hall. So the Deputy Mayor of Community Safety, like the First Deputy Mayor or the Deputy Mayor of Health and Human Services, those are all City Hall staff. I report to her as other commissioners report to their Deputy Mayors.
+
+**(02:49:47)**
+
+
+
+Okay. But by creating your new management structure, how much is that? About 5% of your total budget? So the Office of Community Safety — the staff who were not part of the existing offices — that is about $2.9 million out of the entire $271 million.
+
+**(02:50:08)**
+
+
+
+Thank you. Thank you so much. I think we have covered an awful lot today. We have about 60 people signed up to testify, which we obviously want to hear from. So I think we are going to conclude this panel. Thank you so much for being here. Thank you for the work that you have been doing on these issues and I look forward to continuing. Restler, do you have a second round? Okay. Thank you so much. We look forward to continuing conversations. Thank
+
+**(02:50:43)**
+
+
+
+you so much. Okay. Come
+
+**(02:51:01)**
+
+
+
+on. So ready to begin.
+
+**(02:51:15)**
+
+
+
+Thank you so much.
