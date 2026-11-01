@@ -1,0 +1,90 @@
+# The nightly run, in the cloud: refresh the record (matters, votes, the next
+# day's meetings), then summarise up to three new hearings and publish them
+# straight to master. Cloudflare Pages deploys every push to master.
+#
+# Replaces the laptop's Task Scheduler job (run_discover.ps1). GitHub emails
+# the repo owner when a run fails; a quiet night needs no attention.
+#
+# Secrets (Settings -> Secrets and variables -> Actions):
+#   ANTHROPIC_API_KEY  the pipeline's key
+#   WORD_BANK_GZ_B64   word_bank.json, gzipped then base64-encoded (it is
+#                      kept out of the public repo; refresh it with
+#                      `gzip -c word_bank.json | base64 -w0 | gh secret set WORD_BANK_GZ_B64`)
+
+name: Nightly
+
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 19:30 New York in summer, 18:30 in winter
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Most hearings to publish this run"
+        default: "3"
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: nightly
+  cancel-in-progress: false
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      TZ: America/New_York
+      PYTHONIOENCODING: utf-8
+      GH_TOKEN: ${{ github.token }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # The Legistar page and document caches make the record refresh a
+      # few hundred requests instead of a few thousand.
+      - name: Restore Legistar cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            Input/legistar
+            Input/legistar_docs
+          key: legistar-${{ github.run_id }}
+          restore-keys: legistar-
+
+      - name: Restore word bank
+        env:
+          WORD_BANK: ${{ secrets.WORD_BANK_GZ_B64 }}
+        run: |
+          if [ -n "$WORD_BANK" ]; then echo "$WORD_BANK" | base64 -d | gunzip > word_bank.json; fi
+
+      - name: Git identity
+        run: |
+          git config user.name "whiffythesheep"
+          git config user.email "whiffythesheep@users.noreply.github.com"
+
+      - name: Record refresh
+        run: python refresh_record_nightly.py
+
+      - name: New hearings
+        run: python discover_pending.py --publish --limit ${{ inputs.limit || '3' }}
+
+      - name: Save Legistar cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            Input/legistar
+            Input/legistar_docs
+          key: legistar-${{ github.run_id }}

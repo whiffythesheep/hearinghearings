@@ -83,7 +83,11 @@ python audit_dependencies.py           # full report
 python audit_dependencies.py --quiet   # print only when actionable
 ```
 
-Scheduled locally as Task Scheduler task **`HearingHearingsAudit`**, Mondays 08:00, via `run_audit.ps1` → `audit.log`. When something is actionable it writes `AUDIT-ACTION-REQUIRED.txt` to the repo root (gitignored) and pops a desktop notification; a clean week is silent, and the flag file is deleted automatically once things are clean again. Retime with `Set-ScheduledTask`, **not** `schtasks /Change /ST` (that prompts for a password and hangs).
+**Retired 2026-11-01** along with the laptop nightly: the production run now installs fresh from
+`requirements.txt` in GitHub Actions every night, so the venv drift this audit existed to catch no
+longer reaches the live site, and Dependabot covers the manifest. The script is kept for the
+laptop venv; run it by hand if you use that venv for manual runs. It was scheduled as Task
+Scheduler task **`HearingHearingsAudit`**, Mondays 08:00, via `run_audit.ps1` → `audit.log`. When something is actionable it writes `AUDIT-ACTION-REQUIRED.txt` to the repo root (gitignored) and pops a desktop notification; a clean week is silent, and the flag file is deleted automatically once things are clean again. Retime with `Set-ScheduledTask`, **not** `schtasks /Change /ST` (that prompts for a password and hangs).
 
 **Why local and not a cloud routine:** the point is to audit what is *installed*, which drifts independently of what `requirements.txt` declares. On 2026-08-07 the venv had vulnerabilities in seven packages — yt-dlp four months stale, pypdf carrying eight advisories while being entirely unused — while Dependabot reported one, because Dependabot only reads the manifest. A cloud agent gets a fresh checkout and a fresh install, so it structurally cannot see that drift.
 
@@ -170,7 +174,7 @@ Where the hash comes from: `player_hash_from_caption_url()` pulls it out of the 
 
 **Known behaviour:** the player binds its seek to the `playing` event, not to load, so the jump happens when playback starts — with autoplay blocked (the norm), the user presses play and it skips to the timestamp. Confirmed working 2026-08-04.
 
-Cost: ~$0.15–0.40 per meeting (Anthropic only, no external transcription).
+Cost: a few cents per meeting since 2026-11-01 (Haiku for the transcript, Batch API throughout); it was ~$0.15–0.40 on Sonnet alone, ~$35 in October 2026, about 70% of it transcript cleaning.
 
 ### Caching
 
@@ -210,7 +214,11 @@ Since layer 1 landed (2026-07-25) the supplement is a **pure override file and i
 The name validator is **advisory, never blocking**: witnesses, agency staff, state officials and genuinely former members all legitimately appear with a title. Expect ~1–2 flags per hearing. When one fires, check the name against the **district numbers printed in the agenda PDF** (authoritative — the transcript is not), and confirm what was actually said in `Input/<meeting>.json` → `raw_segments`. Then add a correction to `word_bank.json`, keeping it **prefixed** (`"Speaker Menon"`, not bare `"Menon"`) — bare surnames over-match, and "phenomenon" contains "menon".
 
 ### Config constants (top of `summarize_council_meeting.py`)
-- `ANTHROPIC_MODEL`
+- `ANTHROPIC_MODEL` (Sonnet 4.6: agenda reading and the summary, where the voice matters)
+- `TRANSCRIPT_MODEL` (Haiku 5.5: speaker segmentation, proper nouns, cleaning; ~30x cheaper)
+- `USE_BATCH` / `BATCH_WAIT_MINUTES`: every stage goes through the Message Batches API at half
+  price; a batch unfinished after 45 minutes is cancelled and its requests sent directly.
+  `--no-batch` sends everything directly (a manual run you are waiting on).
 - `MAX_TRANSCRIPT_CHARS` (summary chunking)
 - `MAX_SEGMENT_CHARS` (segmentation batch)
 - `MAX_CLEAN_CHARS` (cleanup batch)
@@ -364,17 +372,30 @@ python summarize_matters.py --new          # nightly
 Backfill of 565 matters on 2026-09-28 cost $3.73 via the Batch API. Nightly cost is cents.
 Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
 
-### Nightly run (19:00): record refresh, then new hearings
+### Nightly run: GitHub Actions, record refresh then new hearings
 
-Task Scheduler task `HearingHearingsDiscover` runs `run_discover.ps1` every day at 19:00 and
-logs to `discover.log`. It keeps the **whole site** current, not just hearings, in two stages:
+Since 2026-11-01 the nightly job runs in **GitHub Actions**, not on the laptop:
+`.github/workflows/nightly.yml`, daily at 23:30 UTC (19:30 New York in summer), plus a manual
+"Run workflow" button with a `limit` input. GitHub is the home of the project; the laptop clone
+is a backup and a place to work by hand. The laptop's Task Scheduler tasks
+(`HearingHearingsDiscover`, `HearingHearingsAudit`) are disabled. GitHub emails the owner when a
+run fails; a quiet night needs no attention. Public repo, so Actions minutes are free.
+
+It keeps the **whole site** current in two stages, both pushing **straight to master** (live
+with no review):
 
 - **Record refresh** (`refresh_record_nightly.py`): matters, votes, vote sessions and the next
-  day's meetings. Commits and pushes **straight to master**, so it goes live with no review.
-- **New hearings** (`discover_pending.py`, up to 3 a night): each new recording becomes a
-  `pending/<event_id>` branch and a PR, with a Cloudflare branch preview. A hearing publishes
-  only when its PR is merged. A long hearing takes a while (a 10-hour one ran ~1 hour), so check
-  the task is no longer running before touching the working tree.
+  day's meetings.
+- **New hearings** (`discover_pending.py --publish`, up to 3 a night): each new recording is
+  summarised and committed to master directly. There are no `pending/*` branches or PRs any
+  more; without `--publish` the script still has the old branch-and-PR behaviour for manual use.
+
+What the cloud run needs that is not in git: the `ANTHROPIC_API_KEY` secret, and
+`word_bank.json` (kept out of the public repo) as the `WORD_BANK_GZ_B64` secret, which the
+workflow decodes before running. After editing `word_bank.json` locally, refresh the secret:
+`gzip -c word_bank.json | base64 -w0 | gh secret set WORD_BANK_GZ_B64`. `Input/legistar` and
+`Input/legistar_docs` persist between runs through `actions/cache`; everything else in `Input/`
+is rebuilt each run.
 
 The record refresh does this:
 

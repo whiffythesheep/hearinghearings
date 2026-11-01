@@ -11,6 +11,10 @@ already published or queued, the poller:
    ``gh``. Cloudflare Pages's branch-preview deployment becomes the
    review surface; merging the PR is the publish step.
 
+With ``--publish`` (how the nightly GitHub Actions run calls it) steps 2
+and 4 change: no branch or PR, each hearing is committed straight to
+master and pushed, so it goes live with no review.
+
 Idempotency: an event is "handled" iff (a) its Legistar ID appears in
 any ``content/*.md``'s ``council_url`` field on master, (b) an open PR
 already exists for ``pending/<event_id>``, (c) it is another
@@ -26,6 +30,7 @@ CLI:
     python discover_pending.py            # list survivors, process up to --limit
     python discover_pending.py --dry-run  # just report what would happen
     python discover_pending.py --limit 3  # process up to 3 events
+    python discover_pending.py --publish  # commit straight to master (nightly)
 """
 
 from __future__ import annotations
@@ -549,6 +554,42 @@ def delete_branch_if_empty(branch: str) -> None:
         )
 
 
+def publish_event(event: dict) -> str:
+    """Run the pipeline and commit the hearing straight to master.
+
+    The nightly GitHub Actions run uses this instead of a PR. A failure
+    discards whatever the pipeline wrote, so the next event starts clean.
+    """
+    logger.info("=== %s | %s | %s",
+                event["event_id"], event["event_date"], event["body_name"])
+    ok = run_pipeline(event["council_url"])
+    new_md = new_markdown_files() if ok else []
+    status = ("pipeline-failed" if not ok else
+              "no-output" if not new_md else
+              "site-build-failed" if not build_site() else "")
+    if status:
+        if ok and not new_md:
+            logger.error("Pipeline succeeded but no new content/*.md found")
+        git("checkout", "--", ".", check=False)
+        git("clean", "-fd", "--", "content", "site/output", check=False)
+        return status
+
+    fm = parse_front_matter(new_md[0])
+    git("add", "-A")
+    commit = git("commit", "-m",
+                 f"Publish: {fm.get('committee', '?')}, {fm.get('title', '?')}",
+                 check=False)
+    if commit.returncode != 0:
+        logger.error("git commit failed: %s", commit.stderr)
+        return "commit-failed"
+    push = git("push", "origin", "master", check=False)
+    if push.returncode != 0:
+        logger.error("git push failed: %s", push.stderr)
+        return "push-failed"
+    logger.info("Published %s", new_md[0].name)
+    return "ok"
+
+
 def process_event(event: dict) -> str:
     """Run pipeline + open PR for one event. Returns status string."""
     branch = f"pending/{event['event_id']}"
@@ -625,6 +666,11 @@ def parse_args() -> argparse.Namespace:
         "--limit", type=int, default=3,
         help="Maximum events to process this run (default: 3). Each event "
              "costs ~$0.30 and takes ~5–10 minutes.",
+    )
+    p.add_argument(
+        "--publish", action="store_true",
+        help="Commit each hearing straight to master and push (no branch, "
+             "no PR, no review). Used by the nightly GitHub Actions run.",
     )
     p.add_argument(
         "--no-duration-check", action="store_true",
@@ -756,7 +802,7 @@ def main() -> None:
                 args.limit, len(survivors) - processed,
             )
             break
-        status = process_event(e)
+        status = publish_event(e) if args.publish else process_event(e)
         statuses.append((e["event_id"], status))
         processed += 1
 

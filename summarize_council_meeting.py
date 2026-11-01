@@ -20,6 +20,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 import unicodedata
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
@@ -61,7 +62,16 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 INPUT_DIR = SCRIPT_DIR / "Input"
 WEBSITE_CONTENT_DIR = SCRIPT_DIR / "content"
 DATE_PREFIX = datetime.now().strftime("%y.%m")
-ANTHROPIC_MODEL = "claude-sonnet-4-6"
+ANTHROPIC_MODEL = "claude-sonnet-4-6"  # agenda reading and the summary: judgement and voice
+# Speaker splitting and transcript cleaning are mechanical and make up most of
+# the tokens, so they run on Haiku (about 30x cheaper than Sonnet 4.6).
+TRANSCRIPT_MODEL = "claude-haiku-5-5"
+# Every call goes through the Message Batches API at half price: an overnight
+# run can wait. A batch Anthropic hasn't finished within BATCH_WAIT_MINUTES is
+# cancelled and its requests sent directly, so a slow batch never stalls a run.
+# --no-batch sends everything directly (for a manual run you're waiting on).
+USE_BATCH = True
+BATCH_WAIT_MINUTES = 45
 # Max characters to send in a single Anthropic API call (~4 chars per token).
 # 300K chars ≈ 75K tokens; Sonnet's 200K context leaves room for prompt + 8K response.
 MAX_TRANSCRIPT_CHARS = 300_000
@@ -70,6 +80,58 @@ MAX_TRANSCRIPT_CHARS = 300_000
 # in dense Q&A — larger chunks (~30K) caused multi-speaker stretches to
 # collapse into single ~20-min turns on Sonnet 4.6.
 MAX_SEGMENT_CHARS = 12_000
+
+
+def summary_request(prompt, max_tokens):
+    """Request params for the summary model."""
+    return {"model": ANTHROPIC_MODEL, "max_tokens": max_tokens,
+            "messages": [{"role": "user", "content": prompt}]}
+
+
+def transcript_request(prompt, max_tokens=16000):
+    """Request params for the transcript model. Haiku 5.5 thinks by default;
+    these tasks are mechanical, so thinking is off. (It also rejects a
+    non-default temperature, so none is sent.)"""
+    return {"model": TRANSCRIPT_MODEL, "max_tokens": max_tokens,
+            "thinking": {"type": "disabled"},
+            "messages": [{"role": "user", "content": prompt}]}
+
+
+def reply_text(message):
+    """The text of a response, skipping any thinking block."""
+    return next((b.text for b in message.content if b.type == "text"), "")
+
+
+def run_requests(client, requests, label):
+    """Send Messages requests and return the responses in the same order.
+
+    Uses the Message Batches API (half price) unless USE_BATCH is off. Any
+    request the batch didn't complete (failed, or still waiting after
+    BATCH_WAIT_MINUTES) is sent directly at full price instead.
+    """
+    if not requests:
+        return []
+    if not USE_BATCH:
+        return [client.messages.create(**r) for r in requests]
+    batch = client.messages.batches.create(
+        requests=[{"custom_id": f"r{i}", "params": r} for i, r in enumerate(requests)])
+    logger.info(f"  {label}: batch {batch.id} with {len(requests)} request(s)...")
+    deadline = time.time() + BATCH_WAIT_MINUTES * 60
+    while batch.processing_status != "ended":
+        if time.time() > deadline:
+            logger.warning(f"  {label}: batch still running after {BATCH_WAIT_MINUTES} min; "
+                           "cancelling and sending the rest directly.")
+            client.messages.batches.cancel(batch.id)
+            deadline = float("inf")
+        time.sleep(15)
+        batch = client.messages.batches.retrieve(batch.id)
+    done = {r.custom_id: r.result.message for r in client.messages.batches.results(batch.id)
+            if r.result.type == "succeeded"}
+    missing = [i for i in range(len(requests)) if f"r{i}" not in done]
+    if missing:
+        logger.warning(f"  {label}: {len(missing)} request(s) not completed in the batch; "
+                       "sending them directly.")
+    return [done.get(f"r{i}") or client.messages.create(**r) for i, r in enumerate(requests)]
 
 
 def clean_youtube_title(title):
@@ -135,6 +197,11 @@ def parse_args():
         "--no-deploy", action="store_true",
         help="Write the markdown but skip site build, git commit, and push. "
              "Use when batch-processing multiple meetings to defer build/push."
+    )
+    parser.add_argument(
+        "--no-batch", action="store_true",
+        help="Send API calls directly at full price instead of through the "
+             "Batch API (half price, but each stage waits for Anthropic)."
     )
     parser.add_argument(
         "--keep-public-testimony", action="store_true",
@@ -509,12 +576,8 @@ CHAIRS: [chair name(s)]
 MEMBERS: [member names]
 TOPIC: [topical title or NONE]"""
 
-    response = client.messages.create(
-        model=ANTHROPIC_MODEL,
-        max_tokens=500,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    text = response.content[0].text.strip()
+    response = run_requests(client, [summary_request(prompt, 500)], "Agenda")[0]
+    text = reply_text(response).strip()
 
     committee = ""
     date_str = ""
@@ -890,17 +953,9 @@ def segment_into_utterances(segments, agenda_text, client):
     return _segment_single(segments, agenda_text, client)
 
 
-def _segment_single(segments, agenda_text, client):
-    """Segment a slice of raw segments that fits in one API call.
-
-    Asks Claude to return turn boundaries as segment-index ranges, then
-    deterministically reconstructs utterances from the raw segments.
-    Returns (utterances, speaker_map).
-    """
+def _segment_prompt(segments, agenda_text):
+    """The segmentation prompt for a slice of raw segments."""
     n = len(segments)
-    if n == 0:
-        return [], {}
-
     numbered = "\n".join(_format_seg_line(i, seg) for i, seg in enumerate(segments))
 
     prompt = f"""You are analyzing a New York City Council meeting transcript to identify speakers and group consecutive segments into speaker turns.
@@ -949,16 +1004,28 @@ The turns must cover EVERY segment from index 0 to {n - 1} with no gaps and no o
 Use "Speaker" (not "Speaker A" or "Unknown") for anyone you cannot identify with high confidence.
 
 Output format: your response must be the raw JSON object only. No preamble, no explanation, no markdown fences, no analysis prose. Begin your response with `{{` and end with `}}`."""
+    return prompt
 
-    logger.info(f"  Segmenting {n} segments into speaker turns...")
-    response = client.messages.create(
-        model=ANTHROPIC_MODEL,
-        max_tokens=16000,
-        messages=[{"role": "user", "content": prompt}],
-        timeout=300.0,
-    )
 
-    response_text = response.content[0].text.strip()
+def _segment_single(segments, agenda_text, client, response=None):
+    """Segment a slice of raw segments that fits in one API call.
+
+    Asks Claude to return turn boundaries as segment-index ranges, then
+    deterministically reconstructs utterances from the raw segments.
+    Returns (utterances, speaker_map). ``response`` is the model's reply when
+    the request was already sent as part of a batch (see _segment_chunked).
+    """
+    n = len(segments)
+    if n == 0:
+        return [], {}
+
+    prompt = _segment_prompt(segments, agenda_text)
+
+    if response is None:
+        logger.info(f"  Segmenting {n} segments into speaker turns...")
+        response = run_requests(client, [transcript_request(prompt)], "Segmentation")[0]
+
+    response_text = reply_text(response).strip()
     json_text = _extract_json_object(response_text)
 
     try:
@@ -1090,9 +1157,12 @@ def _segment_chunked(segments, agenda_text, client):
     all_utterances = []
     full_speaker_map = {}
 
-    for k, chunk in enumerate(chunks, start=1):
+    responses = run_requests(
+        client, [transcript_request(_segment_prompt(c, agenda_text)) for c in chunks],
+        "Segmentation")
+    for k, (chunk, response) in enumerate(zip(chunks, responses), start=1):
         logger.info(f"  Processing chunk {k}/{len(chunks)} ({len(chunk)} segments)...")
-        utterances, speaker_map = _segment_single(chunk, agenda_text, client)
+        utterances, speaker_map = _segment_single(chunk, agenda_text, client, response)
 
         # Prefix labels per chunk so chunk N's "A" doesn't collide with chunk 1's "A"
         prefix = f"{k}-"
@@ -1419,12 +1489,8 @@ Return ONLY a plain list, one item per line, no numbering or bullets. Include bo
 {agenda_text}
 </agenda>"""
 
-    response = client.messages.create(
-        model=ANTHROPIC_MODEL,
-        max_tokens=2048,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return response.content[0].text.strip()
+    response = run_requests(client, [transcript_request(prompt, 2048)], "Proper nouns")[0]
+    return reply_text(response).strip()
 
 
 def _load_word_bank():
@@ -1589,11 +1655,10 @@ def clean_transcript(utterances, proper_nouns, client):
 
     cleaned = list(utterances)  # shallow copy
 
-    for batch_num, batch in enumerate(batches):
-        logger.info(f"  Cleaning batch {batch_num + 1}/{len(batches)}...")
-
+    separator = "---UTTERANCE---"
+    prompts = []
+    for batch in batches:
         # Build input with clear separators, pre-processing YouTube artifacts
-        separator = "---UTTERANCE---"
         batch_lines = []
         for idx, (orig_i, u) in enumerate(batch):
             preprocessed = _preprocess_youtube_text(u["text"])
@@ -1661,19 +1726,18 @@ cleaned text here
 
 You MUST return the same number of entries with the same index numbers. Return ONLY the cleaned transcript, no other text."""
 
-        response = client.messages.create(
-            model=ANTHROPIC_MODEL,
-            max_tokens=16000,
-            temperature=0,
-            messages=[{"role": "user", "content": prompt}],
-            timeout=300.0,
-        )
-        cleaned_text = response.content[0].text.strip()
+        prompts.append(prompt)
+
+    def apply(batch_num, batch, response):
+        """Write a batch's cleaned entries into ``cleaned``; return how many
+        of its utterances came back."""
+        cleaned_text = reply_text(response).strip()
 
         if response.stop_reason == "max_tokens":
             logger.warning(f"  WARNING: Batch {batch_num + 1} was truncated by max_tokens limit!")
 
         # Parse using separator-based splitting
+        got = set()
         entries = cleaned_text.split(separator)
         for entry in entries:
             entry = entry.strip()
@@ -1687,9 +1751,27 @@ You MUST return the same number of entries with the same index numbers. Return O
                 # Post-processing: strip any bracket annotations the LLM may have added
                 text = re.sub(r"\[(?:VERIFY|unclear|inaudible|sic|\?)[^\]]*\]", "", text)
                 text = re.sub(r"  +", " ", text).strip()
+                # The CM style rule, enforced rather than left to the model
+                text = re.sub(r"\bCouncil ?[Mm]embers?\b(?= [A-Z])", "CM", text)
                 if 0 <= idx < len(batch):
                     orig_i = batch[idx][0]
                     cleaned[orig_i] = {**utterances[orig_i], "text": text}
+                    got.add(idx)
+        return len(got)
+
+    responses = run_requests(client, [transcript_request(p) for p in prompts], "Cleaning")
+    # Haiku occasionally answers a batch in the wrong format, which would
+    # publish those utterances uncleaned. Any batch that comes back short is
+    # cleaned again on the summary model.
+    retry = [i for i, (batch, response) in enumerate(zip(batches, responses))
+             if apply(i, batch, response) < len(batch)]
+    if retry:
+        logger.warning(f"  {len(retry)} cleaning batch(es) came back incomplete; "
+                       f"redoing them on {ANTHROPIC_MODEL}.")
+        redone = run_requests(client, [summary_request(prompts[i], 16000) for i in retry],
+                              "Cleaning retry")
+        for i, response in zip(retry, redone):
+            apply(i, batches[i], response)
 
     logger.info("  Transcript cleaning complete.")
     return cleaned
@@ -1782,12 +1864,8 @@ Action Points
 
 No other sections."""
 
-    response = client.messages.create(
-        model=ANTHROPIC_MODEL,
-        max_tokens=8192,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return response.content[0].text
+    response = run_requests(client, [summary_request(prompt, 8192)], "Summary")[0]
+    return reply_text(response)
 
 
 def _summarize_long(client, transcript_text, agenda_text):
@@ -1799,10 +1877,8 @@ def _summarize_long(client, transcript_text, agenda_text):
         transcript_text = transcript_text[MAX_TRANSCRIPT_CHARS:]
 
     logger.info(f"Processing {len(chunks)} chunks...")
-    chunk_summaries = []
-
+    prompts = []
     for i, chunk in enumerate(chunks):
-        logger.info(f"  Summarizing chunk {i + 1}/{len(chunks)}...")
         prompt = f"""You are summarizing part {i + 1} of {len(chunks)} of a New York City Council meeting transcript.
 
 Here is the meeting agenda for context:
@@ -1827,12 +1903,9 @@ List all action points, each on its own line prefixed with "- ". Only include it
 
 Note any unresolved threads."""
 
-        response = client.messages.create(
-            model=ANTHROPIC_MODEL,
-            max_tokens=4096,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        chunk_summaries.append(response.content[0].text)
+        prompts.append(prompt)
+    chunk_summaries = [reply_text(r) for r in run_requests(
+        client, [summary_request(p, 4096) for p in prompts], "Chunk summaries")]
 
     # Combine chunk summaries into final summary.
     logger.info("  Combining into final summary...")
@@ -1868,12 +1941,8 @@ Action Points
 
 No other sections."""
 
-    response = client.messages.create(
-        model=ANTHROPIC_MODEL,
-        max_tokens=8192,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return response.content[0].text
+    response = run_requests(client, [summary_request(prompt, 8192)], "Summary")[0]
+    return reply_text(response)
 
 
 def align_agenda_items(utterances, agenda_text):
@@ -2056,6 +2125,8 @@ def publish_to_website(web_content, slug, title, committee="", deploy=True):
 
 def main():
     args = parse_args()
+    global USE_BATCH
+    USE_BATCH = not args.no_batch
 
     # State the --legistar-url branch may pre-populate. When set, the later
     # metadata-extraction site reuses these instead of re-calling Claude.
