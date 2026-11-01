@@ -26,7 +26,7 @@
             <tbody>
             {% for m in members %}
                 <tr>
-                    <td data-sort-value="{{ m.name.split()[-1] }} {{ m.name }}"><a class="row-link" href="/members/{{ m.slug }}/">{{ m.name }}</a></td>
+                    <td data-sort-value="{{ m.name.split()[-1] }} {{ m.name }}"><a class="row-link row-link--main" href="/members/{{ m.slug }}/">{{ m.name }}</a></td>
                     <td class="num">{{ m.district or "—" }}</td>
                     <td>{{ m.party or "—" }}</td>
                     <td data-values='{{ (m.borough or "—").replace(", ", "/").split("/") | tojson }}'>{{ m.borough or "—" }}</td>

@@ -7,8 +7,7 @@
 <div class="record">
     <header class="intro-block">
         <h1>Matters</h1>
-        <p class="intro-subtitle">Every bill, resolution, land use application and oversight topic
-            taken up at a Council meeting since {{ window_from }}.</p>
+        <p class="intro-subtitle">Bills, resolutions, land use applications and oversight.</p>
     </header>
 
     {{ rec.filter_header("Matters", "matter-table", matters | length, "search — try “Int 0892”, “rezoning”") }}
@@ -25,7 +24,7 @@
             <tbody>
             {% for m in matters %}
                 <tr{% if m.upcoming %} class="row-upcoming"{% endif %} data-find="{{ ([m.file_number] + (m.companion_matters | map(attribute="file_number") | list) + [m.type_label, m.short_title, m.official_title, m.plain_summary, m.stage, m.committee or '']) | join(' ') | lower }}">
-                    <td class="num">{{ rec.matter_link(m.slug, m.file_number) }}</td>
+                    <td class="num">{% if m.slug %}<a class="row-link row-link--main mono" href="/matters/{{ m.slug }}/">{{ m.file_number }}</a>{% else %}<span class="mono">{{ m.file_number }}</span>{% endif %}</td>
                     <td>{{ m.type_label }}</td>
                     <td{% if m.plain_title %} title="Legistar: {{ m.official_title }}"{% endif %}>{{ m.short_title }}</td>
                     <td data-value="{{ m.committee or '—' }}">{{ (m.committee or "—") | replace("Committee on ", "") | replace("Subcommittee on ", "Sub. ") }}</td>

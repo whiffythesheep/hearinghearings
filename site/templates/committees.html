@@ -22,7 +22,7 @@
             <tbody>
             {% for c in committees %}
                 <tr>
-                    <td><a class="row-link" href="/committees/{{ c.slug }}/">{{ c.name }}</a></td>
+                    <td><a class="row-link row-link--main" href="/committees/{{ c.slug }}/">{{ c.name }}</a></td>
                     <td>{% if c.chair_slug %}<a class="row-link" href="/members/{{ c.chair_slug }}/">{{ c.chair }}</a>{% else %}{{ c.chair or "—" }}{% endif %}</td>
                     <td class="num">{{ c.meeting_count }}</td>
                     <td class="num">{{ c.matters | length }}</td>

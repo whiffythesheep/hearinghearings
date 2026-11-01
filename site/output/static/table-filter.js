@@ -360,4 +360,18 @@
     }
 
     Array.prototype.slice.call(document.querySelectorAll('[data-filter-for]')).forEach(setup);
+
+    // Whole-row links: a click anywhere in a row follows its main link,
+    // unless it lands on another link (a chair's name) or selects text.
+    Array.prototype.slice.call(document.querySelectorAll('.record-table tbody tr')).forEach(function (tr) {
+        var main = tr.querySelector('.row-link--main');
+        if (!main) return;
+        tr.classList.add('is-clickable');
+        tr.addEventListener('click', function (ev) {
+            if (ev.target.closest('a')) return;
+            if (String(window.getSelection())) return;
+            if (ev.ctrlKey || ev.metaKey) window.open(main.href, '_blank');
+            else window.location.href = main.href;
+        });
+    });
 })();

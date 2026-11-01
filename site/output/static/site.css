@@ -1876,6 +1876,16 @@ body.desktop {
     color: var(--accent);
 }
 
+/* Whole-row links (table-filter.js marks the row): the row's main link
+   turns accent wherever the row is hovered */
+.record-table tr.is-clickable {
+    cursor: pointer;
+}
+
+.record-table tr.is-clickable:hover .row-link--main {
+    color: var(--accent);
+}
+
 /* Muted tag for listing rows with no summary ("Vote session", "Upcoming") */
 .kind-tag {
     font-family: var(--font-chrome);
