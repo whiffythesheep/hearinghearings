@@ -351,9 +351,11 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   hearings merge into one "Joint hearing: A, B, C" row; future-dated steps show "Scheduled:".
 - **Member pages** (2026-11-01): header shows votes cast, % present and **% against their
   party** (of roll calls where the rest of their party leaned one way, how often they voted the
-  other way; abstentions, absences and party ties excluded). Sections: Committees, Bills
-  sponsored (Primary sponsor / Co-sponsor dropdowns, stage in brackets), Voting record (one
-  dropdown per month; each line reuses the hearing record's outcome wording for that matter).
+  other way; abstentions, absences and party ties excluded). The "% against their party" link opens
+  an "Against their party" dropdown listing those votes. Sections: Committees, Bills sponsored
+  (Primary sponsor / Co-sponsor dropdowns, stage in brackets), Voting record (one closed
+  dropdown per month; each line is date, number, title, the hearing record's outcome wording in
+  brackets, then the member's vote; `.vote-list` grid in site.css).
 - **Hearing pages** link each committee name in the header to its committee page.
 - **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov
   districts page (`refresh_council_roster.py` now stores them in `council_roster.json`).

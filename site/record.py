@@ -935,10 +935,12 @@ def load_records(hearings, today=None):
                 continue
             counted += 1
             party_line = "Affirmative" if side["Affirmative"] > side["Negative"] else "Negative"
-            split += mine != party_line
+            v["against_party"] = mine != party_line
+            split += v["against_party"]
         person["party_dissents"] = split
         person["party_votes_counted"] = counted
         person["dissent_pct"] = round(100 * split / counted) if counted else None
+        person["against_party_votes"] = [v for v in person["votes"] if v.get("against_party")]
         for v in person["votes"]:
             del v["roll_call"]
         # Voting record by month, newest first, for the member page.
