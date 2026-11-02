@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1038-2026",
- "title": "Law to protect community properties from having tax liens sold",
- "summary": "This bill would ban the city from selling tax liens on properties that provide essential services like housing, energy, water, sanitation or childcare to at least 100 households. Instead the city must offer these owners installment payment plans, counseling and referrals for assistance, plus outreach about the program. The Department of Finance must report annually to the Council on the program's implementation by September 30.",
+ "title": "Law to protect community buildings from tax lien sales",
+ "summary": "This bill would bar the city from selling tax liens on properties like affordable housing and nonprofits that serve at least 100 households with essential services such as energy, water or childcare. Instead the Department of Finance must offer installment payment plans, counseling and referrals to help owners resolve unpaid taxes and charges. The department must report annually to the Council, by September 30, on the program's use and outcomes.",
  "model": "claude-sonnet-5",
- "input_hash": "8fe0a39696b5f19d"
+ "input_hash": "c8aae4ebe95efe73"
 }

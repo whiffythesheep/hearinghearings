@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1068-2026",
- "title": "Law to excuse taxis stopping to help disabled riders",
- "summary": "This bill would create a legal defense to parking tickets for TLC-licensed drivers who stop or stand briefly to assist a passenger with impaired mobility. The defense would not apply if the driver blocks a fire hydrant, emergency vehicle, bus or bike lane, median, intersection or crosswalk, or stops for more than 10 minutes. The law would take effect 180 days after being enacted.",
+ "title": "Law to excuse TLC drivers helping disabled riders from tickets",
+ "summary": "This bill would let taxi and for-hire vehicle drivers avoid stopping or standing tickets if they were briefly helping a passenger with impaired mobility get in or out of the vehicle. The defense would not apply if the driver blocked a fire hydrant, emergency vehicle, bus or bike lane, median, intersection or crosswalk, or stopped for more than 10 minutes. The law would take effect 180 days after being enacted.",
  "model": "claude-sonnet-5",
- "input_hash": "c0ca653c03698307"
+ "input_hash": "7df4a31cb8761f3b"
 }

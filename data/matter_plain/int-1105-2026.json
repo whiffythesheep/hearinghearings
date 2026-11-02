@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1105-2026",
  "title": "Law to let New Yorkers sue over unfair business practices",
- "summary": "This bill would create a new city law banning unfair, deceptive, abusive or unlawful business practices and unfair methods of competition in commerce. It would let consumers, workers, nonprofits and small businesses sue violators directly, with damages of at least $2,500 per violation plus attorney's fees. Lawsuits would need to be filed within 3 years and generally require 10 days' notice to the other party before suing, though the city, its agencies and small businesses could not be sued under this law.",
+ "summary": "This bill would let people and nonprofits sue businesses in court for unfair, deceptive, abusive or unlawful practices in trade or commerce, seeking damages of $2,500 per violation plus attorney's fees. It creates a private right of action not currently available under New York State law, with a requirement to notify the target in advance and a three-year time limit to sue. The law would not apply to the City, its agencies or employees, or small businesses with four or fewer employees and under $5 million in annual revenue.",
  "model": "claude-sonnet-5",
- "input_hash": "b9e053945b751252"
+ "input_hash": "e987cbc170f9e16a"
 }

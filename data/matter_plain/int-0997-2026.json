@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0997-2026",
  "title": "Law to pilot hearing protection gear for police officers",
- "summary": "This bill would require the NYPD to run a one-year pilot program giving in-ear electronic hearing protection with a noise reduction rating of 25 decibels or more to officers who work outdoors, covering at least one precinct per borough. The NYPD would also have to share information on preventing hearing loss and, within two months after the pilot ends, report on its cost, participation and effectiveness. The law would expire 24 months after taking effect.",
+ "summary": "This bill would require the NYPD to run a one-year pilot program giving in-ear electronic hearing protection with a noise reduction rating of 25 decibels or more to officers who work outdoors, with at least one precinct per borough participating. The NYPD must also share information on preventing hearing loss and, within two months after the pilot ends, report on its cost, participation and effectiveness. The law takes effect immediately and expires 24 months after becoming law.",
  "model": "claude-sonnet-5",
- "input_hash": "7f844e209c369576"
+ "input_hash": "fff49e365a6dc046"
 }

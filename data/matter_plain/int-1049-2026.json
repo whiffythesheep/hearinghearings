@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1049-2026",
  "title": "Law to study chatbots' mental health effects",
- "summary": "This bill would require the city's Health Department to run a public awareness campaign on mental health risks of chatbot use, with special materials for young people, older adults and veterans. It would also require a citywide survey every three years on chatbot use and its mental health effects, and an annual public report on related agency actions, research and mental health emergencies linked to chatbots.",
+ "summary": "This bill would require the city Health Department to run a public awareness campaign on negative mental health effects of chatbot use, with materials tailored for people under 24, over 60 and veterans. The department would also have to conduct a citywide survey every three years and publish an annual report on chatbot-related mental health emergencies and research. The campaign must launch within 180 days of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "a48bf1fc58c3a23c"
+ "input_hash": "549a167dfdb7404a"
 }

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1070-2026",
- "title": "Law to pilot low-traffic neighborhood zones",
- "summary": "This bill would require the Department of Transportation to run a 2-year pilot installing at least two traffic calming devices, such as speed humps or curb extensions, in five neighborhoods across at least three boroughs to steer traffic away from residential streets. The department would have to consult local community boards on device placement and ensure access for emergency, delivery and sanitation vehicles and nearby residents. It would also study crash, injury, noise and complaint data in these areas and report findings and recommendations to the mayor and Council within six months of the pilot's end.",
+ "title": "Law to pilot low-traffic zones in 5 neighborhoods",
+ "summary": "This bill would require the Department of Transportation to run a 2-year pilot program installing at least two types of traffic calming devices, like speed humps or curb extensions, in five neighborhoods across at least three boroughs to redirect traffic away from residential streets. The department must consult local community boards on device placement and ensure access for emergency, delivery, sanitation and residents' vehicles. It must also study crash, injury, noise and complaint data in these areas and report findings and recommendations to the mayor and Council within six months after the pilot ends.",
  "model": "claude-sonnet-5",
- "input_hash": "0390bb4845a2c893"
+ "input_hash": "a1e178aae3635966"
 }

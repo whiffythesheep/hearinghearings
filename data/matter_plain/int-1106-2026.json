@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1106-2026",
  "title": "Law to expand NYPD domestic violence reporting",
- "summary": "This bill would require the NYPD to include the total number of domestic violence arrests and domestic incident reports in its existing annual report, with incident reports broken down by victim age, gender, ethnicity, race, language, council district, borough, precinct and how police encountered the case. The department must protect the identities of those named in the reports. The law would take effect immediately upon passage.",
+ "summary": "This bill would require the NYPD to include in its annual domestic violence report the total number of domestic violence arrests and domestic incident reports filed. It would also require incident data to be broken down by victim age, gender, ethnicity, race, language, council district, borough, precinct and how police learned of the incident. The report is due annually, starting June 1, 2019 under existing law.",
  "model": "claude-sonnet-5",
- "input_hash": "e97767fb7ba55a69"
+ "input_hash": "511e55896986cf0f"
 }

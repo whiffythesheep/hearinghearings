@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1041-2026",
- "title": "Law to limit removal of public litter baskets",
- "summary": "This bill would stop the Sanitation Department from removing a public litter basket solely because someone illegally dumped trash in it. It would require the department to notify the local council member and community board before removing a basket, giving them 10 business days to comment, and to consider those comments before acting. The department would also have to file a quarterly public report on basket counts, removals, reasons and related littering complaints.",
+ "title": "Law to require notice before removing public trash cans",
+ "summary": "This bill would stop the Department of Sanitation from removing a public litter basket solely because it was used for illegal dumping. It would require DSNY to notify the affected Council member and community board before removing a basket, giving them 10 business days to comment, and to consider those comments before acting. DSNY would also have to file a quarterly public report on the number and locations of baskets, removals and related littering complaints.",
  "model": "claude-sonnet-5",
- "input_hash": "26176b125852e437"
+ "input_hash": "32f77666231b3820"
 }

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1097-2026",
  "title": "Law to study bias in building violation enforcement",
- "summary": "This law would require the Department of Buildings, with help from the Department of Finance and the Department of Housing Preservation and Development, to study racial, geographic and socioeconomic disparities in building violation enforcement, penalties, inspections, tax lien sales and foreclosures. The study must cover at least the prior 10 years of data and be reported to the mayor and Council speaker within one year of the law taking effect. The report must also include policy recommendations to address any disparities found.",
+ "summary": "This bill would require the Department of Buildings to study racial, geographic and socioeconomic disparities in how it issues violations, assesses penalties and handles tax lien sales and foreclosures, using at least 10 years of data. The department would report its findings and policy recommendations to the mayor and Council speaker within one year of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "c63bdaff9aa76335"
+ "input_hash": "da69b9de8c579c4f"
 }
