@@ -5,9 +5,10 @@ Runs from ``run_discover.ps1`` *before* ``discover_pending.py``, so new
 
 1. Sync master to ``origin/master`` (tree must be clean).
 2. ``scrape_record.py --refresh``: re-fetches meetings from the last week,
-   the next two working days' meetings (their agendas become the site's "Upcoming"
-   rows), and every matter whose status is not yet settled. Everything
-   else comes from the HTML cache, so a run is a few hundred requests.
+   the next one or two days with upcoming meetings, however far off (their
+   agendas become the site's "Upcoming" rows), and every matter whose
+   status is not yet settled. Everything else comes from the HTML cache, so
+   a run is a few hundred requests.
 3. ``summarize_matters.py --new``: plain-English titles and summaries for
    new or amended matters (Claude Sonnet 5, a few cents a night).
 4. Rebuild the site. Commit and push to master only if ``data/`` changed.

@@ -34,7 +34,6 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timedelta
 import zipfile
 from html.parser import HTMLParser
 from pathlib import Path
@@ -498,16 +497,11 @@ def matter_settled(file_number):
 
 
 
-def upcoming_cutoff(today, working_days=2):
-    """The last date fetched as upcoming: the next two working days (Monday to
-    Friday) after ``today``. Mirrors upcoming_cutoff() in site/record.py."""
-    d = datetime.strptime(today, "%Y-%m-%d")
-    left = working_days
-    while left:
-        d += timedelta(days=1)
-        if d.weekday() < 5:
-            left -= 1
-    return d.strftime("%Y-%m-%d")
+# Upcoming meetings: fetch future meetings in date order until two days with
+# live (not deferred) meetings are covered. site/record.py upcoming_days()
+# then shows the first of those days, or both when they are light. No fixed
+# horizon, so after a recess the next session's first meetings are found.
+UPCOMING_DAYS = 2
 
 def main():
     p = argparse.ArgumentParser(description=__doc__,
@@ -520,7 +514,7 @@ def main():
                    help="skip downloading Fiscal Impact Statements")
     p.add_argument("--refresh", action="store_true",
                    help="nightly mode: re-fetch meetings from the last %d days, the next "
-                        "two working days' meetings, and every matter not yet settled; the rest from cache"
+                        "two days' upcoming meetings, and every matter not yet settled; the rest from cache"
                         % REFRESH_DAYS)
     p.add_argument("--skip-votes", action="store_true",
                    help="skip roll calls (much faster; use to sanity-check the grid)")
@@ -534,14 +528,13 @@ def main():
 
     fresh_from = time.strftime(
         "%Y-%m-%d", time.localtime(time.time() - REFRESH_DAYS * 86400))
-    cutoff = upcoming_cutoff(today)
 
-    # Filter on the dates we already hold, before fetching anything. The next
-    # two working days' meetings are kept: their agendas are the site's
-    # "Upcoming" rows. Anything further out waits.
+    # Filter on the dates we already hold, before fetching anything. Future
+    # meetings are all kept here; the loop below stops once it has the next
+    # UPCOMING_DAYS days with live meetings (their agendas are the site's
+    # "Upcoming" rows).
     meetings = [(eid, guid, date) for eid, (guid, date) in known.items()
-                if date and date <= cutoff
-                and (not args.since or date >= args.since)]
+                if date and (not args.since or date >= args.since)]
     meetings.sort(key=lambda m: (m[2], m[0]))
     logger.info("Meetings known: %d; in scope after date filter: %d",
                 len(known), len(meetings))
@@ -549,10 +542,14 @@ def main():
     fetcher = Fetcher(use_cache=not args.no_cache)
     matters_seen = {}
     written = 0
+    live_days = set()   # future dates with a meeting that is not deferred
 
     for event_id, guid, _date in meetings:
         if args.limit and written >= args.limit:
             break
+        if (_date > today and len(live_days) >= UPCOMING_DAYS
+                and _date not in live_days):
+            break   # sorted by date, so everything left is further out
         # Agendas and results keep changing until shortly after a meeting.
         fetcher.fresh = _date > today or (args.refresh and _date >= fresh_from)
         try:
@@ -563,6 +560,8 @@ def main():
             continue
         if not record:
             continue
+        if _date > today and record.get("agenda_status") != "Deferred":
+            live_days.add(_date)
 
         voted = sum(1 for i in record["items"] if i.get("roll_call"))
         logger.info("%s | %s | %-52s %3d items, %2d with a roll call",

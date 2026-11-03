@@ -12,11 +12,12 @@ instead ("Kamillah M. Hanks" against Legistar's "Kamillah Hanks"). Folding
 both ways matches all 51 members exactly; see ``normalize_name``.
 """
 
+from collections import Counter
 import json
 import os
 import re
 import unicodedata
-from datetime import datetime, timedelta
+from datetime import datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
@@ -501,17 +502,30 @@ def _record_only_title(meeting):
     return body
 
 
-def upcoming_cutoff(today, working_days=2):
-    """The last date shown as upcoming: the next two working days (Monday to
-    Friday) after ``today``. Friday and the weekend both look ahead to Monday
-    and Tuesday. Mirrored in scrape_record.py, which fetches the same window."""
-    d = datetime.strptime(today, "%Y-%m-%d")
-    left = working_days
-    while left:
-        d += timedelta(days=1)
-        if d.weekday() < 5:
-            left -= 1
-    return d.strftime("%Y-%m-%d")
+# How many upcoming meetings the Hearings list shows. The next day with
+# meetings is always shown in full; the day after joins it only when the first
+# day is light (fewer than UPCOMING_FULL_DAY meetings) and the two together
+# stay within UPCOMING_MAX. So 3 + 3 shows both days, 5 + 1 shows just the 5.
+UPCOMING_MAX = 6
+UPCOMING_FULL_DAY = 5
+
+
+def upcoming_days(dates):
+    """The dates shown as upcoming, from the dates of every scheduled future
+    meeting (one entry per meeting, deferred ones already left out).
+
+    These are the next days that have meetings, however far off: after a quiet
+    stretch such as the summer recess, September's first hearings show. Mirrored
+    in scrape_record.py, which fetches far enough ahead to find them."""
+    counts = Counter(dates)
+    days = sorted(counts)
+    if not days:
+        return set()
+    chosen = {days[0]}
+    if (len(days) > 1 and counts[days[0]] < UPCOMING_FULL_DAY
+            and counts[days[0]] + counts[days[1]] <= UPCOMING_MAX):
+        chosen.add(days[1])
+    return chosen
 
 
 def load_records(hearings, today=None):
@@ -521,12 +535,15 @@ def load_records(hearings, today=None):
     back to its published page where one exists.
     """
     today = today or datetime.now().strftime("%Y-%m-%d")
-    cutoff = upcoming_cutoff(today)
-    # Only the next two working days' agendas are shown; anything later waits.
-    # Deferred meetings never took place (Legistar keeps the event, with the
-    # agenda status and time both reading "Deferred"), so they are left out.
-    meetings = [mt for mt in _read_dir("meetings")
-                if mt.get("date", "") <= cutoff and mt.get("agenda_status") != "Deferred"]
+    # Upcoming meetings: the next one or two days that have meetings (see
+    # upcoming_days()); anything later waits. Deferred meetings never took
+    # place (Legistar keeps the event, with the agenda status and time both
+    # reading "Deferred"), so they are left out.
+    meetings = [mt for mt in _read_dir("meetings") if mt.get("agenda_status") != "Deferred"]
+    shown = upcoming_days([mt.get("date", "") for mt in meetings
+                           if mt.get("date", "") > today])
+    meetings = [mt for mt in meetings
+                if mt.get("date", "") <= today or mt.get("date", "") in shown]
     matters = [m for m in _read_dir("matters") if m.get("type") not in EXCLUDED_TYPES]
     for m in matters:
         if m.get("type") == "Oversight":
