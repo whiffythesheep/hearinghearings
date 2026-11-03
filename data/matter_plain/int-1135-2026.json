@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1135-2026",
- "title": "Law to tighten ban on toxic ingredients in period products",
- "summary": "This bill clarifies the city's prohibition on selling menstrual and intimate care products containing harmful ingredients like lead, mercury, formaldehyde, talc and fragrance. It requires the Health Department to maintain a public list of products containing restricted substances and to set rules on safe exposure thresholds if the state does so first. The law would take effect 90 days after enactment.",
+ "title": "Law to tighten ban on unsafe menstrual and intimate care products",
+ "summary": "This bill clarifies the city's prohibition on selling or distributing menstrual and intimate care products containing harmful ingredients such as lead, formaldehyde, talc, certain phthalates and fragrance. It requires the Department of Health and Mental Hygiene to maintain a public list of products containing these restricted substances and updates how the department sets safety thresholds. Violations carry a civil penalty of up to $250 per violation, and the law takes effect 90 days after becoming law.",
  "model": "claude-sonnet-5",
- "input_hash": "07aa245744f5e885"
+ "input_hash": "7cd65d5646ad9089"
 }

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1042-2026",
- "title": "Law to require online map of snow plowing data",
- "summary": "This bill would require the Department of Sanitation, working with the Departments of Transportation and Information Technology and Telecommunications, to equip snow plows with GPS and publish a public website tracking current and historical snow plowing operations. The website must show a map updated every 15 minutes during storms, let users filter by date, storm, borough and district, and include overlays for schools, hospitals and other critical facilities. The map and historical GPS data must be made available by October 31, 2027.",
+ "title": "Law to publish a live map of snow plow locations",
+ "summary": "This bill would require the Department of Sanitation to equip all snow plows with GPS and publish a public website showing current and historical snow plowing data. The map would update at least every 15 minutes during storms, let users filter by date, storm, borough, district and route priority, and show overlays for schools, hospitals and other critical sites. Agencies must post the map by October 31, 2027 and make underlying data available for bulk download.",
  "model": "claude-sonnet-5",
- "input_hash": "4dd72f756efb4150"
+ "input_hash": "98b57f570d41a56f"
 }

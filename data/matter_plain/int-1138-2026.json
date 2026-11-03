@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1138-2026",
- "title": "Law to add idling tickets to DOF's fleet portal",
- "summary": "This bill would require the Department of Environmental Protection to electronically send idling violation notices to the Department of Finance each week for vehicles enrolled in the DOF fleet program. The Department of Finance would then have to list these violations in its online commercial customer portal and provide instructions on how enrollees can plead guilty, pay, cure or contest them. The law would take effect 180 days after enactment.",
+ "title": "Law to add idling tickets to DOF's fleet payment system",
+ "summary": "This bill would require the Department of Environmental Protection to electronically send idling violation notices to the Department of Finance each week for vehicles enrolled in the Fleet Program. The Department of Finance would then include these violations in its online commercial customer portal, along with instructions for paying, curing or contesting them. The change would take effect 180 days after becoming law.",
  "model": "claude-sonnet-5",
- "input_hash": "d6bd6b454c43d1ba"
+ "input_hash": "e05a2e66785a834d"
 }

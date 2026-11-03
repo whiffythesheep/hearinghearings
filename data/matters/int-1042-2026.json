@@ -4,7 +4,7 @@
  "legistar_id": "8206810",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the publication and visualization of snow plowing operations data",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Ty Hankerson",
   "Mercedes Narcisse",
@@ -52,6 +52,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16107107&GUID=669E0A81-57EF-4A47-A0F1-5B8F282B6A7E"
+  },
+  {
+   "label": "Committee Report 11/2/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16109667&GUID=73C1F730-93D1-418B-83A3-CAC5C6434A8F"
   }
  ],
  "fiscal": {
@@ -77,6 +82,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16107107&GUID=669E0A81-57EF-4A47-A0F1-5B8F282B6A7E"
  },
  "history": [
+  {
+   "date": "2026-11-02",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-02",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

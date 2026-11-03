@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1119-2026",
- "title": "Law requiring a city AI emergency response plan",
- "summary": "This bill would require the Office of Technology and Innovation's Cyber Command and NYC Emergency Management to create or update a plan to detect, prepare for and respond to emergencies caused by artificial intelligence models within 120 days of the law taking effect. The plan would be reviewed and updated annually, and the agencies would submit yearly progress reports on AI emergencies and plan implementation to the Mayor and Council Speaker.",
+ "title": "Law to require a city AI emergency response plan",
+ "summary": "This bill would require the Office of Technology and Innovation's Cyber Command, with NYC Emergency Management, to create or update an emergency response plan for threats posed by artificial intelligence models to city infrastructure, operations and public health within 120 days of enactment. The plan must be submitted to the Mayor and Council Speaker, reviewed and updated annually, and accompanied by yearly progress reports on AI-related emergencies from the prior 12 months.",
  "model": "claude-sonnet-5",
- "input_hash": "b7b8dc49822d7c68"
+ "input_hash": "c5c2cf7c1a9ae4c4"
 }

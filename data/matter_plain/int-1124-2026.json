@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1124-2026",
- "title": "Law to require renewing food safety certification every 5 years",
- "summary": "This bill would require anyone who manages or supervises a food service establishment to renew their food protection course certification every 5 years instead of holding it indefinitely. It would take effect 120 days after becoming law. The measure was considered alongside other food safety bills at an October 19, 2026 Council Health Committee hearing.",
+ "title": "Law requiring food safety certificate renewal every 5 years",
+ "summary": "This bill would require anyone who manages or supervises a food service establishment to renew their food protection course certification every 5 years, rather than hold it indefinitely. It would also formally define 'food protection course certification' in the city's administrative code. The law would take effect 120 days after being signed.",
  "model": "claude-sonnet-5",
- "input_hash": "9e8084345a6b9184"
+ "input_hash": "98d800bc10264062"
 }

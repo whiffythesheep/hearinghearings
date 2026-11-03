@@ -19,7 +19,9 @@
   "Christopher Marte",
   "Shekar Krishnan",
   "Jennifer Gutiérrez",
-  "Crystal Hudson"
+  "Crystal Hudson",
+  "Pierina Ana Sanchez",
+  "Carl Wilson"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -44,6 +46,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252139&GUID=E8978315-A5E3-44D3-A01E-676274F58E27"
   },
   {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093382&GUID=CA5EA892-3D14-479A-8CD6-DBAD44A2FE42"
+  },
+  {
    "label": "Committee Report 9/22/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866697&GUID=6D746E57-FD84-4999-85AE-B5DFCEA9B57F"
@@ -62,11 +69,6 @@
    "label": "Hearing Transcript 9/22/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089200&GUID=9C16C408-2D23-4C87-834F-FA01C6A6A2F6"
-  },
-  {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093382&GUID=CA5EA892-3D14-479A-8CD6-DBAD44A2FE42"
   }
  ],
  "fiscal": {

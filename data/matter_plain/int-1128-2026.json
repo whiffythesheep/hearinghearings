@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1128-2026",
- "title": "Law to set default deadlines for city agency reports",
- "summary": "This bill would create a default due-date system for periodic reports that city agencies must submit to the Council when no specific deadline is set in law. Reports covering less than a year would be due at the end of the month following the reporting period, while reports covering a year or more would be due at the end of the second following month. It would also standardize how terms like month, quarter, half-year and fiscal year are interpreted in reporting requirements.",
+ "title": "Law to set default due dates for city reports",
+ "summary": "This bill would amend the New York City Charter to create a default schedule for when city agencies must submit periodic reports to the Council if no specific due date is set in law. Reports covering less than a year would be due at the end of the following month, and reports covering a year or more would be due at the end of the second following month. It would also standardize how terms like month, quarter, half-year and fiscal year are interpreted in reporting requirements.",
  "model": "claude-sonnet-5",
- "input_hash": "c3fd14de36514e54"
+ "input_hash": "616b0347670bd2c5"
 }

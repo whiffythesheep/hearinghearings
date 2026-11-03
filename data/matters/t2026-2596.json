@@ -4,11 +4,30 @@
  "legistar_id": "8284795",
  "type": "Oversight",
  "title": "Oversight - City’s Snow Removal and Winter Storm Response.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16109666&GUID=B85A4686-B1E8-4B93-982C-7F4EDB3BA951"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-11-02",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-02",
+   "body": "Committee on Sanitation and Solid Waste Management",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8284795&GUID=D87B7D1B-66F8-47DC-969A-7E882C579FC7"
 }

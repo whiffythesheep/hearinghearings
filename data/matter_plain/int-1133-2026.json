@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1133-2026",
- "title": "Law to raise parking fines for big companies in city programs",
- "summary": "This bill would require the Department of Finance to charge higher reduced parking fines to commercial organizations earning more than $10 million a year that participate in the city's stipulated fine and commercial abatement programs, with a sliding scale for those earning between $5 million and $10 million. Smaller participants would continue to pay a lower rate. The law would take effect 120 days after enactment.",
+ "title": "Law to raise parking fines for big companies",
+ "summary": "This bill would require the Department of Finance to charge higher-earning businesses larger reduced fines than smaller businesses in its voluntary stipulated fine and commercial abatement parking ticket programs. Companies earning over $10 million a year would pay a higher reduced rate, with a sliding scale for those earning between $5 million and $10 million, while the smallest businesses keep the lowest rate. The law would take effect 120 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "8d6d2d685e4a4d70"
+ "input_hash": "517cf9d023209abb"
 }

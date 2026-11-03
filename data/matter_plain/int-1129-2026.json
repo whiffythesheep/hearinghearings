@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1129-2026",
- "title": "Law to set rules for agencies reporting task completion",
- "summary": "This bill would amend the city charter to create a standard procedure, set by the Council speaker, for how city agencies attest that they have completed operational requirements mandated by local law. Agencies would have to transmit these attestations to the Council and publish them in the City Record within 5 days of completion. The law would take effect immediately upon passage.",
+ "title": "Law on agency reporting compliance attestations",
+ "summary": "This bill would require city agency heads, within 5 days of completing an operational requirement mandated by the Charter, Administrative Code or local law, to notify the Council and publish an attestation of compliance in the City Record, following a process set by the Council speaker. It amends section 1134 of the New York City Charter and takes effect immediately upon passage.",
  "model": "claude-sonnet-5",
- "input_hash": "25fed3694e552b9a"
+ "input_hash": "9b1d7681eb669776"
 }

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1131-2026",
- "title": "Law to require FDNY data on fire and medical response routes",
- "summary": "This bill would require the Fire Commissioner to give the Council Speaker data on fire and ambulance responses, including approximate incident locations, dispatch sites and routes taken, for the 12 months before the law takes effect. The Commissioner would have to provide this information within 120 days of the law's effective date.",
+ "title": "Law to require FDNY data on fire and ambulance responses",
+ "summary": "This bill would require the Fire Commissioner to give the Council Speaker data on routes taken by fire units and ambulances responding to emergencies over the prior 12 months. The information would include the approximate incident location and the dispatching firehouse or EMS station. The Commissioner would have to provide this data within 120 days after the law takes effect.",
  "model": "claude-sonnet-5",
- "input_hash": "be99961e2464fd6a"
+ "input_hash": "b8a44246741089fd"
 }

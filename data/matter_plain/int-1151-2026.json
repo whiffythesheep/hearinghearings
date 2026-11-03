@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1151-2026",
- "title": "Law to let 311 complainants share contact info with Council members",
- "summary": "This bill would require city agencies that receive quality of life complaints to ask complainants if they want to share their personal contact information with the Council member representing the affected area. Sharing would require the complainant's affirmative consent and would be used so the Council member can follow up on the complaint. The law would take effect 180 days after enactment.",
+ "title": "Law to let complainants share contact info with Council members",
+ "summary": "This bill would require city agencies that receive quality of life complaints to give complainants the option to consent to sharing their personal contact information with the Council member representing the affected area, so the member can follow up on the complaint. Sharing would be voluntary and not required to resolve the complaint. The law would take effect 180 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "09ddcf4d54e29ed6"
+ "input_hash": "da027e31239764c9"
 }

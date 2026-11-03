@@ -1,7 +1,7 @@
 {
  "file_number": "LU 0139-2026",
- "title": "Zoning map change for 289 Kent Avenue, Brooklyn",
- "summary": "This application would amend the zoning map to rezone property at 289 Kent Avenue in Brooklyn, replacing an M3-1 manufacturing district with M1-3A/R7X and M1-2A districts and establishing a Special Mixed Use District (MX-8). The change affects Brooklyn Community District 1 and Council District 33.",
+ "title": "Zoning map change for 289 Kent Avenue, Williamsburg",
+ "summary": "This application would rezone property at 289 Kent Avenue in Williamsburg, Brooklyn to allow an 18-story mixed-use building with 278 apartments, including 56 to 83 permanently income-restricted units, plus about 29,300 square feet of ground floor commercial space. It changes the current M3-1 manufacturing district to M1-3A/R7X and M1-2A districts and creates a Special Mixed Use District. The City Council held a public hearing on September 9, 2026 and approved the change on October 8, 2026.",
  "model": "claude-sonnet-5",
- "input_hash": "fa8d73c8f785be84"
+ "input_hash": "be24ba1b8e5fe0be"
 }

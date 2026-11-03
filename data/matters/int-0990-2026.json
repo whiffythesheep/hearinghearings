@@ -39,6 +39,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078301&GUID=3F80A491-BFAD-480F-BB31-DFB0A937E74C"
   },
   {
+   "label": "Hearing Testimony 10/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16109675&GUID=BEE2F855-CFB8-4A46-B5BB-9280395B3E34"
+  },
+  {
    "label": "Hearing Transcript 10/20/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16096302&GUID=91F9BF5E-DDD0-41C5-B47C-1A25DC63D3AC"
@@ -54,12 +59,6 @@
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Hospitals",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-10-20",
    "body": "Committee on Fire and Emergency Management",
    "action": "Laid Over by Committee",
    "result": ""
@@ -68,6 +67,12 @@
    "date": "2026-10-20",
    "body": "Committee on Hospitals",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Hospitals",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

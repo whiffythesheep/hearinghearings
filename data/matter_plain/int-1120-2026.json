@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1120-2026",
+ "title": "Law to require delivery apps to flag unsafe e-bike riding",
+ "summary": "This bill would require third-party food delivery services to use tracking technology to detect when delivery workers using e-bikes or mopeds speed, ride the wrong way or ride on sidewalks, and to notify them in real time. Workers who get three such notifications within seven days could not be assigned deliveries until they complete a road safety course approved by the Department of Transportation. Delivery services would also have to file quarterly reports on these notifications, and the law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "e391687857de1353"
+}

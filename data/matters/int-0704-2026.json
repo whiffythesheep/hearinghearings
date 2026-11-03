@@ -47,6 +47,16 @@
    "label": "Committee Report 10/20/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16078287&GUID=5016209C-AB46-446F-820C-3A0EE5ED6BBE"
+  },
+  {
+   "label": "Hearing Testimony 10/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16110065&GUID=CB94F471-8370-405C-AAE8-5A4AA3CCDA8A"
+  },
+  {
+   "label": "Appearance Cards 10/20/26",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16109504&GUID=179DAC79-4D27-42B3-BE96-E3E0849F3955"
   }
  ],
  "fiscal": {
@@ -76,12 +86,6 @@
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-10-20",
    "body": "Committee on Economic Development",
    "action": "Laid Over by Committee",
    "result": ""
@@ -90,6 +94,12 @@
    "date": "2026-10-20",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-20",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

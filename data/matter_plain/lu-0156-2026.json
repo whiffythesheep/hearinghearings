@@ -1,7 +1,7 @@
 {
  "file_number": "LU 0156-2026",
- "title": "Application for tax break on Bronx affordable housing rehab",
- "summary": "This application would grant a property tax exemption under Section 577 of the Private Housing Finance Law for buildings at four Bronx sites being rehabilitated as part of the MHANY Cluster 2.NR Rehab project. The exemption would run for up to seven years from an effective date of February 4, 2020, so long as the property remains owned by a qualifying housing development fund company and complies with its regulatory agreement with the Department of Housing Preservation and Development.",
+ "title": "Application for tax break for MHANY housing rehab, Bronx",
+ "summary": "This application would approve a real property tax exemption for a cluster of buildings at four Bronx sites being rehabilitated by a housing development fund company under the MHANY Cluster 2 program. The exemption, authorized under Section 577 of the Private Housing Finance Law, would run for up to seven years from an effective date of February 4, 2020, and could end early if the property is not operated under its regulatory agreement. It applies to land and existing buildings but not to future construction.",
  "model": "claude-sonnet-5",
- "input_hash": "2fd9fa8220c5875e"
+ "input_hash": "4367571c9f20f973"
 }

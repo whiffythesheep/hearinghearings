@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1118-2026",
- "title": "Law to set privacy and disclosure rules for AI chatbots",
- "summary": "This bill would require companies offering chatbots in New York City to secure user data, let users access their own chat logs and disclose clearly that they are talking to a bot rather than a person. It would bar chatbots from using personal data for ads or profiling without consent, prohibit claiming chatbot advice equals that of a licensed professional and require monthly safety risk assessments. Violations could bring civil penalties up to $25,000 and the law would take effect 180 days after enactment.",
+ "title": "Law to set privacy and disclosure rules for chatbots",
+ "summary": "This bill would require companies offering chatbots to secure user data, let users access their own chat logs and disclose clearly that they are talking to a chatbot, not a human. It would bar using personal data for training without consent, prohibit targeted ads and profiling from chat logs, ban selling chat logs without consent and limit data retention to 10 years. Violators would face civil penalties up to $25,000 per violation and could be sued directly by users; the law would take effect 180 days after passage.",
  "model": "claude-sonnet-5",
- "input_hash": "a501c9aee235216c"
+ "input_hash": "5f9d23b5c97e5ce2"
 }

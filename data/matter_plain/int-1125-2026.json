@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1125-2026",
- "title": "Law to create resident parking permits in East Elmhurst",
- "summary": "This bill would require the Department of Transportation to set up a residential parking permit system in East Elmhurst, Queens. The system would designate permit areas and times, reserve at least 20% of spaces for non-residents with short-term parking of at least 90 minutes, and exempt certain vehicles. It would not apply on streets zoned for commercial, office or retail use, and would take effect 120 days after becoming law.",
+ "title": "Law to create residential parking permits in East Elmhurst",
+ "summary": "This bill would require the city's Transportation Department to set up a residential parking permit system for East Elmhurst in Queens. The system must reserve at least 20% of spaces for non-residents with short-term parking of at least 90 minutes and exempt certain vehicles, while permit rules would not apply on commercially zoned streets. The law would take effect 120 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "f6929a053ad68d56"
+ "input_hash": "acf74d31f63018a3"
 }
