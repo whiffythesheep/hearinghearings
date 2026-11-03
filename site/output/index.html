@@ -211,7 +211,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 172 of 172</span>
+            <span id="hearing-count" aria-live="polite">Showing 173 of 173</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
     </header>
@@ -232,6 +232,11 @@
                     </button>
                     <div class="colheader-filter__popover" role="group" aria-label="Filter by date" hidden>
                         <button type="button" class="colheader-filter__popover-clear" hidden><span aria-hidden="true">×</span> Clear</button>
+                    
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="2026-11">
+                            <span>November 2026</span>
+                        </label>
                     
                         <label class="colheader-filter__option">
                             <input type="checkbox" value="2026-10">
@@ -529,6 +534,22 @@
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
+            </li>
+        
+            <li class="hearing-row"
+                data-committees='["Committee on Sanitation and Solid Waste Management"]'
+                data-title="City&#39;s Snow Removal and Winter Storm Response"
+                data-month="2026-11"
+                data-kind="Hearing"
+                data-slug="committee-on-sanitation-and-solid-waste-management-citys-snow-removal-and-winter-storm-response-2026-11-02"
+                data-items="T2026-2596 Oversight - City’s Snow Removal and Winter Storm Response. Int 1042-2026 Law to publish a live map of snow plow locations">
+                <a href="/hearings/committee-on-sanitation-and-solid-waste-management-citys-snow-removal-and-winter-storm-response-2026-11-02/">
+                    <time class="hearing-row__date" datetime="2026-11-02">
+                        November 2, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Sanitation and Solid Waste Management</span>
+                    <span class="hearing-row__title">City&#39;s Snow Removal and Winter Storm Response</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -3375,7 +3396,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 172;
+        var totalHearings = 173;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');
