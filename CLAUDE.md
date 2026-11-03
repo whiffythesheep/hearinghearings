@@ -389,7 +389,11 @@ Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
 
 Since 2026-11-01 the nightly job runs in **GitHub Actions**, not on the laptop:
 `.github/workflows/nightly.yml`, daily at 23:30 UTC (19:30 New York in summer), plus a manual
-"Run workflow" button with a `limit` input. GitHub is the home of the project; the laptop clone
+"Run workflow" button with a `limit` input. A second schedule, **daytime checks** every two hours on
+weekdays (14:17–22:17 UTC), runs only the new-hearings stage so a hearing goes live soon after its
+recording appears; it skips the record refresh and does not save the Legistar cache
+(`RECORD_REFRESH` in the workflow, keyed on the cron string). A check that finds nothing calls no
+API and pushes nothing. GitHub is the home of the project; the laptop clone
 is a backup and a place to work by hand. The laptop's Task Scheduler tasks
 (`HearingHearingsDiscover`, `HearingHearingsAudit`) are disabled. GitHub emails the owner when a
 run fails; a quiet night needs no attention. Public repo, so Actions minutes are free.

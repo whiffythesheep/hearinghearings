@@ -2,6 +2,12 @@
 # day's meetings), then summarise up to three new hearings and publish them
 # straight to master. Cloudflare Pages deploys every push to master.
 #
+# Daytime checks: every two hours on weekdays the same job runs without the
+# record refresh, so a hearing is published soon after its recording appears
+# instead of waiting for the night. Claude is only called for new hearings, so
+# a check that finds nothing costs nothing; the ~650-request record refresh
+# stays nightly.
+#
 # Replaces the laptop's Task Scheduler job (run_discover.ps1). GitHub emails
 # the repo owner when a run fails; a quiet night needs no attention.
 #
@@ -16,6 +22,10 @@ name: Nightly
 on:
   schedule:
     - cron: "30 23 * * *"   # 19:30 New York in summer, 18:30 in winter
+    # Daytime check for new recordings, weekdays at 14:17-22:17 UTC
+    # (10:17-18:17 New York in summer, 9:17-17:17 in winter). Keep the
+    # string in step with the RECORD_REFRESH condition below.
+    - cron: "17 14-22/2 * * 1-5"
   workflow_dispatch:
     inputs:
       limit:
@@ -39,6 +49,8 @@ jobs:
       PYTHONIOENCODING: utf-8
       GH_TOKEN: ${{ github.token }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      # Daytime checks skip the record refresh and leave the cache alone.
+      RECORD_REFRESH: ${{ github.event.schedule != '17 14-22/2 * * 1-5' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -75,13 +87,14 @@ jobs:
           git config user.email "whiffythesheep@users.noreply.github.com"
 
       - name: Record refresh
+        if: env.RECORD_REFRESH == 'true'
         run: python refresh_record_nightly.py
 
       - name: New hearings
         run: python discover_pending.py --publish --limit ${{ inputs.limit || '3' }}
 
       - name: Save Legistar cache
-        if: always()
+        if: always() && env.RECORD_REFRESH == 'true'
         uses: actions/cache/save@v4
         with:
           path: |
