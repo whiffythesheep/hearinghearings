@@ -1,7 +1,7 @@
 {
  "file_number": "Res 0681-2026",
- "title": "Rezoning map change for Park Avenue, Brooklyn",
- "summary": "This application would change the zoning map to replace manufacturing districts with mixed manufacturing-residential districts along Park Avenue in Brooklyn's Community District 3. It would also establish a Special Mixed Use District to allow residential and commercial uses alongside manufacturing. The change affects properties in Council District 33.",
+ "title": "Zoning map change for Park Avenue rezoning, Bedford-Stuyvesant",
+ "summary": "This resolution approves a City Planning Commission decision changing the zoning map along Park Avenue between Bedford Avenue and Warsoff Place and Sandford Streets in Bedford-Stuyvesant, Brooklyn. It would allow ten new buildings of five to 11 stories with 391 residential units, including 101 permanently income-restricted units, along with commercial space and private school space for over 2,500 students. It is linked to a separate zoning text amendment establishing a Mandatory Inclusionary Housing area.",
  "model": "claude-sonnet-5",
- "input_hash": "c5929eb9b134c363"
+ "input_hash": "e86d9470c8e0465c"
 }

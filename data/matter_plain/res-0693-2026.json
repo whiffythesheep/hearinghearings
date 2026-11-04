@@ -1,7 +1,7 @@
 {
  "file_number": "Res 0693-2026",
  "title": "Resolution urging Albany to pause new data center permits",
- "summary": "This resolution calls on the state legislature and governor to pass S.9144/A.10141, which would impose at least a three-year moratorium on new data center permits. The bill would also require the Department of Environmental Conservation to study data centers' environmental impact and require regulators to ensure data centers, not ratepayers, pay for added electricity and gas costs. It cites concerns about grid strain, pollution and rising utility rates in New York City and State.",
+ "summary": "This resolution calls on the state legislature to pass, and the governor to sign, S.9144/A.10141, which would impose at least a three-year moratorium on permits for new data centers in New York. The bill would also require the Department of Environmental Conservation to study data centers' environmental impact and require the Public Service Commission to ensure data centers, not ratepayers, bear the added electricity and gas costs they cause. It cites concerns about strained power grids, pollution and rising utility rates in New York City.",
  "model": "claude-sonnet-5",
- "input_hash": "be26bc1a258f9a0d"
+ "input_hash": "ca73e0f5f3f3e3ea"
 }

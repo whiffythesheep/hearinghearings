@@ -1,7 +1,7 @@
 {
  "file_number": "Res 0659-2026",
- "title": "Rezoning at 815 Hutchinson River Parkway, Bronx",
- "summary": "This land use application would amend the zoning map to change 815 Hutchinson River Parkway in the Bronx from an M1-2 manufacturing district to a C8-3 commercial district. The site is in Community District 10 and Council District 13. The applicant is MD Hutch Owner LLC.",
+ "title": "Zoning map change for 815 Hutchinson River Parkway, Bronx",
+ "summary": "The resolution approves changing the zoning at 815 Hutchinson River Parkway in the Bronx from a manufacturing district to a commercial district. This would let an existing shopping center host individual stores larger than 10,000 square feet. The City Planning Commission found no significant environmental impact from the change.",
  "model": "claude-sonnet-5",
- "input_hash": "d97764e44c66dbe7"
+ "input_hash": "0ea5dc578b7fd0d2"
 }

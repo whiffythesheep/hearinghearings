@@ -1,7 +1,7 @@
 {
  "file_number": "Res 0671-2026",
- "title": "Rezoning for Sojourner Truth-Mapes site, Bronx",
- "summary": "This application would amend the zoning map in Bronx Community District 6 by removing a commercial overlay, changing an R7-1 district to R8, and establishing a new commercial overlay within the proposed R8 district. The change affects the Sojourner Truth-Mapes site near Crotona Parkway. It is submitted by 2136 Crotona Parkway Housing Development Fund Corporation.",
+ "title": "Rezoning map change for Mapes Avenue site, Bronx",
+ "summary": "This resolution approves a City Planning Commission decision to change the zoning map for a site near East 182nd Street and Mapes Avenue in the Crotona section of the Bronx, upzoning it from R7-1 to R8 with a new C2-4 commercial overlay. The change would allow new buildings of up to 16 stories, including a residential tower at 2136 Crotona Parkway and a mixed-use building with ground-floor community space. It is tied to a related text amendment creating a Mandatory Inclusionary Housing area.",
  "model": "claude-sonnet-5",
- "input_hash": "94ea4862c62b9688"
+ "input_hash": "63a670a5d1851a5b"
 }
