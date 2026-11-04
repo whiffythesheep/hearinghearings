@@ -1,0 +1,1270 @@
+---
+committee: "Committee on Health"
+committee_slug: committee-on-health
+title: "Food Service Establishment Inspections in New York City"
+date: 2026-10-19
+slug: committee-on-health-food-service-establishment-inspections-in-new-york-city-2026-10-19
+duration: "2hrs 2m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261019-100712.mp4"
+viebit_hash: "44pxbfrttjHEyZ5a"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452152&GUID=88AFDE9D-F71C-4163-AD6A-7F25AAA30F37&Search="
+chairs: "Lynn C. Schulman"
+members: "Joann Ariola, Carmen N. De La Rosa, Harvey D. Epstein, Simcha Felder, James F. Gennaro, Christopher Marte, Mercedes Narcisse, Carl Wilson"
+---
+
+Summary
+
+Meeting Overview
+
+The Committee on Health held an oversight hearing on food service establishment inspections in New York City, with Deputy Commissioner Corinne Schiff leading the DOHMH testimony. The hearing covered seven bills and one resolution spanning restaurant inspection documentation, food protection certification, children's meal nutrition standards, tobacco bar licensing, and Legionella reporting requirements.
+
+The most substantive policy concern raised was the persistent gap in inspection coverage. Inspection rates fell from 99.5% of restaurants in FY2019 to around 70% in FY2025 and FY2026, a consequence of COVID-era staffing losses that the department has not yet reversed. DOHMH acknowledged this directly and attributed it primarily to difficulty recruiting public health sanitary inspectors, noting the job requires a science degree and offers no remote work option. The department emphasized that inspection volume is rising, from roughly 400 monthly inspections in late 2023 to nearly 2,700 by August 2026, and that a new training cohort is in progress. The department maintained that funding is not the constraint and appealed to Council Members to send job candidates.
+
+On the specific legislation, DOHMH was broadly supportive of the intent of most bills while raising practical objections to implementation. On Int 908, the digital food protection certificate database bill, DOHMH noted it already attempts database lookups but records are only kept for 10 years, creating gaps for older certifications. On Int 189, requiring photographs or video of violations, DOHMH argued this would slow inspections and require significant data storage, and questioned whether it adds meaningful evidentiary value given that inspectors already produce detailed sworn written observations. On Int 1124, requiring five-year recertification, DOHMH was supportive in principle but raised logistical questions about staggered renewal timing. On Int 1094, lowering the Legionella reporting threshold to 10 colony-forming units per milliliter, DOHMH said its corrective action thresholds already align with that level but that the specific reporting requirement needs further discussion, particularly around triage capacity. On the tobacco bar relocation bill, Int 947, DOHMH was clearly opposed, arguing it undermines the attrition logic of the Smoke-Free Air Act, with only five tobacco bars currently operating citywide. The children's meal nutrition bill, Proposed Int 405-A, received general support, with DOHMH noting chain restaurant calorie disclosure requirements already make enforcement feasible.
+
+Committee members raised several practical concerns beyond the bills themselves. CM Felder asked about the gap between what inspectors see and actual kitchen conditions during peak service, essentially pointing out that restaurants can game unannounced inspections with an alarm at the host stand, which DOHMH acknowledged happens. CM Epstein raised questions about whether takeout restaurants generate disproportionate health complaints. CM De La Rosa pushed on whether food safety exam materials are available in languages other than English, an important question given the demographics of the restaurant industry, and received an inconclusive answer. CM Narcisse asked about how long grade-pending cards remain posted while OATH hearings are contested, a question DOHMH appropriately deflected to OATH but which points to a real enforcement gap. Chair Schulman pressed throughout on staffing timelines, inspection frequency for non-A restaurants, and the interplay between climate change, warmer summers, and increasing Legionella risk. The hearing closed with Chair Schulman offering an unusually explicit compliment to DOHMH for being well-prepared, which was notably out of character for a committee that has often been frustrated with the department.
+
+Numbers
+
+- In FY2019, 99.5% of New York City restaurants received an initial sanitary inspection.
+- In FY2025, 69.7% of restaurants received an initial sanitary inspection, a drop of approximately 30 percentage points from FY2019.
+- In FY2026, approximately 71% of restaurants were inspected, roughly the same as FY2025 and below the 100% target.
+- In FY2026, approximately 800 restaurants were not inspected at all.
+- Just under 500 restaurants had gone two or more years without an inspection as of FY2026.
+- Average monthly inspections rose from approximately 400 in the final quarter of FY2023 to nearly 2,200 by June 2024, reaching just under 2,700 by August 2026.
+- In FY2026, DOHMH conducted just over 16,000 initial inspections, almost 6,000 re-inspections, and just over 250 compliance inspections.
+- In FY2025, DOHMH conducted approximately 15,000 initial inspections.
+- Approximately 90% of New York City restaurants currently post an A grade, up from 85% when restaurant grading launched in July 2010.
+- Just over half of restaurants earn an A grade on the initial inspection; the remainder have a second opportunity at re-inspection.
+- DOHMH regulates approximately 40,000 food service establishments in total, of which approximately 30,000 are restaurants.
+- DOHMH trains approximately 35,000 restaurant supervisors in food protection each year.
+- The in-person food protection course costs $114; the online course is free; the review course and exam cost $24.
+- DOHMH issued approximately 2,800 violations in FY2026 for failure to have a certified food protection certificate holder on site.
+- DOHMH issued just over 870 grade card posting violations in FY2026.
+- The overall budget for DOHMH's food safety bureau is approximately $25 million, of which approximately $20 million is personnel costs.
+- DOHMH spent a few hundred thousand dollars on inspector overtime in FY2025 and FY2026 combined.
+- Facility and equipment maintenance and pest presence and prevention account for nearly half of all restaurant violations citywide.
+- Approximately 5% of children aged 2 to 13 consumed no fruits or vegetables the day before being surveyed; for public high school students, that figure is 10%.
+- New York City's smoking rate has been reduced by over 50% since 2002.
+- There are currently five operating tobacco bars in New York City, down from eight at the time the Smoke-Free Air Act was enacted.
+- The Legionella reporting threshold proposed in Int 1094 is 10 colony-forming units per milliliter; the current mandatory notification threshold is 1,000 colony-forming units per milliliter.
+
+Action Points
+
+- DOHMH to provide Council Members with information about the restaurant inspection ombudsman office so it can be shared with local businesses.
+- DOHMH to send the Committee a full list of food service establishment types regulated beyond restaurants.
+- DOHMH to provide data on the number of inspections broken down by type, including complaint-driven inspections, for recent fiscal years.
+- DOHMH to provide a job description for the public health sanitary inspector role for distribution by Committee members.
+- DOHMH to follow up with the Committee on how many times it has exercised its authority to prevent a restaurant owner from continuing to operate due to persistent non-compliance, and how often that tool has been used.
+- DOHMH to check whether food protection course exams are offered in languages other than English and report back to the Committee.
+- DOHMH to investigate whether takeout restaurants generate a disproportionate share of health complaints and violation rates compared to sit-down restaurants and report findings to CM Epstein.
+- DOHMH to follow up with CM Narcisse on how long newly opened restaurants typically wait before receiving their first inspection.
+- DOHMH to report to the Committee on how much revenue the department generates from food protection certification fees.
+- DOHMH to provide data on trends in violations dismissed, reduced, or resolved due to insufficient documentation or conflicting inspection accounts.
+- DOHMH to follow up on the specific restaurant in Chair Schulman's district that is not posting its grade card.
+- DOHMH to work with Committee counsel on revisions to Int 908 addressing the 10-year records retention limitation and other operational concerns with the digital certificate database.
+- DOHMH to continue discussions with the sponsor of Int 1094 on triage procedures and operational implications of lowering the Legionella reporting threshold to 10 colony-forming units per milliliter.
+- DOHMH to discuss potential amendments to Int 947 on tobacco bar relocation with the sponsor and Committee, with public health protections as a primary constraint.
+- DOHMH to share with the Committee its thinking on whether recertification under Int 1124 could be tied to major health code updates rather than a fixed five-year cycle.
+- DOHMH to provide the Committee with a hiring target number and expected timeline for reaching full staffing of public health sanitary inspectors.
+
+## Full Transcript
+
+**(00:00:20)**
+
+
+
+Good morning and welcome to today's New York City Council hearing for the Committee on Health. Ladies and gentlemen, at this time we ask you to silence all electronic devices. If you would like to submit testimony, please see one of the Sergeant-at-Arms officers. Moving forward, at no point in time shall anyone approach the front dais without the Chair's permission. Good morning everyone and welcome to today's hearing of the New York City Council Committee on Health. I am CM Lynn Schulman, Chair of the Committee. My colleagues and the representatives from the Department of Health and Mental Hygiene, thank you for joining us today to discuss food service establishment inspections in New York City. We've been joined today by CM De La Rosa, Wilson, and Ariola on Zoom. At its core, public health is about protecting New Yorkers and their everyday lives. It means making sure the food we eat is safe, that the businesses serving our communities meet clear and consistent standards, and that New Yorkers have access to information that supports their health and well-being. Today the Committee will examine DOHMH's oversight of food service establishment inspections and consider a range of legislation addressing food safety, restaurant accountability, tobacco regulation, disease prevention, and children's nutrition. The Council's analysis of DOHMH data and preparation for this hearing highlights the current challenges facing the City's restaurant inspection program.
+
+In fiscal year 2019, 99.5% of restaurants received an initial sanitary inspection. By fiscal year 2025, that figure had fallen to 69.7%, and almost 30% drop. The COVID-19 pandemic seriously impacted inspection rates and staffing levels. The public health sanitary inspector title given to restaurant inspectors. Recently there are encouraging signs of increased inspection activity. The average number of monthly inspections rose from approximately 400 in the final quarter of 2023 to nearly 2,200 by June 2024, reaching just under 2,700 by August 2026. However, the Department's entry-level public health sanitary inspector workforce has not returned to its pre-COVID levels, and inspection trends reflect this reality. These data raise questions about staffing, inspection capacity, and the Department's ability to provide consistent oversight across the City's food service establishments. The Council's analysis also found that facility and equipment maintenance and pest presence and prevention account for nearly half of all violations across inspections. These findings underscore why routine inspections, accurate documentation, and timely corrective action are essential to protecting New Yorkers from unsafe and unsanitary conditions. We want to understand how the Department is addressing inspection capacity, follow-up visits, and ensuring that violations are identified. We look forward to the Administration's engagement with these topics.
+
+In addition, the Committee will consider 600-plus introductions and one resolution. These three proposals today focus on restaurant operations, food safety, and accountability. Proposed Intro 189-A, sponsored by CM Farías, would require photographs or video documenting each cited violation when a restaurant inspection results in 14 or more points. Intro 908, sponsored by CM Felder and Gennaro, would allow verifying food protection certificates digitally and prevent a restaurant from being penalized solely because the physical certificate is not present, provided the required certification can be verified as valid digitally. Intro 1124, sponsored by myself, would require individuals managing or supervising food service establishments to renew their food protection certification every five years. We will also hear Proposed Intro 405-A and Intro 947, both sponsored by CM Riley. Healthy eating habits begin early, and the food and beverages children consume can have lasting implications for their health and development. Proposed Intro 405 would establish nutrition standards for children's meals served at chain restaurants. Intro 947 concerns tobacco bars. The bill would allow a qualifying tobacco bar experiencing financial hardship to seek a one-time transfer of its registration and a one-time transfer of its tobacco retail dealer license to a new location, subject to specified conditions.
+
+We look forward to hearing the Department's perspective on the public health implications of the proposal and how the existing registration and licensing framework for tobacco bars and tobacco retail dealers operates. As a follow-up to our hearing on Legionnaires' disease this past year, we will also consider my legislation, Introduction 1094, requiring building owners to report Legionella test results of at least 10 colony-forming units per milliliter to DOHMH. Timely reporting of test results can be a critical component of identifying potential health risks and giving DOHMH access to more testing data, which could help the agency take a more proactive approach. The metric I am proposing is based on a policy used in jurisdictions in Canada, and has been a successful tool in proactively addressing Legionnaires' disease. We want to understand how the proposed requirement would fit into DOHMH's existing framework, and whether the agency sees a benefit to changing this reporting threshold. Finally, we will hear Resolution 152, sponsored by CM Stevens, supporting state legislation addressing certain food additives, as well as color additives in foods sold in schools. In closing, I want to thank my colleagues for bringing these proposals forward. I want to thank Deputy Commissioner Corine Schiff and DOHMH for appearing before the Committee today.
+
+I look forward to a substantive discussion about how we can strengthen restaurant inspection and enforcement practices and promote food safety, which we all know is really important these days. I also want to thank the Department for being on top of this issue, addressing emerging foodborne illness concerns and how we can collaborate to ensure that inspection rates rebound. Together we can work to improve these processes for restaurants, for the inspectors, and for the public. With that, I would like to read a brief statement by CM Stevens on her legislation.
+
+**(00:00:52)**
+
+
+
+REPRESENTATIVES FROM THE DEPARTMENT OF HEALTH AND MENTAL HYGIENE FOR JOINING US
+
+**(00:00:55)**
+
+
+
+TODAY TO DISCUSS FOOD SERVICE ESTABLISHMENT INSPECTIONS IN NEW YORK CITY WE'VE BEEN JOINED TODAY BY COUNCIL MEMBERS MARTY A DE LA ROSA WILSON AND ARRIOLA ON ZOOM AT ITS CORE PUBLIC HEALTH IS ABOUT PROTECTING NEW YORK ER'S AND THEIR EVERYDAY LIVES IT MEANS MAKING SURE THE FOOD WE EAT IS SAFE THAT THE BUSINESS IS SERVING OUR COMMUNITIES MADE CLEAR AND CONSISTENT STANDARDS AND THAT NEW YORK ER'S HAVE ACCESS T OINFORMATION THAT SUPPORTS THEIR HEALTH AND WELL BEING TODAY THE COMMITTEE WILL EXAMINE DO MH IS OVERSIGHT OF FOOD SERVICE ESTABLISHMENT INSPECTIONS AND CONSIDER A RANGE OF LEGISLATION ADDRESSING FOOD SAFETY RESTAURANT ACCOUNTABILITY TOBACCO REGULATION DISEASE PREVENTION AND CHILDREN'S NUTRITION THE COUNCIL'S ANALYSIS OF DOE MH DATA AND PREPARATION FOR THIS HEARING HIGHLIGHTS THE CURRENT CHALLENGES FACING THE CITY'S RESTAURANT INSPECTION PROGRAM AND FISTS 2019 99.5% OF RESTAURANTS RECEIVED AN INITIAL SANITARY INSPECTION BY FISCAL YEAR 20 25 THAT FIGURE HAD FALLEN TO 69.7% AND ALMOST 30% DROP THE COVID-19 PANDEMIC SERIOUSLY IMPACTED INSPECTION RATES AND STAFFING LEVELS THE PUBLIC PUBLIC HEALTH SANITARY INNS THE TITLE GIVEN T ORESTAURANT INSPECTORS RECENTLY THERE ARE ENCOURAGING SIGNS OF INCREASED INSPECTION ACTIVITY THE AVERAGE NUMBER OF MONTHLY INSPECTIONS ROSE FROM APPROXIMATELY 400 IN THE FINAL QUARTER OF 20 23 TO NEARLY 2200 BY JUNE 2024 REACHING JUST UNDER 2700 BY AUGUST 2026 HOWEVER THE DEPARTMENT'S ENTRY LEVEL PUBLIC HEALTH SANITARY IN WORKFORCE HAS NOT RETURNED TO ITS PRE COVID LEVELS AND INSPECTION TRENDS REFLECT THIS REALITY THESE DATA RAISE QUESTIONS ABOUT STAFFING INSPECTION CAPACITY AND THE DEPARTMENT'S ABILITY TO PROVIDE CONSISTENT OVERSIGHT ACROSS THE CITY'S FOOD SERVICE ESTABLISHMENTS THE COUNCIL'S ANALYSIS ALSO FOUND THAT FACILITY AND EQUIPMENT MAINTENANCE AND PEST PRESENCE AND PREVENTION ACCOUNT FOR NEARLY HALF OF ALL VIOLATIONS ACROSS INSPECTIONS THESE FINDINGS UNDERSCORE WHY ROUTINE INSPECTIONS ACCURATE DOCUMENTATION AND TIMELY CORRECTIVE ACTION ARE ESSENTIAL TO PROTECTING NEW YORKERS FROM UNSAFE AND UNSANITARY CONDITIONS WE WANT TO UNDERSTAND HOW IS ADDRESSING INSPECTION CAPACITY D FOLLOW UP VISITS AND ENSURING THAT VIOLATIONS ARE IDENTIFIED E LOOK FORWARD TO Z'S ENGAGEMENT WITH THESE TOPICS IN ADDITION THE COMMITTEE WILL CONSIDER 600 DUCK SHINS AND ONE RESOLUTION THESE THREE PROPOSALS TODAY FOCUS ON RESTAURANT OPERATIONS FOOD SAFETY AND ACCOUNTABILITY PROPOSED INTRO HUNDRED 89 A SPONSORED BY COUNCIL MEMBER FOR FARIS WOULD REQUIRE PHOTOGRAPHS OF VIDEO DOCUMENTING EACH SIGHTED VIOLATION WHEN A RESTAURANT INSPECTION RESULTS IN 14 OR MORE POINTS INTRO 908 SPONSORED BY COUNCIL MEMBERS FOR VERIFYING FOOD PROTECTION CERTIFICATES AND PREVENT A RESTAURANT FROM BEING PENALIZED SOLELY BECAUSE THE PHYSICAL CERTIFICATE IS NOT PRESENT PROVIDED THE REQUIRED CERTIFICATION CAN BE VERIFIED AS VALID DIGITALLY AND INTRO 11 24 SPONSORED BY MYSELF WOULD REQUIRE INDIVIDUALS MANAGING OR SUPERVISING FOOD SERVICE ESTABLISHMENTS TO RENEW THEIR FOOD PROTECTION COSTS CERTIFICATION EVERY FIV EYEARS WE WILL ALSO HEAR PROPOSED INTRO 405 A AND INTRO 947 BOTH SPONSORED BY COUNCIL MEMBER RILEY HEALTHY EATING HABITS BEGIN EARLY AND THE FOOD AND BEVERAGES CHILDREN CONSUME CAN HAVE LASTING IMPLICATIONS FOR THEIR HEALTH AND DEVELOPMENT .>>PROPOSED INTRO 405 WOULD ESTABLISH NUTRITION STANDARDS FOR CHILDREN MEALS SERVED A CHAIN RESTAURANTS INTRO 947 CONCERNS TOBACCO BOYS THE BILL WOULD ALLOW A QUALIFYING TOBACCO BAR EXPERIENCING FINANCIAL HARDSHIP TO SEEK A ONE TIME TRANSFER OF ITS REGISTRATION AND A ONE TIM ETRANSFER OF ITS TOBACCO RETAIL DEALER LICENSE TO A NEW LOCATION SUBJECT TO SPECIFIED CONDITIONS WE LOOK FORWARD T OHEARING DO PERSPECTIVE ON THE THE PUBLIC HEALTH IMPLICATIONS OF THE PROPOSAL AND HOW THE EXISTING REGISTRATION AND LICENSING FRAMEWORK FOR TOBACCO BARS AND TOBACCO RETAIL DEALERS OPERATES AS A FOLLOW UP TO OUR HEARING ON LEGIONNAIRE'S DISEASE THIS PAST WE WILL ALSO CONSIDER MY LEGISLATION INTRODUCTION 109 4REQUIRING BUILDING OWNERS T OREPORT LEGIONELLA TEST RESULTS OF AT LEAST 10 COLONY FORMING UNITS PER MILLILITER TO DO MH TIMELY REPORTING OF TEST RESULTS CAN BE A CRITICAL COMPONENT OF IDENTIFYING POTENTIAL HEALTH RISKS AND GIVING DUE DO H M H ACCESS T OMORE TESTING DATA COULD HELP THE AGENCY TAKE A MORE PROACTIVE APPROACH THE METRIC I AM PROPOSING THIS THIS BILL WAS IN JURISDICTIONS IN CANADA AND HAS BEEN A SUCCESSFUL TOOL AND PROACTIVELY ADDRESSING LEGIONNAIRE'S DISEASE WE WANT TO UNDERSTAND HOW THE PROPOSED REQUIREMENT WOULD FIT INTO MH IS EXISTING AND WHETHER THE AGENCY SEES A BENEFIT TO CHANGING THIS REPORTING THRESHOLD FINALLY WE WILL HEAR RESOLUTION 152 SPONSORED BY COUNCIL STEVENS SUPPORTING STATE LEGISLATION ADDRESSING CERTAIN FOOD ADDITIVES AS WELL AS COLOR ADDITIVES AND FOODS SETTLED IN.
+
+>SCHOOLS AND CLOSING I WANT TO THANK MY COLLEAGUES FOR BRINGING THESE PROPOSALS FORWARD I WANT TO THANK DEPUTY COMMISSIONER CORINE SCHIFF AND D O H M H FOR APPEARING BEFORE THE COMMITTEE TODAY I LOOK FORWARD TO A SUBSTANTIVE DISCUSSION ABOUT HOW WE CAN STRENGTHEN RESTAURANT INSPECTION AND ENFORCEMENT PRACTICES PROMOTE FOOD SAFETY WHICH WE ALL KNOW IS REALLY IMPORTANT THESE DAYS ADDRESS AND I WANT TO THANK THE H WHO'VE BEEN REALLY ON TOP OF THIS ISSUE SO ADDRESSING EMERGING FOODBORNE ILLNESS CONCERNS AND HOW WE CAN COLLABORATE TO ENSURE THAT AN RATES REBOUND TOGETHER WE CAN WORK TO IMPROVE THESE PROCESSES FOR RESTAURANTS FOR THE INSPECTORS AND FOR THE PUBLIC WITH THAT I WOULD LIKE TO READ A BRIEF STATEMENT BY COUNCIL MEMBER SEND TEND TO SO SO ON HER LEGISLATION
+
+**(00:06:55)**
+
+
+
+I would like to thank CM Shulman for including Intro 908 on today's agenda, and the legislative staff, especially Christopher Pepe, for their work drafting this bill. Intro 908 would close a bureaucratic loophole that is hurting beloved restaurants across our City. Currently, any restaurant that is open for business must have at least one person on site who holds a food protection certificate. This is an important regulation that helps keep restaurants safe for patrons. However, when DOHMH conducts an inspection, the certified worker must have a physical copy of the certificate on hand. Otherwise, the restaurant could receive a serious violation and a hefty fine, despite DOHMH presumably having a database that shows who is certified. So if a worker forgot to bring this certificate to work that day, the restaurant is penalized, despite the fact that this worker is a duly certified food protection worker. This legislation is very simple. It would require DOHMH to create and maintain a digital database of food protection certificate holders, and to consult that database during inspections if a worker does not have their certificate on hand. This would not eliminate DOHMH's ability to enforce the underlying rule requiring certification in the first place, and does not change food safety requirements. It simply recognizes that we are in an increasingly digital world, and that checking a database is often a more efficient system than requiring a worker to remember a physical card every day.
+
+Passing this legislation would demonstrate to the hospitality industry that the City supports them and wants
+
+**(00:08:23)**
+
+
+
+to make it easier for them to continue serving our neighborhoods for years to come. Now I would like to read a brief statement by CM Riley on his bills. Thank you, Chair Schulman, and the Committee for hearing two important pieces of legislation focused on the health of New Yorkers and in supporting our local businesses. First, Intro 504-A, the Healthy Kids Meals bill. As a father of three, I know firsthand how challenging it can be to make healthy choices for our children when dining out. Families should not have to sacrifice their children's health for convenience, and healthy options should not depend on where a family lives or chooses to eat. This legislation establishes stronger nutrition standards for children's meals, including fruits, vegetables, healthier beverage options, and specific nutritional requirements for chain restaurants. The goal is simple: make healthier meals the standard, encourage good habits early, and give families greater confidence in the choices available to their children. Next, Intro 947 addresses the operation of tobacco bars in New York City. We recognize that longstanding businesses can face hardships that affect their ability to remain operational. This legislation creates a pathway for eligible tobacco bars to relocate and resume operations, subject to demonstrated financial hardship, Department of Health approval, and applicable requirements. It's about balancing economic opportunity with responsible oversight and the interests of our communities.
+
+I look forward to today's discussion and thank my colleagues, the legislative drafting team, and all stakeholders who have contributed to advancing these bills. And now I will ask our
+
+**(00:09:57)**
+
+
+
+Counsel to administer the oath: the truth, the whole truth, and nothing but the truth, before this Committee and to respond honestly to Council Member questions. Yes, you may proceed with your testimony. Before we do that, I just want to acknowledge we've been joined by CM Epstein. Good morning, Chair Schulman and members of the Committee. My name is Corinne Schiff, and I'm the Deputy Commissioner for Environmental Health at the New York City Health Department. I'm joined today by Kim Kessler, Assistant Commissioner for the Bureau of Chronic Disease Prevention, by Dr. Archuleta Lonnie, Director of Tobacco Policy and Programs, and by Vasu Dha Reddy, Deputy Director of the Bureau of Communicable Diseases. On behalf of Commissioner Martin, thank you for the opportunity to testify today about our programs to promote food safety, address foodborne illness outbreaks, control tobacco, advance nutrition efforts in restaurants, and regulate the operation of the City's cooling towers. These efforts protect all New Yorkers, including two promote the highest food safety standards in New York City restaurants, respond to foodborne illness outbreaks, reduce tobacco-related disease and death, encourage consumption of healthy foods, and promote compliance with the local law governing cooling towers to protect diners.
+
+The Department issues permits, conducts outreach and education for restaurant owners, trains restaurant supervisors in food protection, conducts inspections, and issues inspection grades so New Yorkers and the millions who visit our City can make informed decisions about where to eat out. About 90% of restaurants are currently posting an A grade. The Department investigates complaints of food poisoning and conducts foodborne illness investigations, often working with public health experts across the country, as in the recent nationwide cyclospora outbreak. The Department implements a wide variety of measures to protect New Yorkers from the harms of smoking. New York City has long been a leader in tobacco control. The City's landmark Smoke-Free Air Act dramatically limited indoor smoking, making New York City a model for jurisdictions around the world, protecting New Yorkers from secondhand smoke and normalizing a smoke-free culture. The SFAA, along with other strategies, has enabled the City to reduce the smoking rate by over 50% since 2002. But smoking remains a leading cause of death and continues to be a public health priority. The Department has continuously strengthened the City's tobacco retail and secondhand smoke policies. Those efforts have paid off in expanded life expectancy and a reduction in tobacco-related diseases and deaths.
+
+Most recently, Chair Schulman and the City Council codified Healthy NYC, the Department's plan for improving life expectancy and creating a healthier City for all. Preventing tobacco use and reducing smoking among New Yorkers is critical to reaching the chronic disease goals set under Healthy NYC and increasing life expectancy. The Health Department also released a multi-agency strategy that addresses the root causes of chronic diseases, which are a leading cause of death in New York City, taking an especially high toll on Black New Yorkers and New Yorkers in communities experiencing disinvestment. Finally, as discussed at a hearing last month, the Department promotes compliance with the City's nation-leading requirements dictating the operation of cooling towers. We issued detailed regulations to implement the local law protections, conduct outreach, education, and training, and inspect cooling tower systems to monitor compliance, issuing summonses subject to civil penalties when owners fail to comply. We also respond to community clusters of Legionnaires' disease, rapidly testing cooling towers and requiring owners to fully clean and disinfect to cut off the Legionella bacteria likely to be causing the cluster.
+
+**(00:13:54)**
+
+
+
+Turning to the legislation under consideration today, Introduction 908 would require the Department to maintain a database of food protection certificate holders and check it to confirm there is an FPC holder present at the restaurant before taking enforcement action. Having a supervisor trained in food protection on site whenever the restaurant is operating is perhaps our most important food safety requirement and critical to protecting diners. Each year the Department trains about 35,000 restaurant supervisors in food protection at our Health Academy, awarding a wallet-size certification card with the supervisor's photograph to those who complete the course and pass the exam. Checking that an FPC holder is at the restaurant by reviewing the supervisor's card is a key part of every food safety inspection. We understand that on occasion the restaurant's trained supervisor may not have their FPC card with them, leaving them unable to show that they have the required training. When that happens, the inspector attempts to contact the Health Academy for a database check to confirm the person is an FPC holder, but that process is imperfect, including because the records are deleted after 10 years, so older certificates are unavailable. The Department supports the intent of the legislation but is concerned that, as drafted, the bill would require the Department to maintain decades of electronic records and poses other operational hurdles.
+
+We appreciate the discussion we've had with the sponsor and look forward to discussing potential approaches with Counsel.
+
+**(00:15:29)**
+
+
+
+Next, Introduction 1124 would require the FPC holder to renew their certification every five years. We support the intent to enhance food safety protections and would like to work with the Council on the best ways to meet this objective. Introduction 189 would require the Department to include a photograph or video showing violations identified at the restaurant inspection. Restaurant inspectors review their observations with the restaurant operator throughout the inspection, including providing information about avoiding or correcting conditions that do not meet food safety requirements. They also document those findings in an inspection report and any summons that may be issued, and provide those to the restaurant operator at the end of the inspection. Inspectors
+
+**(00:16:13)**
+
+
+
+are New Yorkers' eyes in the kitchen. What they're finding is summarized into the letter grade posted in the restaurant window, and diners who want inspection details can check our inspection website. EATS results are available on Open Data. The Department is concerned that collecting photographs and video of the inspection would require a longer inspection, especially for a restaurant failing to meet requirements, and requiring photographic or video evidence of pest conditions, hygiene practices, food not kept at safe temperatures, and more would require significant data resources to maintain millions of photographs and hours of video, to transmit to, post on EATS, and store to meet record retention requirements. We look forward to discussing the bill with Counsel.
+
+**(00:17:01)**
+
+
+
+Introduction 947 would allow current tobacco bars to move and allow tobacco bars that had already closed to reopen, including in a new location. The city's landmark Smoke-Free Air Act, passed by City Council in 2001, was enacted to end indoor tobacco smoking, prohibit the opening of new tobacco and cigar bars, and only allow existing bars to continue operating in their then-existing locations under the permits they already had, to enable the eventual attrition of these establishments. The Smoke-Free Air Act ended the issuance of new permits for tobacco bars by the Health Department. Allowing tobacco bars to relocate and resume operations after previously closing undermines the premise of the law. This rollback of our longstanding joint commitment to reducing secondhand smoke exposure would put the decades-long progress the Council and Department have made to reduce tobacco-related health harms at risk. Secondhand smoke exposure is not limited to the premises of the establishment. This is especially concerning because the decline in smoking in the city has now stalled, and we have seen widespread commentary in the media about a resurgence in the popularity of smoking. We welcome the opportunity to discuss this further. Next, Introduction 4, nutrition standards for children's menus in New York City restaurants. The Department supports steps that shift the food environment to make default choices healthier, and appreciates the prior conversations with the sponsor regarding this bill.
+
+The Department looks forward to discussing how to further strengthen this bill in support of children's health. Finally, Introduction 1094 would require owners of cooling towers to report findings of Legionella bacteria at low levels to the Department and to take corrective action. The Department already mandates owners to report results of Legionella bacteria to the Department when those results show higher levels of bacteria, to maintain records of all sampling results for Department review, and sets detailed requirements for corrective action starting at the same low level set out in the bill. We look forward to discussing this proposed reporting requirement with you. Thank you for the opportunity to testify. We are happy to take your questions.
+
+**(00:19:14)**
+
+
+
+Thank you very much. I'm going to ask a few questions and then I'm going to hand it over to my colleagues and then come back, so as to give them an opportunity.
+
+**(00:19:23)**
+
+
+
+Deputy Commissioner, you said in your testimony that 90% of restaurants have an A. Has that always been the plateau, or has it been higher or lower? Just want to go through some of that.
+>>Sure. So restaurant grading has been a huge success in New York City in promoting high food safety standards among City restaurants. Last we celebrated our fifteenth anniversary of this program, and I did a little looking back in preparation for today. We started the program in July 2010, and in 2010, 85% of restaurants were posting grades, and we're now at 90%. It has stayed about that level. It was a little bit higher before COVID, and we've been getting back up to that level.
+
+**(00:20:16)**
+
+
+
+>>When an establishment doesn't get an A, what is the process around that?
+
+**(00:20:23)**
+
+
+
+>>So the program that we set up in 2010 for restaurant grading provides two opportunities for restaurants to get an A grade. I will say that we think of the inspection as an open-book exam, to go along with those grades. We list every condition that the inspector will look for in a checklist, and we make that available to restaurants. We train them on it, and we encourage them to take that checklist and conduct a self-inspection every day, every week, as frequently as they can, so they are ready for that inspection. We go for an initial inspection, and if the restaurant earns an A at that time, they get that A grade. When we issue an A grade at the time of inspection, there's no summons and there are no fines. It's all part of an incentive structure, because we really want restaurants to be motivated to meet the City's high food safety standards. If they don't earn an A at that inspection, we come back for a re-inspection, and that's a really important moment for the restaurant to take a look at what we found that didn't result in an A, make those corrections, and then we come back and do that re-inspection again. If they earn an A at the time of inspection, they will get that A. There's no summons, there's no fines. If it's not an A, then we give them, depending on the score, a B or a C, and that grade-pending card that you've seen in some restaurants. How much time elapses between when they get less than an A and when you come back? It can vary.
+
+We will not come back before a week; we want there to be enough time for them to come back. So it really does vary. Our goal is about a month when we're fully staffed. Okay. Right.
+
+**(00:22:12)**
+
+
+
+>>Do you also, I understand, have an ombudsman office for establishments? Can you tell us about that?
+
+**(00:22:28)**
+
+
+
+>>Yes, so we do have an ombudsman. That is a point of contact person for a restaurant if they have questions or if they have a complaint. We do get compliments also from the restaurant industry about inspections, and our ombudsman person is there too, really to be an internal advocate for that restaurant.
+
+**(00:22:57)**
+
+
+
+>Inspectors for that restaurant owner.
+
+**(00:22:59)**
+
+
+
+>>So if there is some concern about what happened at the restaurant, that person can review and talk them through it. If it turns out that there was some issue with the inspector, then that inspector can be coached, corrected, and so on. I would say the vast majority of what comes into the ombudsman person is questions.
+
+**(00:23:21)**
+
+
+
+>Okay. When I was preparing for this hearing today, I didn't really know about the ombudsman office. So if there's a way to get some information out, especially to the Council Members, they can share it with the local businesses, and I think that would be really helpful. And then it'll prevent us from doing legislation that is not really needed.
+
+**(00:23:44)**
+
+
+
+>>We would be happy to do that. I will say that we are routinely issuing information to restaurants. We do an e-blast to the entire industry and those who work with the Hospitality Alliance, and those often include the contact information for the ombudsman person. We also have a customer service office, so we provide information about both of those contacts, but we would be happy to get that information to you and have you support those outreach efforts. The other thing I'd suggest is that when there's a problem with a restaurant, because a lot of the local Council Members have relationships with those businesses, they can maybe help get them to a place where they get an A. I think that would be really helpful.
+
+**(00:24:33)**
+
+
+
+Thank you. And how many food service establishments does the Department currently regulate?
+
+**(00:24:40)**
+
+
+
+>>Food service establishments is a regulatory term that is bigger than restaurants, and there are
+
+**(00:24:47)**
+
+
+
+about 40,000 of those in the City, and about 30,000 of them are what we would consider restaurants.
+>>Other than restaurants, you
+
+**(00:24:56)**
+
+
+
+just want to give us the rundown of what it is that you have oversight responsibility for.
+
+**(00:25:09)**
+
+
+
+Food service in cafeterias, could be school cafeterias, could be business cafeterias, older adult centers, etc. Food service in correctional facilities, soup kitchens, can
+
+**(00:25:20)**
+
+
+
+you just send us the list? Because so that we can
+
+**(00:25:22)**
+
+
+
+>>Send you the letter would be awesome. And if somebody has a complaint about an establishment, they can call 311. Is that correct? Is there anything on the website? Just three...
+>>Um, well, I'll have to check our website to see what it says about complaints, but certainly at 311, either online or by phone.
+
+**(00:25:42)**
+
+
+
+>>Okay, great. So how many inspections did you guys conduct in each of the last three fiscal years? Do you have that?
+Um, so in FY 26, 0
+
+**(00:25:57)**
+
+
+
+restaurants inspected, of 25,000... over 20,000. So as you noted in your opening remarks, Chair, our recruitment efforts have been rigorous and ongoing, and we are succeeding in bringing more inspectors on board, which is why you are seeing those numbers go up.
+>>A group of new inspectors in
+
+**(00:26:25)**
+
+
+
+training, a nice big group. So we are continuing to staff up. I'm guessing that you don't have this with you, but if you can give us the number of each type of inspection—the initial, including the initial, re-inspection, compliance, and complaint-driven—so.
+
+**(00:26:43)**
+
+
+
+>>I don't have complaints, but I have 26. There were just over 16,000 initial inspections, almost 6,000 re-inspections, and just over 250 compliance inspections, and that was up from the year before's 15,000 initial inspections.
+>>Okay, great. According to the Fiscal 2026 Mayor's Management Report, DOHMH inspected 71% of the City's restaurants, roughly the same as in Fiscal 2025, below the 100% target. How many restaurants went uninspected in Fiscal Year 2026, and how many have now gone more than two years without an inspection?
+>>In FY 26, there were about 800
+
+**(00:27:32)**
+
+
+
+>>restaurants that were not inspected, and just under 500 that had gone two or more years without an inspection. And then there's another set of restaurants where we had attempted an inspection, the restaurant was closed and appeared to be out of business, but we would continue to inspect to confirm that. Do you think you're going
+
+**(00:27:52)**
+
+
+
+to get to a place where it's 95% and higher? I'm just asking.
+>>Our goal is to inspect a hundred. I think you quoted 99 point something in your opening remarks, that that is our goal, and we are continuing it. We are continuing to recruit, and we really welcome the Council's support to send us good candidates. It's a great job, a terrific way to serve your City. Can you give us a job
+
+**(00:28:18)**
+
+
+
+description?
+>>Yeah, we can do that. Are there locations where it's more difficult for you to conduct inspections, and if so, why?
+>>I don't think so. Like a location or something?
+>>No, we're all over. We're all over the City. We're in every neighborhood. We have people working early and late.
+>>No. And I think I saw someplace where it said a lot of issues have to do with—you know, we have the highest rat population of any city in the country. Does it have something to do with that, with vermin and stuff like that? And so, do you work with any other agencies around that issue? I know we don't have the rats are anymore, but
+
+**(00:28:52)**
+
+
+
+do you work with any other agencies around that issue?
+>>So the Health Department also, within the Environmental Health Division, has a pest control
+
+**(00:29:03)**
+
+
+
+program. A part of our training for restaurants is about pest management. There are very specific requirements in our food safety rules about controlling pests and maintaining conditions that reduce the risk of pests. We also know where there are extreme situations in a restaurant, which is not common. We can mostly handle the pest conditions within the Food Safety Bureau, but there are opportunities for internal cross-referrals if we need to call in our pest program.
+
+**(00:29:38)**
+
+
+
+>>So, I'm also going to ask, because we're going to have a tremendous amount of construction to build new housing and everything else, and maybe work with around that issue when there's construction in various places. Now, like in my district, I have construction that's going to involve small businesses that are around where the construction sites are. I mean, I think that would be helpful. Thank you. Um, I'm going to change gears here to talk about the cooling towers a little bit. Um, how did you initially settle on the 1,000 colony-forming units per milliliter threshold for mandatory notification?
+
+**(00:30:22)**
+
+
+
+>>That's an action level that has been established in the research literature, in long-standing guidance, and is a level that other jurisdictions follow. Does DOHMH have any objections to lowering the threshold to 10 milliliters, as is the practice in other jurisdictions? So our action levels are the same as what's in the bill, and what I think you're referring to, colleagues in Vancouver, Canada—action levels in New York City for owners to take corrective action, and we have very detailed specifications. Don't give
+
+**(00:31:04)**
+
+
+
+>>It for what levels are.
+
+**(00:31:07)**
+
+
+
+>>The difference with Vancouver is that reporting requirement. Although I will say that there are programs that are different, and our understanding is that in Vancouver as well, it is at a thousand CFU, that those reports are made to the Health Department when DOHMH receives a notification from a cooling tower operator regarding the presence of potentially harmful levels of Legionella bacteria. What is the procedure for reviewing the notification?
+
+**(00:31:36)**
+
+
+
+>>So first, I want to say that the way we think about that thousand CFU limit is that it's really an indication that the cooling tower operator may not have full control over their maintenance program and plant. One of the reasons we were so supportive of your legislation in 2025, Chair, was that changing the frequency of sampling from 90 days to 30 days—31 days technically—is that there was control program, as we discussed last month and last year. Our regulations, the local law and our regulations, set out very specific requirements for owners of cooling towers on their maintenance program and plan, and there are things that they need to do every day or multiple times a week, weekly, monthly, annually. They are really maintaining their systems constantly. But this new sampling regime is going to give them a lot more information about how that program is working to control the Legionella bacteria. I think we're still early days in seeing how that works. But to answer your question, when we get those reports, there is a unit within the cooling tower program that does a follow-up with those buildings on that corrective action report. The corrective action—they have to then do sampling to see that that corrective action was successful, and they have to report that to us.
+
+**(00:33:10)**
+
+
+
+>>Since we've had these two
+
+**(00:33:13)**
+
+
+
+outbreaks this year, which is troubling, we're trying to find some new ways to do this. And we are going to have experts, by the way, that are going to testify to my legislation, so I assume somebody will be here when they testify. But somebody's waving to me that they'll be—
+>>Here. And so we're trying to figure out different ways to get at this, because the fact of the matter is, because of climate change, we're going to have more, or potentially more, Legionella, because Legionella grows in warm atmospheres, and we had a very hot summer last summer and a very hot summer this summer. So that's what we're trying to do. We'll work with you to figure it out, but I think we need to look at new ways to manage this. If this bill is enacted, how will DOHMH triage the notifications, or will it—
+
+**(00:33:34)**
+
+
+
+Here and so we are trying to figure out different ways to get at this, because the fact of the matter is that because of climate change, we are going to have more potentially more Legionella, because Legionella grows in warm atmospheres. We had a very hot summer last summer. We had a very hot summer this summer. So that is what we are trying to do. So we will work with you to figure it out, but I think we need to look at new ways to manage this. If this bill is enacted, how will DOHMH triage the notifications, or will it
+
+**(00:34:11)**
+
+
+
+Change how the agency responds to a notification based off the levels of Legionella found in a cooling tower system. So we look forward to continuing to discuss the bill with you when we are still thinking about those really important questions. Okay. Now I am going to switch back to what I am going to talk about. My intro 1124, the food protection certificate renewal. That is easy.
+
+>>What is a food protection certificate and how does an individual qualify for one? I want to just state for the record that my chief of staff has a certificate. He is a certified chef, and he came up with the idea of doing this because he felt that you need to know what is going on in the industry and all of that moving forward. It is good to do something like this. Other jurisdictions have it. But anyway, go ahead.
+
+>>Oh, that is great. Thank you. Yeah.
+
+>>So, as I noted in my testimony, every restaurant is required to have a supervisor on site with a food protection certificate. It is really the most important requirement that we have, and that is sort of intuitive. I think that somebody trained in food protection supervising the operations in the restaurant would be critically important.
+
+>>We offer the course at our Health Academy. I do not know if you can also take it from authorized third-party providers. So I do not know if your chief of staff took our course at the Health Academy on the Upper West Side or the long time. He said, okay, well, we have been offering it for a long, for a long time. It is a great class. I encourage everyone to take it, even for your own home cooking. Cook the same way again. I know what temperature to cook to.
+
+>>Last night. So at the end of that course there is an exam, and if you pass the exam you get a card. It is a wallet-sized card, so easy to carry around. Keep it in your wallet. You will have it with you.
+
+>>Please describe the material covered in the food protection course and what the final examination entails.
+
+>>So the course really covers, if you take it, it is a morning for four days, and then the fifth day is a review session and exam. So it really covers all of the issues that are in our food safety rules and how to make sure that you are preparing, storing, serving food in ways that meet food safety protections to keep your diners safe.
+
+Approximately how many people take the food protection course each year?
+
+>>It is about 35,000 every year. Yeah.
+
+>>What fees are associated with obtaining a food protection certificate, and how much revenue, if any, does the department generate from this process?
+
+>>So the in-person course is $114. The online course is free, and then to take the review course and exam it is $24 at our Health Academy.
+
+>>Does DOHMH, or another entity, engage in continuing education opportunities for food protection certificate holders as food safety practices evolve over time and new public health concerns emerge, such as foodborne pathogens?
+
+>>So we do, and it is a well-timed question. We are really in the middle. Every year we offer a free food safety training program. We offer that in person in different boroughs, and we offer it online. It is very popular. Hundreds of restaurant operators come to it. It is a chance to do exactly what you said, Chair, to refresh any new information in food safety science and remind restaurant workers of the most important food safety requirements. We also bring in colleagues from other agencies to provide information and support services for the industry. One question he did not answer: how much revenue, if any, does the department generate? I am going to have to get back to you about that.
+
+Yeah.
+
+>>What specific amendment do you ask for? Another one, okay.
+
+>>I am going to ask some questions that council members, our introduction, is a digital database of food protection certificate holders currently maintained?
+
+>>So we do have a database. Records are maintained for 10 years, so this is one of the challenges that we would like to discuss with council about the bill. Maybe even your chief of staff. That person got their food protection certificate, and we have been doing this for a very long time. We do not have that in the database, so certainly looking back would be a challenge. Those are the kinds of things we would like to talk with you about.
+
+>>Sure. What operational changes, and again this is her legislation, but yes, there, you know, they are similar.
+
+>>What operational changes would need to be made in order to create such a database or make it accessible to inspectors?
+
+>>So we are continuing to think about that, but as I noted, one issue is we cannot look back before 10 years ago, and then going forward it would be quite an enormous database, as we trained 35,000 a year. I hate to bring this up. Would AI be helpful here? We have our best IT minds thinking about this. We look forward to talking with you about the details. You are going to be having a hearing on AI and health care, so just for why there are.
+
+>>Um.
+
+>>Is there a standard policy for when a violation is given for lack of food protection certificate on site, and if so, what is that policy?
+
+>>Yes. Having a person trained in food protection is perhaps the most important of all of the food safety requirements, and so it is a part of every one of our inspections. In 2026 we did cite it. 28 issues, 2,800 violations for there not being a food protection certificate holder on site.
+
+>>Are there any circumstances currently in which the department might try to verify whether or not someone has a food handler license via the database as opposed to the physical card?
+
+>>So we do do that. As I described in my testimony, we will, when it is possible. For example, if it is a newer card it is going to be within the database, and it is the database at the Health Academy, so the health inspector does not have access to that. There are some technical things, but we do try to do that.
+
+Okay. What concerns, if any, does the department have about creating, maintaining, or making more readily accessible this database?
+
+>>So this is the, that. I have, that I have. Yeah.
+
+>>Can you confirm that during the process of certifying a worker, their immigration status is not collected or maintained?
+
+>>Not collected or maintained.
+
+Okay, great. Okay.
+
+>I want to acknowledge we have been joined by CM Narcisse. I want to get the questions about the legislation out of the way. Okay. Intro 189, the photo or video evidence. Okay.
+
+>When a violation is challenged by an FFC, how does DOHMH establish that the violating condition existed at the time of inspection, particularly when the condition has since been corrected?
+
+>>Um, so first to note again, when the restaurant achieves an A grade at the time of the inspection there is no summons. As part of our overall A system, which is designed really to create a variety of incentives for the restaurant to meet those highest food safety standards. So let's, we're talking about a restaurant that does not get an A at the time of inspection, which means that we're finding food safety violations. The inspection, we consider it to be a teachable moment. The inspector is there, and they walk through the restaurant with whoever the restaurant chooses to accompany the inspector. We prefer a supervisor, but they can choose who that is. We go step by step through that inspection checklist that we have shared with the restaurant, because it's an open-book exam, and we want them to do their own self-inspection. As we're going through, our inspector is describing what they are observing, why it meets or doesn't meet the food safety protection, and what needs to be done to bring that situation into compliance. They're recording that all along the way. At the end of the inspection they review their overall findings with the restaurant operator. They are carrying handheld printers, so at the inspection they are able to print out the inspection report and any summons right there on the spot for the restaurant owner to review and sign. The summons goes to OATH. The summons goes to OATH. Yes. Is there another appeals process through OATH if they want to appeal?
+
+>That absolutely. Every, if.
+
+There is a summons issued. If it is not an A grade, then there is an opportunity for the restaurant owner to object to those findings and to bring in their evidence for why the inspector was wrong. What are DOHMH inspectors currently required or instructed to, and you just said that, how does the department determine whether a violation has been sufficiently documented to support the issuance of a notice of violation?
+
+>>So that is a big part of our training program. Those are the big cohort of new inspectors that I met last week or so. We were learning all of the different violations, trained in customer service, to be able to deliver that teaching inspection, and also to document that it is a legal document. We do have to establish the conditions that meet the violation. Is this one statement sufficient?
+
+>The summons that we issue is a sworn statement by the inspector. So they are putting in details of their observations, and then they are signing it at the end.
+
+>>I think you mentioned this. There's, DOHMH maintains written protocols and training materials we do governing this, retained. You know, we meet the city's record retention program, and I will get back to you about exactly what that number is, because I don't want to get that wrong. Does the department track how often violations are dismissed, reduced, or otherwise resolved because of insufficient documentation or conflicting accounts of the inspection?
+
+>>Ah, we have some record of that. Yes.
+
+>>And is there any trends that come out of that that you see, or you know? I haven't looked at that in a long time, so I don't know. But are looking at that? Sure.
+
+Curiosity. Does DOHMH anticipate the taking of photographs or video of cited violations would lengthen the inspection? But you said that in your testimony. Um, are there particular categories of violations for which photographs or video would be especially useful in demonstrating a public health risk?
+
+Now, as I said, we train the inspectors to make very thorough observations. To give you an example, pest condition could be a common finding in a restaurant, especially one that's not getting an A grade. So there will be a summons, and the inspectors are literally trained to count mouse droppings that they observe and to record the numbers of mouse droppings that they have seen. Do we also need a photograph of that? Uh, you know, I.
+
+>>I don't, I don't think so. The purpose of our documenting is to let the restaurant owner and the operator know about that observation.
+
+>>Do you know what percentage of inspections annually would be affected by this bill's documentation requirements? It would be any of the restaurant inspections where there isn't an A at the time of inspection.
+
+>>Although it would be like 10%.
+
+>You know, it would, it would be. We'll have to, there's some complexity to your question.
+
+But also. We don't know until the end of the inspection what the score is going to.
+
+>>Be. So I don't know at the beginning, right? The bill applies to an inspection with 14 or more points, that's because that's the cutoff. Renee, great.
+
+>>Under 14.
+
+>We don't know at the start. We only know at the finish.
+
+>I be subject to documentation requirements for having taken those photographs. Those are videos anyway.
+
+>>So probably a hundred percent, but we would have to.
+
+>>Do a little more thinking about that. I have a question. It's not about a bill. When you close a restaurant, which is very rare, but when you do, what's the process for them reopening? Because I, you talked about, like, from a B to a C, and that upgrade. But how does the closing work? Yeah.
+
+>>Do, I closing a restaurant is something we, we hope not to do. It is an extreme measure that we take only when we feel, based on the observations, that that restaurant cannot safely serve its customers. It's not a decision that's made by the inspector.
+
+The inspector reports back to the office, to their supervisor, and there are multiple levels of supervisory review before we take that extreme action. Any of the conditions we call public health hazards that could be fixed by the restaurant before the end of the inspection that won't result in a closure, we have them fix those conditions. We want restaurants to stay open. Where we feel that those conditions cannot be corrected before the end of the inspection, we will close that restaurant, and then we provide very detailed information to the restaurant owner about the conditions that have to be corrected before they can reopen. That's where our customer service office is really active, working with that restaurant. If they don't understand, if they have questions, if they need more guidance, we are there for them. We want restaurants open safely as soon as we can.
+
+>>About approximately how much time elapses in those circumstances?
+
+>>It really ranges. It depends on the conditions. Some of the conditions cannot be fixed quickly. If there is a severe pest infestation, you're going to need to plug up holes. You're going to need to dispose of some food. If we've found droppings in some milk, bags of flour, or something, you're going to need to get pest-proof containers. You're going to need a couple of extermination sessions. So it really varies on what we have seen. If your refrigerators are not working, you can't hold food at a safe temperature until the next day, and getting those refrigerators repaired is going to be much faster.
+
+K.
+
+About a proposed 105, the Healthy Kids Meals. How does DOHMH currently enforce New York City's existing requirements concerning beverages offered with children's meals as codified in local law?
+
+>>Thank you for the question, Council Member. I think that's just part of the regular inspection process.
+
+Okay. How does the agency currently monitor compliance with the existing children's meal requirements? It is less similar that it is the same process. Are these requirements incorporated into routine restaurant inspections, complaint-driven inspections, or another enforcement process? If the regular enforcement process, what does DOHMH's current public health data show about the nutritional challenges facing children in New York City, particularly with respect to fruit and vegetable consumption, added sugar, sodium, saturated fat, and childhood obesity?
+
+>>These are all areas of ongoing concern in New York City and a huge priority for us at the Health Department. Specifically for fruit and vegetable consumption, one of the things that I think is really promising about the legislation, which would require fruit and a fruit and vegetable to be served as part of all kids meals, is that it really would help just normalize that as part of children's meals. Some of the more recent data that we have about this is that for kids between up to 13 years old, I think it's 5.2 to 13, it's 5% of kids who haven't had any fruits and vegetables in the day before. For public high school students that's 10%. So that's just to give an indication. Certainly other nutrients of concern that would be limited by the proposed legislation, at least in chain restaurants, such as sodium and saturated fat, those are all also things that there's too much consumption of in the American diet, and for New Yorkers as well.
+
+Believe me, I look at the labels, and like. Um, what is, this is a little bit controversial, this question, but what is DOHMH's position on the consumption of whole milk by children?
+
+>>On the legislation, the current draft of the legislation would allow for whole milk to be served. Given that kids meals could be consumed by kids of all ages, and whole milk is actually recommended for kids between 1 and 2, we think it makes sense.
+
+>>For parents to be able to choose.
+
+>>And for that to be available in restaurants.
+
+>>Is non-fat and low-fat healthier than whole milk? I know there's this whole controversy around this. I think, and you know, we apply the New York City Food Standards for meals that are served in city meals, and those meals have an overall saturated fat limitation requirement. I think the whole low and reduced-fat milk is what is promoted in City Food Standards.
+
+>>For kids, and this legislation is really thinking about the whole spectrum of age.
+
+>What is DOHMH's position on flavored milk?
+
+>>We do have concerns about the sugars in flavored milk, and this legislation to reduce the amount of added sugar that would be available in kids meals would be to make this for unflavored milk. Given just how much sugar kids are consuming, we think that's a good opportunity.
+
+>>What procedures does DOHMH use to assess compliance with the nutritional limits for chain establishments, including calories, sodium, saturated fat, and fiber?
+
+>>The specific requirements that are in the proposed legislation for chain restaurants are ones that DOHMH does require chain restaurants to disclose, which makes it feasible for that to become part of the inspection process.
+
+>>And we look forward to discussing details of the enforcement process.
+
+>>Is the amended bill that the committee is hearing today enforceable from your perspective? From our perspective it is, and I know that the legislation allows for rulemaking also, which would allow us to add more detail about, if necessary. Okay, and now I'm going to ask about the tobacco.
+
+>>Bars, which I know is like a
+
+**(00:43:11)**
+
+
+
+We need to bring that situation into compliance. They're recording that all along the way. At the end of the inspection they review their overall findings with the restaurant operator. They are carrying handheld printers. At the inspection, they are able to print out the inspection report and any summons right there on the spot for the restaurant owner to review and sign. The summons goes to OATH. The summons goes to OATH. Yes. Is there another appeals process through OATH if they want to appeal?
+
+**(00:43:45)**
+
+
+
+That absolutely every if
+
+**(00:43:48)**
+
+
+
+There is a summons issued. If it is not an A grade, then there is an opportunity for the restaurant owner to object to those findings and to bring in their evidence for why the inspector was wrong. What are DOHMH inspectors currently required or instructed to do? And you just said that. How does the department determine whether a violation has been sufficiently documented to support the issuance of a notice of violation?
+
+**(00:44:16)**
+
+
+
+So that is a big part of our training program. Those are the big cohort of new inspectors that I met last week or so. We were learning all of the different violations, trained in customer service, to be able to deliver that at a teaching inspection, and also to document that it is a legal document. We do have to establish the conditions that meet the violation. Is this one statement sufficient?
+
+**(00:44:46)**
+
+
+
+The summons that we issue is a sworn statement by the inspector. So they're putting in details of their observations, and then they're signing it at the end.
+
+**(00:44:56)**
+
+
+
+I think you mentioned this. There's due... DOHMH maintains
+
+**(00:45:00)**
+
+
+
+written protocols and training materials governing this, and retained. You know, we meet the city's record retention program, and I will get back to you about exactly what that number is, because I don't want to get that wrong. Does the department track how often violations are dismissed, reduced, or otherwise resolved because of insufficient documentation or conflicting accounts of the inspection?
+
+**(00:45:29)**
+
+
+
+Ah, we have some record of that. Yes.
+
+**(00:45:32)**
+
+
+
+And is there any trends that
+
+**(00:45:33)**
+
+
+
+come out of that that you see? I haven't looked at that in a long time, so I don't know, but we are looking at that. Sure.
+
+**(00:45:44)**
+
+
+
+Curiosity. Does DOHMH anticipate that taking photographs or video of sighted violations would lengthen... but you said that in your testimony. Are there particular categories of violations for which photographs or video would be especially useful in demonstrating a public health risk? As I said, we train the inspectors to make very careful observations. To give you an example, pest condition could be a common finding, especially one that is not getting an A grade, so there will be a summons, and the inspectors are literally trained to count mouse droppings that they observe and to record the numbers of mouse droppings that they have seen. Do we also need a
+
+**(00:46:38)**
+
+
+
+photograph of that? I don't think so. The purpose of our documenting is to let the restaurant owner know
+
+**(00:46:51)**
+
+
+
+about that observation. Do you know what percentage of inspections annually would be affected by this bill's documentation requirements? It would be any of the restaurant inspections where there isn't an A at the time of inspection.
+
+**(00:47:11)**
+
+
+
+Although it would be like 10%.
+
+**(00:47:14)**
+
+
+
+It would be... there's some complexity to your question.
+
+**(00:47:22)**
+
+
+
+But also, we don't know until the end
+
+**(00:47:23)**
+
+
+
+of the inspection what the score is going to be.
+
+**(00:47:26)**
+
+
+
+So I don't know at the beginning. The bill applies to an inspection with 14 or more points. That's because that's the cutoff. Renee, great.
+
+**(00:47:36)**
+
+
+
+Under 14.
+
+**(00:47:37)**
+
+
+
+We don't know at the start. We only know at the finish.
+
+**(00:47:39)**
+
+
+
+I'd be subject to documentation requirements for having taken those photographs, or videos, anyway.
+
+**(00:47:41)**
+
+
+
+So probably a hundred percent, but we would have to do a little more thinking
+
+**(00:47:49)**
+
+
+
+about that. I have a question.
+
+**(00:47:51)**
+
+
+
+It's not about a bill. When you close a restaurant, which is very rare, but when you do, what's the process for them reopening? Because you talked about going from a B to a C and that upgrade, but how does the closing work? Yeah.
+
+**(00:47:52)**
+
+
+
+Closing a restaurant is something we hope not to do. It is an extreme measure that we take only when we feel, based on the observations, that that restaurant cannot safely serve its customers. It's not a decision that's made by the inspector. The inspector reports back to the office, to their supervisor, and there are multiple levels of supervisory review before we take that extreme action. Any of the conditions we call public health hazards that could be fixed by the restaurant before the end of the inspection that won't result in a closure, we have them fix those conditions. We want restaurants to stay open. Where we feel that those conditions cannot be corrected before the end of the inspection, we will close that restaurant. Then we provide very detailed information to the restaurant owner about the conditions that have to be corrected before they can reopen. That's where our customer service office is really active, working with that restaurant. If they don't understand, if they have questions, if they need more guidance, we are there for them to get the restaurant open safely as soon as we can.
+
+**(00:48:00)**
+
+
+
+About approximately how much
+
+**(00:48:12)**
+
+
+
+time elapses in those circumstances? It really ranges. It depends on the conditions. Some of the conditions cannot be fixed quickly. If there is a severe pest infestation, you're going to need to plug up holes. You're going to need to dispose of some food. If we've found mouse marks in some milk, bags of flour, or something, you're going to need to get pest-proof containers. You're going to need a couple of extermination sessions. So it really varies on what we have seen. If your refrigerators are not working, you can't hold food at a safe temperature in there the next day, and getting those refrigerators repaired is going to be much faster.
+
+**(00:49:23)**
+
+
+
+About a proposed Hundred 5, the Healthy Kids Meals. How does DOHMH currently enforce New York City's existing requirements concerning beverages offered with children's meals, as codified in local law?
+
+**(00:49:25)**
+
+
+
+Thank you for the question, Council Member. I think that's just part of the regular inspection process. Okay. How does the agency currently monitor compliance with the existing children's meal requirements? It is less similar that it is the same process. Are these requirements incorporated into routine restaurant inspections, complaint-driven inspections, or another enforcement process? Of the regular enforcement process, what does DOHMH's current public health data show about the nutritional challenges facing children in New York City, particularly with respect to fruit and vegetable consumption, added sugar, sodium, saturated fat, and childhood obesity? These are all areas of ongoing concern in New York City and a huge priority for us, the Health Department. Specifically, for fruit and vegetable consumption, one of the things that I think is really promising about the legislation, which would require fruit and vegetables to be served as part of all kids meals, is that it would really help normalize that as part of children's meals. Some of the more recent data that we have about this is that for kids between up to 13 years old, I think it's 5... 2 to 13, it's 5% of kids who haven't had any fruits and vegetables in the day before, and for public high school students, that's 10%. So that's just to give an indication.
+
+Certainly other nutrients of concern that would be limited by the proposed legislation, at least in chain restaurants, such as sodium and saturated fat, are all things that there is too much consumption of in the
+
+**(00:50:05)**
+
+
+
+in the American diet, and for New Yorkers as well. Believe me, I look at the labels. Um, what is... this is a little bit controversial, this question, but what is DOHMH's position on the consumption of whole milk by children?
+
+**(00:50:19)**
+
+
+
+On the legislation, the current draft of the legislation would allow for whole milk to be served, and given that kids meals could be consumed by kids of all ages, and whole milk is actually recommended for kids between 1 and 2, we think it makes sense for parents to be able to choose, and for that to be available in restaurants. Is non-fat and low-fat healthier than whole milk? I know there's this whole controversy around this. I think, and you know, we apply the New York City Food Standards for meals that are served in City meals, and those meals have an overall saturated
+
+**(00:51:55)**
+
+
+
+fat limitation requirement. I think the whole low and reduced-fat milk is what is promoted in City Food Standards
+
+**(00:52:07)**
+
+
+
+for kids, and this legislation is really thinking about the whole spectrum of age.
+
+**(00:52:47)**
+
+
+
+What is DOHMH's position on flavored milk? We do have concerns
+
+**(00:52:57)**
+
+
+
+about the sugars in flavored milk, and this legislation to reduce the amount of added sugar that would be available in kids meals would be to make this for unflavored milk, given just how much sugar kids are consuming. We think that's a good opportunity.
+
+**(00:53:02)**
+
+
+
+What procedures does DOHMH use to assess compliance with the nutritional limits for chain establishments, including calories, sodium, saturated fat, and fiber? The specific requirements
+
+**(00:53:06)**
+
+
+
+that are in the proposed legislation for chain restaurants are ones that DOHMH requires chain restaurants to disclose, which makes it feasible for that to become part of the inspection process. We look forward to discussing details of the enforcement process.
+
+**(00:53:23)**
+
+
+
+Is the amended bill that the committee is hearing today enforceable from your perspective? From our perspective, it is. I know that the legislation allows for rulemaking also, which would allow us to add more detail about, if necessary. Okay. And now I'm going to ask about the tobacco bars, which I know is like a
+
+**(00:53:35)**
+
+
+
+That are in the proposed legislation for chain restaurants are ones that the does require chain restaurants to disclose, which makes it feasible for that to become part of the inspection process. And we look forward to discussing details of the enforcement process.
+
+**(00:53:49)**
+
+
+
+Is the amended Bill that the Committee is hearing today enforceable from your perspective? From our perspective it is, and I know that the legislation allows for rulemaking also, which would allow us to add more detail about that if necessary. OK, and now I am going to ask about the tobacco bars, which I know is like a...
+
+**(00:54:09)**
+
+
+
+Major issue for you guys has... Hm. Has the Department received requests from tobacco bar operators seeking to relocate due to financial hardship or other factors? I just want to say for the record that this bill came out of when COVID happened, and there were landlords that sold the buildings in which these establishments were. Because I know you're looking for attrition around these establishments, and so they were put out of business before the natural life course it would go out of business. So they're seeking this one-time transfer of the license, and then the attrition would start from that point. But I just wanted to point that out anyway. Have you
+
+**(00:54:48)**
+
+
+
+received requests, and if so, how would those requests be handled, and was any form of assistance offered to these operators? I'm actually not sure about specific requests. I would just underscore what you just referenced and what the Deputy Commissioner spoke about in her testimony. I'm
+
+**(00:55:08)**
+
+
+
+just about the public health success of the Smokefree Air Act, the aim of reducing exposure to secondhand smoke, which remains a huge public health concern. Moving from eight of the tobacco bars that existed at the time of the legislation to five today is consistent with what would have been expected, and a reduction of these hazardous businesses that have hazardous health consequences. And because we do think it's important to just keep a friend of mind considering these issues when weighing this legislation, we would also love my colleague
+
+**(00:55:41)**
+
+
+
+Dr. Ottey, just to speak a bit more about secondhand smoke.
+
+**(00:55:44)**
+
+
+
+Sure. Secondhand smoke contains tar and cancer-causing chemicals, and because of that it lowers air quality, which since asthma, COPD, and heart disease... and there is no real safe level of secondhand smoke. We are concerned about anything that does not continue to reduce indoor smoking over time, and that's really why that was the goal of the Smokefree Air Act. We also get thousands of complaints every year from New Yorkers about secondhand smoke exposure. So for any new location, we're not only concerned about the safety of the staff who work at that location, but also New Yorkers who live or work nearby and will be affected potentially on a daily basis.
+
+**(00:56:27)**
+
+
+
+I mean, the legislation doesn't say it caught Blanche. I think you can open it up, and that's that. I mean, they'd have to work with you guys, and I think we're talking about less than 10 of these places, to be honest. Um, has... can you...
+
+**(00:56:44)**
+
+
+
+Do you have evidence that tobacco retail density is associated with adverse health outcomes at the community district level? I'm not sure if we've analyzed that at the community district...
+
+**(00:56:55)**
+
+
+
+Level. It is. I think it is irrefutable that tobacco is a public health concern, and one of the core strategies in tobacco control is retail reduction. We want to reduce the prevalence, availability, and the normalization of the use of tobacco products. Um, and that's consistent with other legislation around licenses that we've worked on together, as well as the Smokefree Air...
+
+**(00:57:21)**
+
+
+
+Act overall. And again, that's, you know, because of the evidence connecting tobacco with health harms.
+
+**(00:57:26)**
+
+
+
+Do you have data on complaints, inspections, violations, or other health-related concerns involving currently registered tobacco bars? Do you know the answer to that? I don't know. I think we would have to double-check.
+
+**(00:57:42)**
+
+
+
+That would be...
+
+**(00:57:46)**
+
+
+
+How many tobacco bars currently operate in the city? Do you know?
+
+**(00:57:51)**
+
+
+
+There are currently five operating in the city, and as mentioned, that is a reduction from the eight, consistent with the intention of reducing exposure to these businesses that have health harms. Um, would you have specific amendments to make the bill workable for small businesses while preserving the public health objectives of the existing tobacco licensing framework? I think we'd welcome the opportunity to discuss that further. We want to make sure that health is at the forefront of any considerations.
+
+**(00:58:20)**
+
+
+
+Okay, I'm going to turn it over to my colleagues. I have other questions, but I wanted them to have the opportunity. So, um, ah...
+
+**(00:58:32)**
+
+
+
+CM Epstein is first. Good morning, everyone.
+
+**(00:58:37)**
+
+
+
+Thank you for being here. You
+
+**(00:58:39)**
+
+
+
+mentioned that 90% of restaurants have A ratings. Does that break down both rates of restaurants that are takeout or sit-down? It's a distinction between those A ratings. We don't have that distinction.
+
+**(00:58:51)**
+
+
+
+Can get it. I can look. I don't know.
+
+**(00:58:56)**
+
+
+
+Okay, it'd be great if you let me know. I just... it's with the takeout
+
+**(00:59:03)**
+
+
+
+restaurants. Do you have that? On how many, the violations you
+
+**(00:59:08)**
+
+
+
+issued, or the higher percentage of violations for takeout restaurants versus sit-down restaurants? I can... we can take a look and
+
+**(00:59:15)**
+
+
+
+see if we have that data.
+
+**(00:59:16)**
+
+
+
+Yeah, the reason I'm asking this is because we do get... we
+
+**(00:59:22)**
+
+
+
+don't get a lot of complaints about health issues on restaurants unless it's related to a takeout establishment, and we see kind of more, you know, with buffets, food being out and kind of, you know, airborne illness, a higher percentage of that happening. And is that... it's only anecdotally. I'm wondering what you see internally. I have not heard that. I'll have to... I'll check with the
+
+**(00:59:48)**
+
+
+
+team that takes in those complaints to see if they are seeing the same thing. The same rules about food safety would apply
+
+**(00:59:55)**
+
+
+
+whether
+
+**(00:59:56)**
+
+
+
+it's sit-down or takeout. And so if we were... a couple of takeouts in my district where there have been ongoing concerns, where there have been inspections, violations, shut down, and they just continued to reopen.
+
+**(01:00:10)**
+
+
+
+So, at what point, if someone makes a determination that that location or that establishment in that location can't continue to operate, do we have the authority to take action against a restaurant owner who appears to be unable to comply with food safety requirements? And how often have you exercised that option?
+
+**(01:00:40)**
+
+
+
+Extremely rarely. Our goal is to bring restaurants into compliance, so we are much more likely to try to provide technical assistance to that restaurant owner to help them come into compliance with the requirements. We have lots of tools for restaurant owners. For example, one we haven't talked about is we've developed what we call an Inspection History Report. Any restaurant can get on our website, type in some information, their permit number or something like that, and get an individualized report that shows their last three years of history of repeat violations. That's our way of saying, here's something to focus on. These are things that you continue to do wrong. So our goal is really to work with them. We also have a compliance team to bring that restaurant into compliance and to be able to operate.
+
+**(01:01:39)**
+
+
+
+When, so how rarely, how often have you exercised that tool? I don't have that number. I'd have to check. Could you check and get back to us on it? And just, just in
+
+**(01:01:47)**
+
+
+
+this lane, we've also heard around the food safety issue around not having enough recycling and trash for takeout locations. Have you heard that as an issue, and what does the Health Department do about ensuring cleanliness around and in front of the food safety establishment? And depending on where the trash
+
+**(01:02:08)**
+
+
+
+is... We will be doing an inspection of maintaining trash in a way that especially prevents pest conditions in the restaurant. But if you're talking about how they put trash out on the curb and so on, that would not be the Health Department. So maybe we can follow up and get a little more detail about these issues and see where that falls. And if someone doesn't have, like, a trash can or recycling bin in the takeout establishment, is that an issue that the Health Department will...
+
+**(01:02:39)**
+
+
+
+Manage? So restaurants do have to have containers to maintain their trash in the restaurant. Okay, all right, thank you. CM Wilson.
+
+**(01:02:50)**
+
+
+
+Thank you, Chair. I was a server for 10 years, too, at prominent New York City restaurants. It's a great job on a great industry to work in. But one of the restaurants I worked at, it's no longer there, but it had a good run. We had an alarm at the host stand that would get pressed when the health inspector arrived, to stall to get them to the kitchen so that the kitchen could get its ready for the inspection. So my
+
+**(01:03:19)**
+
+
+
+question is, are there ways that restaurants practically run in the middle of food service that are often not the way that the health inspector will see the kitchen? So how are you collaborating with the industry to ensure that your scoring and grading, and looking for maintaining the safety of the food, also matches with the ways that a restaurant will practically run food service, like during a peak lunch shift or dinner shift? We do know that some restaurants will do what you just described. Our inspection is unannounced in
+
+**(01:04:00)**
+
+
+
+an effort to see the actual practices of the restaurant. But some restaurants do, as you say, but it's part of why we continue to do training. We know that restaurants want to keep their customers healthy and safe, and so there are a lot of things that we do to continue to educate restaurants so that they will know what is required to keep those customers safe. And you said there
+
+**(01:04:30)**
+
+
+
+unannounced, but if one health inspector shows up to a restaurant, that will shut down the service for a long period
+
+**(01:04:39)**
+
+
+
+of time. So how do you manage the timing of the inspection to ensure that they're not going to lose a full shift or two worth of income, which we of course know can really make or break restaurants that often operate in the red? Restaurants do not need to stop service.
+
+**(01:04:59)**
+
+
+
+They don't need to, but it's
+
+**(01:05:02)**
+
+
+
+like practically... it's to maintain it while there's an inspection going on. So some restaurants choose to do that. It is not required, and we don't recommend it. The timing is randomized. From our point of view, it is scheduled by us, but it is unannounced for the restaurant.
+
+**(01:05:27)**
+
+
+
+Restaurants are working all the time, serving all the time, so we really can't inspect only when there is no possibility that they're serving food. But that's a decision that the restaurant is making.
+
+**(01:05:40)**
+
+
+
+When you do the inspections, you know there are certain elements of the building that are controlled by the restaurant and others that are by the... commercial, I mean, by the
+
+**(01:05:50)**
+
+
+
+landlord that rents the space to the commercial tenant. What are some ways that the Health Department ensures that landlords of buildings are active partners in maintaining hygiene and food safety, and how do you ensure, make landlords aware of what their responsibilities are to commercial food tenants?
+
+**(01:06:13)**
+
+
+
+Our relationship is with the permit holder, so the person that owns that...
+
+**(01:06:19)**
+
+
+
+restaurant, and certain of the requirements certainly have to do with facilities. And so we would recommend that restaurant owners make sure that that lease and that relationship with the property owner is clear. They will, in some certain circumstances, need cooperation with the property owner to make corrections if they are...
+
+**(01:06:38)**
+
+
+
+Building related, for example. But our relationship is with the restaurant owner.
+
+**(01:06:43)**
+
+
+
+So the department does not do any types of trainings or outreach to commercial landlords that have leases with commercial food tenants?
+
+**(01:06:57)**
+
+
+
+Um, it might depend on what the issue is. If there is a pest condition, as we were talking about before, some of those obligations are on the owner of the property. So it depends on exactly what the issue is. The owner of the property is responsible, and the restaurant would certainly be responsible for making sure that there are no holes that allow the pests to move around their restaurant. Whether there's an opportunity for our pest control program to intervene with that property manager, there, and sometimes we do that, an internal cross-reference that I was noting, between our food safety program and our pest control program. Okay, thank you. Thank
+
+**(01:07:45)**
+
+
+
+you, CM Nurse. Thank you, Chair. When I had a restaurant, we did not have the grade A, so that was a good thing. Our many hats in my life, so, but the supervision was always there. You had to take the classes, and I know how to handle my food before, so I can check in the kitchen. But if you check restaurants just like you check the adult senior daycare, which I had one, it was just amazing. You're always on point when you come
+
+**(01:08:16)**
+
+
+
+with the inspection, and I didn't know that the restaurant was not getting the same love that we were receiving in the Social League here. So I want to say thank you for the work you're doing. But now I'm, what is the deal? A fiscal 2027 budget for food service establishment inspection, and how much is allocated to inspect, their salaries? How much did the Department spend on inspectors' payroll in fiscal 2026? The overall budget for our food safety bureau is about 25 million, and about 20 million of that is for personnel. Thank you. How do restaurants
+
+**(01:09:00)**
+
+
+
+typically sit on grade pending? Because sometimes I see them for a while while contesting. If they're contesting, is that being used to avoid posting a B or C for months? Because I'm always questioning, is that fast? Fast. So the restaurants have the opportunity to leave that grade-pending card up while they're waiting for their OATH hearing, and how long that takes is really... It's really a question for
+
+**(01:09:31)**
+
+
+
+OATH. They have rules about being able to postpone, and so on. So I would refer your question to OATH. Yeah, because they're pending
+
+**(01:09:38)**
+
+
+
+for a while. What is the most common critical violation citywide right now, and what is the Department doing about it beyond issuing summonses? So some of our most common violations are that the facility is not vermin-proof, there are harborage conditions, food is not protected from contamination, the food is held at unsafe temperatures, or there is equipment that's not properly maintained. And we do a lot of different
+
+**(01:10:12)**
+
+
+
+things. We are routinely sending out information to restaurants, referring them to the wide range of information we have on our website. We have annual refresher trainings, like the one I mentioned, that are under way now. We welcome restaurants to send multiple people to our Health Academy. Many restaurants do that, and that's a great way to make sure that you are meeting food safety requirements in your restaurant, is to have multiple people trained. And then, as I said, every inspection is a teachable moment. I hope that's what you experience, that the inspector is walking through, describing everything that they are observing. Thank you. How long it takes to receive the inspection? We just opened a restaurant right now in New York City. I'm sorry, how long does it take if you're open? Yeah, annually, open the
+
+**(01:11:14)**
+
+
+
+restaurant. How long will it take to get an inspection from the Department? For a new restaurant, I'd have to get back to you. I don't have that data with me.
+
+**(01:11:21)**
+
+
+
+All right, thank you, thank you, thank you. CM De La Rosa, thank you so much. Thank you, Chair.
+
+**(01:11:33)**
+
+
+
+I had a question. So we already heard 90% of restaurants have an A grade. Do you believe that requiring the reapplication will solve for the 10% that is not an A grade?
+
+**(01:11:48)**
+
+
+
+Requiring the recertification... it's an interesting question. An training and refresher training could be an important part of food safety, but whether it would bring us to a hundred...
+
+**(01:11:56)**
+
+
+
+What do you see as the discrepancy between all of the restaurants that have, and the ones that don't? What is the mean challenge? Well, I would say that those most common violations would be something that the restaurants would look at, and really those restaurants that are not getting that A grade are just not there. They're not meeting those high food safety standards that we set out in our health code. And the grade is one among many incentive systems that we have to try to encourage restaurants to do that, and then to take the opportunity to participate in all of that outreach, education, and training that we offer.
+
+**(01:12:28)**
+
+
+
+The test for the food safety and protection, or the certifications, are those offered in multiple languages? Our guide, our inspection guide, is offered in 36 languages other than English. I have to check and see if literally the exam is in those languages, or just the inspection and just the course review. That would be helpful. I've always brought up to the city and other hearings, you know, when you're not an English-language native English-language speaker, you think in another language, and you're actively translating
+
+**(01:13:08)**
+
+
+
+Yes. So you study different
+
+**(01:13:09)**
+
+
+
+and you test different. So it's important, especially considering the diversity of the food of the city, that they're able to take these courses in their language if possible. Ah, I wanted to ask about
+
+**(01:13:24)**
+
+
+
+In your opinion, when the health code is updated or the food safety regulations are updated, how do restaurants get notified that that update is happening? And then does it make more sense to tie a reapplication to major changes, or do you all believe that the five years is sufficient, the five-year reapplication? Yeah.
+
+**(01:13:47)**
+
+
+
+Um, so we periodically update the health code because food safety science evolves, and we will keep an eye on the model... the model food code, at least. When we were confident that that was an evidence-based document, we continue to keep our food code, our health code, food safety requirements up to date.
+
+**(01:14:13)**
+
+
+
+When we do that, we have many opportunities and moments. When we put that rule out for public comment, we will send an email out to all restaurants, because we want them to know that there are rules that the Board of Health is considering, and we want to hear from them what they think of those changes. If the Board adopts those changes, we then take another opportunity and let the industry know that the changes have been made. We developed guidance materials that we will then distribute. We will typically have a compliance period, giving us and the restaurants an opportunity to be ready to make those changes. It's an interesting question that you ask, whether that's the opportunity to update the Food Protection Certificate. I would want to give that a little more thought. One challenge off the top of my head is that it means everybody's renewal would have to happen at once.
+
+**(01:15:05)**
+
+
+
+So the thing about everyone getting their Food Protection Certificate at a different time, depending on when they take that course, is that means the renewal, the five-year renewal, is also staggered. If we tie it to a particular moment that affects the entire universe, that means everybody would be subject to a renewal at the same time. So that might be a challenge, but we can give that a little more thought.
+
+**(01:15:36)**
+
+
+
+Great, thank you for your answers. One suggestion is also, I'm sure you all do this in some way or another, but also having folks on the ground. Just because I know, when we talk about tech and the digital divide, there are some businesses that are very anti-tech, not because they want to be, but that's just who's running them. We want to make sure that folks are on the ground letting people know about these changes, and I think that's a good way to compromise.
+
+**(01:15:39)**
+
+
+
+Thank you. That part, the reason that we have a little lead time before we implement, typically, is because it is a chance for the inspector to talk through with the restaurant owner what's coming. I absolutely agree.
+
+**(01:16:03)**
+
+
+
+Thank you all. Alright, I have a few more questions. According to the Fiscal 2026 Mayor's Management Report, DOHMH is working to hire additional health inspectors to meet safety standards. What is the hiring target? I know you talked about the new class, and by what date do you expect to reach full staffing?
+
+**(01:16:18)**
+
+
+
+So we do have a really active recruitment program, and again, we would welcome your help. We want to be fully staffed as soon as we can, and we're routinely looking for great candidates. I'll say that our Commissioner is very enthusiastic about this as well. He's been out on inspections, he's met with our inspectors, and has been posting on his own social media to market what a great job this is.
+
+**(01:16:36)**
+
+
+
+How much did DOHMH spend on inspector overtime in Fiscal 2025 and Fiscal 2026?
+
+**(01:17:04)**
+
+
+
+We spent a few hundred thousand dollars.
+
+**(01:17:14)**
+
+
+
+Does DOHMH consider overtime a sustainable way to close the gap, and has it assessed whether heavy overtime affects consistency?
+
+**(01:17:17)**
+
+
+
+Well, we do offer overtime as a way of getting closer to our inspection targets, but really we want to be fully staffed. Okay.
+
+**(01:17:26)**
+
+
+
+What are the main barriers to hiring and retaining inspectors? Is there a salary issue? Are the qualifications for this job, you need to be a college graduate with a science major, and there really is no work-from-home opportunity to be a restaurant inspector. It's a very hard job, but it's a really terrific job, a great way to serve your community. So we are actively recruiting, but it has been a challenge to fill these positions. Is that the salary? How does it compare with other cities? Do you have a sense? I don't know. Okay. Does DOHMH believe it needs increased funding to hire more inspectors, or is current funding sufficient?
+
+**(01:17:34)**
+
+
+
+This is really not a funding issue. We have no issues with processing. We're just actively recruiting, and that's why I continue to say, send us good candidates from your communities, send us a job description, and I'll get it out to my colleagues on the committee. A restaurant has two chances to earn an A in every inspection cycle. If it doesn't earn an A on the first inspection, it is scored, but an inspector then goes back to the restaurant unannounced and the re-inspection is graded. What percentage of establishments earn an A on the initial inspection versus re-inspection?
+
+**(01:18:08)**
+
+
+
+Ah, a bit over half earn that at the first.
+
+**(01:18:09)**
+
+
+
+What percentage of establishments commit...
+
+**(01:19:01)**
+
+
+
+The department has data on how often posted grades are missing, obscured, and not displayed as required? I have a food place in my district that has nothing in their window or inside, but we'll talk about that.
+
+**(01:19:06)**
+
+
+
+And how is posting enforced?
+
+**(01:19:12)**
+
+
+
+First, we'll follow up with you to get the details about that restaurant. We do inspect for grade card posting violations. We would generally call that part of every routine inspection. We will respond to complaints about that, and we do sometimes do grade card sweeps, where we check that restaurants have their grade cards posted. I can tell you that in FY26 we issued just over 870 violations. What happens when they have an OATH hearing and they don't show up to it? I really wouldn't prefer your OATH questions to OATH, but that is a default when you do not appear. Okay.
+
+**(01:19:31)**
+
+
+
+Let me ask it in the sense of, DOHMH, they had an OATH hearing, they didn't show up to the OATH hearing. How long does that stay up there? Because it is not great either, in terms of people using the premises and all that, and using the restaurant or bakery or whatever it is. So is there anything else that you guys can do there to help them get to an A? Once that grade becomes final, after that opportunity for the hearing, whether they appear or not, they've had that opportunity for the hearing, the grade becomes final, and then we will go back for their next cycle, and that's their next chance to get an A. Is that right?
+
+**(01:19:33)**
+
+
+
+When we were fully staffed, we should be back there within a few months. Exact protocol, so I'd have to do that for those same reasons, to have a new opportunity to get an A grade. Okay, right. That's all. I want to, I want to also say there have been times when we've had hearings that I've complained that DOHMH wasn't prepared, but you were extremely prepared today. I really appreciate it. I appreciate all the responses, and for all the things that you are doing to keep our cities safe, because as you know, people are getting sick all over the country around foodborne pathogen issues and all kinds of stuff, and we really appreciate the job that you do, that the inspectors do. So I wanted to say, when I have a criticism I'll make it, but when I have a compliment, I want to give that too. So please let the Commissioner and whoever is watching from City Hall know they're doing a great job, and thank you guys very much for everything that you do. We'll circle back on the other stuff. Thank you. We're going to take a five-minute public testimony break. That's it.
