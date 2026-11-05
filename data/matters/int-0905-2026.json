@@ -153,6 +153,18 @@
  },
  "history": [
   {
+   "date": "2026-11-04",
+   "body": "Mayor",
+   "action": "Hearing Held by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
+  {
    "date": "2026-10-22",
    "body": "City Council",
    "action": "Approved by Council",

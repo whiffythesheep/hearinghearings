@@ -110,6 +110,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16084065&GUID=F11D366F-0A0C-4671-9608-47A9E1D7251A"
   },
   {
+   "label": "Hearing Testimony 10/22/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16114511&GUID=A3F247D0-CBC7-44F9-9B13-E2A3E8877C4E"
+  },
+  {
    "label": "Environmental Assessment Statement",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16085091&GUID=BA5DEF2A-E1D9-4C2A-A829-899F9F1064C0"
@@ -127,6 +132,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-04",
+   "body": "Mayor",
+   "action": "Hearing Held by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
   {
    "date": "2026-10-22",
    "body": "City Council",

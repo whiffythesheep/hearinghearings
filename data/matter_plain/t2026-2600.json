@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2600",
- "title": "Law to let people sue AI companies for third-party misuse harm",
- "summary": "This bill would let a person sue an artificial intelligence company when a third party misuses its AI model and causes foreseeable harm in New York City, if the company failed to put in place reasonable safeguards against that misuse. Remedies could include damages, punitive damages and injunctive relief. It is one of several AI-related bills heard by the Committee of the Whole on October 5, 2026.",
+ "title": "Law to let people sue AI companies for harm from misuse",
+ "summary": "This bill would create a new legal right for people in New York City to sue AI companies when a third party misuses or maliciously uses their AI model and causes foreseeable harm, if the company failed to put in place reasonable safeguards. Lawsuits could seek damages, including punitive damages, injunctions and other remedies. The bill was introduced alongside several other AI-related measures considered at an October 5, 2026 Committee of the Whole oversight hearing.",
  "model": "claude-sonnet-5",
- "input_hash": "6fe45275f6059436"
+ "input_hash": "062f2121156cdf67"
 }

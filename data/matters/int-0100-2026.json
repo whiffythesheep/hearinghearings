@@ -22,7 +22,8 @@
   "Harvey D. Epstein",
   "Crystal Hudson",
   "Pierina Ana Sanchez",
-  "Carl Wilson"
+  "Carl Wilson",
+  "Lincoln Restler"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -52,6 +53,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252141&GUID=D43AAEE8-D0AA-4834-9B19-8DA1804F824E"
   },
   {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093384&GUID=B8F53BAF-A920-454F-A109-F4A31E2538E2"
+  },
+  {
    "label": "Committee Report 9/22/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866699&GUID=BB12514B-BDE9-4A23-981C-4D70F928C928"
@@ -70,11 +76,6 @@
    "label": "Hearing Transcript 9/22/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089201&GUID=96576D1D-E63E-4C2E-ABFB-D8C447694DC8"
-  },
-  {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093384&GUID=B8F53BAF-A920-454F-A109-F4A31E2538E2"
   }
  ],
  "fiscal": {
