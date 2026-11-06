@@ -393,21 +393,50 @@ Changing `SYSTEM` or `PROMPT_VERSION` regenerates everything on the next run.
 
 Since 2026-11-01 the nightly job runs in **GitHub Actions**, not on the laptop:
 `.github/workflows/nightly.yml`, daily at 23:30 UTC (19:30 New York in summer), plus a manual
-"Run workflow" button with a `limit` input. A second schedule, **daytime checks** every two hours on
-weekdays (14:17–22:17 UTC), runs only the new-hearings stage so a hearing goes live soon after its
+"Run workflow" button with a `limit` input. A second schedule, **daytime checks** every hour on
+weekdays (14:17–22:17 UTC; hourly since 2026-11-06 because GitHub dropped about four in five of
+the two-hourly runs), runs only the new-hearings stage so a hearing goes live soon after its
 recording appears; it skips the record refresh and does not save the Legistar cache
 (`RECORD_REFRESH` in the workflow, keyed on the cron string). A check that finds nothing calls no
 API and pushes nothing. GitHub is the home of the project; the laptop clone
 is a backup and a place to work by hand. The laptop's Task Scheduler tasks
-(`HearingHearingsDiscover`, `HearingHearingsAudit`) are disabled. GitHub emails the owner when a
-run fails; a quiet night needs no attention. Public repo, so Actions minutes are free.
+(`HearingHearingsDiscover`, `HearingHearingsAudit`) are disabled. Public repo, so Actions
+minutes are free.
+
+**How problems surface** (since 2026-11-06; before that a hearing that failed every run still
+left the run green, and nobody was told):
+
+- A hearing whose pipeline **fails** (anything but the Council not having posted it yet) fails
+  the run, so GitHub emails the owner. It is retried on the next run.
+- A hearing held on an **earlier day** that is still **waiting on the Council** goes into one
+  GitHub issue, **"Hearings waiting to be published"** (label `hearings-waiting`), maintained by
+  `update_waiting_issue()` in `discover_pending.py`. Opening it and each comment naming a newly
+  stuck hearing notify the owner; later runs only edit the list, so one stuck hearing is one
+  email. It closes itself when the list is empty. To give up on a hearing, add its event ID to
+  `discover_skiplist.txt`. Every run also writes the list to its job summary.
+- "Waiting" means: no recording linked on Legistar, or a recording with **no captions**. The
+  caption check (`probe_viebit_captions()` in `council_scraper.py`) runs during discovery, so an
+  uncaptioned recording neither costs a Claude call nor takes one of the run's `--limit` slots.
+  Until 2026-11-06 two uncaptioned Oct 22 recordings were retried first on every run, taking 2
+  of the 3 slots and delaying other hearings.
+- **Deferred** meetings (from `data/meetings/*.json`, `agenda_status == "Deferred"`) are not
+  waiting: they never happened. They are most of what Legistar shows as "no video": on
+  2026-11-06 all 10 such past meetings on the calendar were deferred.
+
+What was checked on 2026-11-06 and ruled out as faster sources (probed from GitHub Actions):
+**YouTube** answers every request from GitHub's runners with "Sign in to confirm you're not a
+bot", so the pipeline's YouTube fallback cannot work in the cloud. **Viebit's catalogue**
+(`/vb/public/vod`) returns only its 20 oldest recordings (2012 onwards) and ignored every search,
+sort and paging parameter tried. Viebit does sometimes have a recording well before Legistar
+links it (Children and Youth, 2026-10-27: on Viebit with captions that evening, linked on
+Legistar on 2026-11-05), but without a usable catalogue there is no way to find it first.
 
 It keeps the **whole site** current in two stages, both pushing **straight to master** (live
 with no review):
 
 - **Record refresh** (`refresh_record_nightly.py`): matters, votes, vote sessions and the next
   one or two days' upcoming meetings.
-- **New hearings** (`discover_pending.py --publish`, up to 3 a night): each new recording is
+- **New hearings** (`discover_pending.py --publish`, up to 3 per run): each new recording is
   summarised and committed to master directly. There are no `pending/*` branches or PRs any
   more; without `--publish` the script still has the old branch-and-PR behaviour for manual use.
 
