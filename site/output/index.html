@@ -211,7 +211,7 @@
         <input type="search" id="hearing-search" class="hearing-controls__search bevel-in"
                placeholder="search" autocomplete="off">
         <span class="hearing-controls__status">
-            <span id="hearing-count" aria-live="polite">Showing 177 of 177</span>
+            <span id="hearing-count" aria-live="polite">Showing 180 of 180</span>
             <button type="button" id="hearing-clear" class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>
         </span>
     </header>
@@ -528,12 +528,65 @@
                             <span>Hearing and vote</span>
                         </label>
                     
+                        <label class="colheader-filter__option">
+                            <input type="checkbox" value="Upcoming">
+                            <span>Upcoming</span>
+                        </label>
+                    
                     </div>
                 </span>
                 <button type="button" class="colheader-sort" id="mention-sort" hidden aria-pressed="false">
                     Mentions
                     <svg class="colheader-filter__glyph" aria-hidden="true" width="11" height="6" viewBox="0 0 11 6"><path d="M0 0 L5.5 6 L11 0 Z" fill="currentColor"/></svg>
                 </button>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Subcommittee on Zoning and Franchises"]'
+                data-title="Agenda not yet posted"
+                data-month="2026-11"
+                data-kind="Upcoming"
+                data-slug=""
+                data-items="">
+                <a href="/meetings/1443477/">
+                    <time class="hearing-row__date" datetime="2026-11-10">
+                        November 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Subcommittee on Zoning and Franchises</span>
+                    <span class="hearing-row__title">Agenda not yet posted</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Land Use"]'
+                data-title="Agenda not yet posted"
+                data-month="2026-11"
+                data-kind="Upcoming"
+                data-slug=""
+                data-items="">
+                <a href="/meetings/1443476/">
+                    <time class="hearing-row__date" datetime="2026-11-10">
+                        November 10, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Land Use</span>
+                    <span class="hearing-row__title">Agenda not yet posted</span>
+                </a>
+            </li>
+        
+            <li class="hearing-row hearing-row--upcoming"
+                data-committees='["Committee on Rules, Privileges, Elections, Standards and Ethics"]'
+                data-title="Nominations: Anthony Crowell, City Planning Commission + 5 more"
+                data-month="2026-11"
+                data-kind="Upcoming"
+                data-slug=""
+                data-items="">
+                <a href="/meetings/1461473/">
+                    <time class="hearing-row__date" datetime="2026-11-09">
+                        November 9, 2026
+                    </time>
+                    <span class="hearing-row__committee">Committee on Rules, Privileges, Elections, Standards and Ethics</span>
+                    <span class="hearing-row__title">Nominations: Anthony Crowell, City Planning Commission + 5 more</span>
+                </a>
             </li>
         
             <li class="hearing-row"
@@ -3460,7 +3513,7 @@
 <script>
     (function () {
         var PAGE_SIZE = 20;
-        var totalHearings = 177;
+        var totalHearings = 180;
         var searchInput = document.getElementById('hearing-search');
         var clearBtn = document.getElementById('hearing-clear');
         var countEl = document.getElementById('hearing-count');

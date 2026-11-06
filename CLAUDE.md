@@ -301,7 +301,7 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   2026-11-03): the next meeting day is always shown in full, and the day after joins it only
   when the first day has fewer than 5 meetings and the two together are at most 6 (3 + 3 shows
   both; 5 + 1 shows just the 5). `scrape_record.py` fetches future meetings in date order until
-  it has two days with live (not deferred) meetings. A "Meeting ▾" column filter switches between them. The nav is Hearings,
+  it has two days with live (not deferred) meetings. An upcoming meeting is listed even when it has no listable items (agenda not posted yet, titled "Agenda not yet posted"; or only nominations, which are excluded paperwork types, titled "Nominations: …"). Until 2026-11-05 such meetings were dropped, so the list showed no upcoming rows at all whenever the next meeting days were Land Use (agendas posted late) or Rules. A "Meeting ▾" column filter switches between them. The nav is Hearings,
   Matters, Members, Committees.
 - **Left out entirely:** deferred meetings (`agenda_status == "Deferred"`; they never
   happened), upcoming meetings beyond those days, and "process only" meetings (held, unsummarised,

@@ -499,6 +499,16 @@ def _record_only_title(meeting):
         first = rows[0].get("name") or rows[0]["file_number"]
         more = len(rows) - 1
         return first + (f" + {more} more" if more else "")
+    # Nothing listable: the Rules committee's agenda is nominations (Mayor's
+    # Messages and Communications, both left out as paperwork), and an
+    # upcoming agenda may simply not be posted yet.
+    hidden = meeting.get("excluded_items") or []
+    if hidden and "Rules, Privileges" in body:
+        first = (hidden[0].get("name") or hidden[0]["file_number"]).rstrip(".")
+        more = len(hidden) - 1
+        return f"Nominations: {first}" + (f" + {more} more" if more else "")
+    if not hidden and meeting.get("date", "") > datetime.now().strftime("%Y-%m-%d"):
+        return "Agenda not yet posted"
     return body
 
 
@@ -556,6 +566,8 @@ def load_records(hearings, today=None):
     aliased = [by_slug[s] for s in alias]
     matters = [m for m in matters if m["slug"] not in alias]
     for meeting in meetings:
+        meeting["excluded_items"] = [i for i in meeting.get("items", [])
+                                     if i.get("type") in EXCLUDED_TYPES]
         meeting["items"] = [i for i in meeting.get("items", [])
                             if i.get("type") not in EXCLUDED_TYPES]
         # Agendas name the T-number; show the item under its real number.
@@ -720,7 +732,11 @@ def load_records(hearings, today=None):
             kind = "Process only"
         meeting["kind"] = kind
         meeting["title"] = meeting["hearing_title"] or _record_only_title(meeting)
-        meeting["listed"] = bool(meeting["rows"] or meeting["has_hearing"]) and kind != "Process only"
+        # An upcoming meeting is listed even with nothing to show yet: its
+        # agenda may not be posted (Land Use posts days late), or hold only
+        # paperwork types such as appointments (Mayor's Messages).
+        meeting["listed"] = (bool(meeting["rows"] or meeting["has_hearing"])
+                             or kind == "Upcoming") and kind != "Process only"
         meeting["bodies"] = [meeting.get("body", "")]
 
     # Joint meetings with no published hearing: Legistar gives each committee
@@ -731,7 +747,9 @@ def load_records(hearings, today=None):
             continue
         # Oversight topics get a T-number per committee, so match on the
         # derived title (same day, same topic) rather than on file numbers.
-        key = (meeting.get("date", ""), meeting["title"])
+        # A meeting with no agenda items yet has nothing to match on.
+        key = ((meeting.get("date", ""), meeting["title"]) if meeting["rows"]
+               else meeting["event_id"])
         primary = primary_by_agenda.setdefault(key, meeting)
         if primary is meeting:
             continue
