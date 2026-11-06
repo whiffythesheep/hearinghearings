@@ -1,0 +1,23 @@
+# TEMPORARY: one-off read-only probe, runs only on this branch. Delete after use.
+name: Probe video sources
+on:
+  push:
+    branches: [claude/sharp-ramanujan-1lgnb7]
+    paths: [scripts_probe/**, .github/workflows/probe-video-sources.yml]
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: America/New_York
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python scripts_probe/probe_video_sources.py
