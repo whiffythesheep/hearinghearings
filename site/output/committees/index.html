@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=2f4d29c507">
+    <link rel="stylesheet" href="/static/site.css?v=e5b142fcca">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/committees/">
     <meta name="description" content="New York City Council committees and the matters before them.">
@@ -53,6 +53,12 @@
 <div class="record">
     <header class="intro-block">
         <h1>Committees</h1>
+        
+        <nav class="body-tabs" aria-label="Kinds of committee">
+            <a class="nav-button bevel-out" href="?kind=City%20Council" data-kind="City Council">City Council</a>
+            <a class="nav-button bevel-out" href="?kind=Committees" data-kind="Committees">Committees</a>
+            <a class="nav-button bevel-out" href="?kind=Subcommittees" data-kind="Subcommittees">Subcommittees</a>
+        </nav>
         
     <div class="intro-skyline" aria-hidden="true">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 52" shape-rendering="crispEdges">
@@ -222,6 +228,7 @@
                 <th>Chair</th>
                 <th>Meetings</th>
                 <th>Matters</th>
+                <th class="col-hidden" data-filter>Kind</th>
             </tr></thead>
             <tbody>
             
@@ -230,6 +237,7 @@
                     <td>—</td>
                     <td class="num">8</td>
                     <td class="num">417</td>
+                    <td class="col-hidden">City Council</td>
                 </tr>
             
                 <tr>
@@ -237,6 +245,7 @@
                     <td>—</td>
                     <td class="num">1</td>
                     <td class="num">11</td>
+                    <td class="col-hidden">City Council</td>
                 </tr>
             
                 <tr>
@@ -244,6 +253,7 @@
                     <td><a class="record-link" href="/members/susan-zhuang/">Susan Zhuang</a></td>
                     <td class="num">4</td>
                     <td class="num">21</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -251,6 +261,7 @@
                     <td><a class="record-link" href="/members/althea-stevens/">Althea Stevens</a></td>
                     <td class="num">5</td>
                     <td class="num">19</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -258,6 +269,7 @@
                     <td><a class="record-link" href="/members/shirley-aldebol/">Shirley Aldebol</a></td>
                     <td class="num">2</td>
                     <td class="num">2</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -265,6 +277,7 @@
                     <td><a class="record-link" href="/members/sandy-nurse/">Sandy Nurse</a></td>
                     <td class="num">2</td>
                     <td class="num">6</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -272,6 +285,7 @@
                     <td><a class="record-link" href="/members/harvey-epstein/">Harvey Epstein</a></td>
                     <td class="num">9</td>
                     <td class="num">45</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -279,6 +293,7 @@
                     <td><a class="record-link" href="/members/lincoln-restler/">Lincoln Restler</a></td>
                     <td class="num">3</td>
                     <td class="num">11</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -286,6 +301,7 @@
                     <td><a class="record-link" href="/members/selvena-brooks-powers/">Selvena N. Brooks-Powers</a></td>
                     <td class="num">8</td>
                     <td class="num">18</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -293,6 +309,7 @@
                     <td><a class="record-link" href="/members/nantasha-williams/">Nantasha Williams</a></td>
                     <td class="num">6</td>
                     <td class="num">25</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -300,6 +317,7 @@
                     <td><a class="record-link" href="/members/shahana-hanif/">Shahana Hanif</a></td>
                     <td class="num">3</td>
                     <td class="num">21</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -307,6 +325,7 @@
                     <td><a class="record-link" href="/members/virginia-maloney/">Virginia Maloney</a></td>
                     <td class="num">3</td>
                     <td class="num">8</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -314,6 +333,7 @@
                     <td><a class="record-link" href="/members/eric-dinowitz/">Eric Dinowitz</a></td>
                     <td class="num">8</td>
                     <td class="num">16</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -321,6 +341,7 @@
                     <td><a class="record-link" href="/members/james-gennaro/">James F. Gennaro</a></td>
                     <td class="num">3</td>
                     <td class="num">12</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -328,6 +349,7 @@
                     <td><a class="record-link" href="/members/linda-lee/">Linda Lee</a></td>
                     <td class="num">14</td>
                     <td class="num">34</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -335,6 +357,7 @@
                     <td><a class="record-link" href="/members/joann-ariola/">Joann Ariola</a></td>
                     <td class="num">3</td>
                     <td class="num">4</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -342,6 +365,7 @@
                     <td><a class="record-link" href="/members/crystal-hudson/">Crystal Hudson</a></td>
                     <td class="num">6</td>
                     <td class="num">20</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -349,6 +373,7 @@
                     <td><a class="record-link" href="/members/gale-brewer/">Gale A. Brewer</a></td>
                     <td class="num">8</td>
                     <td class="num">23</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -356,6 +381,7 @@
                     <td><a class="record-link" href="/members/lynn-schulman/">Lynn Schulman</a></td>
                     <td class="num">7</td>
                     <td class="num">36</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -363,6 +389,7 @@
                     <td><a class="record-link" href="/members/rita-joseph/">Rita C. Joseph</a></td>
                     <td class="num">3</td>
                     <td class="num">7</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -370,6 +397,7 @@
                     <td><a class="record-link" href="/members/mercedes-narcisse/">Mercedes Narcisse</a></td>
                     <td class="num">4</td>
                     <td class="num">8</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -377,6 +405,7 @@
                     <td><a class="record-link" href="/members/pierina-ana-sanchez/">Pierina Ana Sanchez</a></td>
                     <td class="num">8</td>
                     <td class="num">20</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -384,6 +413,7 @@
                     <td><a class="record-link" href="/members/elsie-encarnacion/">Elsie Encarnacion</a></td>
                     <td class="num">4</td>
                     <td class="num">6</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -391,6 +421,7 @@
                     <td><a class="record-link" href="/members/kevin-riley/">Kevin C. Riley</a></td>
                     <td class="num">6</td>
                     <td class="num">35</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -398,6 +429,7 @@
                     <td><a class="record-link" href="/members/tiffany-caban/">Tiffany Cabán</a></td>
                     <td class="num">4</td>
                     <td class="num">11</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -405,6 +437,7 @@
                     <td><a class="record-link" href="/members/shekar-krishnan/">Shekar Krishnan</a></td>
                     <td class="num">2</td>
                     <td class="num">2</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -412,6 +445,7 @@
                     <td><a class="record-link" href="/members/ty-hankerson/">Ty Hankerson</a></td>
                     <td class="num">8</td>
                     <td class="num">14</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -419,6 +453,7 @@
                     <td><a class="record-link" href="/members/chris-banks/">Chris Banks</a></td>
                     <td class="num">4</td>
                     <td class="num">6</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -426,6 +461,7 @@
                     <td><a class="record-link" href="/members/oswald-feliz/">Oswald Feliz</a></td>
                     <td class="num">6</td>
                     <td class="num">37</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -433,6 +469,7 @@
                     <td><a class="record-link" href="/members/sandra-ung/">Sandra Ung</a></td>
                     <td class="num">4</td>
                     <td class="num">1</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -440,6 +477,7 @@
                     <td><a class="record-link" href="/members/justin-sanchez/">Justin Sanchez</a></td>
                     <td class="num">8</td>
                     <td class="num">32</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -447,6 +485,7 @@
                     <td><a class="record-link" href="/members/shanel-thomas-henry/">Shanel Thomas-Henry</a></td>
                     <td class="num">6</td>
                     <td class="num">13</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -454,6 +493,7 @@
                     <td><a class="record-link" href="/members/carmen-de-la-rosa/">Carmen De La Rosa</a></td>
                     <td class="num">3</td>
                     <td class="num">6</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -461,6 +501,7 @@
                     <td><a class="record-link" href="/members/shaun-abreu/">Shaun Abreu</a></td>
                     <td class="num">8</td>
                     <td class="num">58</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -468,6 +509,7 @@
                     <td><a class="record-link" href="/members/frank-morano/">Frank Morano</a></td>
                     <td class="num">3</td>
                     <td class="num">10</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -475,6 +517,7 @@
                     <td><a class="record-link" href="/members/amanda-farias/">Amanda Farías</a></td>
                     <td class="num">4</td>
                     <td class="num">16</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -482,6 +525,7 @@
                     <td><a class="record-link" href="/members/julie-won/">Julie Won</a></td>
                     <td class="num">1</td>
                     <td class="num">1</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -489,6 +533,7 @@
                     <td><a class="record-link" href="/members/yusef-salaam/">Yusef Salaam</a></td>
                     <td class="num">1</td>
                     <td class="num">1</td>
+                    <td class="col-hidden">Committees</td>
                 </tr>
             
                 <tr>
@@ -496,6 +541,7 @@
                     <td><a class="record-link" href="/members/jennifer-gutierrez/">Jennifer Gutiérrez</a></td>
                     <td class="num">5</td>
                     <td class="num">7</td>
+                    <td class="col-hidden">Subcommittees</td>
                 </tr>
             
                 <tr>
@@ -503,6 +549,7 @@
                     <td>—</td>
                     <td class="num">1</td>
                     <td class="num">2</td>
+                    <td class="col-hidden">Subcommittees</td>
                 </tr>
             
                 <tr>
@@ -510,6 +557,7 @@
                     <td><a class="record-link" href="/members/farah-louis/">Farah N. Louis</a></td>
                     <td class="num">8</td>
                     <td class="num">47</td>
+                    <td class="col-hidden">Subcommittees</td>
                 </tr>
             
             </tbody>
@@ -519,6 +567,25 @@
 <p class="hearing-empty record-empty" data-empty-for="committee-table" hidden>No committee matches.</p>
 
 </div>
+<script>
+(function () {
+    // Mark the button matching ?kind= as active; clicking it again clears it.
+    var tabs = document.querySelectorAll('.body-tabs [data-kind]');
+    function mark() {
+        var kind = new URLSearchParams(window.location.search).get('kind');
+        tabs.forEach(function (a) {
+            var on = a.dataset.kind === kind;
+            a.classList.toggle('nav-button--active', on);
+            a.setAttribute('aria-current', on ? 'true' : 'false');
+            a.href = on ? window.location.pathname : '?kind=' + encodeURIComponent(a.dataset.kind);
+        });
+    }
+    mark();
+    // The table's own Clear button and Kind filter rewrite the URL in place.
+    document.addEventListener('click', function () { setTimeout(mark, 200); });
+    document.addEventListener('input', function () { setTimeout(mark, 200); });
+})();
+</script>
 
 
             

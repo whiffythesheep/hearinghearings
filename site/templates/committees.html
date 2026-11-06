@@ -7,6 +7,13 @@
 <div class="record">
     <header class="intro-block">
         <h1>Committees</h1>
+        {# Each button filters the table below through its hidden Kind column
+           (?kind=…); clicking the active one shows everything again. #}
+        <nav class="body-tabs" aria-label="Kinds of committee">
+            {%- for kind in ("City Council", "Committees", "Subcommittees") %}
+            <a class="nav-button bevel-out" href="?kind={{ kind | urlencode }}" data-kind="{{ kind }}">{{ kind }}</a>
+            {%- endfor %}
+        </nav>
         {% include "_skyline.html" %}
     </header>
 
@@ -18,6 +25,7 @@
                 <th>Chair</th>
                 <th>Meetings</th>
                 <th>Matters</th>
+                <th class="col-hidden" data-filter>Kind</th>
             </tr></thead>
             <tbody>
             {% for c in committees %}
@@ -26,6 +34,7 @@
                     <td>{% if c.chair_slug %}<a class="record-link" href="/members/{{ c.chair_slug }}/">{{ c.chair }}</a>{% else %}{{ c.chair or "—" }}{% endif %}</td>
                     <td class="num">{{ c.meeting_count }}</td>
                     <td class="num">{{ c.matters | length }}</td>
+                    <td class="col-hidden">{{ c.kind }}</td>
                 </tr>
             {% endfor %}
             </tbody>
@@ -33,4 +42,23 @@
     </div>
     {{ rec.empty_row("committee-table", "No committee matches.") }}
 </div>
+<script>
+(function () {
+    // Mark the button matching ?kind= as active; clicking it again clears it.
+    var tabs = document.querySelectorAll('.body-tabs [data-kind]');
+    function mark() {
+        var kind = new URLSearchParams(window.location.search).get('kind');
+        tabs.forEach(function (a) {
+            var on = a.dataset.kind === kind;
+            a.classList.toggle('nav-button--active', on);
+            a.setAttribute('aria-current', on ? 'true' : 'false');
+            a.href = on ? window.location.pathname : '?kind=' + encodeURIComponent(a.dataset.kind);
+        });
+    }
+    mark();
+    // The table's own Clear button and Kind filter rewrite the URL in place.
+    document.addEventListener('click', function () { setTimeout(mark, 200); });
+    document.addEventListener('input', function () { setTimeout(mark, 200); });
+})();
+</script>
 {% endblock %}

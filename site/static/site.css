@@ -2134,3 +2134,15 @@ details[open] > summary .summary-caret {
         grid-column: 1 / -1;
     }
 }
+
+/* ---------- Committees page: City Council / Committees / Subcommittees ---------- */
+.body-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin: 0.5rem 0 0.75rem;
+}
+
+.col-hidden {
+    display: none;
+}

@@ -520,6 +520,17 @@ UPCOMING_MAX = 6
 UPCOMING_FULL_DAY = 5
 
 
+def body_kind(name):
+    """Which button on the Committees page a body falls under: the full
+    Council (Stated Meetings and the Committee of the Whole), a
+    subcommittee, or an ordinary committee."""
+    if name in ("City Council", "Committee of the Whole") or "Stated" in name:
+        return "City Council"
+    if name.startswith("Subcommittee"):
+        return "Subcommittees"
+    return "Committees"
+
+
 def upcoming_days(dates):
     """The dates shown as upcoming, from the dates of every scheduled future
     meeting (one entry per meeting, deferred ones already left out).
@@ -664,7 +675,7 @@ def load_records(hearings, today=None):
         if body:
             c = committees.setdefault(body, {
                 "name": body, "slug": slugify(body), "meetings": [],
-                "matter_slugs": set(), "vote_count": 0,
+                "matter_slugs": set(), "vote_count": 0, "kind": body_kind(body),
             })
             c["meetings"].append(meeting)
             for row in rows:

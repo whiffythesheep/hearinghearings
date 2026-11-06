@@ -360,6 +360,10 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
   (Primary sponsor / Co-sponsor dropdowns, stage in brackets), Voting record (one closed
   dropdown per month; each line is date, number, title, the hearing record's outcome wording in
   brackets, then the member's vote; `.vote-list` grid in site.css).
+- **Committees page** (2026-11-06): City Council / Committees / Subcommittees buttons under the
+  heading, styled as the section nav. They set `?kind=` on a hidden Kind column
+  (`body_kind()` in `site/record.py`: City Council is the Stated Meeting body plus the Committee
+  of the Whole), which `table-filter.js` filters like any column; clicking the active one clears it.
 - **Hearing pages** link each committee name in the header to its committee page.
 - **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov
   districts page (`refresh_council_roster.py` now stores them in `council_roster.json`).
