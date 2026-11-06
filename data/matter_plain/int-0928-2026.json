@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0928-2026",
- "title": "Law to create an LGBTQ liaison for veterans services",
- "summary": "This bill would require the Department of Veterans' Services to designate a staff liaison for LGBTQ veterans, who would conduct outreach, help coordinate discharge characterization upgrade assistance and connect veterans with programs and services. It would also require the department to post an annual report on LGBTQ veterans served, starting by July 31, 2027. The law would take effect immediately if enacted.",
+ "title": "Law to create an LGBTQ+ liaison for veterans services",
+ "summary": "This bill would require the Department of Veterans' Services to designate a liaison for LGBTQ+ veterans, who would conduct outreach, coordinate help with discharge upgrades and connect veterans to services. The department would also have to post an annual report, starting July 31, 2027, on the number of LGBTQ+ veterans assisted and related outcomes.",
  "model": "claude-sonnet-5",
- "input_hash": "7fc6821050985a48"
+ "input_hash": "b4de114803e21710"
 }

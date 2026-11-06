@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0202-2026",
- "title": "Law to speed up traffic safety fixes near schools",
- "summary": "This bill would require the Department of Transportation to install any traffic calming or traffic control device found necessary near a school within 60 days of its traffic study determination. The requirement would not apply to installations that are part of a major transportation project. It was heard by the Committee on Transportation and Infrastructure on March 3, 2026.",
+ "title": "Law to speed up street safety fixes near schools",
+ "summary": "This bill would require the Department of Transportation to install a traffic calming device or traffic control device within 60 days after a traffic study finds it appropriate for a street next to a school, with an exception for devices installed as part of a major transportation project. It amends the city's administrative code section on street safety near schools.",
  "model": "claude-sonnet-5",
- "input_hash": "320c878429753e17"
+ "input_hash": "02c85129e588a8e7"
 }

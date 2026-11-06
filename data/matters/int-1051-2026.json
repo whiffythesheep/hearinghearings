@@ -3,7 +3,7 @@
  "slug": "int-1051-2026",
  "legistar_id": "8206845",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to the alternative exemption for seriously disabled veterans",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the alternative exemption for permanently and totally disabled veterans",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Frank Morano",
@@ -36,6 +36,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1051-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118544&GUID=2424BBA0-DAAE-4E06-B367-26BD1487D014"
+  },
   {
    "label": "Summary of Int. No. 1051",
    "kind": "Summary",
@@ -80,6 +85,11 @@
    "label": "Hearing Transcript 10/21/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16106369&GUID=762C4E56-E81B-4A2F-B8ED-155EDDB972B8"
+  },
+  {
+   "label": "Proposed Int. No. 1051-A - 11/5/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118542&GUID=10837387-D107-4165-B233-0EFDFA9F5319"
   }
  ],
  "fiscal": {

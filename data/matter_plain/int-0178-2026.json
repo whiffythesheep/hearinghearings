@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0178-2026",
- "title": "Law to create a City office helping building conversions",
- "summary": "This bill would require the mayor to establish an Office of Conversion Assistance to help developers and owners convert non-residential buildings into housing. The office would provide technical help, run an online portal, coordinate with city, state and federal agencies, and identify obstacles to conversions. It must report annually to the Speaker, mayor and Public Advocate on conversion activity and affordable units created, starting within 12 months of the law taking effect.",
+ "title": "Law to create a city office helping building-to-housing conversions",
+ "summary": "This bill would require the Department of Housing Preservation and Development, Department of Buildings, Department of City Planning, Board of Standards and Appeals and Landmarks Preservation Commission to provide coordinated technical assistance to owners and developers converting non-residential buildings to housing. It would create an office of conversion assistance, led by a director, to serve as a single point of contact, maintain a public website with guidance and data, and liaise with state and federal agencies on permits and funding programs. The office would issue a public report every three years on conversions and progress citywide.",
  "model": "claude-sonnet-5",
- "input_hash": "08761987a93b6ee1"
+ "input_hash": "1e0f84a717b3d107"
 }

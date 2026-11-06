@@ -3,7 +3,7 @@
  "slug": "int-0928-2026",
  "legistar_id": "8067757",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing an LGBTQ liaison within the department of veterans’ services",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing an LGBTQ+ liaison within the department of veterans’ services",
  "status": "Laid Over in Committee",
  "sponsors": [
   "David M. Carr",
@@ -20,10 +20,16 @@
   "Kevin C. Riley",
   "Amanda C. Farías",
   "Mercedes Narcisse",
-  "Linda Lee"
+  "Linda Lee",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 928-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118596&GUID=F7CE0D04-F5F3-4E68-B10E-A589FC27F53D"
+  },
   {
    "label": "Summary of Int. No. 928",
    "kind": "Summary",
@@ -63,6 +69,11 @@
    "label": "Hearing Transcript - Stated Meeting 6-11-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15968917&GUID=2C8398DE-03EB-42AD-B656-0B2F69A0B835"
+  },
+  {
+   "label": "Proposed Int. No. 928-A - 11/5/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118595&GUID=23EF84E0-3D3C-4D4A-BB1E-B480D4FA4093"
   }
  ],
  "fiscal": {

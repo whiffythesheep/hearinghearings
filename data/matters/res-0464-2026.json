@@ -22,11 +22,12 @@
   "Pierina Ana Sanchez",
   "Amanda C. Farías",
   "Sandra Ung",
-  "Frank Morano",
   "Lincoln Restler",
   "Althea V. Stevens",
   "Justin E. Sanchez",
   "Jennifer Gutiérrez",
+  "Kayla Santosuosso",
+  "Frank Morano",
   "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
@@ -50,6 +51,11 @@
    "label": "Committee Report 10/27/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094554&GUID=F1D1E7F6-D855-4625-9D8A-00BE2C1F873D"
+  },
+  {
+   "label": "Hearing Testimony 10/27/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118367&GUID=5032FBF2-4F65-40B6-ACBF-F53641E077BE"
   }
  ],
  "fiscal": null,

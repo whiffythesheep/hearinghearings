@@ -3,7 +3,7 @@
  "slug": "int-0178-2026",
  "legistar_id": "7865498",
  "type": "Introduction",
- "title": "A Local Law to amend the New York city charter, in relation to establishing an office of conversion assistance",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to providing support for the conversion of buildings to a residential use",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Harvey D. Epstein",
@@ -25,6 +25,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 178-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16116550&GUID=582ECFDF-365D-4DE9-BC8B-C48259A12A10"
+  },
+  {
    "label": "Summary of Int. No. 178",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15161192&GUID=42F9722E-464D-4D7F-A772-2587E796D712"
@@ -43,6 +48,11 @@
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252258&GUID=A4B12AEC-72D9-4E4B-A864-42CC9F477734"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093526&GUID=AF854ADD-51E0-41A2-AAFE-D1DB537360E2"
   },
   {
    "label": "Memorandum in Support",
@@ -75,9 +85,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075943&GUID=AC4885FF-A345-4EB9-85B6-09DE049D30C8"
   },
   {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093526&GUID=AF854ADD-51E0-41A2-AAFE-D1DB537360E2"
+   "label": "Proposed Int. No. 178-A - 11/5/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16116549&GUID=34ACA351-A073-462D-9D04-96605C0CFC71"
   }
  ],
  "fiscal": {
