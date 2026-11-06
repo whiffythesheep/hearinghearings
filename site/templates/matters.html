@@ -15,7 +15,7 @@
         {% include "_skyline.html" %}
     </header>
 
-    {{ rec.filter_header("Matters", "matter-table", matters | length, "try “rezoning”") }}
+    {{ rec.filter_header("Matters", "matter-table", matters | length, "try “rezoning”", ["rezoning", "e-bike", "rental", "NYPD", "school", "sidewalk café", "Rikers", "composting", "tenants", "budget", "delivery workers", "parking", "Brooklyn", "Queens", "Staten Island", "libraries", "shelter", "child care", "Albany", "Congress", "noise", "bike lane", "landlord", "property tax", "veterans", "immigrants", "City Planning", "affordable housing", "lead paint", "street safety", "eviction", "cooling"]) }}
     <div class="table-scroll listing-well">
         <table class="record-table" id="matter-table" data-page-size="20" data-noun="matter">
             <thead><tr>

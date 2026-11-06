@@ -3,12 +3,14 @@
 
 {# Section heading + search box + count, mirroring the hearings index header.
    Pairs with table-filter.js via data-filter-for. #}
-{% macro filter_header(title, table_id, total, placeholder="search") %}
+{# examples: search phrases rotated through the placeholder (table-filter.js
+   keeps only those that match a row of this table). #}
+{% macro filter_header(title, table_id, total, placeholder="search", examples=None) %}
 <header class="index-section__header" data-filter-for="{{ table_id }}">
     <h2 class="section-heading">{{ title }}</h2>
     <label class="sr-only" for="{{ table_id }}-search">Search {{ title | lower }}</label>
     <input type="search" id="{{ table_id }}-search" class="hearing-controls__search bevel-in"
-           placeholder="{{ placeholder }}" autocomplete="off">
+           placeholder="{{ placeholder }}" autocomplete="off"{% if examples %} data-examples='{{ examples | tojson }}'{% endif %}>
     <span class="hearing-controls__status">
         <span data-count aria-live="polite">Showing {{ total }} of {{ total }}</span>
         <button type="button" data-clear class="hearing-controls__clear-link" hidden><span aria-hidden="true">×</span> Clear</button>

@@ -11,6 +11,8 @@
  *   <td data-value="x">                   filter value (defaults to the cell text);
  *   <td data-values='["a","b"]'>          several values (e.g. committees)
  *   <tr data-find="...">                  search haystack (defaults to the row text)
+ *   <input data-examples='["a","b"]'>     rotating "try …" placeholders; only those
+ *                                         matching a row are used
  *   <table data-page-size="20">           paginate: First, Prev, the current page and
  *                                         its four nearest, Next, Last, above and
  *                                         below the table (?page=N)
@@ -226,6 +228,40 @@
         var hay = rows.map(function (r) {
             return (r.dataset.find || r.textContent).replace(/\s+/g, ' ').toLowerCase();
         });
+
+        // Rotating examples in the search box, as on the hearings index:
+        // <input data-examples='["rezoning", …]'>. Only examples that match a
+        // row of this table are used, so a committee page never suggests a
+        // search that finds nothing there.
+        if (input && input.dataset.examples) {
+            var examples = [];
+            try { examples = JSON.parse(input.dataset.examples); } catch (e) { examples = []; }
+            examples = examples.filter(function (x) {
+                var q = x.toLowerCase();
+                return hay.some(function (h) { return h.indexOf(q) !== -1; });
+            });
+            for (var si = examples.length - 1; si > 0; si--) {
+                var sj = Math.floor(Math.random() * (si + 1));
+                var stmp = examples[si]; examples[si] = examples[sj]; examples[sj] = stmp;
+            }
+            if (examples.length) {
+                var exampleIdx = 0;
+                var FADE_MS = 140; // keep in sync with the ::placeholder transition
+                var setExample = function () {
+                    input.placeholder = 'try \u201c' + examples[exampleIdx % examples.length] + '\u201d';
+                    exampleIdx++;
+                };
+                setExample();
+                if (examples.length > 1) setInterval(function () {
+                    if (document.activeElement === input || input.value) return;
+                    input.classList.add('placeholder-fade');
+                    setTimeout(function () {
+                        if (document.activeElement !== input && !input.value) setExample();
+                        input.classList.remove('placeholder-fade');
+                    }, FADE_MS);
+                }, 2000);
+            }
+        }
 
         function apply() {
             var q = input ? input.value.trim().toLowerCase() : '';

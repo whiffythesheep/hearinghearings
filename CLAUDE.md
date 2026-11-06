@@ -368,7 +368,11 @@ holds ~100 rows, about a month of past meetings — anything older is unreachabl
 - **Members** show party, borough and a short neighbourhood list, from the council.nyc.gov
   districts page (`refresh_council_roster.py` now stores them in `council_roster.json`).
 - **Tables** share `site/static/table-filter.js` (search box, Explorer-style column filter
-  popovers, `data-sort` A–Z/Z–A, filter state in the URL).
+  popovers, `data-sort` A–Z/Z–A, filter state in the URL), rotating "try …" examples). The
+  examples are listed per page in the `filter_header()` call (Matters, Members, Committees and
+  each committee's matters); the script drops any that match no row of that table before
+  rotating, so pick phrases that are not substrings of common words ("rent" hits "current",
+  "ICE" hits "office").
 - **Back links**: the fixed parent link, plus "← Back to <page>" only when the referrer is a
   different page from the parent (query strings ignored); names via sessionStorage.
 
