@@ -19,6 +19,7 @@ Entry points:
         onclick handler.
 
     fetch_viebit_duration_seconds(viebit_url) -> int | None
+    probe_viebit_captions(viebit_url) -> (status, seconds)
         Reads the final caption cue's end timestamp from a Viebit watch
         page without parsing the whole VTT. Used by the discovery
         filter to drop short procedural hearings before the expensive
@@ -294,38 +295,46 @@ VIEBIT_TIME_RE = re.compile(
 )
 
 
-def fetch_viebit_duration_seconds(viebit_url: str) -> int | None:
-    """Return the hearing duration in seconds, derived from the VTT's final cue.
+def probe_viebit_captions(viebit_url: str) -> tuple[str, int | None]:
+    """Check a Viebit recording's captions and return ``(status, seconds)``.
+
+    ``status`` is ``"ok"`` (with the duration in seconds, from the VTT's
+    final cue), ``"no-captions"`` (the page loaded but carries no caption
+    track: the recording is up but not yet captioned, so the pipeline would
+    fail on it) or ``"error"`` (a network or parse failure: unknown, so the
+    caller should not hold the hearing back on it).
 
     Reuses the same caption-URL regex `summarize_council_meeting.py`
     uses, so works for both `/watch?hash=...` and `/vod/?v=...` shapes
-    of viebit URL. Scans the cue file from the end to find the last
-    `HH:MM:SS.mmm --> HH:MM:SS.mmm` line and returns the right-hand
-    end-timestamp in whole seconds. Returns None on any failure — the
-    caller treats that as "unknown duration, don't filter".
+    of viebit URL.
     """
     try:
         r = requests.get(viebit_url, headers=BROWSER_HEADERS, timeout=30)
         r.raise_for_status()
     except Exception as e:
         logger.warning("Viebit page fetch failed for %s: %s", viebit_url, e)
-        return None
+        return "error", None
     cap_match = re.search(
         r'"src"\s*:\s*"(https://[^"]+\.vtt[^"]*)"', r.text,
     )
     if not cap_match:
         logger.info("No caption URL on Viebit page for %s", viebit_url)
-        return None
+        return "no-captions", None
     caption_url = cap_match.group(1)
     try:
         v = requests.get(caption_url, headers=BROWSER_HEADERS, timeout=60)
         v.raise_for_status()
     except Exception as e:
         logger.warning("VTT fetch failed for %s: %s", caption_url, e)
-        return None
+        return "error", None
     matches = list(VIEBIT_TIME_RE.finditer(v.text))
     if not matches:
-        return None
+        return "error", None
     last = matches[-1]
     h, m, s = int(last.group(5)), int(last.group(6)), int(last.group(7))
-    return h * 3600 + m * 60 + s
+    return "ok", h * 3600 + m * 60 + s
+
+
+def fetch_viebit_duration_seconds(viebit_url: str) -> int | None:
+    """The hearing duration in seconds, or None if it cannot be read."""
+    return probe_viebit_captions(viebit_url)[1]

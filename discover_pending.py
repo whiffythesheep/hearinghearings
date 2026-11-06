@@ -38,6 +38,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import re
 import subprocess
 import sys
@@ -46,12 +47,13 @@ from datetime import date, datetime
 from pathlib import Path
 
 from council_scraper import (
-    fetch_viebit_duration_seconds,
     list_calendar_events,
+    probe_viebit_captions,
 )
 
 REPO_ROOT = Path(__file__).resolve().parent
 CONTENT_DIR = REPO_ROOT / "content"
+MEETINGS_DIR = REPO_ROOT / "data" / "meetings"
 SKIPLIST_PATH = REPO_ROOT / "discover_skiplist.txt"
 SITE_BUILD_PY = REPO_ROOT / "site" / "build.py"
 SUMMARIZER_PY = REPO_ROOT / "summarize_council_meeting.py"
@@ -90,6 +92,21 @@ IMPORT_FAILURE_SIGNATURES = (
     "Application Control policy has blocked",
 )
 PIPELINE_IMPORT_RETRIES = 2  # extra attempts after the first (3 total)
+
+# Pipeline failures that mean "the Council has not finished posting this
+# hearing yet", not "something is broken": the hearing is retried on the
+# next run and reported as waiting, without failing the run.
+WAITING_SIGNATURES = {
+    "No caption URL found on Viebit watch page": "recording has no captions yet",
+    "No video archived yet": "no recording yet",
+    "may not have auto-generated captions yet": "recording has no captions yet",
+}
+
+# The GitHub issue that lists hearings held on an earlier day and still not
+# published. Opening it, and each comment naming a newly stuck hearing,
+# notifies the repo owner; edits to the list do not.
+WAITING_ISSUE_TITLE = "Hearings waiting to be published"
+WAITING_ISSUE_LABEL = "hearings-waiting"
 PIPELINE_RETRY_DELAY_SECONDS = 5
 
 logging.basicConfig(
@@ -182,6 +199,24 @@ def skiplisted_event_ids() -> set[str]:
         entry = line.split("#", 1)[0].strip()
         if entry.isdigit():
             ids.add(entry)
+    return ids
+
+
+def deferred_event_ids() -> set[str]:
+    """Event IDs the record layer knows were deferred (never held).
+
+    Legistar leaves a deferred meeting on the calendar with an agenda and no
+    video, so without this every deferral looks like a missing recording.
+    ``data/meetings/`` is refreshed nightly by ``refresh_record_nightly.py``.
+    """
+    ids: set[str] = set()
+    for path in MEETINGS_DIR.glob("*.json"):
+        try:
+            meeting = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if meeting.get("agenda_status") == "Deferred":
+            ids.add(path.stem)
     return ids
 
 
@@ -384,12 +419,17 @@ def _is_import_failure(output: str) -> bool:
     return any(sig in output for sig in IMPORT_FAILURE_SIGNATURES)
 
 
-def run_pipeline(legistar_url: str) -> bool:
+def waiting_reason(output: str) -> str | None:
+    """Why a failed pipeline run is only waiting on the Council, if it is."""
+    return next((why for sig, why in WAITING_SIGNATURES.items() if sig in output), None)
+
+
+def run_pipeline(legistar_url: str) -> tuple[bool, str]:
     """Invoke summarize_council_meeting.py for one event.
 
     Retries only when the run aborts on the transient jiter/AppControl DLL
     block at import time (see IMPORT_FAILURE_SIGNATURES); any other nonzero
-    exit is a real failure and returned immediately.
+    exit is a real failure and returned immediately. Returns ``(ok, output)``.
     """
     cmd = [
         sys.executable, str(SUMMARIZER_PY),
@@ -401,7 +441,7 @@ def run_pipeline(legistar_url: str) -> bool:
     for attempt in range(1, attempts + 1):
         rc, output = _run_pipeline_once(cmd)
         if rc == 0:
-            return True
+            return True, output
         if _is_import_failure(output) and attempt < attempts:
             logger.warning(
                 "Pipeline aborted at import on attempt %d/%d (transient "
@@ -420,8 +460,8 @@ def run_pipeline(legistar_url: str) -> bool:
             )
         else:
             logger.error("Pipeline exited with code %s", rc)
-        return False
-    return False
+        return False, output
+    return False, ""
 
 
 def build_site() -> bool:
@@ -562,9 +602,11 @@ def publish_event(event: dict) -> str:
     """
     logger.info("=== %s | %s | %s",
                 event["event_id"], event["event_date"], event["body_name"])
-    ok = run_pipeline(event["council_url"])
+    ok, output = run_pipeline(event["council_url"])
     new_md = new_markdown_files() if ok else []
-    status = ("pipeline-failed" if not ok else
+    why = None if ok else waiting_reason(output)
+    status = (f"waiting: {why}" if why else
+              "pipeline-failed" if not ok else
               "no-output" if not new_md else
               "site-build-failed" if not build_site() else "")
     if status:
@@ -598,8 +640,10 @@ def process_event(event: dict) -> str:
 
     git("checkout", "-b", branch)
     try:
-        if not run_pipeline(event["council_url"]):
-            return "pipeline-failed"
+        ok, output = run_pipeline(event["council_url"])
+        if not ok:
+            why = waiting_reason(output)
+            return f"waiting: {why}" if why else "pipeline-failed"
         new_md = new_markdown_files()
         if not new_md:
             logger.error("Pipeline succeeded but no new content/*.md found")
@@ -650,6 +694,117 @@ def process_event(event: dict) -> str:
             )
         else:
             delete_branch_if_empty(branch)
+
+
+# --- reporting ----------------------------------------------------------
+
+
+def _event_line(e: dict, note: str) -> str:
+    return (f"| {e['event_date']} | [{e['body_name']}]({e['council_url']}) "
+            f"| {note} | {e['event_id']} |")
+
+
+def report(waiting: list[tuple[dict, str]],
+           errors: list[tuple[dict, str]], publish: bool) -> None:
+    """Say what could not be published, where the owner will see it.
+
+    Every run logs it and writes it to the GitHub job summary. A hearing held
+    on an earlier day that is still waiting is "overdue": with ``--publish``
+    on GitHub Actions the overdue list is kept in one issue (see
+    ``update_waiting_issue``). Hearings held today are not overdue; their
+    recordings and captions usually appear within hours.
+    """
+    today = date.today().isoformat()
+    overdue = sorted(((e, why) for e, why in waiting if e["event_date"] < today),
+                     key=lambda x: (x[0]["event_date"], x[0]["event_id"]))
+    for e, why in waiting:
+        logger.info("  waiting %s | %s | %s — %s", e["event_id"],
+                    e["event_date"], e["body_name"][:50], why)
+    head = "| Held | Meeting | Why | Event |\n|---|---|---|---|"
+    parts = []
+    if errors:
+        parts.append("### Failed\n\n" + head + "\n" + "\n".join(
+            _event_line(e, st) for e, st in errors))
+    if overdue:
+        parts.append("### Waiting on the Council\n\n" + head + "\n" + "\n".join(
+            _event_line(e, why) for e, why in overdue))
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        with open(summary_path, "a", encoding="utf-8") as f:
+            f.write("## New hearings\n\n" + ("\n\n".join(parts) or
+                    "Nothing failed and nothing is overdue.") + "\n")
+    if publish and os.environ.get("GITHUB_ACTIONS") == "true":
+        try:
+            update_waiting_issue(overdue)
+        except Exception as ex:  # reporting must never break publishing
+            logger.warning("Could not update the waiting-hearings issue: %s", ex)
+
+
+_ISSUE_IDS_RE = re.compile(r"<!-- waiting: ([\d,]*) -->")
+
+
+def _gh(*args: str) -> str:
+    res = subprocess.run(["gh", *args], cwd=REPO_ROOT,
+                         capture_output=True, text=True, check=True)
+    return res.stdout
+
+
+def update_waiting_issue(overdue: list[tuple[dict, str]]) -> None:
+    """Keep one GitHub issue listing overdue hearings.
+
+    The issue is opened when a hearing first becomes overdue (GitHub notifies
+    the repo owner), and a comment names each newly overdue hearing after
+    that (another notification). Re-runs only edit the list, which notifies
+    no one, so a hearing stuck for a week sends one email, not one per run.
+    When nothing is overdue the issue is closed. To stop waiting for a
+    hearing that will never be published, add its event ID to
+    ``discover_skiplist.txt``.
+    """
+    found = json.loads(_gh("issue", "list", "--state", "all", "--label",
+                           WAITING_ISSUE_LABEL, "--limit", "1",
+                           "--json", "number,state,body"))
+    issue = found[0] if found else None
+    ids = [e["event_id"] for e, _ in overdue]
+    before: set[str] = set()
+    if issue and issue["state"] == "OPEN":
+        m = _ISSUE_IDS_RE.search(issue.get("body") or "")
+        before = set(filter(None, m.group(1).split(","))) if m else set()
+    if not overdue:
+        if issue and issue["state"] == "OPEN":
+            _gh("issue", "close", str(issue["number"]), "--comment",
+                "Nothing is waiting any more: every held hearing is published.")
+        return
+    body = (
+        "Hearings held on an earlier day that the nightly run could not "
+        "publish yet, usually because the Council has not linked or "
+        "captioned the recording. They are retried on every run and drop "
+        "off this list once published; the issue closes itself when the "
+        "list is empty. To give up on one, add its event ID to "
+        "`discover_skiplist.txt`.\n\n"
+        "| Held | Meeting | Why | Event |\n|---|---|---|---|\n"
+        + "\n".join(_event_line(e, why) for e, why in overdue)
+        + f"\n\n_Updated {datetime.now():%Y-%m-%d %H:%M} New York time._"
+        + f"\n<!-- waiting: {','.join(ids)} -->\n"
+    )
+    new = [(e, why) for e, why in overdue if e["event_id"] not in before]
+    if issue is None:
+        _gh("label", "create", WAITING_ISSUE_LABEL, "--force",
+            "--color", "c5def5", "--description", "Hearings the nightly run is waiting on")
+        _gh("issue", "create", "--title", WAITING_ISSUE_TITLE,
+            "--label", WAITING_ISSUE_LABEL, "--body", body)
+        return
+    number = str(issue["number"])
+    if issue["state"] != "OPEN":
+        _gh("issue", "reopen", number)
+    _gh("issue", "edit", number, "--body", body)
+    if new and before:
+        _gh("issue", "comment", number, "--body",
+            "Newly waiting:\n\n" + "\n".join(
+                f"- {e['event_date']} {e['body_name']} ({why})" for e, why in new))
+    elif new and issue["state"] != "OPEN":
+        _gh("issue", "comment", number, "--body",
+            "Waiting again:\n\n" + "\n".join(
+                f"- {e['event_date']} {e['body_name']} ({why})" for e, why in new))
 
 
 # --- main ---------------------------------------------------------------
@@ -706,9 +861,12 @@ def main() -> None:
         len(events), len(published), len(pr_open), len(local_pending),
     )
 
+    deferred = deferred_event_ids()
     candidates: list[dict] = []
     skipped: dict[str, int] = {}
     seen_fps: set[str] = set()
+    # Held hearings we would publish but cannot yet: (event, why).
+    waiting: list[tuple[dict, str]] = []
     for e in events:
         if e["event_id"] in skiplisted:
             skipped["skiplisted"] = skipped.get("skiplisted", 0) + 1
@@ -723,8 +881,14 @@ def main() -> None:
             skipped["local-pending"] = skipped.get("local-pending", 0) + 1
             continue
         reason = should_skip(e)
+        if reason in ("no-video", "no-agenda", "no-agenda-or-video") and e["event_id"] in deferred:
+            reason = "deferred"
         if reason:
             skipped[reason] = skipped.get(reason, 0) + 1
+            if reason in ("no-video", "no-agenda", "no-agenda-or-video"):
+                waiting.append((e, {"no-video": "no recording linked on Legistar yet",
+                                    "no-agenda": "no agenda on Legistar yet"}.get(
+                                        reason, "no recording or agenda on Legistar yet")))
             continue
         fp = fp_by_id.get(e["event_id"])
         if fp and fp in pub_fps:
@@ -746,7 +910,14 @@ def main() -> None:
         survivors = candidates
     else:
         for e in candidates:
-            secs = fetch_viebit_duration_seconds(e["video_url"])
+            status, secs = probe_viebit_captions(e["video_url"])
+            if status == "no-captions":
+                # The recording is up but not captioned: the pipeline would
+                # fail on it. Hold it back so it neither takes one of this
+                # run's --limit slots nor costs a Claude call, and report it.
+                skipped["no-captions"] = skipped.get("no-captions", 0) + 1
+                waiting.append((e, "recording has no captions yet"))
+                continue
             if secs is None:
                 # Unknown duration — let it through; the pipeline itself
                 # will surface any caption-source issues.
@@ -786,11 +957,8 @@ def main() -> None:
         )
 
     if args.dry_run:
+        report(waiting, [], publish=False)
         logger.info("Dry run — no branches or PRs created.")
-        return
-
-    if not survivors:
-        logger.info("Nothing to do.")
         return
 
     processed = 0
@@ -805,8 +973,19 @@ def main() -> None:
         status = publish_event(e) if args.publish else process_event(e)
         statuses.append((e["event_id"], status))
         processed += 1
+        if status.startswith("waiting: "):
+            waiting.append((e, status.removeprefix("waiting: ")))
 
     logger.info("Done. Outcomes: %s", statuses)
+    by_id = {e["event_id"]: e for e in survivors}
+    errors = [(by_id[i], st) for i, st in statuses
+              if st != "ok" and not st.startswith("waiting: ")]
+    report(waiting, errors, publish=args.publish)
+    if errors:
+        # A real failure (not the Council still posting a hearing): fail the
+        # run so GitHub emails the owner instead of reporting success.
+        sys.exit(f"{len(errors)} hearing(s) failed: "
+                 + ", ".join(f"{e['event_id']} ({st})" for e, st in errors))
 
 
 if __name__ == "__main__":
