@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
-    <link rel="stylesheet" href="/static/site.css?v=e5b142fcca">
+    <link rel="stylesheet" href="/static/site.css?v=b3e61a4382">
     <link rel="alternate" type="application/atom+xml" title="Hearing Hearings" href="/feed.xml">
     <link rel="canonical" href="https://hearinghearings.nyc/committees/">
     <meta name="description" content="New York City Council committees and the matters before them.">
@@ -54,11 +54,7 @@
     <header class="intro-block">
         <h1>Committees</h1>
         
-        <nav class="body-tabs" aria-label="Kinds of committee">
-            <a class="nav-button bevel-out" href="?kind=City%20Council" data-kind="City Council">City Council</a>
-            <a class="nav-button bevel-out" href="?kind=Committees" data-kind="Committees">Committees</a>
-            <a class="nav-button bevel-out" href="?kind=Subcommittees" data-kind="Subcommittees">Subcommittees</a>
-        </nav>
+        <p class="intro-subtitle"><a class="type-link" href="?kind=City%20Council">City Council</a>, <a class="type-link" href="?kind=Committees">committees</a> and <a class="type-link" href="?kind=Subcommittees">subcommittees</a>.</p>
         
     <div class="intro-skyline" aria-hidden="true">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 52" shape-rendering="crispEdges">
@@ -567,25 +563,6 @@
 <p class="hearing-empty record-empty" data-empty-for="committee-table" hidden>No committee matches.</p>
 
 </div>
-<script>
-(function () {
-    // Mark the button matching ?kind= as active; clicking it again clears it.
-    var tabs = document.querySelectorAll('.body-tabs [data-kind]');
-    function mark() {
-        var kind = new URLSearchParams(window.location.search).get('kind');
-        tabs.forEach(function (a) {
-            var on = a.dataset.kind === kind;
-            a.classList.toggle('nav-button--active', on);
-            a.setAttribute('aria-current', on ? 'true' : 'false');
-            a.href = on ? window.location.pathname : '?kind=' + encodeURIComponent(a.dataset.kind);
-        });
-    }
-    mark();
-    // The table's own Clear button and Kind filter rewrite the URL in place.
-    document.addEventListener('click', function () { setTimeout(mark, 200); });
-    document.addEventListener('input', function () { setTimeout(mark, 200); });
-})();
-</script>
 
 
             

@@ -7,13 +7,11 @@
 <div class="record">
     <header class="intro-block">
         <h1>Committees</h1>
-        {# Each button filters the table below through its hidden Kind column
-           (?kind=…); clicking the active one shows everything again. #}
-        <nav class="body-tabs" aria-label="Kinds of committee">
-            {%- for kind in ("City Council", "Committees", "Subcommittees") %}
-            <a class="nav-button bevel-out" href="?kind={{ kind | urlencode }}" data-kind="{{ kind }}">{{ kind }}</a>
-            {%- endfor %}
-        </nav>
+        {# Each kind filters the table below, through its hidden Kind column. #}
+        <p class="intro-subtitle">{% for kind, text in [("City Council", "City Council"), ("Committees", "committees"), ("Subcommittees", "subcommittees")] -%}
+            {%- if loop.last %} and {% elif not loop.first %}, {% endif -%}
+            <a class="type-link" href="?kind={{ kind | urlencode }}">{{ text }}</a>
+        {%- endfor %}.</p>
         {% include "_skyline.html" %}
     </header>
 
@@ -42,23 +40,4 @@
     </div>
     {{ rec.empty_row("committee-table", "No committee matches.") }}
 </div>
-<script>
-(function () {
-    // Mark the button matching ?kind= as active; clicking it again clears it.
-    var tabs = document.querySelectorAll('.body-tabs [data-kind]');
-    function mark() {
-        var kind = new URLSearchParams(window.location.search).get('kind');
-        tabs.forEach(function (a) {
-            var on = a.dataset.kind === kind;
-            a.classList.toggle('nav-button--active', on);
-            a.setAttribute('aria-current', on ? 'true' : 'false');
-            a.href = on ? window.location.pathname : '?kind=' + encodeURIComponent(a.dataset.kind);
-        });
-    }
-    mark();
-    // The table's own Clear button and Kind filter rewrite the URL in place.
-    document.addEventListener('click', function () { setTimeout(mark, 200); });
-    document.addEventListener('input', function () { setTimeout(mark, 200); });
-})();
-</script>
 {% endblock %}
