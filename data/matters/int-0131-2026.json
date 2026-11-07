@@ -29,7 +29,8 @@
   "Lynn C. Schulman",
   "Shaun Abreu",
   "Justin E. Sanchez",
-  "Julie Won"
+  "Julie Won",
+  "Carmen N. De La Rosa"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -54,6 +55,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252190&GUID=25FC2F63-9265-4CC7-A36E-00326F78DF1E"
   },
   {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093433&GUID=20D4BA30-03F1-443C-B775-EA5FC65528FB"
+  },
+  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16063724&GUID=6872EDE6-B717-432F-8B06-147672660352"
@@ -69,9 +75,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16098984&GUID=9C31FCD1-C289-4285-8FC8-271112794EC6"
   },
   {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093433&GUID=20D4BA30-03F1-443C-B775-EA5FC65528FB"
+   "label": "Hearing Transcript 10/16/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16121259&GUID=A731ED26-B100-4912-AF91-0A8026C74671"
   }
  ],
  "fiscal": {

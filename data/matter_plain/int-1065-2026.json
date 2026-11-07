@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1065-2026",
- "title": "Law to set cost benchmarks for small capital projects",
- "summary": "This bill would require the Department of Design and Construction to establish and maintain cost benchmarks for small recurring capital projects like standard city structures, updating them at least every two years. The department would report annually, starting each January 1, comparing actual project costs to these benchmarks and post the findings online.",
+ "title": "Law to require cost targets for small city building projects",
+ "summary": "This bill would require the Department of Design and Construction to set and update cost benchmarks for small recurring capital projects, such as public restrooms and storage buildings, based on actual costs of completed city projects. The department would report annually by January 1 comparing actual project costs to these benchmarks and publish the report online. It would take effect alongside a related bill creating a catalog of standard designs for these structures.",
  "model": "claude-sonnet-5",
- "input_hash": "d68ac509a7a5d704"
+ "input_hash": "95169a9bee12eca6"
 }

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1064-2026",
- "title": "Law to set deadlines for small city construction approvals",
- "summary": "This bill would require the Department of Design and Construction to set timeframes for city agencies to approve or respond to change orders on capital projects costing up to $10 million. If an agency misses a deadline, it would have 10 days to give the contractor a written explanation and an expected completion date. The law would take effect one year after passage.",
+ "title": "Law to set deadlines for City approvals on small construction projects",
+ "summary": "This bill would require the Department of Design and Construction, working with the Mayor's Office of Contract Services, to set timeframes for City agencies to approve work and decide on change orders for capital projects costing up to $10 million. Agencies that miss a deadline would have to give contractors a written explanation within 10 days, including when a decision is expected. The timeframes would be published online and reviewed at least every two years, with the law taking effect one year after passage.",
  "model": "claude-sonnet-5",
- "input_hash": "2ce4462aad36faec"
+ "input_hash": "ec4369ef3d0b13cf"
 }

@@ -22,7 +22,8 @@
   "Carl Wilson",
   "Jennifer Gutiérrez",
   "Christopher Marte",
-  "Tiffany L. Cabán"
+  "Tiffany L. Cabán",
+  "Pierina Ana Sanchez"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -60,6 +61,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16094528&GUID=089E9BAA-8CA6-45C7-ACBD-BE45427695AC"
+  },
+  {
+   "label": "Hearing Transcript 10/27/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16121299&GUID=A219E9F5-C958-42F4-8534-B0C170A4690A"
   }
  ],
  "fiscal": {
