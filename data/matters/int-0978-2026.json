@@ -171,12 +171,6 @@
   {
    "date": "2026-10-22",
    "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-10-22",
-   "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
@@ -191,6 +185,12 @@
    "body": "Committee on Finance",
    "action": "Approved by Committee",
    "result": "Pass"
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-09-18",
