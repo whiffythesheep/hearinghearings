@@ -29,6 +29,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 891-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16125436&GUID=A1F00DE2-494B-4FC8-AB68-521848B75098"
+  },
+  {
    "label": "Summary of Int. No. 891",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15477818&GUID=C7572B8C-27BD-48AF-9792-6688FC6F67A7"
@@ -47,6 +52,11 @@
    "label": "May 14, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15548219&GUID=F8A03D44-913C-4C11-B20E-1CA9CB64D8C7"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 5-14-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848981&GUID=89D6D10C-278C-4A85-984E-BA508E9FA918"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
@@ -69,9 +79,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15929786&GUID=96732EA4-BB55-4359-BF41-04B5D4AF7DD4"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 5-14-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15848981&GUID=89D6D10C-278C-4A85-984E-BA508E9FA918"
+   "label": "Proposed Int. No. 891-A - 11/9/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16125435&GUID=FA1EFED8-901E-488B-8972-BE09CA95EE44"
   }
  ],
  "fiscal": {

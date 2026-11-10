@@ -14,10 +14,20 @@
   "Lincoln Restler",
   "Carmen N. De La Rosa",
   "Sandy Nurse",
-  "Christopher Marte"
+  "Christopher Marte",
+  "Farah N. Louis",
+  "Shaun Abreu",
+  "Chi A. Ossé",
+  "Pierina Ana Sanchez",
+  "Harvey D. Epstein"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1077-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16123999&GUID=884097F4-B007-41B7-B7AA-288D4BCE5668"
+  },
   {
    "label": "Summary of Int. No. 1077",
    "kind": "Summary",
@@ -37,6 +47,11 @@
    "label": "September 24, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933200&GUID=B5262784-1B0C-45D7-BE92-CDAE8EE96532"
+  },
+  {
+   "label": "Proposed Int. No. 1077-A - 11/9/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16123998&GUID=BF1AB5DE-8AA8-41B3-81D8-8DE6E5A9EA75"
   }
  ],
  "fiscal": null,

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1078-2026",
  "title": "Law to limit Correction Department contact with ICE",
- "summary": "This bill would bar the Department of Correction from communicating with federal immigration authorities about people in its custody, except when honoring a civil immigration detainer or when the communication is unrelated to immigration enforcement. It would take effect 60 days after becoming law.",
+ "summary": "This bill would stop the Department of Correction from holding someone past their scheduled release without a judicial warrant. It would also restrict department staff from sharing information with federal immigration authorities about people in custody, except in limited circumstances unrelated to civil immigration enforcement. The law would take effect 60 days after it is enacted.",
  "model": "claude-sonnet-5",
- "input_hash": "f9fbe66fcab811b3"
+ "input_hash": "becbd4dc035f3492"
 }

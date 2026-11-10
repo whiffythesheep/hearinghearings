@@ -53,6 +53,12 @@
   },
   {
    "date": "2026-04-22",
+   "body": "Committee on Oversight and Investigations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-22",
    "body": "Committee on Health",
    "action": "Laid Over by Committee",
    "result": ""
@@ -65,20 +71,14 @@
   },
   {
    "date": "2026-04-22",
-   "body": "Committee on Oversight and Investigations",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-04-22",
-   "body": "Subcommittee on Early Childhood Education",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-04-22",
    "body": "Subcommittee on Early Childhood Education",
    "action": "Laid Over by Subcommittee",
+   "result": ""
+  },
+  {
+   "date": "2026-04-22",
+   "body": "Subcommittee on Early Childhood Education",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

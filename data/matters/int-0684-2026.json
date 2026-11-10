@@ -4,7 +4,9 @@
  "legistar_id": "7879010",
  "type": "Introduction",
  "title": "A Local Law in relation to requiring a study on how language access needs and geographic location affect access to early elementary gifted and talented programs",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
+ "law_number": "2026/162",
+ "enactment_date": "2026-11-07",
  "sponsors": [
   "Susan Zhuang",
   "Eric Dinowitz",
@@ -126,6 +128,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16047060&GUID=B2ED5A74-A569-4157-A746-393B139A9650"
  },
  "history": [
+  {
+   "date": "2026-11-07",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-10-08",
    "body": "City Council",

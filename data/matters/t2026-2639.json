@@ -3,13 +3,17 @@
  "slug": "t2026-2639",
  "legistar_id": "8306964",
  "type": "Communication",
- "title": "Martha King, Council candidate for appointment to the New York City Board of Corrections, pursuant to Section 626 of the Charter.",
- "status": "Committee",
- "sponsors": [
-  "Sandra Ung"
- ],
+ "title": "Martha King, Council candidate for appointment to the New York City Board of Corrections, pursuant to Section 626 of the New York City Charter.",
+ "status": "Introduced",
+ "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report 11/9/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16123428&GUID=1C33B8CC-D499-4E12-BA1E-C5FE0D3C521F"
+  }
+ ],
  "fiscal": null,
  "history": [
   {

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0891-2026",
- "title": "Law to ban personalized surveillance-based pricing",
- "summary": "This bill would prohibit any seller, whether online or offline, from charging different prices to different customers based on personal data collected through cameras, device tracking or other surveillance technology. It includes exceptions for insurance and credit products, loyalty programs and discounts for groups like students, seniors or low-income consumers. Violations would carry civil penalties from $150 for a first offense up to $1,000 for a third or later offense, and the law would take effect 120 days after enactment.",
+ "title": "Law to ban surveillance pricing",
+ "summary": "This bill would prohibit businesses from using personal data collected through surveillance technology to set different prices for different customers for the same goods or services, with exceptions for cost-based differences, loyalty programs and discounts for groups like students or seniors. The Department of Consumer and Worker Protection would enforce the law, with civil penalties of $150 for a first violation, $300 for a second and $1,000 for a third or later violation. The law would take effect 120 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "8d0ef8ce82020c3e"
+ "input_hash": "0732166165008166"
 }

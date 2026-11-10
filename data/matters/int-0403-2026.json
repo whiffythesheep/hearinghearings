@@ -79,6 +79,11 @@
    "label": "Committee Report 10/30/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16102263&GUID=9E722C34-8446-4512-B125-D1BF21E889C0"
+  },
+  {
+   "label": "Hearing Testimony 10/30/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16125258&GUID=34FBBA9E-E9C2-4D17-A867-D9F7EC54D594"
   }
  ],
  "fiscal": {
@@ -112,14 +117,14 @@
   },
   {
    "date": "2026-10-30",
-   "body": "Committee on Public Safety",
-   "action": "Laid Over by Committee",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {
    "date": "2026-10-30",
-   "body": "Committee on Governmental Operations, State & Federal Legislation",
-   "action": "Hearing Held by Committee",
+   "body": "Committee on Public Safety",
+   "action": "Laid Over by Committee",
    "result": ""
   },
   {

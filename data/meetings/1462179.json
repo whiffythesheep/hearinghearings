@@ -1,0 +1,44 @@
+{
+ "event_id": "1462179",
+ "date": "2026-11-12",
+ "body": "Committee on Veterans",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462179&GUID=7B015215-BFF0-4917-87EF-FFFCD20F5FC1&Search=",
+ "items": [
+  {
+   "file_number": "Int 0488-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "Proposed Int. No. 488-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7863054",
+   "legistar_guid": "BDE14E78-530A-4B96-A055-85587789A1BF"
+  },
+  {
+   "file_number": "Int 0928-2026",
+   "type": "Introduction",
+   "name": "Establishing an LGBTQ+ liaison within the department of veterans’ services.",
+   "sponsor": "David M. Carr",
+   "agenda_note": "Proposed Int. No. 928-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "8067757",
+   "legistar_guid": "D1D1CEED-A022-448E-97BE-EFFB50F3DF71"
+  },
+  {
+   "file_number": "Int 1051-2026",
+   "type": "Introduction",
+   "name": "Alternative exemption for permanently and totally disabled veterans.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "Proposed Int. No. 1051-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "8206845",
+   "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
+  }
+ ]
+}
