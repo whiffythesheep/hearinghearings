@@ -1,0 +1,66 @@
+{
+ "event_id": "1461441",
+ "date": "2026-11-13",
+ "body": "Committee on Parks and Recreation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1461441&GUID=ED5C3349-C62E-483C-BDDE-C681525E4D34&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2778",
+   "type": "Oversight",
+   "name": "Oversight - The State of Water Safety at the City’s Beaches and Pools.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8306931",
+   "legistar_guid": "00067003-76DC-4163-A537-4194B8FFD747"
+  },
+  {
+   "file_number": "Int 0262-2026",
+   "type": "Introduction",
+   "name": "Length of the season and operating hours for city beaches and pools.",
+   "sponsor": "Shekar Krishnan",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862109",
+   "legistar_guid": "8A4BD466-7D5B-4467-BA91-EBC8BCC76BFC"
+  },
+  {
+   "file_number": "Int 0957-2026",
+   "type": "Introduction",
+   "name": "Rip current signs at beaches under the jurisdiction of the department of parks and recreation.",
+   "sponsor": "Selvena N. Brooks-Powers",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8123719",
+   "legistar_guid": "EFFCF64F-CA8B-46F6-9BB2-E5EB1FC5CA7D"
+  },
+  {
+   "file_number": "T2026-2714",
+   "type": "Introduction",
+   "name": "Digital signage at public beaches to provide public safety information about rip currents and other water safety hazards.",
+   "sponsor": "Ty Hankerson",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8306930",
+   "legistar_guid": "BCFF329A-EE6B-4D60-8F53-10E286E195A6"
+  },
+  {
+   "file_number": "T2026-2784",
+   "type": "Introduction",
+   "name": "Interactive map of information regarding access to publicly owned swimming pools.",
+   "sponsor": "Shekar Krishnan",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8310428",
+   "legistar_guid": "13B64152-B4CC-4C84-A5D8-B509EC6779F8"
+  }
+ ]
+}

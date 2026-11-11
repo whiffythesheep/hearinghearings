@@ -55,6 +55,11 @@
    "label": "Hearing Transcript 9/30/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076982&GUID=B58C0C51-CB8E-46DB-86E9-440B01378B0A"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-24-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127407&GUID=C46E0B7B-1BB3-4D31-BAAC-3D7D3CB1C11E"
   }
  ],
  "fiscal": {
@@ -100,12 +105,6 @@
   },
   {
    "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
    "result": ""
@@ -114,6 +113,12 @@
    "date": "2026-09-30",
    "body": "Committee on Consumer and Worker Protection",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

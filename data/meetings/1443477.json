@@ -4,7 +4,7 @@
  "body": "Subcommittee on Zoning and Franchises",
  "location": "250 Broadway - 8th Floor - Hearing Room 3 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1443477&GUID=E6D074CB-80D3-4947-9927-D2C5FBE653CF&Search=",
  "items": [
   {
@@ -13,10 +13,63 @@
    "name": "Zoning, 108-05 68th Road Rezoning, Queens (C 260234 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8255447",
    "legistar_guid": "16E86374-A01F-4DA2-980C-E0BDD0D1887A"
+  },
+  {
+   "file_number": "LU 0148-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 108-05 68th Road Rezoning, Queens (C 260234 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8255447",
+   "legistar_guid": "16E86374-A01F-4DA2-980C-E0BDD0D1887A",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0149-2026",
@@ -24,10 +77,63 @@
    "name": "Zoning, 108-05 68th Road Rezoning, Queens (N 260235 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8255465",
    "legistar_guid": "486E0C2C-1C63-4EA9-970D-71570777DDAA"
+  },
+  {
+   "file_number": "LU 0149-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 108-05 68th Road Rezoning, Queens (N 260235 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8255465",
+   "legistar_guid": "486E0C2C-1C63-4EA9-970D-71570777DDAA",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0150-2026",
@@ -35,10 +141,63 @@
    "name": "Zoning, 100-12 Queens Boulevard Rezoning, Queens (C 260184 ZMQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8255466",
    "legistar_guid": "4C141935-50F8-4887-BE0D-E60475C6600D"
+  },
+  {
+   "file_number": "LU 0150-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 100-12 Queens Boulevard Rezoning, Queens (C 260184 ZMQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8255466",
+   "legistar_guid": "4C141935-50F8-4887-BE0D-E60475C6600D",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0151-2026",
@@ -46,10 +205,63 @@
    "name": "Zoning, 100-12 Queens Boulevard Rezoning, Queens (N 260185 ZRQ).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8255467",
    "legistar_guid": "BBAD6C66-515F-4C29-A225-6BDE17DC07C0"
+  },
+  {
+   "file_number": "LU 0151-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, 100-12 Queens Boulevard Rezoning, Queens (N 260185 ZRQ).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass",
+   "legistar_id": "8255467",
+   "legistar_guid": "BBAD6C66-515F-4C29-A225-6BDE17DC07C0",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0152-2026",
@@ -57,10 +269,63 @@
    "name": "Zoning, South Richmond Designated Open Space Amendment, Staten Island (N 260362 ZRR).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8255468",
    "legistar_guid": "9341C913-FA6F-448A-839D-F582F21436D1"
+  },
+  {
+   "file_number": "LU 0152-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, South Richmond Designated Open Space Amendment, Staten Island (N 260362 ZRR).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee",
+   "result": "Pass",
+   "legistar_id": "8255468",
+   "legistar_guid": "9341C913-FA6F-448A-839D-F582F21436D1",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "LU 0153-2026",
@@ -68,7 +333,71 @@
    "name": "Zoning, Studio 54 Rehabilitation and Text Amendment, Manhattan (N 260211 ZRM).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8281467",
+   "legistar_guid": "2D55347A-0B7A-427E-B3C6-19038FD2D985"
+  },
+  {
+   "file_number": "LU 0153-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Studio 54 Rehabilitation and Text Amendment, Manhattan (N 260211 ZRM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee",
+   "result": "Pass",
+   "legistar_id": "8281467",
+   "legistar_guid": "2D55347A-0B7A-427E-B3C6-19038FD2D985",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0153-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Studio 54 Rehabilitation and Text Amendment, Manhattan (N 260211 ZRM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8281467",
    "legistar_guid": "2D55347A-0B7A-427E-B3C6-19038FD2D985"
@@ -79,10 +408,116 @@
    "name": "Zoning, Studio 54 Rehabilitation and Text Amendment, Manhattan (C 260212 ZSM).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
+   "action": "Approved by Subcommittee",
+   "result": "Pass",
+   "legistar_id": "8281468",
+   "legistar_guid": "259BB85F-73B2-4B94-96A4-58A8C17D2BE9",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0154-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Studio 54 Rehabilitation and Text Amendment, Manhattan (C 260212 ZSM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8281468",
    "legistar_guid": "259BB85F-73B2-4B94-96A4-58A8C17D2BE9"
+  },
+  {
+   "file_number": "LU 0154-2026",
+   "type": "Land Use Application",
+   "name": "Zoning, Studio 54 Rehabilitation and Text Amendment, Manhattan (C 260212 ZSM).",
+   "sponsor": "Kevin C. Riley",
+   "agenda_note": "",
+   "action": "Approved by Subcommittee",
+   "result": "Pass",
+   "legistar_id": "8281468",
+   "legistar_guid": "259BB85F-73B2-4B94-96A4-58A8C17D2BE9",
+   "tally": {
+    "Affirmative": 7,
+    "Absent": 2
+   },
+   "roll_call": [
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "David M. Carr",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Elsie Encarnación",
+     "vote": "Absent"
+    },
+    {
+     "name": "Amanda C. Farías",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Simcha Felder",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lynn C. Schulman",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shanel Thomas-Henry",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

@@ -18,7 +18,8 @@
   "Chris Banks",
   "Kamillah Hanks",
   "Sandra Ung",
-  "Linda Lee"
+  "Linda Lee",
+  "Shaun Abreu"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -76,6 +77,16 @@
    "label": "Proposed Int. No. 202-A - 11/5/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16116885&GUID=0E340D6F-A49C-4749-BD86-080B19DBFC8A"
+  },
+  {
+   "label": "Committee Report 11/12/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16129796&GUID=4EF6B8E3-7B10-4A05-89ED-9C14C0E1A45E"
+  },
+  {
+   "label": "Proposed Int. No. 202-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16130383&GUID=B75FD070-78A7-4168-BD94-FCBEDAF8F653"
   }
  ],
  "fiscal": {
@@ -94,11 +105,11 @@
    "succeeding": 0,
    "full": 0
   },
-  "effective_fy": "2026",
+  "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15287921&GUID=4F7A3F46-5EE5-4E01-9EFE-7BE1BAD40C5F"
+  "label": "Proposed Int. No. 202-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16130383&GUID=B75FD070-78A7-4168-BD94-FCBEDAF8F653"
  },
  "history": [
   {

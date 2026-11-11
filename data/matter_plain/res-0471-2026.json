@@ -1,7 +1,7 @@
 {
  "file_number": "Res 0471-2026",
- "title": "Resolution urging Albany to shift SCHE income checks to the state",
- "summary": "This resolution calls on the New York State Legislature to pass, and the Governor to sign, S.4805/A.4984, which would move income verification for the Senior Citizen Homeowners' Exemption from New York City's Department of Finance to the state Department of Taxation and Finance. Supporters say the change would ease paperwork for older homeowners and reduce administrative burden on the city.",
+ "title": "Resolution urging Albany to let the state verify senior tax exemption income",
+ "summary": "This resolution calls on the state legislature to pass and the governor to sign S.4805/A.4984, which would move responsibility for verifying applicants' income for the Senior Citizen Homeowners' Exemption from New York City to the State Department of Taxation and Finance. The change aims to reduce paperwork burdens on senior homeowners and city staff by using standardized state tax data instead of local verification.",
  "model": "claude-sonnet-5",
- "input_hash": "7ed8eccb456cb286"
+ "input_hash": "a8062f2404c143f6"
 }

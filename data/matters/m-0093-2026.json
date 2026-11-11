@@ -4,7 +4,7 @@
  "legistar_id": "8297048",
  "type": "Mayor's Message",
  "title": "Communication from the Mayor – Submitting the name Anthony Crowell to the Council for its advice and consent regarding his reappointment as a member of the City Planning Commission, pursuant to Section 31 of the City Charter.",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -26,6 +26,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-09",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-09",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-10-22",
    "body": "City Council",

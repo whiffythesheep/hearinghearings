@@ -88,6 +88,11 @@
    "label": "Proposed Int. No. 178-A - 11/5/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16116549&GUID=34ACA351-A073-462D-9D04-96605C0CFC71"
+  },
+  {
+   "label": "Proposed Int. No. 178-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16129611&GUID=6BABA8B8-D5F4-4015-BB50-83E34E92D066"
   }
  ],
  "fiscal": {
@@ -97,20 +102,20 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 119000,
+   "effective": 13700,
    "succeeding": 238000,
    "full": 238000
   },
   "net": {
-   "effective": -119000,
+   "effective": -13700,
    "succeeding": -238000,
    "full": -238000
   },
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837847&GUID=E31CCBD1-7341-4220-A7F4-ED27F36E086A"
+  "label": "Proposed Int. No. 178-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16129611&GUID=6BABA8B8-D5F4-4015-BB50-83E34E92D066"
  },
  "history": [
   {

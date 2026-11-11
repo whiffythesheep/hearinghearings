@@ -13,6 +13,7 @@
   "Harvey D. Epstein",
   "Lynn C. Schulman",
   "Selvena N. Brooks-Powers",
+  "Mercedes Narcisse",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -61,6 +62,11 @@
    "label": "Hearing Testimony 10/27/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16116355&GUID=8D865536-6587-4BA9-B6FA-EBE326D3369E"
+  },
+  {
+   "label": "Hearing Transcript 10/27/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16129489&GUID=811C1C6D-239B-47CC-AB66-FE68BBE9EF70"
   }
  ],
  "fiscal": {
