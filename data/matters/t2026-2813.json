@@ -9,7 +9,23 @@
   "Linda Lee"
  ],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Res. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132522&GUID=D63F31BA-FB26-4515-BFD5-0D51C701AC92"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132544&GUID=E0EF5C80-9535-40F8-BBBB-A87001E1EECE"
+  },
+  {
+   "label": "Exhibit A",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132565&GUID=C55270B1-5931-43D4-8D4A-8A600DFC523B"
+  }
+ ],
  "fiscal": null,
  "history": [
   {

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1127-2026",
- "title": "Law to streamline city agency reporting requirements",
- "summary": "This bill would repeal or amend about two dozen provisions of the City Charter and Administrative Code that require agencies to submit reports, eliminating outdated or duplicative reports and adjusting due dates for others. Affected topics include the mayor's annual statement, taxi commission reporting, bridge and tunnel inspections, domestic violence and homeless death reports, and several public health reports. The law would take effect immediately upon passage.",
+ "title": "Law to streamline city reporting rules to Council",
+ "summary": "This bill would repeal or revise about two dozen city charter and administrative code requirements that agencies submit periodic reports to the City Council, eliminating outdated or duplicative reports and adjusting due dates for others. Affected topics include taxi commission reports, bridge and tunnel conditions, domestic violence data, homeless deaths, child fatalities, hepatitis prevention and diabetes reduction plans, among others. It also repeals the mayor's strategic policy statement requirement and a city healthcare services committee, and ends a marijuana enforcement report.",
  "model": "claude-sonnet-5",
- "input_hash": "cbec39b464d52ff1"
+ "input_hash": "e8df25c1371a5f4e"
 }

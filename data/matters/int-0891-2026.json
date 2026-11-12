@@ -82,6 +82,11 @@
    "label": "Proposed Int. No. 891-A - 11/9/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16125435&GUID=FA1EFED8-901E-488B-8972-BE09CA95EE44"
+  },
+  {
+   "label": "Proposed Int. No. 891-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132515&GUID=90275A17-B43D-42B1-9BAA-F5F4703742AF"
   }
  ],
  "fiscal": {
@@ -91,20 +96,20 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 169822,
-   "succeeding": 254734,
-   "full": 254734
+   "effective": 207818,
+   "succeeding": 356258,
+   "full": 356258
   },
   "net": {
-   "effective": -169822,
-   "succeeding": -254734,
-   "full": -254734
+   "effective": -207818,
+   "succeeding": -356258,
+   "full": -356258
   },
-  "effective_fy": "2027",
+  "effective_fy": "2028",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15588026&GUID=9E11534D-13F7-4566-927C-F40D243440AC"
+  "label": "Proposed Int. No. 891-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132515&GUID=90275A17-B43D-42B1-9BAA-F5F4703742AF"
  },
  "history": [
   {

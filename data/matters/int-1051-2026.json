@@ -92,13 +92,23 @@
    "label": "Proposed Int. No. 1051-A - 11/5/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118542&GUID=10837387-D107-4165-B233-0EFDFA9F5319"
+  },
+  {
+   "label": "Committee Report 11/12/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132353&GUID=0DB59F43-0198-4C8D-A3A4-A4BF259584A1"
+  },
+  {
+   "label": "Proposed Int. No. 1051-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132399&GUID=DFEC763F-A4C0-4154-9953-A4A165603E5B"
   }
  ],
  "fiscal": {
   "revenues": {
    "effective": 0,
-   "succeeding": -12913046,
-   "full": -12913046
+   "succeeding": -10400000,
+   "full": -10400000
   },
   "expenditures": {
    "effective": 0,
@@ -107,14 +117,14 @@
   },
   "net": {
    "effective": 0,
-   "succeeding": -12913046,
-   "full": -12913046
+   "succeeding": -10400000,
+   "full": -10400000
   },
-  "effective_fy": "",
+  "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16079687&GUID=28D6BAC5-38BC-42B5-AE08-E77DF22E41E3"
+  "label": "Proposed Int. No. 1051-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132399&GUID=DFEC763F-A4C0-4154-9953-A4A165603E5B"
  },
  "history": [
   {

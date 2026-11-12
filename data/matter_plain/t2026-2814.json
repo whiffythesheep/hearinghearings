@@ -1,7 +1,7 @@
 {
  "file_number": "T2026-2814",
- "title": "Resolution to set 2027 property tax class shares",
- "summary": "This resolution amends and restates the Council's calculation of adjusted base proportions for each class of real property for Fiscal Year 2027. These figures are certified to the New York State Board of Real Property Tax Services under state law. The proportions help determine how the citywide property tax burden is divided among residential, commercial and other property classes.",
+ "title": "Resolution to set property tax class shares for Fiscal 2027",
+ "summary": "This resolution updates and finalizes the share of the citywide property tax levy paid by each of the four property classes for Fiscal 2027, reflecting property construction, demolition and reclassification since the June 30, 2026 certification. It is required under state law following a May 2026 amendment that let the City adjust its calculation method. The updated shares show increases for Class 3 and 4 properties and decreases for Class 1 and 2 properties compared to the earlier Fiscal 2027 figures.",
  "model": "claude-sonnet-5",
- "input_hash": "d9d49fc259b406e6"
+ "input_hash": "30ec9b04e33b3391"
 }

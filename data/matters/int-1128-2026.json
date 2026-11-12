@@ -20,6 +20,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 1128-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132347&GUID=379110FF-1ED1-4848-ABBD-012A005904BB"
+  },
+  {
    "label": "Summary of Int. No. 1128",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16051069&GUID=063B2AAF-6AF4-49F4-A38D-1CA45A665723"
@@ -58,6 +63,11 @@
    "label": "Hearing Testimony 10/28/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16123923&GUID=0BB39F70-0681-41F2-94BF-C63A32D6A5D5"
+  },
+  {
+   "label": "Proposed Int. No. 1128-A - 11/10/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132346&GUID=B3AE236F-3082-4D3C-BCC3-E28413594E39"
   }
  ],
  "fiscal": {

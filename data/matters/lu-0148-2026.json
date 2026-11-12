@@ -29,6 +29,16 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting – November 10, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118019&GUID=08C985A2-8822-46AE-B72F-36FC04C75808"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132578&GUID=9BA8E090-922A-478D-9E41-89A0C3AF8B3A"
+  },
+  {
+   "label": "Res. No.",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132580&GUID=BE1855F2-A990-4F50-8B81-94B85D985D93"
   }
  ],
  "fiscal": null,
@@ -48,14 +58,14 @@
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-10-08",

@@ -13,7 +13,8 @@
   "Oswald J. Feliz",
   "Lincoln Restler",
   "Eric Dinowitz",
-  "Mercedes Narcisse"
+  "Mercedes Narcisse",
+  "Carl Wilson"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -122,6 +123,24 @@
   {
    "date": "2026-09-30",
    "body": "Committee on Consumer and Worker Protection",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
    "action": "Hearing Held by Committee",
    "result": ""
   },
@@ -152,24 +171,6 @@
   {
    "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
    "action": "Laid Over by Committee",
    "result": ""
   },
