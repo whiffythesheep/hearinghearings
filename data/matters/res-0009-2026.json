@@ -1,0 +1,54 @@
+{
+ "file_number": "Res 0009-2026",
+ "slug": "res-0009-2026",
+ "legistar_id": "7861369",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2707A/S.880A, known as the housing development fund company self-determination, preservation and affordability act",
+ "status": "Committee",
+ "sponsors": [
+  "Shaun Abreu",
+  "Farah N. Louis",
+  "Amanda C. Farías",
+  "Althea V. Stevens",
+  "Yusef Salaam"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 9",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15166987&GUID=01F39EE4-E9EB-4E09-8EA4-E6D90B83E404"
+  },
+  {
+   "label": "January 29, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15251351&GUID=E60C8DD7-F46A-41DB-9DFE-653495F16FED"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 1-29-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252046&GUID=FA43E4F1-F618-4587-9153-2BCDCE6D0DFB"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093275&GUID=FE6A886C-7A54-4EF7-9A1C-2F443E9DDE58"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-01-29",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7861369&GUID=72A0CE8B-470A-4F38-956D-82E9E4D4EA37"
+}

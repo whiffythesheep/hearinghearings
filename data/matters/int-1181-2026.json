@@ -1,0 +1,45 @@
+{
+ "file_number": "Int 1181-2026",
+ "slug": "int-1181-2026",
+ "legistar_id": "8317525",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to informing warming center visitors about social services",
+ "status": "Committee",
+ "sponsors": [
+  "Carl Wilson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1181",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133178&GUID=29639E27-ECF0-4DD2-8BD4-8C19B190126D"
+  },
+  {
+   "label": "Int. No. 1181",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133179&GUID=421700B7-648F-4141-828D-8CF1749F8E74"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133185&GUID=3DCD0B30-BC46-4C89-B1E9-0D8F2283026A"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317525&GUID=0A71DB26-F45C-43B6-A2FE-32B8915C41EB"
+}

@@ -24,6 +24,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 717-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134244&GUID=03A059AA-BAC4-4BA6-A91E-BEC92577F6CE"
+  },
+  {
    "label": "Summary of Int. No. 717",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15299161&GUID=A7A287D0-DEAB-4FD8-97F9-E33B7CCEAEAF"
@@ -72,6 +77,11 @@
    "label": "Hearing Transcript 9/9/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16075945&GUID=5F4BD564-2581-484D-A7EE-375D6283FE2C"
+  },
+  {
+   "label": "Proposed Int. No. 717-A - 11/12/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134242&GUID=21ED03E7-C6CE-42FD-86FD-56AAF231709A"
   }
  ],
  "fiscal": {

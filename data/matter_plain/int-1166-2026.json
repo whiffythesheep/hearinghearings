@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1166-2026",
+ "title": "Law to block building permits for unpaid city taxes and bills",
+ "summary": "This bill would require the Department of Buildings to deny permits for new buildings, demolitions or major alterations when a property owes $25,000 or more in unpaid property taxes, water or sewer charges, fines or judgments to the city. It would also apply when a property's owners together owe $25,000 or more in such arrears, with exceptions for tenants, condo or co-op unit owners below the threshold and certain rehabilitation or foreclosure situations. The law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "496369f183482aaf"
+}

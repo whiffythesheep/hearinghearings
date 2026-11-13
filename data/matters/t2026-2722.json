@@ -4,7 +4,7 @@
  "legistar_id": "8295197",
  "type": "Introduction",
  "title": "A Local Law in relation to the creation of a working group to study agency use of communication technologies",
- "status": "Laid Over in Committee",
+ "status": "Committee",
  "sponsors": [
   "Gale A. Brewer",
   "Farah N. Louis"
@@ -12,12 +12,12 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
-   "label": "Summary of Int. No.",
+   "label": "Summary of Int. No. 1159",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16080583&GUID=38ECF30C-A4D2-4DFD-91D7-EA33183F6679"
   },
   {
-   "label": "Int. No.",
+   "label": "Int. No. 1159",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16080584&GUID=2F324344-D0AD-4973-9350-53E7F9FF20E3"
   },
@@ -65,6 +65,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092562&GUID=B0D2C1ED-576F-417C-9F20-9232E8054524"
  },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

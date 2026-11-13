@@ -1,0 +1,36 @@
+{
+ "file_number": "Res 0735-2026",
+ "slug": "res-0735-2026",
+ "legistar_id": "8317565",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1018/A.8440, to amend the education law, in relation to contracts for the transportation of school children",
+ "status": "Committee",
+ "sponsors": [
+  "Julie Won",
+  "Eric Dinowitz"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 735",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133258&GUID=A8E4446D-2A6D-4B0F-97AE-79D215D775C3"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317565&GUID=E96E796A-15CC-46B3-B510-9A7D5CC9E49F"
+}

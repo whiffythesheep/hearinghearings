@@ -1,0 +1,38 @@
+{
+ "file_number": "Res 0728-2026",
+ "slug": "res-0728-2026",
+ "legistar_id": "8317646",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.10632/A.101 or similar legislation, in relation to prohibiting the use of intoxication of the victim as a defense in sex crimes",
+ "status": "Committee",
+ "sponsors": [
+  "Mercedes Narcisse",
+  "Amanda C. Farías",
+  "Gale A. Brewer",
+  "Eric Dinowitz"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 728",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133386&GUID=C6C04D58-5FCE-4323-991B-D125D5FC4D42"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317646&GUID=61DD10C9-5D52-4E44-A683-693DBB82E808"
+}

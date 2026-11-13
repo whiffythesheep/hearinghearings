@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1176-2026",
+ "title": "Law to improve health screening of arrestees before arraignment",
+ "summary": "This bill would require health providers at central booking to use an electronic screening tool and databases to check arrestees for physical and behavioral health issues before arraignment. A diversion liaison would identify arrestees with behavioral health needs and, with consent, share information with defense counsel and the Department of Correction. The law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "505564c94fef5f39"
+}

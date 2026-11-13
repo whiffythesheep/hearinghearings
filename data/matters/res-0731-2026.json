@@ -1,0 +1,36 @@
+{
+ "file_number": "Res 0731-2026",
+ "slug": "res-0731-2026",
+ "legistar_id": "8317501",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation modeled on California’s AB 1743, making full gun trace data and trends available upon request to municipal governments and academic institutions for policy research",
+ "status": "Committee",
+ "sponsors": [
+  "Justin E. Sanchez",
+  "Shanel Thomas-Henry"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 731",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133112&GUID=B806C126-FA5B-4238-9E45-35B46B081372"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317501&GUID=482AB641-3AF0-47A8-BAFB-3CE01BC48A75"
+}

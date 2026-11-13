@@ -1,0 +1,35 @@
+{
+ "file_number": "Res 0719-2026",
+ "slug": "res-0719-2026",
+ "legistar_id": "8317566",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.5533/A.492A, establishing the Child Care Workforce Pay Equity Fund",
+ "status": "Committee",
+ "sponsors": [
+  "Jennifer Gutiérrez"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 719",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133241&GUID=87AAB080-4CF8-4F57-A1C7-75B8EE62F0D8"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317566&GUID=C464E9F7-0D4F-4F7B-BB16-AF31F00A1046"
+}

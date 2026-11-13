@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1158-2026",
+ "title": "Law to limit pet rent charges for tenants",
+ "summary": "This bill would cap monthly pet rent charged by owners of multiple dwellings at no more than 1% of a tenant's monthly rent. Tenants would remain responsible for damage caused by their pets. The law would apply only to leases signed after it takes effect, 180 days after becoming law.",
+ "model": "claude-sonnet-5",
+ "input_hash": "8193a385c3bf3e6a"
+}

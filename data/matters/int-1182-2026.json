@@ -1,0 +1,53 @@
+{
+ "file_number": "Int 1182-2026",
+ "slug": "int-1182-2026",
+ "legistar_id": "8317574",
+ "type": "Introduction",
+ "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to the establishment of a department of emergency medical services",
+ "status": "Committee",
+ "sponsors": [
+  "Susan Zhuang",
+  "Vickie Paladino",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1182",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133244&GUID=BA03B367-3798-4EE5-AFE2-DADAFEC534A5"
+  },
+  {
+   "label": "Int. No. 1182",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133245&GUID=8F1ED8A7-61FD-45D3-A7B2-6C2778BCD713"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133248&GUID=3607CE1F-435F-472B-A9D4-B8F5E08CF976"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317574&GUID=948829ED-C6F0-4C9D-8471-18370D9D4F1E"
+}

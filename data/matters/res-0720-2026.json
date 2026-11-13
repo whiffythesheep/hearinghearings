@@ -1,0 +1,41 @@
+{
+ "file_number": "Res 0720-2026",
+ "slug": "res-0720-2026",
+ "legistar_id": "8317573",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature pass, and the Governor to sign, S.1709/A.711 requiring the Office of Children and Family Services to use a cost estimation model to calculate Child Care Assistance Program reimbursement payments to providers",
+ "status": "Committee",
+ "sponsors": [
+  "Jennifer Gutiérrez"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 720",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133243&GUID=DA4AB9E9-2315-42D2-84C1-424A05CCE90E"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317573&GUID=D2F5CE33-EA2C-4ECB-AFBF-EF8BDA17AF63"
+}

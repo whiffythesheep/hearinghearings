@@ -4,7 +4,7 @@
  "legistar_id": "8281468",
  "type": "Land Use Application",
  "title": "Application number C 260212 ZSM (Studio 54 Rehabilitation and Text Amendment) submitted by Roundabout Theatre Company, pursuant to Sections 197-c and 201 of the New York City Charter for the grant of a special permit pursuant to Section 81-745 (Floor area bonus for rehabilitation of existing listed theaters) to facilitate rehabilitation of Studio 54 Theater, located on 254 West 54th Street (Block 1025, Lots 10 and 58), Borough of Manhattan, Community District 5, Council District 3.",
- "status": "Companion Pending Approval by Council",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -44,10 +44,26 @@
    "label": "Calendar of the Zoning Subcommittee Meeting and Land Use Meeting – November 10, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118025&GUID=843A5613-8BF4-48FA-9E72-09B07E62A67F"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134248&GUID=B6C0E434-A61E-4E49-A8B1-96EC313C9CF0"
+  },
+  {
+   "label": "Res. No. 738",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134336&GUID=45CE70F1-9656-42DD-A501-F480E344B99B"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-10",
    "body": "Committee on Land Use",

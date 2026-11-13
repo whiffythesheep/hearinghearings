@@ -4,7 +4,7 @@
  "legistar_id": "7865498",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to providing support for the conversion of buildings to a residential use",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Harvey D. Epstein",
   "Farah N. Louis",
@@ -93,6 +93,16 @@
    "label": "Proposed Int. No. 178-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16129611&GUID=6BABA8B8-D5F4-4015-BB50-83E34E92D066"
+  },
+  {
+   "label": "Committee Report 11/12/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133541&GUID=6198F0AA-D5AC-4ED2-94BA-455D5DF97471"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134873&GUID=534A9CF1-BEBB-4111-AA4B-383A4E6248DA"
   }
  ],
  "fiscal": {
@@ -118,6 +128,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16129611&GUID=6BABA8B8-D5F4-4015-BB50-83E34E92D066"
  },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Housing and Buildings",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-09",
    "body": "Committee on Housing and Buildings",

@@ -4,7 +4,7 @@
  "legistar_id": "8206845",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the alternative exemption for permanently and totally disabled veterans",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Frank Morano",
   "Phil Wong",
@@ -31,6 +31,8 @@
   "Kevin C. Riley",
   "Nantasha M. Williams",
   "Harvey D. Epstein",
+  "Shaun Abreu",
+  "Simcha Felder",
   "Vickie Paladino",
   "Joann Ariola",
   "Inna Vernikov",
@@ -101,14 +103,19 @@
   {
    "label": "Proposed Int. No. 1051-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132399&GUID=DFEC763F-A4C0-4154-9953-A4A165603E5B"
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133394&GUID=BE0B9434-482B-4CBF-829E-29CA1D87CB0E"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134237&GUID=52F31FC3-BEA0-4BEC-9D4A-B0B6E7F3FBAE"
   }
  ],
  "fiscal": {
   "revenues": {
    "effective": 0,
-   "succeeding": -10400000,
-   "full": -10400000
+   "succeeding": -5100000,
+   "full": -5100000
   },
   "expenditures": {
    "effective": 0,
@@ -117,16 +124,46 @@
   },
   "net": {
    "effective": 0,
-   "succeeding": -10400000,
-   "full": -10400000
+   "succeeding": -5100000,
+   "full": -5100000
   },
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
   "label": "Proposed Int. No. 1051-A Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132399&GUID=DFEC763F-A4C0-4154-9953-A4A165603E5B"
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133394&GUID=BE0B9434-482B-4CBF-829E-29CA1D87CB0E"
  },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-21",
    "body": "Committee on Veterans",
@@ -141,13 +178,13 @@
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on General Welfare",
+   "body": "Committee on Veterans",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on Veterans",
+   "body": "Committee on General Welfare",
    "action": "Laid Over by Committee",
    "result": ""
   },

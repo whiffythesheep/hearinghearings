@@ -1,0 +1,45 @@
+{
+ "file_number": "M 0100-2026",
+ "slug": "m-0100-2026",
+ "legistar_id": "8306964",
+ "type": "Communication",
+ "title": "Martha King, Council candidate for appointment to the New York City Board of Correction, pursuant to Section 626 of the New York City Charter.",
+ "status": "Committee",
+ "sponsors": [],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report 11/9/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16123428&GUID=1C33B8CC-D499-4E12-BA1E-C5FE0D3C521F"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-09",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-09",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "P-C Item Laid Over by Comm",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8306964&GUID=A9C66241-CC77-4B9C-B837-E01AD223956C"
+}

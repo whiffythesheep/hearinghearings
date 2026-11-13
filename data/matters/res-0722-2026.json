@@ -1,0 +1,35 @@
+{
+ "file_number": "Res 0722-2026",
+ "slug": "res-0722-2026",
+ "legistar_id": "8317576",
+ "type": "Resolution",
+ "title": "A Resolution calling on the United States Congress to pass, and the President to sign, S.4825, also known as the “American A.I. Sovereign Wealth Fund Act”",
+ "status": "Committee",
+ "sponsors": [
+  "Shahana K. Hanif"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 722",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133247&GUID=A3841B50-CE7A-42EF-A1A2-D6A8FAC97420"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317576&GUID=51F1C414-277A-4434-BBF0-2CD0A83D67E7"
+}

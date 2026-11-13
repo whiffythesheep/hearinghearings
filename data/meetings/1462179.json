@@ -4,7 +4,7 @@
  "body": "Committee on Veterans",
  "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462179&GUID=7B015215-BFF0-4917-87EF-FFFCD20F5FC1&Search=",
  "items": [
   {
@@ -13,10 +13,68 @@
    "name": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
    "sponsor": "Inna Vernikov",
    "agenda_note": "Proposed Int. No. 488-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7863054",
    "legistar_guid": "BDE14E78-530A-4B96-A055-85587789A1BF"
+  },
+  {
+   "file_number": "Int 0488-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7863054",
+   "legistar_guid": "BDE14E78-530A-4B96-A055-85587789A1BF"
+  },
+  {
+   "file_number": "Int 0488-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7863054",
+   "legistar_guid": "BDE14E78-530A-4B96-A055-85587789A1BF"
+  },
+  {
+   "file_number": "Int 0488-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
+   "sponsor": "Inna Vernikov",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7863054",
+   "legistar_guid": "BDE14E78-530A-4B96-A055-85587789A1BF",
+   "tally": {
+    "Affirmative": 5
+   },
+   "roll_call": [
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 0928-2026",
@@ -24,10 +82,68 @@
    "name": "Establishing an LGBTQ+ liaison within the department of veterans’ services.",
    "sponsor": "David M. Carr",
    "agenda_note": "Proposed Int. No. 928-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8067757",
    "legistar_guid": "D1D1CEED-A022-448E-97BE-EFFB50F3DF71"
+  },
+  {
+   "file_number": "Int 0928-2026",
+   "type": "Introduction",
+   "name": "Establishing an LGBTQ+ liaison within the department of veterans’ services.",
+   "sponsor": "David M. Carr",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8067757",
+   "legistar_guid": "D1D1CEED-A022-448E-97BE-EFFB50F3DF71"
+  },
+  {
+   "file_number": "Int 0928-2026",
+   "type": "Introduction",
+   "name": "Establishing an LGBTQ+ liaison within the department of veterans’ services.",
+   "sponsor": "David M. Carr",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8067757",
+   "legistar_guid": "D1D1CEED-A022-448E-97BE-EFFB50F3DF71"
+  },
+  {
+   "file_number": "Int 0928-2026",
+   "type": "Introduction",
+   "name": "Establishing an LGBTQ+ liaison within the department of veterans’ services.",
+   "sponsor": "David M. Carr",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8067757",
+   "legistar_guid": "D1D1CEED-A022-448E-97BE-EFFB50F3DF71",
+   "tally": {
+    "Affirmative": 5
+   },
+   "roll_call": [
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 1051-2026",
@@ -35,10 +151,68 @@
    "name": "Alternative exemption for permanently and totally disabled veterans.",
    "sponsor": "Frank Morano",
    "agenda_note": "Proposed Int. No. 1051-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8206845",
    "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
+  },
+  {
+   "file_number": "Int 1051-2026",
+   "type": "Introduction",
+   "name": "Alternative exemption for permanently and totally disabled veterans.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8206845",
+   "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
+  },
+  {
+   "file_number": "Int 1051-2026",
+   "type": "Introduction",
+   "name": "Alternative exemption for permanently and totally disabled veterans.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8206845",
+   "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D"
+  },
+  {
+   "file_number": "Int 1051-2026",
+   "type": "Introduction",
+   "name": "Alternative exemption for permanently and totally disabled veterans.",
+   "sponsor": "Frank Morano",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8206845",
+   "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D",
+   "tally": {
+    "Affirmative": 5
+   },
+   "roll_call": [
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Res 0560-2026",
@@ -46,10 +220,46 @@
    "name": "Enact the Fair Access to Co-ops for Veterans Act of 2025. (H.R. 1803)",
    "sponsor": "Vickie Paladino",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8138451",
    "legistar_guid": "2C8040D8-7303-4BAB-96DF-72482C8CD2A0"
+  },
+  {
+   "file_number": "Res 0560-2026",
+   "type": "Resolution",
+   "name": "Enact the Fair Access to Co-ops for Veterans Act of 2025. (H.R. 1803)",
+   "sponsor": "Vickie Paladino",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8138451",
+   "legistar_guid": "2C8040D8-7303-4BAB-96DF-72482C8CD2A0",
+   "tally": {
+    "Affirmative": 5
+   },
+   "roll_call": [
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carmen N. De La Rosa",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Vickie Paladino",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

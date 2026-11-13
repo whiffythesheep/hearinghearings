@@ -4,7 +4,7 @@
  "body": "Committee on Housing and Buildings",
  "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462178&GUID=1B1930F7-B6B2-4F2C-8ECA-C2244B3D6014&Search=",
  "items": [
   {
@@ -13,10 +13,93 @@
    "name": "Providing support for the conversion of buildings to a residential use.",
    "sponsor": "Harvey D. Epstein",
    "agenda_note": "Proposed Int. No. 178-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7865498",
    "legistar_guid": "AD1BBE27-6216-43DA-B383-EC844FE71B20"
+  },
+  {
+   "file_number": "Int 0178-2026",
+   "type": "Introduction",
+   "name": "Providing support for the conversion of buildings to a residential use.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7865498",
+   "legistar_guid": "AD1BBE27-6216-43DA-B383-EC844FE71B20"
+  },
+  {
+   "file_number": "Int 0178-2026",
+   "type": "Introduction",
+   "name": "Providing support for the conversion of buildings to a residential use.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7865498",
+   "legistar_guid": "AD1BBE27-6216-43DA-B383-EC844FE71B20"
+  },
+  {
+   "file_number": "Int 0178-2026",
+   "type": "Introduction",
+   "name": "Providing support for the conversion of buildings to a residential use.",
+   "sponsor": "Harvey D. Epstein",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7865498",
+   "legistar_guid": "AD1BBE27-6216-43DA-B383-EC844FE71B20",
+   "tally": {
+    "Affirmative": 10,
+    "Absent": 1
+   },
+   "roll_call": [
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Absent"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1178-2026",
+ "title": "Law to create online portal for fixed violations proof",
+ "summary": "This bill would require the city's chief administrative law judge to set up an online system letting people submit photos or documents proving they fixed a violation that can be legally cured. The portal must be mobile-friendly and available in all citywide designated languages. City agencies would review these submissions to decide if the violation counts as cured, and the law would take effect 180 days after passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "fe13fd9830867f8c"
+}

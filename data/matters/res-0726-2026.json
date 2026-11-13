@@ -1,0 +1,73 @@
+{
+ "file_number": "Res 0726-2026",
+ "slug": "res-0726-2026",
+ "legistar_id": "8313949",
+ "type": "Resolution",
+ "title": "Resolution amending and restating the resolution to provide the amounts necessary for the support of the government of the City of New York and the counties therein and for the payment of indebtedness thereof, for the Fiscal Year beginning on July 1, 2026 and ending on June 30, 2027, by the levy of taxes on the real property in the City of New York, in accordance with the provisions of the constitution of the State of New York, the Real Property Law and the Charter of the City of New York.",
+ "status": "Adopted",
+ "sponsors": [
+  "Linda Lee"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 726",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133350&GUID=6DD08FE8-0E3E-4812-9843-F4869872CE85"
+  },
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132561&GUID=9DBF6911-A4A0-42AF-97F0-CA1E470458CF"
+  },
+  {
+   "label": "Exhibit A",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132562&GUID=238537DE-8A6A-4265-94FA-45D847B42686"
+  },
+  {
+   "label": "Exhibit B",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132563&GUID=DF51D7E3-C4EC-473D-9E7F-DEB969952ADD"
+  },
+  {
+   "label": "Exhibit C",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132564&GUID=9AA1466C-FA0E-4710-B5A6-4EB7259712D1"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Finance",
+   "action": "Hearing on P-C Item by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Finance",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass"
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8313949&GUID=2E092425-E909-43AC-A295-2DB713843177"
+}

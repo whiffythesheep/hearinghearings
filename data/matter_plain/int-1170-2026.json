@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1170-2026",
+ "title": "Law to require labels on delivery bins and bins",
+ "summary": "This bill would require delivery services making 200 or more deliveries a week to display their name, address and phone number or email on delivery containers like bags, bins and totes. Services that fail to label containers would face a $100 civil penalty per container, enforced by the Department of Consumer and Worker Protection. The Department of Sanitation would also need to notify owners of removed containers, who must retrieve them within 48 hours or pay a $100 penalty.",
+ "model": "claude-sonnet-5",
+ "input_hash": "1b182fd491b73bee"
+}

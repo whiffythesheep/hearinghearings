@@ -1,0 +1,38 @@
+{
+ "file_number": "Res 0729-2026",
+ "slug": "res-0729-2026",
+ "legistar_id": "8313593",
+ "type": "Resolution",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2689/S.4538, in relation to enacting the building up immigrant legal defense or BUILD Act",
+ "status": "Committee",
+ "sponsors": [
+  "Public Advocate Jumaane Williams",
+  "Rita C. Joseph",
+  "Elsie Encarnación",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 729",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16124024&GUID=B06147F0-0620-4DBE-ACA9-2CA1D58F839E"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8313593&GUID=BF591BCC-2BB4-429F-902F-A66478379CE0"
+}

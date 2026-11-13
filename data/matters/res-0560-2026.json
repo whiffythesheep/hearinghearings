@@ -4,10 +4,14 @@
  "legistar_id": "8138451",
  "type": "Resolution",
  "title": "Resolution calling on the United States House of Representatives to pass H.R. 1803, the United States Senate to introduce and pass a companion bill, and the President to sign such legislation, to enact the Fair Access to Co-ops for Veterans Act of 2025",
- "status": "Laid Over in Committee",
+ "status": "Adopted",
  "sponsors": [
   "Vickie Paladino",
-  "Frank Morano"
+  "Frank Morano",
+  "Lynn C. Schulman",
+  "James F. Gennaro",
+  "Phil Wong",
+  "Kevin C. Riley"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -45,11 +49,34 @@
    "label": "Committee Report 11/12/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132354&GUID=AE061A2C-42D2-4A49-9566-86FF73E5B5E1"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134238&GUID=F0565048-7253-4058-AA38-961679432577"
   }
  ],
  "fiscal": null,
  "history": [
   {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
+  {
    "date": "2026-10-21",
    "body": "Committee on Veterans",
    "action": "Hearing Held by Committee",
@@ -63,13 +90,13 @@
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on General Welfare",
+   "body": "Committee on Veterans",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on Veterans",
+   "body": "Committee on General Welfare",
    "action": "Laid Over by Committee",
    "result": ""
   },

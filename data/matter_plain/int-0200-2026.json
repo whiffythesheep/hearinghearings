@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0200-2026",
- "title": "Law to create resources and feedback channels for doulas",
- "summary": "This bill would require the Health Commissioner to publish a 'Doula Bill of Rights' explaining relevant laws within six months, and to create a form for doulas to submit feedback on their hospital experiences. It would also establish a doula advisory council, including doulas, recent parents and a Health + Hospitals representative, to study doula services and advise the Citywide Doula Program. The council would meet at least quarterly and appointments would be made within 90 days of the law taking effect.",
+ "title": "Law to set up doula resources and advisory council",
+ "summary": "This bill would require the health department to create a 'Doula Bill of Rights' explaining laws affecting doulas working in hospitals, within 6 months of taking effect. It would also set up a feedback form for doulas and an annual public summary of their input, plus a doula advisory council made up of doulas, recent parents and city officials to study doula services and advise the Citywide Doula Program. Council and mayoral appointments to the council must happen within 90 days of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "9c46d1cfca34aa1e"
+ "input_hash": "bd1ef31375c95a17"
 }

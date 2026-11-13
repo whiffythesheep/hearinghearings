@@ -4,7 +4,7 @@
  "body": "Committee on Cultural Affairs, Libraries and International Relations",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462182&GUID=215DAF95-FF98-4409-AE00-21B1A4704A31&Search=",
  "items": [
   {
@@ -13,10 +13,77 @@
    "name": "Designating the fourth week of November as The Shangri-Las Week.",
    "sponsor": "Nantasha M. Williams",
    "agenda_note": "Proposed Res. No. 163-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7863283",
    "legistar_guid": "7D2DC05B-DCB5-41D1-A205-D3F61B5B73FF"
+  },
+  {
+   "file_number": "Res 0163-2026",
+   "type": "Resolution",
+   "name": "Designating the fourth week of November as The Shangri-Las Week.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7863283",
+   "legistar_guid": "7D2DC05B-DCB5-41D1-A205-D3F61B5B73FF"
+  },
+  {
+   "file_number": "Res 0163-2026",
+   "type": "Resolution",
+   "name": "Designating the fourth week of November as The Shangri-Las Week.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7863283",
+   "legistar_guid": "7D2DC05B-DCB5-41D1-A205-D3F61B5B73FF"
+  },
+  {
+   "file_number": "Res 0163-2026",
+   "type": "Resolution",
+   "name": "Designating the fourth week of November as The Shangri-Las Week.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7863283",
+   "legistar_guid": "7D2DC05B-DCB5-41D1-A205-D3F61B5B73FF",
+   "tally": {
+    "Affirmative": 6,
+    "Bereavement": 1
+   },
+   "roll_call": [
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Farah N. Louis",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Chi A. Ossé",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Althea V. Stevens",
+     "vote": "Bereavement"
+    },
+    {
+     "name": "Sandra Ung",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

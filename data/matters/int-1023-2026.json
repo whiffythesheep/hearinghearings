@@ -3,7 +3,7 @@
  "slug": "int-1023-2026",
  "legistar_id": "8193225",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to authorizing electronic registration of dwellings with the department of housing preservation and development",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to authorizing electronic registration of dwellings with the department of housing preservation and development and electronic payment of the fee associated with such registration",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Chris Banks",
@@ -44,6 +44,8 @@
   "Chi A. Ossé",
   "Carl Wilson",
   "Linda Lee",
+  "Virginia Maloney",
+  "Lynn C. Schulman",
   "David M. Carr",
   "Frank Morano",
   "Joann Ariola",
@@ -52,6 +54,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1023-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134241&GUID=280EF593-E4C6-432D-BA68-71DFD36767EB"
+  },
   {
    "label": "Summary of Int. No. 1023",
    "kind": "Summary",
@@ -101,6 +108,11 @@
    "label": "Hearing Transcript - Stated Meeting 9-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15862813&GUID=491D55CF-5418-43BC-B56B-21CF2C2ACD0E"
+  },
+  {
+   "label": "Proposed Int. No. 1023-A - 11/12/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134239&GUID=834F1D27-6308-4A8F-9F2F-F98FF71D6DD3"
   }
  ],
  "fiscal": {

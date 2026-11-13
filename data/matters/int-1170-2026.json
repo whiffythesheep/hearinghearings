@@ -1,0 +1,45 @@
+{
+ "file_number": "Int 1170-2026",
+ "slug": "int-1170-2026",
+ "legistar_id": "8317492",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to the labeling and removal of delivery containers",
+ "status": "Committee",
+ "sponsors": [
+  "Justin E. Sanchez"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1170",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133095&GUID=09DDF0C7-DB2E-4AB8-9494-BDBDE649C224"
+  },
+  {
+   "label": "Int. No. 1170",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133096&GUID=9701EDDB-04ED-4B18-AE07-C1138229C661"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133097&GUID=5105EA0B-4620-4C13-B71D-4BDDFF420ACE"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317492&GUID=6A4ED376-0260-4B1A-ABD2-45ECAF0257E3"
+}

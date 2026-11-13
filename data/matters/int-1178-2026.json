@@ -1,0 +1,40 @@
+{
+ "file_number": "Int 1178-2026",
+ "slug": "int-1178-2026",
+ "legistar_id": "8317524",
+ "type": "Introduction",
+ "title": "A Local Law to amend the New York city charter, in relation to enabling respondents to submit proof of cured violations",
+ "status": "Committee",
+ "sponsors": [
+  "Shanel Thomas-Henry"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1178",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133181&GUID=BD3B237B-5F82-44E5-9E82-ABB2F62C7AC6"
+  },
+  {
+   "label": "Int. No. 1178",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133180&GUID=31DDCEAC-5F67-4663-B249-A3CC037B022C"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317524&GUID=8C219EFE-73AE-4DC7-81ED-96C5BC9AAE72"
+}

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1174-2026",
+ "title": "Law to create a public FDNY fire emergency dashboard",
+ "summary": "This bill would require the Fire Department to maintain a public online dashboard showing data on fire emergencies from the current and prior year, including approximate location, date, time and cause. Users could filter the data by borough, time period and cause of fire. The dashboard would be updated at least monthly and the law would take effect 180 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "4a16371312d7376b"
+}

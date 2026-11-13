@@ -1,0 +1,35 @@
+{
+ "file_number": "Res 0716-2026",
+ "slug": "res-0716-2026",
+ "legistar_id": "8317577",
+ "type": "Resolution",
+ "title": "Resolution calling on the United States Congress to retain the current name of New York Pennsylvania Station and to use its powers to block any efforts to rename the station",
+ "status": "Committee",
+ "sponsors": [
+  "Gale A. Brewer"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Res. No. 716",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133255&GUID=FEDCD8E0-ADEF-490E-9655-7E6267D5197A"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317577&GUID=E4D485E3-895B-4A1B-9D72-BFD337281827"
+}

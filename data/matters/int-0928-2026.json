@@ -4,7 +4,7 @@
  "legistar_id": "8067757",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing an LGBTQ+ liaison within the department of veterans’ services",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "David M. Carr",
   "Lynn C. Schulman",
@@ -21,7 +21,10 @@
   "Amanda C. Farías",
   "Mercedes Narcisse",
   "Linda Lee",
-  "Frank Morano"
+  "Phil Wong",
+  "James F. Gennaro",
+  "Frank Morano",
+  "Vickie Paladino"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -79,6 +82,16 @@
    "label": "Committee Report 11/12/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132352&GUID=26C69433-7488-4E20-B45F-93B6FA9C3FBB"
+  },
+  {
+   "label": "Proposed Int. No. 928-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133349&GUID=3F83502B-50EC-4B96-8FD0-54F3226BE634"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134235&GUID=94FA9DDA-2FC7-46BC-A906-44067CBDB3D2"
   }
  ],
  "fiscal": {
@@ -100,10 +113,40 @@
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15590988&GUID=DDC4F835-0F6B-4D31-B6C3-F35CF22FBAF4"
+  "label": "Proposed Int. No. 928-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133349&GUID=3F83502B-50EC-4B96-8FD0-54F3226BE634"
  },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-22",
    "body": "Committee on Veterans",

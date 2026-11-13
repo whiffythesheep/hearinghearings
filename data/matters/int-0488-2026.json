@@ -4,7 +4,7 @@
  "legistar_id": "7863054",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Inna Vernikov",
   "Farah N. Louis",
@@ -17,6 +17,8 @@
   "Chris Banks",
   "Kamillah Hanks",
   "Kevin C. Riley",
+  "Lynn C. Schulman",
+  "James F. Gennaro",
   "Frank Morano",
   "Vickie Paladino",
   "David M. Carr"
@@ -77,10 +79,71 @@
    "label": "Committee Report 11/12/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132351&GUID=6F6143B3-5731-4DAF-A9A3-7AED9CDB5FBA"
+  },
+  {
+   "label": "Proposed Int. No. 488-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133348&GUID=F4890B62-BADC-4210-BEB5-9A74FFDCFDAD"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134234&GUID=12972D75-DF45-4D06-9C0A-2DA07B9A4EA9"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 488-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133348&GUID=F4890B62-BADC-4210-BEB5-9A74FFDCFDAD"
+ },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Veterans",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-04-23",
    "body": "Committee on Veterans",

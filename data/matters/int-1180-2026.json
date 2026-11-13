@@ -1,0 +1,45 @@
+{
+ "file_number": "Int 1180-2026",
+ "slug": "int-1180-2026",
+ "legistar_id": "8317523",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to informing cooling center visitors about social services",
+ "status": "Committee",
+ "sponsors": [
+  "Carl Wilson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1180",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133174&GUID=1D0BBAF8-D19A-47ED-9C50-2AAC4989AEC4"
+  },
+  {
+   "label": "Int. No. 1180",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133177&GUID=2FC4A9BD-75E5-40D6-A5D3-E3F627F05811"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133184&GUID=F7132702-A32D-4113-B50B-4CC96B6E3D27"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Referred to Comm by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8317523&GUID=9FDB1205-12F0-4FAB-A142-7BFDC5613C0B"
+}

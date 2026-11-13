@@ -4,7 +4,7 @@
  "legistar_id": "7861965",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the time permitted for the installation of covered safety treatments on any portion of a street adjacent to a school",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Jennifer Gutiérrez",
   "Farah N. Louis",
@@ -19,7 +19,9 @@
   "Kamillah Hanks",
   "Sandra Ung",
   "Linda Lee",
-  "Shaun Abreu"
+  "Shaun Abreu",
+  "Selvena N. Brooks-Powers",
+  "Christopher Marte"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -87,6 +89,11 @@
    "label": "Proposed Int. No. 202-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16130383&GUID=B75FD070-78A7-4168-BD94-FCBEDAF8F653"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134513&GUID=B951D04A-FB78-46BE-ABD7-1E8F6433F6DD"
   }
  ],
  "fiscal": {
@@ -112,6 +119,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16130383&GUID=B75FD070-78A7-4168-BD94-FCBEDAF8F653"
  },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Approved by Council",
+   "result": "Pass"
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-12",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-03-03",
    "body": "Committee on Transportation and Infrastructure",
