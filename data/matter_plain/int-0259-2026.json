@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0259-2026",
- "title": "Law to require DOE to distribute dental care information",
- "summary": "This bill would require the Department of Education, in consultation with the Department of Health and Mental Hygiene, to develop materials on dental care and fluoride and distribute them annually to every student and parent in New York City public schools. The materials must use plain, age-appropriate language and be available in English and the nine most common home languages of students, plus additional languages as needed.",
+ "title": "Law to require dental care info in schools",
+ "summary": "This bill would require the Department of Education, working with the Health Department, to create materials on dental care and the importance of fluoride. Schools would distribute these materials annually to every student and parent, in print or electronically, in plain language and in English plus the nine most common home languages. The requirement would take effect immediately upon passage.",
  "model": "claude-sonnet-5",
- "input_hash": "e1ed27a52da4f856"
+ "input_hash": "6c0c32a37b082533"
 }

@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0835-2026",
+ "title": "Law to create a public school bus performance dashboard",
+ "summary": "This bill would require the Department of Education to report monthly data on school bus on-time performance, including early, late and missed pickups and drop-offs. An agency designated by the mayor would maintain a public online dashboard presenting this data, filterable by vendor, route, school and borough. The law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "b3c1bc0afa95a696"
+}

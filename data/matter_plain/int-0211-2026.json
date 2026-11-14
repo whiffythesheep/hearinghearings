@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0211-2026",
- "title": "Law requiring city fertility treatment information campaign",
- "summary": "This bill would require the Department of Health and Mental Hygiene to run a public education campaign on fertility treatment, including in vitro fertilization and fertility preservation, and on insurance and Medicaid coverage requirements under New York law. The campaign would use in-person, TV, internet, radio, print and transit outreach in the city's designated languages and distribute materials to public hospitals and clinics. The law would take effect one year after enactment.",
+ "title": "Law to require NYC fertility treatment information campaign",
+ "summary": "This bill would require the Department of Health and Mental Hygiene to run a public education campaign, by December 1, 2027, explaining fertility treatment options and insurance and Medicaid coverage for them. The campaign would use ads on the internet, subways and LinkNYC kiosks, and materials would be distributed to hospitals, clinics and health care providers citywide. Starting December 1, 2028, the department would have to update and redistribute these materials to providers each year.",
  "model": "claude-sonnet-5",
- "input_hash": "eb226443e1356d1f"
+ "input_hash": "64b7b08b0c3e9054"
 }

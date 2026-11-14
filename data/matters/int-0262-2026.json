@@ -4,7 +4,7 @@
  "legistar_id": "7862109",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the length of the season and operating hours for city beaches and pools",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Shekar Krishnan",
   "Farah N. Louis",
@@ -43,10 +43,45 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093639&GUID=08A699DA-2719-48D6-A3DF-88C8487BA76F"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139740&GUID=FBDE7F04-4F95-4F01-9E23-858C84AC2F7A"
+  },
+  {
+   "label": "Committee Report 11/13/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16140193&GUID=E5935546-DCE0-40CA-8F8C-F99E97DEF846"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139740&GUID=FBDE7F04-4F95-4F01-9E23-858C84AC2F7A"
+ },
  "history": [
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

@@ -4,7 +4,7 @@
  "legistar_id": "8310428",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to an interactive map of information regarding access to publicly owned swimming pools",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Shekar Krishnan",
   "Farah N. Louis"
@@ -20,10 +20,53 @@
    "label": "Int. No. 1164",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16117011&GUID=10665C54-248A-4990-9E1B-FBA4E934EC3F"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139743&GUID=D227649B-40D0-43F5-B1FC-707843FF5D19"
+  },
+  {
+   "label": "Committee Report 11/13/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16140196&GUID=7AA1765B-C680-4212-BF68-6EF757A61C5D"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139743&GUID=D227649B-40D0-43F5-B1FC-707843FF5D19"
+ },
  "history": [
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

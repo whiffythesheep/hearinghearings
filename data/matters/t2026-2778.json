@@ -4,11 +4,30 @@
  "legistar_id": "8306931",
  "type": "Oversight",
  "title": "Oversight - The State of Water Safety at the City’s Beaches and Pools.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16140192&GUID=7FC42BA4-7189-4F18-99FB-0AF6C4934961"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8306931&GUID=00067003-76DC-4163-A537-4194B8FFD747"
 }

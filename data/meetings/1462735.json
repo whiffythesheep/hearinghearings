@@ -1631,8 +1631,8 @@
    "name": "Zoning, South Richmond Designated Open Space Amendment, Staten Island (N 260362 ZRR).",
    "sponsor": "Kevin C. Riley",
    "agenda_note": "",
-   "action": "",
-   "result": "",
+   "action": "Approved, by Council",
+   "result": "Pass",
    "legistar_id": "8255468",
    "legistar_guid": "9341C913-FA6F-448A-839D-F582F21436D1",
    "tally": {
@@ -3625,7 +3625,8 @@
    "legistar_id": "8206845",
    "legistar_guid": "6AC9C3AF-2CE8-42A3-965A-F5C262BE178D",
    "tally": {
-    "Affirmative": 49,
+    "Affirmative": 48,
+    "Negative": 1,
     "Absent": 2
    },
    "roll_call": [
@@ -3655,7 +3656,7 @@
     },
     {
      "name": "Gale A. Brewer",
-     "vote": "Affirmative"
+     "vote": "Negative"
     },
     {
      "name": "Selvena N. Brooks-Powers",

@@ -29,6 +29,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 211-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16140501&GUID=30A47023-B7FC-473C-9938-338C14312E56"
+  },
+  {
    "label": "Summary of Int. No. 211",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15154690&GUID=0758ACA3-B02E-4AFE-A873-DCF15A5A781B"
@@ -47,6 +52,11 @@
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252306&GUID=5FE0C413-F737-4357-B939-AC40440E30D5"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093576&GUID=FEF71569-309B-4EFB-8261-64DC8DCE609B"
   },
   {
    "label": "Memorandum in Support",
@@ -72,11 +82,6 @@
    "label": "Hearing Transcript 6/15/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930377&GUID=9B3993D6-78BD-4048-B072-48CF1F9C1E21"
-  },
-  {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093576&GUID=FEF71569-309B-4EFB-8261-64DC8DCE609B"
   },
   {
    "label": "Proposed Int. No. 211-A - 11/12/26",

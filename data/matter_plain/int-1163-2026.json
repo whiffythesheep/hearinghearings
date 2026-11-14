@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1163-2026",
- "title": "Law to require digital rip current warning signs at beaches",
- "summary": "This law would require the Parks Department to install digital signs at the entrances of all city beaches warning about rip currents and other water safety hazards. The signs would play audio and visual announcements about the danger level, protective actions to take, and how to get help, in the city's designated languages. The law would take effect 180 days after becoming law.",
+ "title": "Law to require digital safety signs at NYC beaches",
+ "summary": "This bill would require the Parks Department to install digital signs at city beach entrances that display visual and audio alerts about rip currents and other water safety hazards. The signs would also explain what to do if a swimmer is caught in a rip current, and must play announcements in designated citywide languages. The law would take effect 180 days after being enacted.",
  "model": "claude-sonnet-5",
- "input_hash": "0dee68ea33d2622b"
+ "input_hash": "8b72563a72efcab8"
 }

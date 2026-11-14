@@ -4,7 +4,7 @@
  "legistar_id": "8123719",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to rip current signs at beaches under the jurisdiction of the department of parks and recreation",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Selvena N. Brooks-Powers",
   "Amanda C. Farías",
@@ -15,7 +15,8 @@
   "Farah N. Louis",
   "Julie Won",
   "Virginia Maloney",
-  "Frank Morano"
+  "Frank Morano",
+  "Joann Ariola"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -38,10 +39,45 @@
    "label": "Hearing Transcript - Stated Meeting 6-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15849066&GUID=6D953266-28DB-4CF1-8F5F-E53907B26C28"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139741&GUID=E4B5FBEE-B97F-4184-AAC4-F54D297EA448"
+  },
+  {
+   "label": "Committee Report 11/13/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16140194&GUID=FF80EF18-7171-45C1-958A-192CDF9CBEF0"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139741&GUID=E4B5FBEE-B97F-4184-AAC4-F54D297EA448"
+ },
  "history": [
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-13",
+   "body": "Committee on Parks and Recreation",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-06-30",
    "body": "City Council",

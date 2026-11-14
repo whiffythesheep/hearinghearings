@@ -1,0 +1,44 @@
+{
+ "event_id": "1454944",
+ "date": "2026-11-18",
+ "body": "Committee on Education",
+ "location": "Council Chambers - City Hall",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1454944&GUID=7DACA9F6-2B5A-4F83-91EE-91504897B3E5&Search=",
+ "items": [
+  {
+   "file_number": "T2026-2677",
+   "type": "Oversight",
+   "name": "Oversight - Examining School Bus Transportation Services in NYC.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8300831",
+   "legistar_guid": "714945E7-1732-4FEA-B0E9-7563827B0524"
+  },
+  {
+   "file_number": "Int 0835-2026",
+   "type": "Introduction",
+   "name": "Establishment and maintenance of a school bus performance dashboard.",
+   "sponsor": "Lincoln Restler",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7984656",
+   "legistar_guid": "97ABBEE6-7D12-4007-9148-6BBB361ADAE8"
+  },
+  {
+   "file_number": "Res 0735-2026",
+   "type": "Resolution",
+   "name": "Amend the education law. (S.1018/A.8440)",
+   "sponsor": "Julie Won",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8317565",
+   "legistar_guid": "E96E796A-15CC-46B3-B510-9A7D5CC9E49F"
+  }
+ ]
+}

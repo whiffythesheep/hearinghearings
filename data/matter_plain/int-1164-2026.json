@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1164-2026",
  "title": "Law to add nonprofit swim programs to city pool map",
- "summary": "This bill would require the Parks Department to identify which public pools could host swimming and water safety programs run by not-for-profit organizations, and to list those pools and programs on its existing online interactive pool map. If a pool is found not suitable for such programming, Parks must report to the mayor and Council by May 1, 2027 explaining why and recommending ways to improve access. The law would take effect 90 days after enactment.",
+ "summary": "This bill would require the Parks Department to identify which city-run pools could host swimming and water safety programs run by nonprofit organizations, and to add that information to the department's existing online pool map. If a pool is found unsuitable for such programming, the department would have to report to the Mayor and Council by May 1, 2027 explaining why and recommending ways to improve access. The law would take effect 90 days after passage.",
  "model": "claude-sonnet-5",
- "input_hash": "d3d4752c692a3776"
+ "input_hash": "b12810d830252c9e"
 }
