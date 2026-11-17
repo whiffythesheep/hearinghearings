@@ -1,0 +1,2178 @@
+---
+committee: "Committee on Finance | Committee on Housing and Buildings"
+committee_slug: committee-on-finance
+title: "Advancing Homeownership Opportunity and Protection"
+date: 2026-11-17
+slug: committee-on-finance-advancing-homeownership-opportunity-and-protection-2026-11-17
+duration: "4hrs 57m"
+youtube_url: ""
+viebit_url: "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261117-110752.mp4"
+viebit_hash: "t9J3TqebkpClQXQr"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460140&GUID=5319E10F-647B-4A4E-BF69-EE73ECB5343A&Search="
+chairs: "Linda Lee | Pierina Ana Sanchez"
+members: "Shaun Abreu, Shirley Aldebol, Alexa Avilés, Selvena N. Brooks-Powers, Oswald J. Feliz, James F. Gennaro, Crystal Hudson, Virginia Maloney, Christopher Marte, Darlene Mealy, Frank Morano, Mercedes Narcisse, Lincoln Restler, Justin E. Sanchez, Nantasha M. Williams, Phil Wong"
+---
+
+Summary
+
+Meeting Overview
+
+The Finance Committee, jointly with Housing and Buildings, held an oversight hearing on advancing homeownership opportunity and protection in New York City. The hearing covered a substantial package of legislation, resolutions, and oversight questions touching on down payment assistance, Housing Choice Voucher homeownership conversion, co-op board training, property tax lien notifications, displacement protection, and DOB enforcement disparities. Representatives from HPD, DOF, and DOB testified. The package was explicitly framed by Council Members as a Black and Brown homeownership equity issue, with repeated references to declining Black homeownership, rising deed theft, disproportionate foreclosure rates in Southeast Queens, and regressive effective property tax rates in communities of color.
+
+HPD's testimony outlined a dual strategy: protecting existing homeowners from displacement and predatory practices, and expanding access to new homeownership opportunities. Key new initiatives include the OUR HOME program to convert rental buildings into limited equity co-ops (targeting 150 units per year with roughly $75 million in capital budget for FY27-28), expansion of the Open Door program to 300 new construction units per year, and scaling Home First down payment assistance from roughly 171 households served in FY26 toward a target of 300 in FY28. HPD also described the Homeowner Help Desk, funded at $10 million cumulatively, as the primary single point of contact for distressed homeowners, and noted a new $2 million annual contract for lien sale outreach through the Center for New York City Neighborhoods. Council Members repeatedly pressed HPD on whether these targets and term sheets were ambitious enough, with Deputy Speaker Williams flatly stating that Open Door production numbers are unimpressive relative to overall development pipelines, and that developers consistently tell her the homeownership term sheets are inferior to rental development terms.
+
+DOF testified against Intro 1084 (automatic enrollment in property tax payment plans) in its current form, raising concerns about consent, the operational complexity of determining the lowest-cost plan without full owner data, and the risk that auto-enrollment could inadvertently accelerate enforcement action if owners default on plans they never agreed to. The exchange was substantive: Chair Lee drew out that DOF considers opt-in preferable to opt-out, that it currently has incomplete data on owner preferences for plan length, and that roughly 3,859 properties hold active SCHE or DRIE benefits while still carrying outstanding property tax debt. DOF also confirmed that in 2025, only 4,746 payment plans were active across all types, with zero homeowners having lost their homes through tax lien foreclosure. The lien sale planned for mid-2027 drew significant anxiety from Council Members representing Southeast Queens and Brooklyn, with CM Brooks-Powers noting that foreclosure filings in District 31 accounted for 17% of all Queens filings and are the highest of any district in the city and reportedly in the nation. DOF outlined reforms for 2027 including raising the foreclosure minimum for owner-occupied Class 1 properties to $70,000 or 15% of market value, raising the water and sewer debt inclusion threshold from $3,000 to $5,000, and removing properties with deceased owners from the sale for two years.
+
+Property tax reform was a recurring and visibly frustrated theme. Multiple Council Members representing communities of color noted that homeowners in Canarsie, East New York, and Cambria Heights pay effective property tax rates roughly twice those in Park Slope and the East Village, a disparity acknowledged in the Mayor's own housing plan. DOF confirmed it is working with City Hall on reform legislation for the upcoming state legislative session but has no bill drafted and no state sponsors identified. Deputy Speaker Williams was blunt in her skepticism, stating she does not believe the administration is genuinely working toward reform and would be shocked to see anything substantive pass in Albany this session. Chair Sanchez also pressed HPD on the long-delayed redline of Intro 657, the Safer Homes Act reforming Third Party Transfer, which the administration confirmed it supports but which is running two days past a deadline the administration itself had committed to. HPD promised a redline before Thanksgiving.
+
+Numbers
+
+- In the third quarter of 2026, single- and two-family homes represented 66% of New York City's first-time foreclosure auction cases.
+- Deed theft complaints more than tripled between 2023 and 2025.
+- More than 10,000 New York City homes were flipped between 2021 and 2025, disproportionately in Black and Brown neighborhoods.
+- The median first-time buyer in New York City recently put down $265,000 on an $883,000 home.
+- Roughly one in three New York City households owns its home; in the Bronx, fewer than one in five.
+- Black household homeownership stands at 26%; Latino household homeownership at 17%.
+- HPD's Home First program served roughly 1,100 homebuyers over the past decade, averaging just over 100 per year; in FY26 it served approximately 171 households.
+- Intro 862 would require HPD to assist at least 600 first-time homebuyers per year with down payment and closing costs.
+- HPD's target for Home First is 300 households by FY28, up from 171 in FY26.
+- Home First provides $100,000 forgivable grants; the state SONYMA equivalent provides $15,000 to $40,000.
+- Open Door subsidy is capped at $100,000 per unit with a historical average close to $85,000; the program cap is $445,000 per unit.
+- Open Door has produced approximately 150 units per year on average for the last three years; the target is 300 units per year in FY27 and FY28.
+- OUR HOME program targets 150 rental-to-co-op conversion units per year for FY27 and FY28, with approximately $75 million in capital budget across both years.
+- OUR HOME income targeting ranges from 50% AMI at the low end to 120% AMI for vacant units.
+- Since 2020, HPD has financed 1,200 units on community land trusts.
+- The Urban Homesteading Assistance Board HDFC training contract is valued at $7 million and covers approximately 180 training classes per year and 220 hours of individual training per month.
+- Approximately 1,300 to 1,400 HDFCs exist citywide; HPD directly regulates approximately 250 to 400 of them; 60 TIL buildings remain to be converted.
+- HPD's lien sale outreach contract with the Center for New York City Neighborhoods is $2 million per year, with 15 to 20 community-based sub-organizations and a commitment to eight touchpoints per at-risk homeowner.
+- 3,859 properties hold active SCHE or DRIE benefits while carrying outstanding property tax debt and not enrolled in a payment plan.
+- In 2025, DOF implemented 4,746 property tax payment plans: 4,573 standard, 133 deferred, and 40 reduced-interest-rate plans.
+- 3,144 Class 1 owners enrolled in a payment plan and were removed from the lien sale list in the most recent cycle.
+- Zero homeowners lost their homes through tax lien foreclosure in the past year.
+- The 2027 lien sale will raise the foreclosure minimum for owner-occupied Class 1 properties to $70,000 or 15% of market value, and raise the water and sewer debt inclusion threshold from $3,000 to $5,000.
+- The Office of Deed Theft has received more than 300 referrals since its inception and has three dedicated staff plus one attorney.
+- The Homeowner Protection Program receives $40 million statewide from the Governor; $14 million of that flows to 30 organizations in New York City, administered through the Attorney General's Office.
+- District 31 (Southeast Queens) recorded 329 foreclosure filings last year, approximately 17% of all Queens filings; tax liens sold on small homes in the district more than doubled from 44 in 2021 to 102 in 2025, compared to roughly 50% growth citywide.
+- Current mortgage rates are approximately 7%, up significantly from below 5% in recent years, materially constraining Home First utilization.
+- In FY26, 8,400 households received assistance through HPD homeownership programs.
+
+Action Points
+
+- HPD to provide Chair Sanchez with a redline of Intro 657 (the Safer Homes Act) before Thanksgiving recess.
+- HPD to release the OUR HOME term sheet by end of calendar year 2026 or in early 2027.
+- HPD to share full five-year breakdown of Home First assistance by borough with CM Brooks-Powers.
+- HPD to provide data on HCV Homeownership Program closings by calendar year for 2024 and 2025 to CM Brooks-Powers.
+- DOF to produce and share with the committee a report on the size, age, and payment plan status of the 3,859 properties with active SCHE or DRIE benefits and outstanding property tax debt, within a few weeks.
+- DOF to provide the committee with an estimate of the cost and staffing requirements to implement Intro 1084.
+- DOF to provide the committee with interest rates applicable to each property tax payment plan type.
+- DOF to provide CM Joseph with data on how many seniors lost SCHE exemptions last year due to renewal or paperwork failure rather than ineligibility.
+- DOF to provide CM Brooks-Powers with an explanation of the concentration of lien sale properties in Southeast Queens between 2021 and 2025, and to commit to district-specific outreach ahead of the 2027 lien sale.
+- DOF to provide CM Narcisse with a breakdown of deed theft complaints from Brooklyn Community Board 18.
+- DOF to review and clarify website messaging on the standard payment plan versus reduced-interest payment plan options, and to meet with Finance Committee staff to address identified ambiguities.
+- HPD to investigate and begin compiling data on homeowners whose properties were damaged by adjacent construction, and to meet with CM Narcisse and other affected Council Members in their districts.
+- HPD to follow up with CM Brewer on the status of 59 West 87th Street and 615 West 150th Street HDFC buildings.
+- HPD to provide CM Brewer with data on HDFC vacancies and buildings without restrictive deeds among the regulated portfolio.
+- HPD to engage with CM Narcisse and other Southeast Queens Council Members on specific instances of displacement-related DOB violations affecting older homeowners of color.
+- DOF and HPD to jointly commit to conducting walk-in outreach sessions in Eastern Queens covering property taxes, water bills, and homeownership resources, in coordination with the Homeowner Help Desk.
+- HPD to respond to Deputy Speaker Williams with detailed data on homeowners assisted through the Homeowner Help Desk in Districts 31 and other Southeast Queens districts, and to share information on tangled title resources available to her constituents.
+- DOB to follow up with CM Wong on split-unit permit violation cases in his district and to plan targeted outreach to affected homeowners.
+- HPD to follow up with CM Narcisse on the analysis of whether loss of short-term rental income has contributed to tax arrears or mortgage defaults among owner-occupants.
+- HPD and DOF to engage with the state legislature and bill sponsors on the HDFC Fairness, Preservation, and Affordability Act ahead of the upcoming state legislative session, including the DAMP tax cap renewal.
+- HPD to respond to Deputy Speaker Williams with a fuller account of progress made by the Office of Deed Theft Prevention against its stated goals, including the alert system for suspicious property filings.
+- DOB to prepare for Friday's hearing focused on safety oversight at smaller construction sites under 75 feet, and to provide a full list of site safety supervision triggers.
+
+## Full Transcript
+
+**(00:00:09)**
+
+
+
+Thank you. Good morning, good morning. Welcome to the New York City Council Committee on Finance joint with Housing and Buildings. At this time, we ask that you please silence all electronics. If you wish to fill out an appearance card, see the Sergeant at Arms in the back. At no point, please do not approach the bench. Good morning. I'm
+
+**(00:00:46)**
+
+
+
+CM Pierina Ana Sanchez, Chair of the Committee on Housing and Buildings. Welcome to today's joint oversight hearing with Chair Linda Lee and the Finance Committee on advancing homeownership opportunity and protection. Thank you also to the Speaker for her flexibility. I'm dealing with a personal care matter, but I will be here for a few hours today because this matter is so important. I want to acknowledge my colleagues who are present today. CM Salaam, Note
+
+**(00:01:12)**
+
+
+
+Sorry, I'm very short. Councilmember, CM Salam, Narcisse. Ah.
+
+**(00:01:20)**
+
+
+
+Deputy Speaker Williams.
+
+**(00:01:22)**
+
+
+
+CM Wang, CM Carl Wilson, and CM Justin Sanchez. Oh, and CM Marte, and CM Morano. Yes, Morano, and CM Member
+
+**(00:01:37)**
+
+
+
+Jim Gennaro. Oh, thank you. For generations, working families across the city have sacrificed, saved, and worked themselves to the bone for the chance to own a little piece of New York. Not just for a roof over their heads, but for the stability that it brings. The roots it allows them to put down, and the possibility of passing something on to their children. That is the dream of homeownership. In a city built by working people, we should be doing everything in our power to protect it. Instead, we're watching that dream become harder and harder to achieve and harder to keep for families who sacrificed to buy a home. Taxes, insurance, utilities, and repair costs keep rising as buildings age. For older Black and Latino homeowners especially, financial distress can put their generational wealth at risk. In the third quarter of 2026, single and two-family homes together represented 66% of New York City's first-time foreclosure auction cases. And to make matters worse, predatory activity is on the rise. Between 2023 and 2025, complaints of deed theft more than tripled. Between 2020 and 2025, New York City lost more than 185,000 non-Hispanic Black residents. Rising housing costs are part of that story, but research from the Pratt Center shows us, and found, that more than 10,000 New York City homes were flipped between 2021 and 2025, disproportionately in Black and Brown neighborhoods.
+
+We have to ask: is this city doing all that we can to prevent speculation from pricing working families out of the very neighborhoods that they helped to build? And is our city equipped to track how many homes are moving from owner-occupants into investor hands? These specific pressures affect Mitchell-Lama and HDFC co-ops, market co-ops and condos, single-family homeowners, and small owner-occupied multi-family buildings differently. Co-op boards face costly repairs and governance challenges. Small property owners juggle expenses and responsibilities with their tenants. And for New Yorkers trying to buy their first home, the median first-time buyer recently put down $265,000 on an $883,000 home. That's only about one-third of the city's households who are owning their homes. And in the Bronx, in my neck of the woods, barely one in five. What kind of opportunity is this for a working family? We've been working on these issues for years in the Council, from our comprehensive hearing in 2023 on homeownership, to hearings on Int 0861 this summer, co-op transparency, deed theft, distressed properties, and the Mayor's overall housing plan. We've pressed HPD to update its homeownership term sheets and enacted a 4% homeownership opportunity target in the last administration. Today we want to hear this administration's plan. Are tax payment plans and deed theft protections reaching families before they lose their homes?
+
+Are Home First, the Homeowner Help Desk, which shout-out to CM Brooks-Powers, her bill created, and the Office of the Homeowner Advocate, voucher homeownership, tax incentives like J-51 and development programs, are these things meeting the need? We look forward to exchanging ideas with the administration and collaborating to keep homeownership a real possibility for more New Yorkers, including discussion of my colleagues' bills before us today. Intro 861, sponsored by CM Brooks-Powers, for example, would expand outreach about the Housing Choice Voucher Homeownership Program, which helps voucher holders transition into ownership. Intro 862, also sponsored by CM Brooks-Powers, would expand the Home First down payment assistance so that at least 600 New Yorkers a year would receive the financial assistance they need to make down payments. In addition to these bills, which would give direct financial assistance to potential homebuyers.
+
+**(00:05:32)**
+
+
+
+Council Members. CM O'Reilly's Intro 406. CM Narcisse's Intro 1091. CM Hudson's Intro 1084, and Deputy Speaker Williams' Intro 1091 would create protections for current homeowners. While CM Hankerson's Intro 1082 and Deputy Speaker Williams' Intro 1097 would help us understand why New Yorkers are struggling to purchase homes, so that we, together with the administration, can better serve the public. I want to take a moment to thank Deputy Speaker Natasha Williams for leading this package, and the Black, Latino, and Asian Caucus for championing Black homeownership. I thank my team, Ben Ratner, Kim Castellanos, Gerard Fernandez, Malia Sardinia, Marcus Khan, Geraldine Feliz, Emily Porta, Lyn Mendez, Maria Jose Mares. So that's a big team, y'all. So, Oriana and the committee staff here today, Austin Malone, Billy Second, and Dirk Spencer, Mohammed Shadid, and Noah Sloss. D Member Lee, Lee, to deliver her
+
+**(00:05:57)**
+
+
+
+Remarks. Ah, before I begin, we've been joined by CM Riley, Avilés, Brooks-Powers, and Abreu. Okay, I know it's a little toasty, so hopefully you all won't fall asleep during the hearing, but it's exciting stuff. Good morning, everyone. I'm CM Linda Lee, Chair of the Committee on Finance, and would like to thank my colleagues and co-chairs, CM Pierina Sanchez, Chair of the Committee on Housing and Buildings, and Deputy Speaker Natasha Williams, for joining me this morning for this important oversight hearing on advancing homeownership opportunity and protection. Today we will hear a package of legislation intended to promote homeownership opportunities and fortify protections for current and prospective homeowners in New York City, including Intro 1084, which falls under the jurisdiction of the Committee on Finance. Intro 1084, co-sponsored by CM Crystal Hudson, would require the Commissioner of Finance to automatically enroll individuals in a Department of Finance administered residential property tax payment plan that requires an individual to pay the lowest total amount. The Commissioner would be required to notify an eligible individual about automatic enrollment at least 60 days before the first payment is due under the applicable plan, the types of plans for which the individual is eligible and their costs, the plan in which the individual is enrolled, and any steps necessary to complete enrollment.
+
+Additionally, the Commissioner would be required to establish a plainly and conspicuously communicated opt-out mechanism that would allow an individual to decline automatic enrollment at the time the individual receives the notice. Throughout my time serving as a nonprofit leader and now as a Council Member, I've seen how crucial homeownership resources are to my constituents as they navigate the many facets of owning a
+
+**(00:06:34)**
+
+
+
+Home in this great city, including navigating various city offices and agencies when faced with questions or hardships related to homeownership. Owning a home can be very difficult, and it is our responsibility as lawmakers to make it easier for homeowners to seek help and support when they feel overwhelmed or burdened, rather than adding to the challenges of navigating the complexities of city government.
+
+**(00:08:20)**
+
+
+
+I'm excited that we were able to convene representatives from DOF, HPD, and DOB to better understand how we can continue to make homeownership a reality for more New Yorkers, while also ensuring that current homeowners have the resources and support they need to afford and remain in their homes. Thank you to my colleagues for joining me today, to DOF and the other agencies for testifying, and to the Finance Committee staff. Oh, I think we recognized everybody, right? Okay, okay, and I'll pass it back to you.
+
+**(00:08:42)**
+
+
+
+Sanchez. Speaker. Thank you. Cheers. Least, I'll
+
+**(00:09:25)**
+
+
+
+Now turn it over to CM Brooks-Powers, followed by Deputy Speaker Williams. Thank you. Cheers. Leave Chair Sanchez and members of the Committees on Finance and Housing and Buildings for including Intro 861 and Intro 862 in this critical hearing on homeownership. I have the privilege of serving communities where homeownership has long been a cornerstone of neighborhood stability and economic opportunity. In my district, roughly half of all households own their homes, and nearly seven in 10 of those homeowners are Black. For generations, families in Southeast Queens have worked hard, saved, and sacrificed to buy homes and build something lasting to pass down to their children and grandchildren. But rising costs and limited access to available resources are putting that goal out of reach. Too many New Yorkers, fewer than one in three, own their homes, including just 26% of Black households and 17% of Latino households. We cannot talk about building affordable housing without addressing both sides of this challenge: helping existing homeowners stay in their homes, and creating meaningful opportunities for the next generation to become homeowners. My bills together prioritize outreach and access to resources. The city already funds efforts to make sure that potential homeowners are aware of and eligible for the tools we have in place.
+
+Intro 861 would require HPD to launch an education and outreach campaign so Section 8 voucher holders know about the Housing Choice Voucher Homeownership Program, which lets eligible families put their voucher towards buying a home. The campaign would explain who is eligible and how to apply, in every designated citywide language. Access to opportunity begins with knowing it exists. Intro 862 strengthens the city's Home First program by requiring HPD to help at least 600 first-time homebuyers every year with down payment and closing costs, and to report annually on how many families were helped and the communities where they bought. As of January 2025, HPD reported it had helped over 1,100 New Yorkers in the past decade, a little over a hundred a year. The Council has since secured funding to double the city's investment in the program, and Intro 862 would make sure that investment reaches families at scale. Together, these bills expand pathways to first-time homeownership and help working families build equity, establish themselves, and create generational wealth, so New Yorkers can afford to stay in the city they call home. Thank you to the advocates who continue to fight for affordable homeownership across New York City, including the Center for New York Homeownership, where I am proud to serve on the board, and many others. Thank you as well to my colleagues for their work on this package.
+
+I look forward to working with the Chairs and the committees to move Intro 861 and Intro 862 forward. Thank you.
+
+**(00:09:27)**
+
+
+
+Thank you, Council Member. I now like to call on Deputy Speaker Williams.
+
+**(00:12:46)**
+
+
+
+Thank you so much, Chairs, and I really appreciate your leadership, your flexibility, your support in hosting this hearing today. Before I get into my bills, the Council's commitment to homeownership doesn't just extend legislatively. We're excited to hold this hearing, but this year we also created a new initiative under the leadership of Finance Chair Lee called the Homeownership Opportunity Protection Package. The amount of money that goes to organizations supporting all facets of homeownership, or deed theft, as a few examples. In addition to what we've been doing financially through our initiatives, there is also a community engagement piece. We have a community engagement unit in the Council, and we are going to every single borough to host a Homeownership Expo. We believe we need to meet people where they are and leverage our resources to do that. We held our first one in Queens, and we look forward to going to Brooklyn. So, this is a full, comprehensive effort that the Council has undertaken under the leadership of Speaker Menin to really help our homeowners. We love tenants. We love tenants, and I think this city and this state does a lot for tenants, but they do not do enough for homeowners, and homeowners struggle. And so, again, excited to be here in Southeast Queens. I represent a community that is majority homeownership, which is not like the rest of the city. A home can represent decades of work and something a family hopes to pass on to the next generation.
+
+For a homeowner facing a foreclosure notice, a suspected deed theft, or a costly building violation, getting the right help early can make a real difference. My first bill, Intro 1096, would require the city to identify the community districts at greatest risk of displacement each year and use that information to guide outreach. Homeowners should be able to get clear information about tax relief, free legal help, and how to avoid predatory offers. I want to know how the city will reach people who never find that information online, and what happens after someone asks for help. My second bill, Intro 1097, would require DOB to study whether enforcement and compliance outcomes vary by race, geography, or income. I want to understand what happens after a violation is issued. How long does it take to get a correction plan approved, for re-inspection completed? Homeowners with similar violations seeing different outcomes depending on where they live. Where the study finds disparities, we hope it would recommend changes. I look forward to hearing what the agencies are doing today to support homeowners, and listening also to their comments on all of the bills in today's hearing, wanting to really understand where homeowners are still getting stuck and what the city can do to commit to doing more for homeowners in New York City. So, thank you so much again to all my colleagues who have bills in this package. I'm really excited to be here, and I look forward to the discussion. Thank you.
+
+**(00:12:50)**
+
+
+
+Thank you, thank you so much, Deputy Speaker, and thank you for your leadership on this. It's a really impressive package that you put together with all of our colleagues. I now want to call on CM Narcisse, followed by Morano.
+
+**(00:16:07)**
+
+
+
+Good morning, and thank you, Chair. Thank you, Deputy Speaker. About the package, I was so excited. I am here to look for ways to help homeowners keep their homes, and it is such a struggle for Black and Brown communities. As you know, they go through so much, and they work triple jobs. The nurses that struggle to get a home, and to lose it, there goes all that hard work, and for the next generation of their family. So Intro 1091 is a very important step toward protecting New York City homeowners. I want to step back a little further, because when we say Black and Brown, there's a lot of low-income folks. And when we say low-income folks, unfortunately I'm always looking at the statistics and the data, and they pinpoint me toward the Black and Brown communities. But all the lower-income areas that are suffering with the home in New York City, what I do is protect New York City homeowners from unexpected property tax liens by requiring clear, timely notifications and very transparent explanations. Because we all know when you're stressed and you don't have money, any paper that comes in your mailbox gives you more frustration. So we have to be very clear and transparent with the direction of the violation, to give information for people to avoid or remove the lien on their home. This bill will promote accountability and give homeowners a fair opportunity to resolve the outstanding debt before losing the equity in their homes. Homeowners deserve that.
+
+They deserve the transparency, and we all can agree with that. So this bill is actually a force, it forced their hand. I don't know what to say. Department of Buildings, if an unpaid judgment can be enforced as a tax lien, would have to warn that an unpaid judgment could lead to a lien on the property. In New York City, within three days of a judgment, the Department of Buildings must notify the owner by mail or email. The notice must include plain language. We know that when language is complex, people are not getting it fully. So, the breakdown of the charge, payment deadlines and options, and the steps to avoid or remove a lien and return to compliance. DOB and DOF would publish annual data on lien conversions by community district and conduct outreach to one- and two-family homeowners facing the lien, because that would be very helpful. It will take effect in 120 days after becoming a law, and I think you all can agree with that. We don't want people to lose their home. So I rest that. Thank you, Madam Chair.
+
+**(00:16:19)**
+
+
+
+I now like to call on
+
+**(00:17:13)**
+
+
+
+Of low-income folks, and when we say low-income folks, unfortunately, I'm always looking at the statistics and the data. They point me toward the Black and Brown communities. But all the lower-income areas that are suffering with the home in New York City, what I do is protect New York City homeowners from unexpected property tax liens by requiring clear, timely notifications and very transparent explanations. Because we all know, when you're stressed and you don't have any money, any paper that comes in your mailbox gives you more frustration. So we have to be very clear and transparent with the direction of the violation, to give information for people to avoid or remove the lien on their home.
+
+This bill will promote accountability and give homeowners a fair opportunity to resolve the outstanding debt before losing the equity in their homes. Homeowners deserve that. They deserve the transparency, and we can all agree with that. So this bill is actually a forced hand. I don't know what to say. The Department of Buildings can be enforced as a tax lien. It would have to warn that an unpaid judgment could lead to a lien on the property in New York City within three days of a judgment. The Department of Buildings must notify the owner by mail or email.
+
+The notice must include plain language. We know that when language is complex, people are not getting it fully. So the notice must include the breakdown of the charge, payment deadlines and options, and the steps to avoid or remove a lien and return to compliance. The DOB and DOF would publish annual data on lien conversions by community district and conduct outreach to one- and two-family homeowners facing the sale, because that would be very helpful. It will take effect 120 days after becoming law, and I think you all can agree with that. We don't want people to lose their homes. So I yield back that. Thank you, Madam Chair.
+
+**(00:19:46)**
+
+
+
+I now would like to call on
+
+**(00:19:49)**
+
+
+
+Majority Leader Abreu: Thank you, Chairs, and thank you to the Administration for coming to testify. My district has the highest concentration of HDFCs in New York City, and I want to raise an issue that is causing significant concern for several homeowners in my district, many of whom are in this room and many of whom are in the overflowing room as well. As you know, the Tax Exempt exemption is set to expire in 2029, and there is still no certainty about its extension. This uncertainty has real consequences for homeowners, many of whom are struggling to secure loans and financing from banks that are reluctant to lend without knowing what their future property tax obligations will look like. We need to pass legislation extending the Tax Exemption in perpetuity and providing additional financial relief to HDFCs. I was happy to see the rental to co-op conversions included in the Mayor's Housing Plan, particularly through the New Our Home program, but one thing is for sure: cities investment in affordable homeownership cannot end at that initial conversion. These buildings are aging. They face significant capital needs, and the shareholders and board members are often first-time homeowners who are suddenly responsible for navigating very complex financial, regulatory, and building management systems. So I look forward to hearing later on your testimony on HDFCs and the much-needed extension of the Tax Exemption that my constituents, and many constituents there, very much need. Thank you.
+
+**(00:21:27)**
+
+
+
+And now CM Morano.
+
+**(00:21:29)**
+
+
+
+Thank you, Chair, and thank you for remembering my name. Morano, from Staten Island. I'll never forget it. I'll take... I have to just speak out more, so I leave more of an impression. I want to thank you for holding this important hearing and for including my resolution, 599. We spent a lot of time in this Council talking about creating new benefits for New Yorkers. I would argue that we ought to spend just as much time making sure New Yorkers can actually access the benefits we've already promised them. Imagine being a 78-year-old widow living on a fixed income in a home you and your husband spent 40 years paying off, struggling with rising insurance premiums, rising utility bills, rising cost of groceries. Nothing seems to ever go the other way. A renewal notice gets misplaced, a financial document gets lost, and you lose a property tax exemption that you are legally entitled to receive. That is crazy, and it is a failure of government. My resolution calls on Albany to establish a centralized income verification system for income-based homeowner property tax exemptions, including those for seniors and people with disabilities. The good news is that we don't have to reinvent the wheel. New York State already uses a similar mechanism for the Enhanced STAR program. There is something fundamentally absurd about one arm of government asking a senior citizen to repeatedly produce financial information that another arm of government already possesses.
+
+So this proposal would help reduce administrative costs. It would improve accuracy. It would prevent fraud, and it would make life a little easier for homeowners. It doesn't seek to change who qualifies for these benefits at all. It doesn't create any new entitlements. It seeks to make the process of determining eligibility smarter and more efficient. So whether you're a fiscal conservative concerned about government efficiency, or a progressive concerned about access to benefits, there's something here that we should all be able to embrace. As we discuss housing affordability in general today, including a lot of the great bills that we're hearing, let's remember that keeping New Yorkers in the homes they already own is every bit as important as creating new housing opportunities. Nobody should be taxed out of their home because they failed a paperwork test rather than an income test. So I'm looking forward to hearing what everybody has to say on it, and I respectfully urge my colleagues on both committees to support this resolution.
+
+**(00:24:14)**
+
+
+
+Thank you, thank you, Council Member. Ah, now CM Maloney is here. Okay. All right.
+
+**(00:24:35)**
+
+
+
+All right. Thank you. Well, with all of that preamble, I would now like to turn it over to our committee counsel to administer the oath. Thank you.
+
+**(00:25:12)**
+
+
+
+Time. Good morning, Chair Sanchez, and Shirley, and members of the committee. Thank you for having me here today. I am very happy to be here, and especially pleased to be talking with you about the Administration's commitment to preserving and expanding homeownership opportunities across New York City. As I've shared in past testimony, advancing avenues to preserve and create more homeownership has been central throughout my career. Working to expand limited equity cooperatives during my 10 years, combating deed theft and foreclosure abuses during my time at the Attorney General's Office, and leading the State's mortgage agency's homeowner resiliency programs and new homeownership production work. During my time, I've given New Yorkers the opportunity to build equity, preserve generational wealth, and retain greater agency over the space in which they live. It is a key feature of Mayor Mamdani's Housing Plan, Block by Block, which calls for a significant expansion of programs dedicated to making affordable homeownership more accessible to low- and moderate-income New Yorkers. This is particularly true with regard to serving New Yorkers who have systematically been denied access to homeownership through redlining
+
+**(00:26:35)**
+
+
+
+racist housing policy. The rate of homeownership among Black and Brown New Yorkers has fallen significantly in the last two decades, with the effects of both the foreclosure crisis and COVID disproportionately impacting these communities. That is unacceptable, and we are committed to changing it. HPD approaches our work in this space through a commitment to two pillars: preserving homeownership for existing residents, and expanding access and supply for New Yorkers who are striving to achieve this opportunity, in many cases for the first time. When it comes to supporting homeowners, HPD oversees a broad suite of programs, many of which fall under the auspices of the Office of the Homeowner Advocate, established in 2023 thanks to legislation sponsored by CM Powers and passed by the full Council. This office provides an array of services to support existing homeowners. The office publishes the Homeowner Handbook, which is a guide to all of the programs as well as resources provided by our partners, including legal services and housing counseling agencies. It is now available in nine languages, and in Fiscal Year 2026, the web version of this handbook was accessed over 6,000 times. In the fall of 2024, HPD worked with the Center for New York City Neighborhoods, now the Center for New York Homeownership, to launch the citywide Homeownership Help Desk, which serves as a one-stop shop for homeowners in need of assistance.
+
+The Help Desk connects homeowners to an ever-growing number of programs, including the Home Fix program, which provides grants for urgent home repairs and to support resiliency improvements for low- and moderate-income homeowners; housing counseling and legal services for homeowners who are at risk of mortgage default and foreclosure; Flood HELP NYC, through which homeowners receive access to free resiliency audits, education on flood preparedness, and financial counseling dedicated to making sure homeowners are better protected in the face of rising climate threats; and referrals to the Estate Planning and Resolution Initiative to support homeowners who are at high risk of deed theft, or who are navigating issues with regard to heirship rights and other complex title transactions. Each of these services is provided to homeowners free of charge, and in 2026 alone, more than 8,400 households received assistance. Finally, HPD has added $2 million in annual dedicated funding to support outreach and counseling, to ensure that homeowners who are impacted by past or future tax sales have access to loss mitigation and foreclosure prevention services. HPD shares the goals of Intro 1096, and appreciates the sponsor's
+
+**(00:29:30)**
+
+
+
+leadership on this issue. We would like the opportunity to discuss the proposed legislation and how it relates to the work already being executed by the Office of the Homeowner Advocate. In addition to these individual services, HPD is committed to ensuring that New York City's large stock of shared equity cooperatives has access to critical financial and governance support through our HDFC training and technical assistance contract, managed by the Urban Homesteading Assistance Board. This $7 million program provides free technical assistance, training, and financial counseling to co-op boards and to existing shareholders. The program reaches thousands of cooperators every year. Additionally, HPD has just released a request for proposals to identify technical assistance providers to support Mitchell-Lama co-ops, who also need assistance with governance and with preparing applications to HPD and HTC for capital improvement financing. HPD plans to launch this new initiative in the first quarter of 2027. With respect
+
+**(00:30:36)**
+
+
+
+to Intro 406, we share the goals of this bill and look forward to working with the sponsors to identify how we can best strengthen and support co-ops, based on the existing programs I've already described.
+
+**(00:30:48)**
+
+
+
+Shifting to our second pillar of homeownership work: the Administration has committed significant resources to create and expand access to affordable homeownership, as outlined in Block by Block. First is our commitment to expand the Open Door program, our primary tool for financing new construction of affordable homeownership units. To double our production in Fiscal Year 27 and 28, to produce 300 units annually. We are also preparing to launch our newest program, Our Home, which is the first time since the creation of the Third Party Transfer Program that HPD has had a dedicated pipeline to convert existing rental buildings into limited equity cooperatives. Under this new program, we estimate that we will be able to convert 150 units per year over the next two years. And finally, we have committed to a significant expansion of Home First Aid for low- and moderate-income households. These $100,000 forgivable grants are critical to ensuring that New Yorkers have access to existing homeownership markets. In Fiscal Year 2026, the program served roughly 1,700 homebuyers. Our ambitious expansion will scale up to reach a target of at least 300 prospective homebuyers in Fiscal Year 2028.
+
+**(00:32:08)**
+
+
+
+However, it is important to
+
+**(00:32:10)**
+
+
+
+acknowledge that while down payment assistance is extremely important, challenges with expanding this program are driven by current market conditions, including rising mortgage rates and escalating operating costs, which increase the monthly maintenance and HOA fees that prospective homebuyers must pay once they've purchased a home. While HPD fully supports increasing down payment assistance, with regard to
+
+**(00:32:33)**
+
+
+
+Intro 862, we would like to work with the bill's sponsors to discuss how these market conditions impact short-term expansion efforts. Now I'd like
+
+**(00:32:41)**
+
+
+
+to take a moment to discuss similar market barriers that affect our past and current efforts to assist households receiving Housing Choice Vouchers with conversion to homeownership. HPD believes that this program presents tremendous opportunity for many low-income New Yorkers through our Housing Access and Stability Division. There is a dedicated team at HPD who perform outreach, training, and technical assistance to our Housing Choice Voucher recipients who may be eligible for this program. Currently there are over 160
+
+**(00:33:13)**
+
+
+
+voucher holders working with HPD to participate. The HCV Homeownership Program is governed by federal rules, some of which make higher utilization rates difficult to achieve.
+
+**(00:33:23)**
+
+
+
+One rule stipulates that participants in this program must give up their voucher at the end of the fifteenth year of the program. As most mortgages are based on a 30-year amortization schedule, participants in this program therefore face a fiscal cliff that leads to mortgage default or foreclosure risk once they reach year 15. Second, the payment standard for Housing Choice Vouchers under the program does not adjust to reflect rising mortgage interest rates, or the increases in monthly maintenance and HOA fees, as previously discussed. As a result, voucher holders struggle to find homes for purchase where monthly payments fit within the Section 8 payment standard. Despite these challenges, we will continue to work towards making this program more effective, and would be happy to work with the sponsors of Intro 1082 and Intro 1061 to identify pathways to overcome some of the barriers
+
+**(00:34:18)**
+
+
+
+to expanding utilization of this program. Finally, I would like to update the Council on the progress that HPD and our public and private partners have advanced in recent months with regard to standing up the New York City Land Bank. The seven-member board of directors, including Council, is meeting regularly, and we are on track to have an application ready to present to the State in early 2027. We have also begun to articulate the goals and the mission of
+
+**(00:34:48)**
+
+
+
+the Land Bank, with an emphasis on minimizing disparate impacts on low-income residents in Black and Brown communities, and prioritizing homeownership retention and foreclosure prevention wherever possible. In early to mid-2027, the Land Bank board will publish its by-laws and hold a public hearing to solicit feedback from stakeholders, and we look forward to briefing members of this Council as we make progress towards establishing this important preservation vehicle. Again, I would like to thank the Council for calling this important hearing on a broad range of topics related to homeownership. As I have said, it is an issue that is of great importance to me personally and to the Administration. We look forward to working with members of the Council to continue to find ways to make homeownership a reality for more New Yorkers. Thank you for this opportunity to testify, and I look forward to answering your questions.
+
+**(00:35:41)**
+
+
+
+Thank you. Commissioner, is
+
+**(00:35:43)**
+
+
+
+Oh, be going to read your
+
+**(00:35:44)**
+
+
+
+testimony as well? Alright, everybody just read it. Okay, okay, you go. Ah, all right. Well, thank you so much, Commissioner, and members of the Administration for being here and participating today. I'm going to ask just a few questions to start and turn it over to.
+
+**(00:36:05)**
+
+
+
+Cheerily, excuse me, Chair. I have testimony. Oh, you do. Okay, all right. See, I knew something was missing. Me, missing. Thank you, Deputy Commissioner. Go ahead. I'm your welcome, and yes.
+
+**(00:36:18)**
+
+
+
+I'm sorry. Before you begin, I want to acknowledge that we're joined by Council Member. Good morning, Chair, Chair Sanchez, and members of the two committees. I am Jeffrey Shear, the First Deputy Commissioner of the Department of Finance, and I am joined today by Deputy Commissioner Annette Hill. I would like to thank the Council for giving me the opportunity to testify before you today about Introduction 1084.
+
+**(00:36:45)**
+
+
+
+DOF appreciates the Council's interest in helping homeowners manage their property tax obligations, and recognizes the financial challenges that property taxes can present for certain households, particularly seniors, individuals on fixed incomes, and homeowners experiencing financial hardship. But we do have concerns about the bill.
+
+**(00:37:09)**
+
+
+
+Introduction 1084 would require the department to automatically enroll delinquent property tax owners in a city-created property tax payment plan that requires them to pay the lowest total amount.
+
+**(00:37:23)**
+
+
+
+DOF offers six different property tax payment plans and has a rigorous program to notify owners of their availability through our property tax bills, notices of property value, delinquency notices, and tax lien sale communications, as well as our website and numerous outreach events. Imposing payment plans without the consent of delinquent owners, and without required information pertaining to the owner's age, income, residency status, and size, or especially the age of their debt, cause confusion and distrust, and also lead to a variety of negative outcomes.
+
+**(00:38:10)**
+
+
+
+While selecting a plan based on the lowest total cost sounds straightforward, a payment plan necessarily increases the interest charges owed by the owner.
+
+**(00:38:22)**
+
+
+
+Owners with lower, newer debt and with sufficient assets who plan on paying the debt in the near future will face their lowest cost by paying in full and not entering into a payment plan, which can extend for multiple years. For owners with larger debts and who cannot pay, DOF must know their age, income, and residency status to determine if they qualify for payment plans with lower interest, such as RPT AID and reduced interest plans.
+
+**(00:38:54)**
+
+
+
+Without that information, we have no way of assigning them to the lowest-cost option. In addition, we need the owner's input to determine the desired length of a payment plan. Longer plans have lower installment payments but accrue more interest over time. Furthermore, there is the unintended
+
+**(00:39:18)**
+
+
+
+consequence of expediting enforcement action against the owner. Owners who default on a payment plan can only get a lifeline payment plan with a 20% down payment for five years after the default. It would be best to consider this type of dramatic action for owners who are in a tax lien sale at risk.
+
+**(00:39:41)**
+
+
+
+Another issue with the bill is the advanced notification section. It requires providing notice of automatic enrollment.
+
+**(00:39:51)**
+
+
+
+DAYS BEFORE THE FIRST PAYMENT IS DUE.
+
+Although advanced notification is usually desirable, the proposed approach could cause confusion among property owners who received notices indicating that they have been enrolled in the payment plan that they did not affirmatively request. Taxpayers mistakenly believe that enrollment is mandatory, that their property status has changed, that they have incurred a new financial obligation, or that an unauthorized third party has made a commitment without their consent.
+
+**(00:40:27)**
+
+
+
+Implementing Introduction 1084 would require the department to develop, maintain, and continuously update an automated enrollment system capable of identifying eligible individuals and determining the applicable lowest-cost payment plan. This would involve substantial operational coordination and technological development, including establishing eligibility criteria across different payment plan programs, developing automated processes to calculate and compare the total cost of available plans, establishing and maintaining an accessible opt-out mechanism, and providing multilingual communications in designated citywide languages for DOF. This is operationally a very heavy lift that would require more staff and technology updates to existing systems. For these reasons, the Department of Finance cannot support Introduction 1084 in its current form. The department shares the Council's objective of helping New Yorkers manage their property taxes and ensuring homeowners are aware of available payment plan options. We look forward to engaging with the Council on constructive conversations about Introduction 1084.
+
+**(00:41:52)**
+
+
+
+Thank you for the opportunity to testify. We welcome the opportunity to work with the Council on approaches that improve access to property tax payment options while protecting taxpayers and ensuring the efficient administration of the City's property tax system.
+
+**(00:42:11)**
+
+
+
+Thank you so much. First Deputy Commissioner, yes. Commissioner, I'm sorry, I was very remiss not to introduce my colleague Michael Sandler, who is our Deputy Commissioner for the Office of Neighborhood Services, which oversees the Office of the Homeowner Advocate.
+
+**(00:42:27)**
+
+
+
+Thank you, thank you so much. Commissioner Michael Sandler is a star. Here, so thank you for being with us. Before we begin questions, I just want to acknowledge that we're joined on Zoom by CM Shirley Aldebol. All right, so as I said, I will turn it over to my co-chair and then colleagues as well.
+
+**(00:42:40)**
+
+
+
+So first, the administration's housing plan outlined several new initiatives to expand access to homeownership: the OUR HOME program, which you discussed, to convert rentals into resident-controlled co-ops; a preservation pre-development fund for co-ops; transferring land to community land trusts to create one-, two-, and four-family homeownership opportunities; and more. So my first question is a big-picture question. What makes this administration's approach to homeownership different from past administrations? What are the overarching goals behind the new initiatives that you are launching?
+
+**(00:43:10)**
+
+
+
+Thank you for the question. I would say, going back to what I said in my testimony, the administration is very focused on a dual strategy as it relates to homeownership. The first, as we heard from some of the members, is making sure that folks who already have achieved that are not at risk of losing their homes or being subjected to predatory practices, which we know are just gaining steam. So I think there is a really deep effort to make sure that folks, particularly, as I said, in underserved communities, are not losing the wealth and the generational assets that they've achieved through homeownership. Secondarily, I think there is a big push in this housing plan, as you saw in previous decades, to really increase the amount of homeownership that exists in New York City. There are really two ways that we're approaching that. The first is increasing access by increasing the number of units that we finance or that we convert through programs like OUR HOME. Again, this is the first time, I think, since I got to New York City, that we have a term sheet dedicated specifically to converting in-place rental buildings into homeownership. The second is creating more market access, which we primarily do through our down payment program called HOME FIRST. We'll talk about it, I'm sure.
+
+There are some challenges in the current market environment that we're in today: again, rising interest rates and rising property costs, insurance, and taxes are making it more and more difficult, even with a very generous down payment assistance product, to get folks into the private market of homeownership. That said, I think we have been scaling up HOME FIRST, and we have made a very serious commitment to keep scaling it up.
+
+**(00:43:50)**
+
+
+
+We are also looking forward to working with our partners at the state, where I used to work, including the State of New York Mortgage Agency and Fannie Mae, where I see real opportunity to marry some of our offerings with the state's offerings to try to overcome some of the market barriers. Thank you.
+
+**(00:45:14)**
+
+
+
+Thank you, Commissioner. Speaking of OUR HOME, you mentioned in your testimony, and of course in the plan, it is stated the goal of achieving 300 units across fiscal years 2027 and 2028. Can you share with us how much funding is committed to OUR HOME in the fiscal 2027 and 2028 budgets, what share price and monthly maintenance levels you are targeting? Your testimony mentions that the administration is preparing to launch OUR HOME. When will you release the term sheet for the new program?
+
+**(00:45:33)**
+
+
+
+So we are very optimistic that the term sheet will be out very soon, if not by the end of the year, and certainly in early days of calendar year 2027. Because we have not finalized the term sheet, I can give you broad-stroke outlines of how I think the term sheet will sort of work and how we're targeting that. Generally speaking, because these will be in-place tenants, and because there can be a range of incomes in private buildings, we're going to have a fairly broad spectrum of who the program will serve. At the low end, we'll be looking at folks who can afford
+
+**(00:46:05)**
+
+
+
+50% AMI, and probably at the upper end, including outsiders who will purchase vacant units in these buildings, up to about 120% AMI. Again, I want to remind you that the term sheet isn't yet finalized; that's the shape we're expecting it to take. As to the budget, there's about 75 million included in our capital budget for both years, in order to finance the conversion and the rehab that we anticipate will be necessary as we're helping tenants convert their buildings.
+
+**(00:46:39)**
+
+
+
+I'm sorry, I missed the number. How much?
+
+**(00:47:12)**
+
+
+
+75,000,075 million. Okay.
+
+**(00:47:16)**
+
+
+
+Okay, thank you. Thank you so much, Commissioner. My next question is on the lien sale. The city has historically used a tax lien sale to recover unpaid property taxes, water and sewage bills, and certain charges for repairs. The administration suspended the lien sale in 2026 for review of the program, but it has since been reported that the administration will conduct a lien sale in mid-2027. As you can imagine, there are lots of my colleagues here for whom that is very alarming, as the homeowners in their districts are already facing a lot of pressures. So first, why did the administration determine that a lien sale was not necessary in 2026 but will be necessary in 2027? And importantly to us, how much funding is committed to outreach for affected homeowners? What specific strategies will the administration take to ensure as many homeowners as possible are able to resolve their debts prior to a lien sale?
+
+**(00:47:18)**
+
+
+
+Yes. We've used the pause on the lien sale to conduct a rigorous assessment of our city's lien sale process. As the city works to set up the New York City Land Bank, this administration's restructuring, on top of previous reform efforts, has worked to create a fundamentally different lien outreach to protect homeowners and provide multiple opportunities to avoid a sale of the lien against the property. The city is introducing several reforms for 2027 to help homeowners resolve outstanding debts before their properties enter the lien sale. Strength and protections: expand payment options and improve enforcement. The major reforms include raising the foreclosure minimum for our owner-occupied tax class one properties to $70,000 or more, or 15% of the property's market value.
+
+**(00:48:17)**
+
+
+
+This addresses homeowners potentially losing their properties through foreclosure over relatively small amounts of debt. Connecting homeowners who use the Easy Exit feature during the 2025 lien sale outreach period. Two additional resources early on in the process, such as the homeowner help desk, and increasing water and sewer debt enforcement threshold for inclusion in the lien sale. We are raising the threshold for eligible class one, two, and three family homes from $3,000 to $5,000 of debt older than one year. Single-family homes remain exempt. Deputy Commissioner Hill can provide additional details about the changes in the lien sale, if you would like to hear it further.
+
+**(00:49:12)**
+
+
+
+You proceed. Thank you. Sure. I have to apologize, I have a cold and am not going to sound very well, but I'll try my best. Thank you, members of the committee. We are strengthening our outreach and notification process to ensure homeowners are aware of their debts and their opportunities for resolution before the lien sale, by sharing the at-risk list with nonprofit partners earlier than the 90-day launch, to allow additional time to coordinate outreach efforts and target audiences. We are expanding data sharing between agencies to increase text and email notifications. We added information about deed theft, scams, predatory practices, and available prevention resources to lien sale notices, and are increasing in-person and digital outreach to those who remain under the lien. This ensures additional touchpoints prior to the sale. The city's payment and removal options provide even more ways for homeowners to resolve their debts prior to the sale. This included expanding the water debt assistance program, extending eligibility beyond homeowners with mortgage delinquencies into certain recipients of means-tested benefits and individuals facing extenuating circumstances, including active duty military, incarceration, or unemployment. We are expanding payment options for water and sewer debt. Pre-qualified low-income customers would have access to the same reduced-interest-rate payment agreements as they do with the Department of Finance.
+
+We are expanding the Easy Exit program, making it more accessible to certain complex ownership structures, such as LLCs and trusts. We are protecting properties with deceased owners: we removed those properties from the lien sale for two years to allow ownership issues to be resolved. We are improving legal service referrals, streamlining referrals to the Center for New York City Neighborhoods for homeowners who need legal assistance.
+
+**(00:50:24)**
+
+
+
+This administration, do we have a commitment to administering these programs fairly and transparently? We are also committed to hearing the Council bill that was passed, that reduces predatory practices of lien sales, and furthermore, to boost the programs that will maximize opportunities for New Yorkers who own their homes to keep their homes while assisting them with compliance. Thank you so much.
+
+**(00:51:18)**
+
+
+
+And one last follow-up question here. On average, about 85% of properties are removed from the list in previous rounds of the lien sale. Do you have an anticipated removal rate for 2027 based on the administration's analysis at this point?
+We're just in the planning stages. We don't have any set data for the lien sale, so I won't be able to give this information at this point. Since we have it, we'll be happy to share with the Council.
+
+**(00:53:00)**
+
+
+
+Okay, okay. My colleagues will have further questions about the 2027 plans. Thank you, and I'll now turn it over to CM Cabán. Okay, so I'll ask my first round of questions, and then pass it on, because we have a lot of Council Members who would like to ask questions. So this is more targeted on Intro 1084. In 2025, the department implemented 4,746 payment plans: 4,573 standard plans, 133 deferred plans, and 40 reduced-interest-rate plans. Do I have the correct numbers?
+
+**(00:53:39)**
+
+
+
+Yes. Okay, perfect. So I know that you had raised in your testimony some concerns about Intro 1084, and you had outlined a few bullet points of some of the operational and technological issues and things that would need to happen. So what are some of the immediate recommendations for those barriers? You outlined some of the issues. If we wanted to move with the plan, my first recommendation would be that the Council and the Department of Finance need to have further conversations about the plan, so I can't give you a clear path. This is the way to move forward. I will just emphasize what I had mentioned in my testimony: that selecting a plan based on the lowest total cost sounds straightforward, but it does increase the interest charges owed by the owner. Right, because it spreads it out. The longer term increases the amount of interest. Yes, okay. So part of this is discerning whether lowest cost is the amount expended by the owner, which would include interest charges. That is referring to the installment payment, and that isn't clear, so we're not able to determine that. We offer a variety of payment plans, some of which have lower interest rates than others, so that we are being responsive to homeowners who are struggling. We need to know everything about owners in order to determine what plan they would qualify for, and this is a bill that compels us to put them in the plan. We're not able to make that determination.
+
+**(00:53:46)**
+
+
+
+We are also concerned about placing owners in plans without their consent, and how they respond to that, and how that might leave them vulnerable to enforcement action in the future if they default on their payment plan due to their lack of consent. But let's just say that there was enough time, where there was a concerted outreach effort to let folks know that this was happening, if implemented right. Then what would you say is a sufficient amount of time, and what would the outreach look like? Are you suggesting that it should be opt-in versus opt-out? If you could speak a little bit to that. Yes. We think this is a good idea in terms of pushing us to be more proactive in getting people into payment plans. We do feel that payment plans should be opt-in, rather than on homeowners. We think there are some interesting ideas here about how we further increase our outreach efforts to get more struggling homeowners into payment plans.
+
+**(00:54:06)**
+
+
+
+Okay. And then I know that you had mentioned that it's difficult for you to determine what type you know, because every situation is different, every homeowner and their payment plans are different. So is there room to improve the data collection piece to help determine that? How are we better able to understand what the homeowners' needs are, or what position they're in financially? Is it something that would simply be part of the application process when they first enroll, which would then give you a better sense of whether or not they could qualify for the automatic enrollment? If you could speak a little to that, we could certainly incorporate that into the application process. There is certainly a lot of things that we do not know about property owners. People think that we know everything, and we do not. So one way to do that would be to have an application process where they're not having to select which payment plan they're asking for, but they're providing the data for us so that we can sign, or better yet, suggest the best plan. But again, perhaps the one thing that we know the least about is how long of a payment plan these owners want, because that has a major impact on both the amount as well as the accrued interest. And there isn't any data point that I know of that would tell us how long the homeowners want their payment plans to be.
+
+**(00:54:35)**
+
+
+
+Yeah. Yeah, if there's a way where we could incorporate and get that data, that would definitely be helpful on your end as well. And because, as you said, a 20% down payment for the default, the lifeline is, it could be a lot depending on how much is owed. Not every homeowner chooses to do that, or is financially able to do that. There is a wide range of delinquencies. There are some people who have been delinquent for just a couple of months and only owe a few hundred dollars, and there are others who owe a lot more and who are struggling more. For the former group, we frankly don't think it makes sense to enroll them in the payment plan, and for the latter group, we very much want to, and look forward to having constructive conversations with you about how we can best
+
+**(00:54:41)**
+
+
+
+You and I will now turn it over to CM Cheerily. Okay, so I will ask my first round of questions and then pass it on, because we have a lot of Council members who would like to ask questions. So this is more targeted on Intro 1084. So in 2025, implemented 4,746 payment plans: 4,573 standard plans, 133 8 plans, and 40 reduced interest rate plans. Do I have the correct numbers?
+
+**(00:54:54)**
+
+
+
+Targeted on Intro 1084. So in 2025, implemented 4,746 payment plans: 4,573 standard plans, 133 8 plans, and 40 reduced interest rate plans. Do I have the correct numbers?
+
+**(00:55:14)**
+
+
+
+Yes. Okay, perfect. Okay, so I know that you had raised in your testimony some concerns about Intro 1084, and you had outlined a few bullet points of some of the operational and technological issues and things that would need to happen.
+
+**(00:55:32)**
+
+
+
+So what are some of the immediate recommendations for those barriers? Right, so you outlined some of the, uh, if we wanted to move with the plan.
+
+**(00:55:41)**
+
+
+
+Well, my first recommendation would be that I think the Council and the Department of Finance need to have further conversations about the plan. So I cannot give you a clear path. This is the way to move forward. I will just emphasize what I had mentioned in my testimony: that selecting a plan based on the lowest total cost sounds straightforward, but it does increase the interest charges owed by the owner.
+
+Right, because it spreads it out. So the length increases the time, which then increases the amount of interest.
+
+Yes. Okay, so part of this is discerning: is lowest cost the amount expended by the owner, which would include interest charges? Is referring to the installment payment, that isn't clear, so we're not able to determine that. We offer a variety of payment plans, some of which have lower interest rates than others.
+
+**(00:56:38)**
+
+
+
+So that we are being responsive to homeowners who are struggling. We need to know everything about owners in order to determine what plan they would be qualified for, and this is a bill that compels us to put them in the plan. We are not able to make that determination.
+
+**(00:56:57)**
+
+
+
+We are also concerned about placing owners in plans without their consent, and how they respond to that, and how that might leave them vulnerable to enforcement action in the future if, due to their lack of consent, they default on their payment plan.
+
+**(00:57:22)**
+
+
+
+But let's just say that there was enough time, where there was a concerted outreach effort to let folks know that this was happening, if implemented right. Then what would you say is a sufficient amount of time, and what would the outreach look like? Are you suggesting then that it should be opt-in versus opt-out? Or if you could speak a little bit to that.
+
+Yes. We think this is a good idea in terms of pushing us to be more proactive in getting people into payment plans. We do feel that payment plans should be opt-in, rather than on homeowners, and we think there are some interesting ideas here about how we further increase our outreach efforts to get more struggling homeowners into payment plans.
+
+**(00:57:47)**
+
+
+
+Okay. And then I know that you had mentioned, it's difficult for you to determine what type you know, because every situation is different, every homeowner and their payment plans are different. So is there room to improve the data collection piece to help determine that? How are we better able to understand what the homeowners' needs are, or what position they are in financially? Is it something that would simply be part of the application process when they first enroll, which would then give you a better sense of whether or not they could qualify for the automatic enrollment? If you could speak a little to that, we could certainly incorporate that into the application process.
+
+There is certainly a lot of things that we do not know about property owners. People think that we know everything, and we do not. So one way to do that would be to have an application process where they are not having to select which payment plan they are asking for, but they are providing the data for us so that we can sign, or better yet, suggest the best plan. But again, perhaps the one thing that we know the least about is how long of a payment plan these owners want, because that has a major impact on both the, as well as the accrued interest. And there isn't any data point that I know of that would tell us how long the homeowners want their payment plans to be for.
+
+**(00:58:43)**
+
+
+
+Yeah. Yeah, if there's a way where we could incorporate and get that data, that would definitely be helpful on your end as well. Because, as you said, a 20% down payment for the default, the lifeline is, it could be a lot depending on how much is owed. Not every homeowner chooses to do that or is financially able to do that. There is a wide range of delinquencies. There are some people who have been delinquent for just a couple of months and only owe a few hundred dollars, and there are others who owe a lot more and who are struggling more. For the former group, we frankly don't think it makes sense to enroll them in the payment plan, and for the latter group, we very much want to and look forward to having constructive conversations with you about how we can best
+
+**(00:58:44)**
+
+
+
+That you had mentioned, it is difficult for you to determine what type...
+
+**(00:58:51)**
+
+
+
+...because every situation is different. Every homeowner and their payment plans are different. So is there room to
+
+**(00:59:00)**
+
+
+
+improve the data collection piece to help determine that? So how are we better able to understand what the homeowners' needs are or what position they are in financially? Is it something that would simply be part of the application process when they first enroll, which would then give you a better sense of whether or not they could qualify for the automatic enrollment? If you could speak a little to that.
+
+We could certainly incorporate that into the application process. There is certainly a lot of things that we do not know about property owners. People think that we know everything and we do not. So one way to do that would be to have an application process where they are not having to select which payment plan they are asking for, but they are providing the data for us so that we can suggest the best plan. But again, perhaps the one thing that we know the least about is how long of a payment plan these owners want, because that has a major impact on both the... as well as the accrued interest. And there is not any data that I know of that would tell us how long the homeowners want their payment plans to be for.
+
+**(01:00:38)**
+
+
+
+Yeah. Yeah, if there is a way where
+
+**(01:00:40)**
+
+
+
+we could incorporate and get that data, that would definitely be helpful on your end as well. And because, as you said, the 20% down payment for the default... the lifeline, it could be a lot depending on how much is owed. So not every homeowner chooses to do that or is financially able to do that.
+
+There is a wide range of delinquencies. There are some people who have been delinquent for just a couple of months and they only owe a few hundred dollars, and there are others who owe a lot more and who are struggling more. For the former group, we frankly do not think it makes sense to enroll them in the payment plan. For the latter group, we very much want to and look forward to having constructive conversations with you about how we can best...
+
+**(01:01:36)**
+
+
+
+Do that, okay. Just based on the data and your existing records, which plan has the lowest total cost for each owner? You kind of went into that a little bit.
+
+**(01:01:47)**
+
+
+
+I know it's hard to maybe look at the data based on what you have now collected. Existing, what plan has the lowest total cost? Well, I cannot really speak to that. I can just say that our plans have the lowest interest. We have four different types of plans, but part of the challenge here is defining what is lowest cost, right? Okay.
+
+>And then in terms of the upgrades that you spoke about that would be needed to implement such a program, including staffing and technical upgrades, what would you estimate the cost would be if we wanted to implement something like this? We do not have an estimate available today, but we will work toward that. Great. Okay.
+
+>Homeowners enrolled. Just shifting to SCHE and DRIE. Homeowners enrolled in SCHE and DRIE are automatically eligible for AIP payment plans. When a homeowner stays current on the payment plan, it reduces the interest charged on the outstanding balance. This reduces the burden on low-income homeowners who are struggling to keep their homes, and it's a goal I think we all share. So we should have a goal to enroll every single SCHE and DRIE recipient with outstanding balances in a plan that lowers their interest rates. How many current SCHE and DRIE recipients have outstanding balances with the city but are not enrolled? Yes, so there were 3,859 properties that have active SCHE or DRIE benefits and outstanding property taxes.
+
+**(01:02:23)**
+
+
+
+We are in the process of producing a report that will give further information on the size and the age of the debt, as well as the payment plan status of these owners. When we have that, we will pass that along.
+
+**(01:02:50)**
+
+
+
+Okay, great. Do you know how long it would take to get that within the next couple of weeks?
+
+**(01:03:10)**
+
+
+
+Oh, okay.
+
+**(01:03:38)**
+
+
+
+Perfect. And just out of curiosity, why do you think there are folks that are eligible but not enrolled?
+
+**(01:03:53)**
+
+
+
+Eligible for PTAP but not enrolled, sorry. Is it just a lack of knowing about the program, or not enough outreach? It's a variety of things. Again, we love the program. We were proud and pleased to create it hand in hand with the Council. Some people want to keep paying the full amount to prevent interest from accruing, which does increase the total amount that is due over time. For some people, that is perfect, because it allows them to age in their homes and stay in place. For others, it may be a lack of knowledge or a fear of doing business with the government. So we don't know, and that's why we are always open to working with the Council on improving our outreach. We would love to partner and continue on that, because there are a lot of homeowners in many of our districts who may not be qualified and eligible but not enrolled.
+
+Is the information that DOF has on file for SCHE and DRIE recipients sufficient to auto-enroll these homeowners into the program? We know more information, so we certainly know that their income level qualifies, but we think we want to have their consent. We think that's important for people to buy in. There are other things that we don't know, for example, how long they want their agreement to run. So it's a first step. It doesn't take you all the way there, and we think further conversations are needed to determine how we can work with PTAP and other DOF payment plans. Okay.
+
+**(01:04:01)**
+
+
+
+And speaking of the other programs, approximately how many households do you estimate to be eligible for the four proposed payment plan options under the bill? We don't have an estimate. Again, the estimates that we make are very sensitive to the amount of debt that we're talking about.
+
+>DOF, for example, sends delinquency notices to property owners roughly in between each quarter of a billion, so about 45 days after each billing, if they owe more than a hundred dollars. We end up producing about 14,150,000 of those every quarter, but some of the debt is very young. When we look at an entire fiscal year and we say, what is the number of Class One homeowners who have not fully paid their property taxes for that fiscal year, the number drops down to about 14,000.
+
+**(01:04:03)**
+
+
+
+So that's a very wide disparity. Again, that's why we're looking forward to having common conversations with the Council, so we can decide on what the different factors are that go into determining the target population here. Once we're able to do that, we'll be able to provide you with a better estimate.
+
+**(01:04:12)**
+
+
+
+Okay, yeah, that's a big delta, 140,000 down to 14. Yeah, I would love to get a sense of where all those folks fall in the middle. So, okay. And then just lastly, before I pass it on to Deputy Speaker Williams, from FY25 to FY26, how many individuals under each qualifying group were subject to late fees or paid their property taxes late?
+
+Yes, so again, we don't have that number. It's really based on the response I just gave. If we are looking, for example, at each quarter, everyone who owes more than a hundred dollars for any period, as little as 45 days, that's 142,150,000 taxpayers, including all property taxes. So how you specify how large that group is...
+
+**(01:06:36)**
+
+
+
+And also, just to be clear, people who are late with property taxes do not receive penalties. They receive interest charges, and they know they are receiving these interest charges. Yes, they do. We send them to them. Okay.
+
+**(01:06:50)**
+
+
+
+Um, and just really quick, a follow-up question. If you have the ability to send out notices on the late interest payment amounts to those folks, then how much more involved would it be to then give them the information and notification about the auto-enrollment plans? Yeah, um, the sum...
+
+**(01:07:01)**
+
+
+
+Well, I think what's most important here is for the administration and the Council to come together and decide on what population we're targeting. Are we doing opt-in or are we compelling? And what additional information do we need to receive from this population? I think that needs to come first before we iron out the logistical details.
+
+**(01:07:06)**
+
+
+
+I think we can agree on who we're targeting. DOF can be constructive in suggesting how we can best notify them.
+
+**(01:07:52)**
+
+
+
+Okay, perfect. I have more follow-up questions about enrollment, but I'll pass it off now to Deputy Speaker Williams.
+
+**(01:08:18)**
+
+
+
+Thank you. I had a question about the term sheets you mentioned. I know there was some existing... I don't know the term sheets, but convert apartments into homes and other financial tools to build homeownership. So I just wanted to know what the difference would be with this new term sheet versus the existing ones, and how many developers actually leverage the existing tools, and what you project the number would be with the new tool, the new term sheet.
+
+>So we have had both a specific program, and maybe you're thinking of, which is a conversion program for the buildings that used to be known as TIL. That has been going, and I'm happy to share numbers with you in terms of how many we're seeing. It's probably on track. We converted four TILs this year, and there's more that we think will be able to do this fiscal year. Then through our normal preservation pipeline, it's something that you could come to us and say, well, we want to become a co-op. Is there a possibility of getting financing with a sponsor through our existing capital programs? What's different about our home is that it's specifically dedicated to this purpose, and it has this target of doing 150 units per year for the next two years.
+
+**(01:08:31)**
+
+
+
+Okay. Did you work with folks who are building homeownership to figure out the term sheets? Because in many conversations with them, they've always complained about how not so good they are, which is why we don't see them using those term sheets, and producing homeownership opportunities is very difficult. So I'm wondering how you are addressing that issue, because you could have the tool, but if no one finds the tool beneficial, then I don't know how you'll meet the goal.
+
+>We have also heard there's always consternation about whether the term sheets are rich enough, and we are constantly working to address that, given the market conditions we're in at any given moment, to make sure that our term sheets are usable in our home conversations. We have consulted with those, particularly those who we know have an interest in being sponsors of conversion of limited equity co-ops. We're also weighing that against the need to make sure that our term sheet, in terms of when they do convert, has purchase prices that range, as I described earlier, from very low, 50% AMI, to slightly higher incomes, particularly for vacancies. That sort of mix of incomes will allow for our capital to go further.
+
+>Can the term sheet also be used for new developments, not just conversions? So that's the Open Door term sheet, which is the term sheet we use in order to build.
+
+>Yeah, that's the one that most developers say, oh, we have a big pipeline. Program Open Door, yeah. Okay. What are the numbers for current Open Door, and how many people have used Open Door on the path? So I don't have for you everything we've ever produced. We've been doing about 150 units a year on average for the last three years, and this year we're on track to double that. So we're hoping to do 300 new construction units through Open Door in fiscal year 27, and then again in fiscal year 28.
+
+**(01:08:37)**
+
+
+
+Yeah, the numbers are just so low. For instance, with the Jamaican Neighborhood Plan, the projected number of units is 12,000, but the number of homeownership units is such a small percentage of the overall units. So I'm just hoping that we find more ways for developers to leverage Open Door, because it is such a small number. Personally, those numbers are not impressive when you talk about overall unit count in new development. I'm just hoping that we find more opportunities, because for me, I only see those opportunities very rarely, if at all. When you do see them, it's typically on city-owned property, because there are more tools you can leverage to make the deal work. The biggest thing for me is when I talk to developers, they always say that the term sheets are not good for developing homeownership, which is why they prefer to develop rental units. So I wouldn't be happy to have you refer anybody who has an issue with that. I mean, generally speaking, our term sheets are pretty generous. I think Open Door goes up to $445,000 per unit in subsidy. All the homeownership opportunities in my district are on city-owned property. There's none on privately owned property. So just from my experience, but I'm sure there's a ton of questions. We'll do a second round. I have questions, but I'll stop there.
+
+**(01:09:29)**
+
+
+
+Thank you so much, Deputy Speaker. So now I'm going to turn it over to CM Narcisse. Thank you. Good to see you, Commissioner. How are you? Along with my colleagues, we are doing the South of Plastic Park. We heard from long-term residents that they want their children to be able to buy homes in the community they grew up in. Does HPD have any specific target for delivering new homeownership opportunities through its neighborhood plan, in particular community boards, for example, 14 and 17?
+
+**(01:09:52)**
+
+
+
+Yeah, thank you very much for that question. I think as we continue to develop the neighborhood plan, this is a conversation we should continue to have. I think what we want to see out of a neighborhood plan, especially one of this scale, is going to be a mix of both the kind of private development that's not subsidized, to make sure that there's a healthy mix of both rental and homeownership that's getting produced, just in the general housing that's getting built as a result of the neighborhood plan. And then we're also looking at city-owned sites where we can add extra affordable housing and adjust the mix of market-rate and affordable housing. On the city-owned sites, I think we would be happy to have a conversation about homeownership and what's possible there.
+
+Yeah, we would love to have that in my district. Intro 1096. We have several instances where homeowners have had their homes damaged from adjacent construction. These homeowners have been left holding the bags with damaged homes, either because developers disregard access mandates or failed to sign access agreements in the first place. Homeowners consistently find that DOB fails to protect their homes from this type of damage. These homeowners, we find, are often older adult homeowners of color who struggle to protect themselves from this behavior in court, facing financial distress from disruptive construction practices, a form of displacement pressure. The homeowners advocate. We've seen that. I have an older adult in my district who is being squeezed between a building and two homes, and they damaged her property.
+
+**(01:09:54)**
+
+
+
+What is HPD's plan for when these things happen? I don't want to speak for them, but I believe they're here, but it's speaking for HPD. I do.
+
+**(01:10:04)**
+
+
+
+I think this is a legitimate concern. Right again, our desire to build as much affordable housing on every vacant piece of land that we can should not disrupt existing homeowners or tenants. We want to make sure that isn't happening, so again, being made aware of it early is so that we can take intervention. We very much want to make sure, again, that while we're building and trying to meet our goal of 200,000 units over the next 10 years, we are not at the same time disrupting or displacing anybody as a result.
+
+**(01:10:50)**
+
+
+
+But what about the ones that bought it already, like they didn't know that it was in violation, and now they're racking up violations, not knowing this was done to their homes? Is there anything in place to support these homeowners?
+
+**(01:11:01)**
+
+
+
+We'll look into the specific instances, but for smaller properties we do have programs in place that allow them to correct violating conditions before they incur monetary penalties. But again, the earliest intervention is because they have to correct within a certain time period in order to benefit. Is there somewhere you're keeping that data?
+
+**(01:11:12)**
+
+
+
+We're starting to compile it. We started looking into it last week, because we're starting to hear from Council Members and community members about this. So we definitely need to meet in that community. In my district, we can talk to these homeowners. I would love that. Thank you. Thank you, Chair Joseph. I'd like to acknowledge that we've been joined by CM Hudson and Brewer. Next up we have CM Narcisse, followed by CM Brooks-Powers. Thank you. Madam Commissioner, I appreciate the fact that we're almost on the same page when it comes to housing.
+
+The Mayor's housing plan says homeowners in Canarsie, East New York, and Cambria Heights pay effective property tax rates about twice what Park Slope and East Village homeowners pay. What specific change will DOF make to fix that, and on what timeline? We are currently working with City Hall on property tax reform, and we are hoping to have legislation for the upcoming state legislative session. We aren't going to be on the same page, I hope. Death has been heavily concentrated in Black and Brown communities and Caribbean communities in Brooklyn.
+
+**(01:11:14)**
+
+
+
+How many complaints has the Office of the Deaf received in Brooklyn, and from what community specifically? Community Board 18. We don't have a breakdown by community board.
+
+**(01:12:35)**
+
+
+
+We know that since the office was established, it has received more than 300 DEP theft referrals. We will get to you the number for the community board in your district.
+
+**(01:13:48)**
+
+
+
+Thank you so much. Has HPD or DOF data on whether losing short-term rental income has led to tax arrears or mortgage defaults? Do you have any?
+
+**(01:13:51)**
+
+
+
+Allow for our capital to go further. Can the term sheet also be used for new developments, so not just conversions? That's the Open Door term sheet, which is the term sheet we use in order to build.
+
+**(01:14:06)**
+
+
+
+Yeah, that's the one that most developers say, "Oh, we have a big pipeline." Program door. Yeah, okay. What are the numbers for current Open Door, and how many people have used Open Door on the path to homeownership? I don't have that for you. Everything we've ever produced, we've been doing about 150 units a year on average for the last three years, and this year we're on track to double that. So we're hoping to do 300 new construction units through Open Door in Fiscal Year 27, and then again in Fiscal Year 28.
+
+**(01:14:42)**
+
+
+
+Yeah, the numbers are just so low. For instance, with the Jamaican neighborhood plan, the projected number of units is 12,000, but the number of homeownership units is such a small...
+
+**(01:14:55)**
+
+
+
+Percentage of the overall units. So I'm just hoping that we find more ways for developers to leverage Open Door, because it is such a small number. Those numbers, personally, are not impressive when you talk about overall unit count in new development. So I'm just hoping that we find more opportunities, because for me, I only see those opportunities very rarely, if at all. And when you do see them, it's typically on city-owned property, because there are more tools you can leverage to make the deal work. The biggest thing for me, when I talk to developers, is they always say that the term sheets are not good for developing homeownership, which is why they prefer to develop rental units. So I wouldn't be happy to have you refer anybody who has an issue. I mean, generally speaking, right, our term sheets are pretty generous. I think Open Door goes up to $445,000 per unit in subsidy. All the homeownership opportunities in my district are there, on city-owned property. There's none on privately owned property. So just from my experience, but I'm sure there's a ton of questions we'll do a second round on. I have questions, but I'll stop there.
+
+**(01:16:16)**
+
+
+
+Thank you so much, Deputy Speaker. So now I'm going to turn it over to CM Narcisse. Ah, thank you. Good to see you, Commissioner. How are you? Along with my colleagues, we are doing the South of Plastic Park, ME DCP. We heard from long-term residents that they want their children to be able to buy homes in the community they grow up in. Does HPD have any specific target for delivering new homeownership opportunities through its neighborhood plan?
+
+**(01:16:39)**
+
+
+
+In particular, community boards, for example, 14 and 17.
+
+**(01:17:02)**
+
+
+
+Yeah, thank you very much for that question. I think, as we continue to develop the neighborhood plan, this is a conversation we should continue to have. I think what we want to see out of a neighborhood plan, especially one of this scale, is going to be a mix of both the kind of private development that's not subsidized, to make sure that there's a healthy mix of both rental and homeownership that's getting produced in the general housing that's getting built as a result of the neighborhood plan. And then we're also looking at city-owned sites where we can add extra affordable housing and adjust the mix of market-rate and affordable housing. On the city-owned sites, I think we would be happy to have a conversation about homeownership and what's possible there.
+
+**(01:17:09)**
+
+
+
+Yeah, we would love to have that in my district. Intro 1096. We have several instances where homeowners have had their home damaged from adjacent construction. These homeowners have been left out, left holding the bags, damaged homes, either because developers disregard access or failed to sign access agreements in the first place. Homeowners consistently find that DOB fails to protect their homes from this type of damage. These homeowners, we find, are often older adult homeowners of color who struggle to protect themselves from this behavior in court. It's financial distress from disruptive construction practices, a form of displacement pressure. The homeowners' advocates have seen that. I have an older adult in my district who is being squeezed, someone is squeezing a building in between two homes, and they damaged her property.
+
+**(01:17:47)**
+
+
+
+What is HPD's plan for when these things happen? I don't want to speak for them, but I believe they're here. But it's speaking for HPD. I do.
+
+**(01:17:51)**
+
+
+
+I think this is a legitimate concern. Right again, our desire to build as much affordable housing on every vacant piece of land that we can should not disrupt existing homeowners or tenants. We want to make sure that that isn't happening, so again, being made aware of it early so that we can take intervention. We very much want to make sure, again, that while we're building and trying to meet our goals of 200,000 units over the next 10 years, we are not at the same time disrupting or displacing anybody as a result.
+
+**(01:18:51)**
+
+
+
+I do. Thank you. You proceed. So on the issue of HVAC units, thank you for bringing that up. That's actually something we're hearing citywide. We're starting to hear that issue. These HVAC units, the mini splits, that require permits to install. That's something we're actively looking into. So if you have specific addresses where this issue is coming up, I have a ton of them, please. We'll reach out to you right after. Yes, please do that. That's an issue we're thinking through right now. Certainly we need to do more outreach to property owners, as they understand that these devices need to be installed with proper permits. But absolutely, intervening as soon as possible is key.
+
+**(01:19:13)**
+
+
+
+But what about the ones that bought it already, like that didn't know that it was in a violation? Now they're racking up violations, not knowing this was done to their homes. Is there anything in place to support these homeowners?
+
+**(01:19:23)**
+
+
+
+We'll look into the specific instances. But for smaller properties, we do have programs in place that allow them to correct violating conditions before they incur monetary penalties. But again, the earliest intervention is because they have to correct within a certain time period in order to benefit from it. Is there somewhere you're keeping that data?
+
+**(01:19:50)**
+
+
+
+We're starting to compile it. Offline, last week is when we started looking into it, because we're starting to hear from Council Members and community members about this. So we definitely need to meet in that community, in my district, so we can talk to these homeowners. I would love that. Thank you. Thank you, Chair Joseph. I'd like to acknowledge that we've been joined by CM Hudson, joining, and Brewer. And next up we have CM Narcisse, followed by CM Brooks-Powers. Um, thank you. And Madam Commissioner, am I appreciating the fact that I think we're almost on the same page when it comes to housing?
+
+**(01:20:10)**
+
+
+
+The Mamdani housing plan says homeowners in Canarsie, East New York, and Cambria Heights pay effective property tax rates about twice what Park Slope and East Village homeowners pay. What specific change will DOF make to fix that, and on what timeline? We're working on, do you have, is currently working with City Hall on property tax reform, and we are hoping to have legislation for the upcoming state legislative session. We aren't going to be on the same page, I hope. Death has been heavily concentrated in Black and Brown communities, Caribbean communities in Brooklyn.
+
+**(01:20:20)**
+
+
+
+How many complaints has the Office of the Deaf receive in Brooklyn, and from what community specifically? Community Board 18. Ah, we don't have a breakdown by community board.
+
+**(01:20:35)**
+
+
+
+We know that since the office was established, it's received more than 300 dee-pt theft referrals. We will, um, get to you the number for the community board of your district.
+
+**(01:21:08)**
+
+
+
+Thank you so much. Has HP or data on whether losing short-term rental income has led to tax arrears or mortgage defaults? Do you have any
+
+**(01:21:20)**
+
+
+
+We will look into the specific instances, but for smaller properties we do have programs in place that allow them to correct violating conditions before they incur monetary penalties. But again, the earliest intervention is because they have to correct within a certain time period in order to benefit from this. Is there somewhere you are keeping that tracking data?
+
+**(01:21:38)**
+
+
+
+We are starting to compile it. For us, last week is when we started looking into it because we are starting to hear from Council Members and community members about this. So we definitely need to meet with that community in my district so we can talk to these homeowners. I would love that.
+
+**(01:21:54)**
+
+
+
+Thank you. Thank you, Chair. I would like to acknowledge that we have been joined by CM Hudson and CM Brewer. Next up we have CM Narcisse followed by CM Brooks-Powers. Thank you, and Madam Commissioner...
+
+**(01:22:13)**
+
+
+
+I appreciate the fact that I think we are almost on the same page when it comes to housing.
+
+**(01:22:20)**
+
+
+
+The Mayor's housing plan says homeowners in Canarsie, East New York and Cambria Heights pay effective property tax rates about twice what Park Slope and East Village homeowners pay. What specific change will the Department of Finance make to fix that, and on what timeline? We are currently working with City Hall on property tax reform and we are hoping to have legislation for the upcoming State legislative session. I hope we will be on the same page. This has been heavily concentrated in Black and Brown communities, Caribbean communities in Brooklyn.
+
+**(01:23:09)**
+
+
+
+How many complaints has the Office of the Deed received in Brooklyn, and from what community specifically? Community Board 18? We do not have a breakdown by community board.
+
+**(01:23:29)**
+
+
+
+We know that since the office was established it has received more than 300 deed theft referrals. We will get to you the number for the community board in your district.
+
+**(01:23:44)**
+
+
+
+Thank you so much. Does HPD have data on whether losing short-term rental income has led to tax arrears or mortgage defaults? Do you have any...
+
+**(01:24:01)**
+
+
+
+So I don't think we've done that specific analysis. I know that there is a homeowner group out there, and in the communities that are saying that they need, they rely on short-term rentals in order to not only cover their taxes but also their mortgage. I don't think we've done that specific analysis, but we could certainly talk internally as to whether or not that is an analysis that we could sort of pursue. Thank you. Look into it, because Black and Brown folks are losing their homes left and right, and it's not a privilege. Homeowners who live in the house should be allowed to rent a basement long-term, but face heavy fines for renting a spare room for short-term.
+
+**(01:24:57)**
+
+
+
+Yeah, I think that's an interesting question. I would argue there has obviously been a lot of discussion about how short-term rentals actually take away affordable housing in the city. I do think the point you're raising, which is the other side of that argument, is that owner occupants who have either a room or an ancillary unit benefit from the income that produces. That is one of the tensions that exists with trying to make sure short-term rentals aren't displacing long-term renters in the same community. So I'm happy to follow up with you directly on this question to figure out if there is a balance to be struck. I appreciate you. It has not changed really for the time that we stopped short-term rental to a manner of an ADU in the market, because those are home one- and two-family homes, or one-family homes. Last one. I'm going to say, do you have any problem? Do you support my bill? Administration support Int 0091. You have no problem with my bill? I think... I don't. Sorry, that's you. Okay. We're certainly supportive of the intent of the bill, which is to provide notice to homeowners when a DOB violation is issued that could ultimately become a property lien. A warning doesn't exist on our violations. We are 100% supportive of taking a look at that, revising our violations to provide that earliest-in-time notice. What we'd like to discuss further is the additional notice requirements, to understand if there are gaps, and if so, how do we address them.
+
+**(01:26:31)**
+
+
+
+Okay, let me know, because I'm here to help homeowners, because I know what the Black and Brown community has to go through to earn a little property in New York City. Especially in the flood zone of New York City, we should be looking carefully at development, because as we saw what happened on Flatbush Avenue, we don't want all of us to be in the water, and the basement that we have that's sinking. I haven't seen any plan on that note, so we're going to look further. I'm going to talk to you guys, because we have to have a plan, because people buy the home knowing that developers are gone, and they're dealing with sinking homes. So thank you for your time, and I have to pass it to my colleagues. Appreciate you. Thank you. CM Narcisse, I now like to turn it over to CM Brooks-Powers, followed by Salaam.
+
+**(01:27:24)**
+
+
+
+Thank you. I'm going to start with a couple of questions on my bill, and I just asked in your response to leave me a little bit of time to ask some district-specific questions. So in terms of Intro 0961, the voucher homeownership outreach.
+
+**(01:27:40)**
+
+
+
+I wanted to get a sense, Commissioner, in how... excuse me, how many HPD voucher holders are currently enrolled in the Housing Choice Voucher Homeownership Program, and how many closed on a home in each of the last five years? And then regarding Intro 0862, how many first-time homebuyers received Home First assistance in each of the last five fiscal years, and how do those numbers break down by borough? Does HPD track those approved but never closed? We're trying to buy. And with Intro 0862, what would it require HPD to assist at least 601 first-time homebuyers a year? What are the biggest barriers to getting there today: outreach, the application and closing process, or the capacity of the nonprofit counselors and partners?
+
+**(01:28:41)**
+
+
+
+So I'm going to try to remember those. Okay, so let's start with the Housing Choice Voucher Program utilization, which is lower than we'd like, for the reasons I spoke about in my testimony. Right now there are 1,062 active participants who receive housing choice vouchers through HPD and who are actively trying to get to the place where they can purchase a home and convert the voucher. Closings for that population, calendar year '24 and '25. So that was your first question. I think your second question was on Home First assistance.
+
+**(01:29:23)**
+
+
+
+Yes, so for Home First, in the past fiscal year we served 171 families, and again the goal is by fiscal year 2028 to be reaching at least 300 households with the down payment assistance. You asked, did you ask for a type of unit or type of borough? I wanted to know the number broken down by borough, in terms of how many first-time homebuyers received Home First assistance. For that 171, which is the last completed fiscal year, it's pretty evenly split across the five boroughs: Brooklyn 37, coming from the Bronx 31, coming from Queens 29, coming from both Staten Island and an additional 20... sorry, 29 from Manhattan.
+
+**(01:30:15)**
+
+
+
+And if at another time you could give me the full picture in terms of the five fiscal years, that'd be great. Yeah, we can go back to the beginning of the program for sure. And then the follow-up for 862, was it requires... I just asked for just a few more moments. That's okay.
+
+**(01:30:32)**
+
+
+
+Would require to assist at least 601 first-time homebuyers a year. What are the biggest barriers? I just wanted to understand. So as I described, I think a $100,000 grant is a very generous down payment assistance. Just by comparison, the state offers its own version through SONYMA, which is only $15,000 to $40,000 to $100,000, and that has been really helpful in making higher utilization rates to the program. I would say today the most significant challenge right now is rising interest rates. When you go to get a mortgage, you are now looking at close to 7%, which is significantly higher than over the last, I would say, 1 to 2 years, while I was at SONYMA, interest rates were hovering below 5%. So it's a significant increase, and affordability is much, much more challenging. The second big challenge is just how much it costs in terms of buying a co-op or a condo: monthly HOA or maintenance fees. Maintenance fees continue to go up. That is the same reason there are pressures in the rental market, because these buildings are dealing with rising interest, taxes, insurance.
+
+**(01:31:45)**
+
+
+
+Probably most foremost, it is making it so that even if you can kind of afford the purchase price, you need to know that you can afford the ongoing monthly maintenance fee. It can be very challenging for low- and moderate-income prospective homebuyers.
+
+**(01:31:57)**
+
+
+
+Thank you. I'm just going to close with the questions regarding my district. First, in District 31 we saw 329 foreclosure filings last year, about 17% of all filings in Queens. When HPD runs outreach to buyers and existing owners, how does it connect distressed neighborhoods to counseling and legal help? And then for the Department of Finance: tax liens sold in small homes in my district went from 44 in 2021 to 102 in 2025, more than doubling, while citywide they rose by a little over half. What explains that concentration, and what outreach did the Department of Finance do in Southeast Queens before the last sale? I'll just color it by saying I'm extremely concerned about the upcoming lien sale that is coming right now, and in light of all of the affordability dynamics that exist today, and the fact that the foreclosure number in Southeast Queens is the highest not only in Queens but in the city, in my district, in the nation. So I'm extremely concerned and ringing the bells right now in terms of the need for much more outreach and funding that the Council had approved, for this effort in my district in particular.
+
+**(01:33:21)**
+
+
+
+Thank you. I'll be very quick. Department of Finance, but I do want to say, right, our foreclosure prevention funding...
+
+**(01:33:31)**
+
+
+
+Council.
+
+**(01:33:32)**
+
+
+
+...provides to this very large network of legal service providers and housing counseling groups. The housing counseling groups can work with homebuyers to potentially get a mortgage modification to get out of foreclosure, and legal services represents them during a foreclosure. As you know, there is also the Homeowner Protection Program, which runs simultaneously, and funding comes from the state. It's $40 million, of which $14 million comes to New York City, to support about 30 HOP organizations. So while I completely hear what you're saying, and we do see signs of foreclosure distress very concentrated in neighborhoods like yours, we do have the ability to be very targeted. The other thing we know is that the Center for New York City Neighborhoods gets direct access to the 90-day foreclosure notice that DCF provides, which is the best way for us to get early outreach, very specifically, address-level targeting, because we know which folks are actually facing potential foreclosure. If you could be brief, we have a lot of Council Members signed up.
+
+**(01:34:49)**
+
+
+
+...up. Thank you. Okay, well, the main thing for the outreach we're planning is to share the accurate list with our nonprofit partners early in the 90-day process, so they could start the outreach in the various districts. We will be expanding data sharing between the agencies to make sure we get emails and text notifications to the owners on the 90-day list. We will be planning our extensive outreach as we move forward with planning. If we got to the increase between 2021 and 2025, there was a four-year difference in when we had the lien sales, so all the tax classes did show an increase in at-risk properties, because there was a four-year gap between the lien sales.
+
+**(01:35:50)**
+
+
+
+Can you commit to additional...
+
+**(01:35:52)**
+
+
+
+...funding for my district? Since we're seeing the increase in foreclosures, we will be reaching out to all districts, including your district, to ensure everyone gets on the outreach. We will definitely, I'll actually put it on... about your district, but we will be working with all Council Members to ensure we reach all at-risk. Thank you.
+
+**(01:36:18)**
+
+
+
+Thank you. Thank you, Chair. Thank you, CM Brooks-Powers. CM Justin Sanchez, followed by Wong. Thank you.
+
+**(01:36:27)**
+
+
+
+Thank you, Chair. Hello everyone, good to see you. Resale restrictions limit how much equity a family can build. How much does a typical Open Door or CLT owner gain after 10 years? So I would make a distinction between CLTs and a program like Open Door, which don't run exactly the same way. You are naming a very real tension. I think that I...
+
+**(01:36:54)**
+
+
+
+...personally struggle with...
+
+**(01:36:55)**
+
+
+
+...which is, we want homeowners who are getting access to first-time homeownership to be able to earn equity as generations before them have. We also want to be mindful that if we don't put some resale restrictions in place, then that unit leaves the affordable homeownership market, and we have to pay a lot of money to build new ones to replace it. So finding a balance between those two things is constantly on our minds, and something we debate pretty robustly internally. We are right now coming up with maybe some changes to how we will find that balance. Historically there's been about a 2.5% equity allowance every year. So if you stay in the home for, you know, 10 years, you've both bought down your mortgage principal, which are also able to sell for a 2.5% increase for every year you've lived in the home.
+
+**(01:37:45)**
+
+
+
+So I would say we're looking now to see if we think those numbers are still correct, whether they need editing. But we're between equity building and also preserved affordability. Thank you. In today's market,
+
+**(01:38:01)**
+
+
+
+what can a family at 80% AMI actually afford to buy with the current levels of homebuyer assistance, and where in the city, if funding were held flat or increased by 25%, how many families would we add or cut? I'm going to need you to repeat the second half. First, I could pull out a mortgage calculator and tell you exactly. I don't have that with me. What I can say is the way we consider affordability when we're thinking about homeownership is debt-to-income ratio. What we're looking at is a 35% cap for the debt and housing debt-to-income. That factors in property taxes, insurance, mortgage payments, and if you're in a co-op or condo, your maintenance payments. We don't want any of that to be more than 35% of your gross monthly income. We set sales prices based on what we think a potential homeowner can afford in order to back into a monthly payment, and then layer in the other factors to make sure it's affordable.
+
+**(01:38:06)**
+
+
+
+So we have different sales prices for people at 50%, 80%, and so forth. So could you explain a little bit, if so, for subsidy programs like Open Door, what is the average subsidy per unit, and how does it change as you go deeper into affordability? It's capped at $100,000 per homeowner. The average historically has been close to $85,000, and again, we're backing into that to get to that 35% income ratio when factoring in things like maintenance, property taxes, and insurance. For the HomeFix program, what is the current demand compared to the available funding? Is there a waitlist, and how long is the wait for a homeowner whose roof or boiler is currently failing? There isn't a waitlist, and there is capacity within the program. We have found that we need to tighten the processes around HomeFix in order to make it go more quickly. The average time is probably between six and eight months from the time they apply. Part of that is that we have to work with the homeowner to scope the work, figure out exactly what needs to be done, and then identify a contractor, which the homeowner can select. We are working to make more efficiencies. This program has also run through a partnership with the Center for New York City Neighborhoods and Neighborhood Restore, and we are hoping to see growth within that program so we can get to more homeowners.
+
+**(01:39:00)**
+
+
+
+Well, when developers receive city subsidies, just changing lanes really quick: when developers receive city subsidies or tax breaks, how does HPD monitor compliance with these regulatory agreements? If it does monitor, how many violations did it find last year, and when a company ignores its obligations, what penalties or clawbacks does the city use, and how much has it recovered? So I think of the recovery question, I want to explore with you a little bit. But you're asking, right, how do we oversee all of the housing that we subsidize? That is done primarily through our asset management team. We have a whole division that is asset and property management. Anybody who gets a subsidy loan from HPD or an Article 11 has to report to us annually on their financial situation, on compliance, and on the physical conditions within the building. We do have the ability to declare a default under our regulatory agreements if we can't get them into compliance, and we also have the ability to pursue revocation of an Article 11 if there is serious...
+
+**(01:39:07)**
+
+
+
+...and one last question. Thank you, Chair. Finally, when a rental building converts to a co-op through the HPD process, what happens to tenants who don't want to buy or can't afford to buy? How does HPD keep the co-op financially stable when a share of units remain rentals, and has HPD explored other mixed models?
+
+**(01:40:27)**
+
+
+
+That's a great question, and the answer is yes, we do have a process in both, and we haven't launched our HOME yet, but when we do, there will be a process by which you do not need a 100% consensus from the residents in order to convert to co-op. So we would be looking for a majority of residents in advance of, say, moving through with our HOME, that there is a majority, probably an 80% or so majority, who want to be shareholders. Whether some folks can't or just choose not to purchase, they would be able to stay as rent-stabilized tenants. Thank you.
+
+**(01:40:52)**
+
+
+
+Thank you. Ah, CM Justin Sanchez, a primo. Ah, now I'd like to turn it over to CM Wong, followed by...
+
+**(01:41:30)**
+
+
+
+...Wilson. And I need to acknowledge that we've been joined by CM Restler. Oh.
+
+**(01:41:51)**
+
+
+
+Chair, um, I have a question about the split units. This appears to be a citywide problem. Certainly in my district we have hundreds and hundreds of homeowners with these split units, and they've been using them for years, some of them for decades, and now suddenly slapped with fines, that you can't start it without a permit or you can't start it without the proper paperwork. My question is that most of them don't even know they need permits. They see it as, they don't see why, why, why do they need a permit? If I have a window unit upstairs, why do I need a permit for this? So what is being done to address this, because certainly in my district, homeowners are just confused and outraged, and it is thousands of dollars. Please, please answer that.
+
+**(01:42:24)**
+
+
+
+Something we just recently started looking into, because it's been brought to our attention by Council Members, community members, and the like. So we're certainly pulling together all that information. If you have specific addresses that are on your radar, please share them with us. We'll follow up with your office after the hearing.
+
+**(01:42:34)**
+
+
+
+Wilson, and I need to acknowledge that we've been joined by CM Restler. Oh, Chair. Um, I have a question about the split units. This appears to be a citywide problem. Certainly in my district we have hundreds and hundreds of homeowners in these units, and only for years they've been using them, some of them using them for decades. Now suddenly they are slapped with fines. You can't start it without a permit, or you can't start it without the proper paperwork. My question is that most of them don't even know they need permits. They see it as, they don't see it. Why, why, why do they need a permit? If I have a window unit upstairs, why do I need a permit for this? So what is being done to address this? Because certainly in my district, the homeowners are just confused and outraged. It is thousands of dollars. Please, please answer that.
+
+**(01:43:18)**
+
+
+
+Something that we just recently started looking into, because it's been brought to our attention by Council Members, community members, and the like. So we are certainly pulling together all that information. If you have specific addresses that are on your radar, please share them with us. We'll follow up with your office after the hearing.
+
+**(01:43:47)**
+
+
+
+That doesn't look like we have homes that install multiple of these split units. Then there's our several thousand dollars in the... and I only get like a small set of these phone calls, because they don't even know many of them. Many of them brought homes, and without knowing that these units are in violation, it's an issue that we're just very recently looking into. But we suspect that folks are calling in 311 complaints, which is prompting us to visit the locations, and then that's how we find that the devices that were installed without permits.
+
+Isn't that the contractor's job? Or when I buy one... well, let's say I buy one of these, it's the seller's job. You should make sure that they're pulling permits. But it seems that perhaps homeowners are not aware that permits are required, or not working with a contractor to determine whether they're pulling permits. So on our end, we're certainly thinking through how to communicate to homeowners that they need to have permits to install these devices. We'll definitely be planning for outreach at locations. Please let us know, because the earliest that we could intervene, the better, to avoid additional penalties being imposed. Some of these, if they are issued as Class 1, we need to intervene. Thank you.
+
+**(01:45:00)**
+
+
+
+On a follow-up question, co-op board members' training. Bill 406. Co-op boards' qualities vary. Some are very well run, some are not. My question is, right now, before this bill, how are our co-op boards trained? The co-op board, where do I get my training right now?
+
+So, as I mentioned in my testimony, we have a $7 million contract with the Urban Homesteading Assistance Board to serve all HDFCs in the city, both those that are regulated by us but also those that are just in existence and are potentially benefiting from the property tax gap. Under this contract, they do about 180 training classes a year that are open to all members, and then they do individual co-op trainings with shareholders and boards at specific sites, about 220 hours of individual training per month every year under that contract.
+
+I have a follow-up question. I know co-ops get sued all the time. Can you talk about the liability issue? What if you're trained, you trained co-op members, and they don't do their job, or they sit on the board and that doesn't do anything, you know, when you've trained them? So what's the liability?
+
+We don't do the training, but yes, our partners at Urban Homesteading Assistance Board do the training. I'm not totally familiar with what specific liability issues there are. Again, if there is a co-op or a board that is struggling with, you know, improper financial requirements or not communicating with the shareholders, or not functioning from a governance perspective, we would ask you to go out and start working with that co-op board.
+
+**(01:46:45)**
+
+
+
+Okay, thank you. Thank you, Jim.
+
+**(01:46:47)**
+
+
+
+Wants, so far you are the best behaved. Thank you.
+
+CM Bi-by, a CM Mealey.
+
+**(01:46:57)**
+
+
+
+Thank you, Chair. Um, neighborhoods like Chelsea and Hell's Kitchen, the one that I represent. Things like downpayment assistance alone cannot bridge the gap between what households can afford and what homes cost. So what is HPD doing to create permanently affordable homeownership in more high-cost neighborhoods, and does that include things like limited equity cooperatives?
+
+Yes. So that's traditionally all that we build through the program, like Open Door. These are limited equity. There is some opportunity for equity building, as we described a moment ago, two and a half percent, but we balance that. In order to achieve long-term affordability, the other mechanism that we're now using a lot is working with our Community Land Trust partners, where there is a commitment to permanent affordability through 99-year ground leases. Since 2020, we have worked to finance 1,200 units on community land trust that then benefit from that permanent affordability. I don't have the exact breakdown of units that we've worked with on CLTs. It has been for homeownership, that's both single-family and co-ops, and for those CLT projects, where they're mostly located. I mean, we have a lot of CLTs now. I would say we have more than one potentially in many neighborhoods, but it's great. It's a very large network. There's a group called the Neighborhood Coalition, you know, the oldest one being Cooper Square. You're familiar with them. So we don't actually create limited equity cooperatives. They sort of come into existence, and then we work to support them. But I would say at the moment, and I'm trying to think, actually, I don't know if there's
+
+**(01:48:42)**
+
+
+
+one squarely working in Chelsea or in the neighborhood.
+
+**(01:48:44)**
+
+
+
+Speaking of, but we do have a large network of limited equity cooperatives across the city, and then about existing affordable co-ops. Something like Penn Village, which is a five-building limited equity co-op. Sure, you've heard me talk about them before. That demonstrates the value of preserving affordable cooperatives over generations. For HDFCs and other limited equity co-ops, how do you identify, or for both agencies really, how do you identify financial distress early, whether from tax arrears, insurance costs, major repairs, or system upgrades? And help with assistance before the residents face unaffordable maintenance increases?
+
+**(01:49:35)**
+
+
+
+It is challenging for the ones that we finance. So, with HDFCs, sometimes we actually have capital dollars or a mortgage in the project, and sometimes we don't. For those that we do finance, there's an obligation to report to us
+
+**(01:49:50)**
+
+
+
+annually their financial statements. There are physical conditions, there's compliance with our regulatory agreement. So that would be a way for us to know, for that portion of the co-ops that exist, early indications of distress. Similarly, with the Mitchell-Lama co-ops, they have obligations to report to us if they are city-subsidized. I'm sorry, supervised Mitchell-Lamas.
+
+**(01:50:14)**
+
+
+
+I do think we have more to do here, which is why I mentioned in my testimony we've just launched a new RFP to bring on technical assistance providers, specifically to work with Mitchell-Lama co-ops where we know there is a lot of distress. Thank you. Thank you, Chair. Thank you.
+
+**(01:50:31)**
+
+
+
+Thank you so much. CM Wilson, I now like to call on CM Mealey, followed by Wayne. Yes.
+
+Hi, Commissioner. Following my colleague's question about when your department, HPD, has contractors building and hurting homeowners next to their property, their foundation is, and you said it's nothing that y'all could do right now. How could that be? You just said assessment. How many defaults have happened, that y'all did something about any of those developments that hurt another homeowner? That job was doing building homes. So I'm sorry if I was misunderstood.
+
+I don't think you do, but I do want to say for buildings that are in existence, that is where HPD has oversight for code violations. If it's an active construction site, it would be more within DOB's supervision. But again, regardless, I think both agencies care very deeply about making sure that while we are trying to build more affordable housing, how many homes have been damaged, and why? That is taking away Black and Brown homeownership. And that's why I'm saying that, because now with DOF here, just as well, it leads right into a bill. You'll have a bill that will come in, and then you're charged as a homeowner.
+
+Then it goes to their property tax, and that's where the Department of Finance comes in. So I have a home now where the bill is $3 million, $300,000. It just keeps going.
+
+So I looked at all their things, HPD, for knocking down a demolition of something, in which it was only because y'all were building next door to their house, and then their foundation was unstable. And then y'all jacked this man up, millions now. So I started looking to see what department do we go to. And guess what? There's no department that could tell you who was responsible for these properties. Do you know that on the issue of construction, it's really from HPD? It comes from HPD. Didn't go to the Department of Finance, and it's on people's property taxes.
+
+Correct. You'd be talking about.
+
+No, no, just regular everyday problems that y'all created on a homeowner, that their building is next door, their foundation is now messed up, and now you're charging a homeowner. And this is not just one or two. This is a lot. You just asked you, and you said y'all don't have a database or anything. That's concerning. That is our taxpayers, homeowners, that need to keep their homes. It would be helpful to look into this, specific examples that you're referencing. That's only one of them, but it's the norm. For y'all to just say y'all don't have a database on that, that is people's homes you're messing with. There's property, and they don't have the money to get lawyers to fight.
+
+So I guess we are down to memorabilia in the audience. You have to, you cannot interrupt the proceedings. If you agree, you can shake your hands, all of that, but please, no audible. And I thank you. I'm Deputy Commissioner. I feel that you at least understand that 1084.
+
+You can't just put that on homeowners. You know, put them in a plan that they did not agree on. So I would love to talk to you in regards to that, because that's how government's supposed to work with community and homeowners. So, Cordele, to you.
+
+I'm looking forward to see more of that. Thank you, Chair. Thank you. Thank you, CM Emilie. I will now go to CM Zhuang, followed by CM Brewer.
+
+Thank you, Chairs, and thank you, Commissioner, to be here. I have a couple of questions. The first question, give the board, give that poor members, leave all over the city, and some older adults living in all them outermost parts would be trained. Would this training be provided virtually?
+
+Sure, I understand your question, Council Member. You're asking for cooperators, can they be trained virtually? Yes, or 4 billion to 6, or a 4-6.
+
+While the training can be virtual, so for co-ops and for boards, you have both in-person on-site trainings. You have to do both, or you can choose one.
+
+They do both, and they also do online, like, you know, telethon trainings, and then they also hold trainings in their own offices, which multiple buildings can attend simultaneously.
+
+And I do also have concerns, similar to CM Mercedes Narcisse's district. We have, my district is not a wealthy, wealthy, wealthy district. I work. Property tax is too high. The parks, low, and the parents send their kids to my district. Scores. We are paying. Our neighborhood is paying for other neighborhoods' property tax. So we really, I hope you guys can look into it.
+
+Yes, we are currently working on property tax reform.
+
+Yeah, because you have wealthy neighborhoods paying less, less wealthy neighborhoods paying more. It's not fair to people living in New York City. And the next question, because giving the district contact between city stakeholders and the co-op board members, that's a unique opportunity for a conversation. Co-op board members are currently struggling to adhere to many local laws that impact co-ops, due to the rising costs, and they require these being passed to stakeholders, many of whom are on fixed incomes. In some cases, stakeholder maintenance charges have been increased 22 to 25% over the last few years. Can we use this point of connecting to direct co-op board members to resources available to them to lessen these expenses? So this is a part of the...
+
+Yeah, so I should say two things about this. One is, we do have, through our normal preservation work at HPD, the ability to work with co-ops who are in need of capital improvements. When we do that, and we do about 1,200 units a year through our preservation pipeline of limited equity co-ops, this is subsidized funding, so that it helps us not have to raise or have the co-op's maintenance significantly.
+
+That said, I do think the other thing we're struggling with, when we're working with both our Mitchell-Lama and our co-ops, is that there are many years where they don't impose any rent increase, and in some cases 10, 12, 30 years, and then they start to not be able to maintain their debt or their monthly expenses. So we are always working with our co-operators, talking to educate shareholders about the need to impose modest rent increases on an annual basis, that are maintenance increases on an annual basis, so that they don't find themselves suddenly having to do a 20% or an 18% increase in a single year.
+
+**(01:58:27)**
+
+
+
+They start to not be able to maintain their debt or their monthly expenses, so we are always working with our cooperators, talking to educate shareholders about the need to impose modest rent increases on an annual basis. Maintenance increases should be applied annually so that they do not find themselves suddenly having to do a 20% or an 18% increase in a single year.
+
+**(01:58:48)**
+
+
+
+Thank you. Do you have translation support for those trainings? They do. Okay, thank you.
+
+**(01:58:54)**
+
+
+
+Okay, thank you. CM Wang will now go to...
+
+**(01:58:58)**
+
+
+
+For the update on the landlord bank, I had it, but it's nice to see it in writing. Number two, just in terms of data, if you did this already, I apologize, but how many of the HDFCs are still until that you proposed to convert to? That's question number one.
+
+How many have opted out of, and the hours you'll have to pay a property tax, but they don't like being in it, and they want to go make a lot of money? That irritates me.
+
+**(01:59:31)**
+
+
+
+Number three, just, how many vacancies are in HDFCs? If you know, people unfortunately do have vacancies.
+
+How many have no restrictive deeds? Is another question. I know quite a few of them don't, and they are playing fast and furious.
+
+**(01:59:48)**
+
+
+
+I also got a call the other day, and I should have been able to answer, but at what point does the HDFC, as I call it, I know there's a new term for it...
+
+**(01:59:58)**
+
+
+
+Property tax kick in, if at all? And finally, 59 West 87th Street. A lot of drama in terms of persons assigned to work with the residents. Residents don't get along, so I'd like some help with that building. And finally, 615 West 150th Street. I put in millions of dollars and want to know what the update is. Thank you, Council Members.
+
+**(02:00:03)**
+
+
+
+So there's a lot. I'll try to take them all. On the question of how many buildings remain, basically there are 60 buildings left to convert. Again, we did about four conversions last year or started construction on four last year, and we've done for this year, and we expect to do a few more before we get to the end of the fiscal year.
+
+**(02:00:23)**
+
+
+
+On the vacancies across all HDFCs, I don't think we know. As I said, we regulate only about 250 of the existing, say, 1,300 or so, or 1,400 HDFCs. So we would only be able to report vacancies on the ones that we actually regulate. And I don't know that we know. On the question of restrictive deeds, if you're talking about regulatory agreements, again, it's about 250 that we regulate out of the 400, about out of the 1,400. And so, others get the tax cap.
+
+So they do have restrictions, but they're not directly regulated by HPD. And then on the two buildings, I think I'll need to follow up with you post this, because I don't... are these both HDFCs? These I know, every HDFC, and both of these are existing HDFCs that need one... no, 59 West 87th Street is, and the other one is not. I don't believe Puente, ah...
+
+**(02:00:44)**
+
+
+
+Controls. 615 West 150th Street. And I want to know what's the status of that building. In fact, generally, Puente, are you...
+
+**(02:01:09)**
+
+
+
+Working with them to convert, because that's why you're going slowly? So, as you probably know, there's a team in HPD that has worked, is working with all of the buildings that remain, until all 60, as well as those that are actually now through construction and getting ready to convert. And we have had a long history with Puente, working with... I was part of it. Yes, part of it. Probably don't have an answer for you today, Council Member, but we'll happily get you updates.
+
+**(02:01:14)**
+
+
+
+Okay, and then just finally, on the boards, I know they're, I know you're getting technical systems, et cetera, but that's not necessarily going to work. You really need an extensive board strategy. Are you really thinking you're going to have one with this new technical...
+
+**(02:01:42)**
+
+
+
+Assistance? That's for the Mitchell-Lamas. Well, I know, but I'm talking about the no technical system for HDFCs boards. There is. So the $7 million contract that we have with you, that you have, is really dedicated to working very deeply with specific boards as well.
+
+**(02:01:48)**
+
+
+
+As includes, that includes yours that you're overseeing, or...
+
+**(02:02:13)**
+
+
+
+Their balance of the 400. They do work with all of ours, and those that we recommend to them as needed, or sometimes they go directly to, you know, because that's what they're known for, but they will also work with any of the 400.
+
+**(02:02:24)**
+
+
+
+I'll leave it at that, but you have a big problem there. Noted. Okay, so now we're going to call him Thomas Henry. Hello, thank you.
+
+**(02:02:28)**
+
+
+
+Chair, my first question, I know property taxes are a hot topic. But can you explain currently how the property taxes on co-ops is assessed? Can you give a little more detail?
+
+So the property taxes, and I'm just going to say my co-op in particular has more than doubled over the past few years, and when I asked the representative from Finance at a community meeting, they said the methodology, or the calculation, is based on the current market rental value of said unit. So really, I want to see, is that accurate?
+
+Yes. So currently, state law requires us, in valuing co-ops and condos, to do so as if they were rental-producing property. So we need to find a comparable building and look at its income per square foot, and use that to come up with the assessment and market value of the co-op.
+
+There can be other factors, and so that's been the law for many years, so that wouldn't necessarily impact the value of your co-op building. There can be expiring...
+
+**(02:02:44)**
+
+
+
+As includes that, includes yours, that you are overseen or...
+
+**(02:02:46)**
+
+
+
+Their balance of the 400... They do work with all of
+
+**(02:02:50)**
+
+
+
+ours and those that we recommend to them as needed, or sometimes they go directly to you, because that is what they are known for, but they will also work with any of the four
+
+**(02:02:58)**
+
+
+
+hundred. I will leave it at that, but you have a big
+
+**(02:03:00)**
+
+
+
+problem there, noted. Okay, so now we are going to call him Thomas Henry. Hello, thank you.
+
+**(02:03:11)**
+
+
+
+Chair, my first question, I know property taxes are a hot topic. But can you explain
+
+**(02:03:18)**
+
+
+
+currently how the property taxes on co-ops are assessed? Can you give a little more detail? So, I, okay. So, the property taxes, and I'm just going to say my co-op in
+
+**(02:03:32)**
+
+
+
+particular has more than doubled over the past few years, and when I asked the representative from Finance at a community meeting, they said the methodology, or the calculation, is based on the current market rental value of said unit. So really, I want to ask, is that accurate?
+
+**(02:03:48)**
+
+
+
+Or yes. So currently state law requires us, in valuing co-ops and condos,
+
+**(02:04:00)**
+
+
+
+to do so as if they were rental-producing property. So we need to find a comparable building and look at its income per square foot and use that to come up with the assessment and market value of the co-op.
+
+**(02:04:22)**
+
+
+
+There can be other factors, and so that has been the law for many years, so that would not necessarily impact the value of your co-op building. There can be expiring...
+
+**(02:04:36)**
+
+
+
+Exemptions that can also impact the taxes, so if you would share with me the details, we are happy to dig into that and then provide you with some more information. I think the issue is not just my building, my district. These are owners who have been there for generations, and while there are no, what sort of, looking for subletting.
+
+**(02:05:04)**
+
+
+
+So essentially these homeowners are paying for a value that they cannot benefit from. So those units aren't being rented at market rate. These are essentially homes that their parents passed down to them, so they're not profiting off them. However, many people who are on a fixed income are now paying property taxes at a rate that they cannot afford, based on a methodology that doesn't seem fair in that circumstance. But I know that's a hot topic, and more to get into with the state. The $4 million in funding toward four attorneys for foreclosure prevention, do we have any insight in terms of how many modifications or
+
+**(02:05:27)**
+
+
+
+foreclosure prevention are successful? We do, and I'm going to have my colleague come up. Yeah, so last year, I think it's 830 something
+
+**(02:05:46)**
+
+
+
+clients that were served with intensive one-on-one, and year had a successful resolution. Do we know why the 600 plus were not successful?
+
+**(02:05:56)**
+
+
+
+So this is a process that takes time. You're working with what we consider a successful resolution, which would be a mortgage modification. They're sort of like, they're done with the process. They have successfully saved their home. They have a mortgage modification. They have changes to their... they've gone through financial counseling. They're sort of on sure footing with their home. They paid off their unpaid debt. So these things take time. A payment plan might take time to figure out what the right payment plan is, or to go back and forth with the bank to achieve that modification. So within any given year, you're not going to solve every single homeowner's problems, and things might carry over. Understood. Do you have a list, similar to how you keep a bad landlord list, a list of lenders who have not been good actors and have not negotiated in good faith, to make sure that our homeowners stay in their homes?
+
+**(02:06:09)**
+
+
+
+Yeah, I don't have a current list. I'm reflecting back to my time at the Attorney General's Office, which, during the foreclosure crisis, I think it was pretty well known which banks had been committing abuses. I do think that has gotten better since the foreclosure crisis, but I will be frank, there are some lenders who do not operate in good faith. We are very lucky in New York State to have a consumer protection set of laws that gives homeowners that are in foreclosure the right to go before a judge and negotiate directly with the bank through a system called the settlement conference process. So it is not untrue that some lenders continue to try to evade the requirements that certainly came out and the improvements made after the foreclosure crisis. But we are also very lucky to have this huge network of legal service providers and housing counselors who stand by tenants, and I'm sorry, homeowners, and represent them in that process.
+
+**(02:06:36)**
+
+
+
+And if a homeowner finds that there is a bad actor, who do they contact to let...? No. The homeowner helped us. Okay.
+
+**(02:06:53)**
+
+
+
+Thank you, Chair. Thank you, CM Thomas-Henry. Back to Cheril.
+
+**(02:07:11)**
+
+
+
+Yes, great. Oh, um, sorry. So just to clarify and give extra context, because they had a conversation with the bill sponsor, Crystal Hudson, on 1084, and this bill really is meant to prevent folks from going into the tax lien sale process. So I just wanted to put that out there. And there were some questions that she had wanted me to ask. So in terms of Int 1084, what processes does this currently have in place to assist taxpayers with property tax payments, shortcomings for the identified homeowner populations? Covering the bill, but we do have six different payment plans right now that we offer. Um, we have the standard payment plan. We have the reduced rate. We have a low-income senior plan. We have the fixed-income base plan. We also have extended circumstances based on the circuit breaker payment plan. So there are six different opportunities that we offer to assist homeowners to go into a payment plan, and once you're in the payment plans, you are removed from the lien sale list. Okay, so I would just add as well that we do a lot of notices and outreach sessions where we feature the availability of payment plans. We do it on our property tax bills that go out, cordially, to most homeowners. We do it on our annual notices of property value, and we do our delinquency notices, which I talked a lot about earlier, and we always contain information about exemptions and payment plans.
+
+We also do outreach sessions, so we do outreach sessions every, and associated with the notice of property value, and we do a lot of outreach during the tax lien sale outreach process to make sure that homeowners that are in the at-risk pool are aware of the payment plan options.
+
+**(02:07:56)**
+
+
+
+Okay, and how many languages do you send out the notifications in? We have translations available...
+So I don't know if we send them out in other languages, but I do know that when we send out our bills, we make people aware of the availability that we have, and all the languages that are required by local law.
+
+**(02:08:04)**
+
+
+
+Okay, in the language, right?
+
+**(02:08:10)**
+
+
+
+So they can. Okay, yes, I'm just checking. No, because I know that when I was working in the nonprofit sector in the community for many years, that was one of the frustrations that we had with a lot of the notifications coming from the City: they were not in language, and so a lot of folks would get these notices and not understand or have an idea of what that was. I just asked that because I wonder if that also can contribute to some of the folks not being enrolled that are eligible. So, okay, and then, enrolling in a payment plan removes a property from the tax lien sale list. So how many payment plans defaulted in 2025, by plan type, if you have that breakdown?
+
+**(02:10:30)**
+
+
+
+I don't have those numbers right now, but we'll be happy to get back to you.
+
+**(02:10:59)**
+
+
+
+Okay, and how many Class One owners were removed from the list by enrolling in a plan from the last tax lien sale? We had 3,140... 4,4 Class One owners enrolled in the payment plan and were removed from the list.
+
+**(02:11:01)**
+
+
+
+That were removed. Okay, and
+
+**(02:11:44)**
+
+
+
+gone. And how many homeowners lost their homes through tax lien foreclosures in the past year?
+We had none. None. Okay.
+
+**(02:11:45)**
+
+
+
+Okay, that's good. And what staff and resources do you have currently reviewing applications for payment plans under the current system?
+We'll have to get back to you on that.
+
+**(02:12:05)**
+
+
+
+Okay. And do you believe, if the follow-up to that question is, do you believe the current staff you have could handle the workload of the new opt-out system proposed with this legislation? I know that you said no, yes, and then your testimony, but just for the record.
+
+**(02:12:06)**
+
+
+
+Okay, yes, for the record, no. Okay. More staffing? We don't have an estimate today, and obviously how much staffing we need will depend on the ultimate scope of the bill. As we've discussed, depending on the target population, the larger it is, the more staffing we might need. And the DOF website presents the standard payment plan, the payment plans, and the reduced interest payment plans as three separate options. However, folks automatically get the reduced interest, and those in the standard plan are also eligible but need to apply for both the standard plan and lower interest. But the web messaging makes it sound like you cannot do both.
+
+**(02:12:16)**
+
+
+
+When was the last time you updated the website for clarity, and have you had outside review to ensure that this info is clearly presented? So in preparation for this hearing, we had people review the website, and they, I want to politely disagree with that. They think that it is clear, but we're happy to sit down with you or your staff member to see if there is something that we are overlooking.
+
+**(02:12:27)**
+
+
+
+Okay, thank you. And just as a note, we do look forward to having more conversations and fleshing out the bill, because I think the goal and the intent, as you said, is a good one, so hopefully we can continue working on that with you. So thank you. Chair, I do have to default...
+
+**(02:12:40)**
+
+
+
+numbers that in real life. Sure, yeah. For the period between January of 2025 to the end of 2025, for the standard payment plan, 41 defaulted, and for the reduced rate, 33 defaulted, and for 801, defaulted. Sorry, what was the second number? And the reduced rate, the 30? Okay, 33, yes. Okay, thank you. Okay, thanks.
+
+**(02:12:49)**
+
+
+
+Cheril. Oh, thank you, Cheril. So, my second round, and we're going to continue with other Council Members. So, starting off with Damp, the Majority Leader's resolution calls on the State to pass the HDFC Fairness, Preservation, and
+
+**(02:13:28)**
+
+
+
+Affordability Act, sponsored by State Senator Robert Jackson and Assembly Member Al Taylor, with the Damp tax cap set to expire in 2029. Does HPD have a position on how the State and the City can work together to create a long-term preservation plan for limited equity co-ops? Have you engaged with the State on this issue, and if so, how have those conversations gone? Yes, so we agree there is a fairly urgent need to renew the Damp tax cap. It obviously creates a limiting factor for co-ops if they need to refinance, with uncertainty about the future of the
+
+**(02:14:00)**
+
+
+
+tax abatement. We have had several conversations with the bill sponsors at the State, our partners in the State legislature. I would say they were very positive conversations. I think we made some recommendations about some of the rules that we would like to see included in the renewal of the Damp tax cap, affordability, and then also maintaining, as I was discussing earlier, a modest maintenance increase on an annual basis, where needed, in order to ensure that they don't get into financial difficulties. Got it. Thank you.
+
+**(02:14:15)**
+
+
+
+I appreciate getting that on the record. I also want to follow up on CM Silvina, Silvina Brooks's question, lines of questioning around the lien sale outreach. You know, previous Council under Speaker Adams dedicated or negotiated some funding for outreach. Specifically, I want to ask about engagement with outside organizations, CBOs, that have the on-the-ground
+
+**(02:14:23)**
+
+
+
+knowledge to reach the communities, the homes, and the are most at risk, like
+
+**(02:14:43)**
+
+
+
+CM Brooks-Powers,
+
+**(02:14:58)**
+
+
+
+like CM Banks' districts. Can you tell us, I know you said you don't have the dollar amount today, so wait on that, but can you tell us about how your conversations are going with external partners to conduct that outreach? Yes, so I wouldn't remember. I will just, because I'm... Michael holds the contract for the outreach specifically, to make sure we're getting to folks who will be on the lien sale, and also, we're on past lien sales. So it is a $2 million contract for one year. The Center for New York City Neighborhoods is our primary subrecipient, and they are in the process of onboarding. They think between 15 and 20 sub-organizations who are more community-based and locally based. A lot of that will be based on the advanced notification that they know exactly where, by address, where the homes are that are going to be impacted by the upcoming lien sale. The Center has committed to a very deep dive for everybody who is going to be included in future lien sales, including eight touch points with each homeowner that will include things like mailings, texting, phone calls, door knocking, and then in-person counseling, including community meetings. The Center has sort of already launched and is ready to go well in advance of any future lien sale, and we feel that there will be very, very aggressive outreach to make sure every homeowner knows what the options are.
+
+And just to supplement that with the outreach that we do as a government agency, in addition to the great work that HPD does with not-for-profits, we have a robust outreach effort when it comes to the tax lien sale outreach period, and we are committed to doing sessions in each of the 10 Council Districts that have the most properties in the lien pool.
+
+**(02:15:30)**
+
+
+
+That's exactly the question she wanted to answer. So thank you so much for highlighting that. Excellent. Thank you. So then my next question is, and we started to talk a little bit about the Office of Deed Theft Prevention, but I'm hoping for an update in connection with its stated goals: to educate homeowners, to conduct public outreach, to review suspicious property filings, support investigations and enforcement efforts, to help homeowners report suspected deed theft, promote tools that alert homeowners to changes in property records, and to help victims navigate the property record correction process. This office was created in... of this year. Can you tell us how many staff are dedicated to the Office of Deed Theft, and how you are progressing on these goals of this office?
+
+**(02:16:06)**
+
+
+
+We have three staff members dedicated to the office, and we also have an attorney that also works with the office in reviewing the claims that come through. Um, just repeat the second part of the question, I'm sorry. So, just in connection to the goals of the office, what progress is being made?
+
+**(02:16:37)**
+
+
+
+And specifically, I think it's really important that the agency is able to develop a way to alert property owners of suspicious property filings,
+
+**(02:16:42)**
+
+
+
+and helping them and helping the homeowners through the process. So, where are you in the process? The office has been meeting with elected officials and the work of advocates and advocacy groups, which was beneficial to establish strong working relationships, to exchange ideas and strategies for how we could best combine efforts for cooperation. I don't have the exact list of where, and the director's not here, but we'll be able to share with you the different groups who have actually reached out to us and where we are with all of that before getting with the strategists.
+
+**(02:16:43)**
+
+
+
+I would just also add that there are many agencies and offices that work on the deed theft problem. It's a huge problem, it spans many different areas, and simply having a single point of entry for concerned citizens, we think, has been a tremendous step forward. As a result of that, the office has received 300 deed theft complaints since its inception, since its inception in... yes.
+
+**(02:17:02)**
+
+
+
+Got it, thank you. Um, okay, so I had another question in connection with the Department of Buildings, in connection to something that Council Member raised earlier, and that is how the Department of Buildings protects homeowners who are living adjacent to construction sites, which, of course, is on everyone's mind following the horrific tragedy. I'm going to save that question, except for Deputy Commissioner N, how the department works with, or alerts, or requires alerts for adjacent property owners when there's going to be a construction project next to their property.
+
+**(02:18:42)**
+
+
+
+Thank you, Council Member. So when a construction project is proposed next to someone's property, we do send out notifications to those property owners letting them know what construction work is going to occur next door to them, who the contractor is, the permit number, and insurance information related to the contractor as well. And there are site safety triggers for work that's going to be conducted, for example, new building work, demolition, a large alteration that will require a construction superintendent. For example, beginning next year, we're going to be implementing a local law that the Council passed a few years ago that ramps down the number of sites that a construction super can be responsible for. Previously it was 10, starting next year it will be one. So there will be a dedicated construction super at all of these construction sites, and we can certainly pull together a full list of what the supervision triggers are that apply to these construction sites as well.
+
+**(02:18:46)**
+
+
+
+Got it, thank you, thank you.
+
+**(02:18:49)**
+
+
+
+Deputy Commissioner, and just foreshadowing so that you all are ready for Friday's hearing: we really want to talk about the department's work at smaller sites, right? So the smaller buildings, those that are less than 75 feet tall, seven stories. Our understanding is that that's an important threshold for the agency. We want to understand how you're keeping New Yorkers safe on those, then those buildings. Thank you.
+
+**(02:19:32)**
+
+
+
+Thank you, Deputy Commissioner.
+
+**(02:19:55)**
+
+
+
+So now on to round two. I want to call on Deputy Speaker Williams, followed by CM Joseph. Thank you. I didn't see any comments on 1096. Did I miss it? You didn't miss it. I addressed it in my opening, but I'm happy to... Okay, I read the opening. Yeah, if you can, because I didn't... I mean, I read the opening myself, I didn't see 1096 anywhere. I think in the spirit of the bill, it's something we support, and I think we would like to have a conversation, probably go a little deeper with your office on what, because I can quickly reiterate the services that are already provided through the Homeowner Help Desk, which are fairly expansive and very targeted. So I think we would like to understand better what you think is missing from that array of services, and whether additional legislation is necessary to accomplish that. Okay, thanks.
+
+**(02:20:10)**
+
+
+
+On the property taxes, the Mayor said this, like, in and this, and so I just want to, and then Albany is going to be back up and running in short order, so I just want to understand a little bit more about the bill, the strategy. Do you have state sponsors to carry the bill? I just wanted to understand what is actually happening, and if it's really going to happen and not just saying it's going to happen, because that's what you all have been saying for a very long time. All right, we do not yet have a bill. We are working on developing a bill, and because we do not have a bill, it's premature for us to be talking about sponsors. Okay. I mean, I will say that another state has repeatedly said that they are waiting for the City to send up, and so I think if you are working on something as a matter of like
+
+**(02:20:48)**
+
+
+
+I would just also add that there are many agencies and offices that work on the theft problem. It is a huge problem. It spans many different areas, and simply having a single point of entry for concerned citizens, we think, has been a tremendous step forward. As a result of that, the office has received 300 identity theft complaints since its inception.
+
+**(02:21:24)**
+
+
+
+Got it, thank you. Okay, okay. So I had another question in connection with this, and this is for the Department of Buildings.
+
+**(02:21:32)**
+
+
+
+In connection with something that CM Restler raised earlier, and that is how the Department of Buildings protects homeowners who are living adjacent to construction sites, which of course is on everyone's mind following the horrific tragedy. I am going to save that question, except for Deputy Commissioner, on how the department works with, or alerts, or requires alerts for adjacent property owners when there is going to be a construction project next to their property.
+
+Property. Thank you, CM. So when a construction project is proposed next to someone's property, we do send out notifications to those property owners letting them know what construction work is going to occur next door to them. The contractor's name is there, the permit number is there, and insurance information related to the contractor as well. There are site safety triggers for work that is going to be conducted. For example, new building work, demolition, or a large alteration that will require a construction superintendent. For example, beginning next year we are going to be implementing a local law the Council passed a few years ago that ramps down the number of sites that a construction super can be responsible for. Previously it was 10. Starting next year it will be one. So there will be a dedicated construction super at all of these construction sites, and we can certainly pull together a full list of what the supervision triggers are that apply to these construction sites as well.
+
+**(02:23:08)**
+
+
+
+Got it, thank you. Thank you.
+
+**(02:23:11)**
+
+
+
+Deputy Commissioner. And just foreshadowing, so that you all are ready for Friday's hearing: we really want to talk about the department's work at smaller sites. The smaller buildings, those that are less than 75 feet tall, seven stories. Our understanding is that that is an important threshold for the agency. We want to understand how you are keeping New Yorkers safe on those buildings. Thank you.
+
+**(02:23:35)**
+
+
+
+Thank you, Deputy Commissioner.
+
+**(02:23:37)**
+
+
+
+So now on to round two. I want to call on Deputy Speaker Williams, followed by CM Joseph. Thank you. I did not see any comments on Int 1096. Did I miss it? You did not miss it. I addressed it in my opening, but I am happy to.
+
+Okay. I read the opening. If you can, because I did not, I read the opening myself and I did not see Int 1096 anywhere. I think in the spirit of the bill, it is something we support, and I think we would like to have a conversation. Probably go a little deeper with your office on what. Because I can quickly reiterate the services that are already provided through the Homeowner Help Desk, which are fairly expansive and very targeted. So I think we would like to understand better what you think is missing from that array of services, and whether additional legislation is necessary to accomplish that. Okay, thanks.
+
+**(02:24:32)**
+
+
+
+On the property taxes, the Mayor said this in, and this, and so I just want to. And then Albany is going to be back up and running in short order, so I just want to understand a little bit more about the bill, the strategy. Do you have state sponsors to carry the bill? I just wanted to understand what is actually happening, and if it is really going to happen and not just saying it is going to happen, because that is what you all have been saying for a very long time.
+
+All right. We do not yet have a bill. We are working on developing a bill, and because we do not have a bill, it is premature for us to be talking about sponsors.
+
+Okay. I mean, I will say that another state has repeatedly said that they are waiting for the City to send up one, and so I think if you are working on something as a matter of like
+
+**(02:25:34)**
+
+
+
+Intergovernmental State strategy. There should be conversations with the leadership or potential bill sponsors, because what good is it to have legislation if we do not actually push it forward in the state? It is not like the Council is a different body. That said, I have concerns. I do not believe that you all really care, and I do not believe you all are actively working toward property tax reform. That is just my personal opinion. There have been no updates. The Mayor's office has said nothing to me since they all said they were going to do something when you all made the proposal to raise property taxes. I know that was a whole big debacle at the beginning of the year, and part of that was the Mayor committing to figure out how the city could play a role and say something around property tax reform. But outside of questions that have come before this hearing, I have not heard a single thing that City Hall has done. And then to just say you are going to have this bill. I am sure you are more experienced than me. If you have ever done any advocacy with Albany, you really have to start early. So I do not believe that you all are going to do anything or get anything done this legislative session. I will be shocked, and I look forward to being shocked, and I look forward to being wrong. If I could just do the whole um.
+
+**(02:27:01)**
+
+
+
+Chico was asking a whole bunch of other questions, and
+
+**(02:27:05)**
+
+
+
+then hopefully you can answer.
+
+**(02:27:07)**
+
+
+
+With HPD, I would love to know how many Southeast Queens, so between Meade Brooks-Powers and Hanks in Hankerson's district, homeowners contacted HOPE in the last fiscal year. How many completed referrals with outcomes were available to verify? And what happens when the referral stalls for a case? I just really want to understand how your agencies interact.
+
+**(02:27:29)**
+
+
+
+Understand how your agencies interact. So can you link Finance lien data and foreclosure data to see whether the same properties appear at later stages? Can you distinguish when a related charge was part of a lien from cases where a property had other unpaid charges? Back to Theft Local Access. I would love if a teen could join Southeast Cleans to do some clinics to help homeowners sign up for deed alerts and refer suspected fraud for prompt review. And the same thing with assistance. So if you could share with us where our office can contact about urging cases that would be helpful for Finance. Same thing. I am really looking for further engagement for many of the seniors living in my district, making sure that they know about the exemption. So I am not sure if you will have the capacity to actually provide on-site application help at the senior centers in my district. And then for HPD, I do not know if it is, or deal with, if you provide assistance, maybe through the Homeowner Advocates Office, for folks who are looking to clear titles. So when homes are inherited and these are still in the deceased relative's name, I do not think my office has a clear understanding of tax relief or any type of assistance that can be provided in the meantime. And then I know Senator Comrie shared we were planning to send a letter to DG violations for owners of one- and two-family homes who cannot afford required repairs, and when we expect them to tell them about financial technical help.
+
+Who should be followed up on those referrals? So natural gas alarm guidance, help with the alarm, because for your reduced-cost alarms would be.
+
+**(02:27:30)**
+
+
+
+>Helpful. And then lastly, I
+
+**(02:29:19)**
+
+
+
+promise I am done. To DOB on my other bill, I know you do not track.
+
+**(02:29:21)**
+
+
+
+>Race and socioeconomic
+
+**(02:29:26)**
+
+
+
+status. But New York City is a pretty stratified city by race. I understand, like, if you track, I know you know where you have gone as a DOT to certain areas in New York City. So if you can actually share that data, that would be helpful, because I think it will still tell a story about where we are generating revenue from, and if we are equitably generating revenue across New York City or are we only targeting certain communities. Again, we are a stratified city. So if we talk geography, we know where the Black folks are. We know where the Latinos are. We know where the white folks are. We know where they are across the city. And so even if you are not collecting data on race, it would be helpful to have an understanding of where violations are occurring. Thank you.
+
+**(02:29:27)**
+
+
+
+So anyone. It is a little. There is a lot there. I would ask on the Southeast Creeps questions, which is the first one that you raised. We do have a lot of that information from the Homeowner Help Desk, so if you could send us sort of all the questions, or send us.
+
+**(02:30:20)**
+
+
+
+>If I need to follow up I will, but yeah, I am just. We are
+
+**(02:30:35)**
+
+
+
+just trying to understand and get more clear data. Yeah, and then, so yes, if you send us a
+
+**(02:30:39)**
+
+
+
+request with all the data points you are looking for, any of those that we have, obviously we would be happy to share with your office for
+
+**(02:30:44)**
+
+
+
+whichever of the districts you are interested in. You did raise a question about tangled title, and what are homeowners to do when they have issues with really complex title transactions? There is this new outreach on a state and resolution contract that we have also with New York City through the Homeowner Help Desk. It is a million dollars per year, and it is direct outreach to address those exact types of issues. There was a form happening actually simultaneously with this hearing today at the firm and center, where they are trying to develop a new diagnostic tool to sort of predict where tangled title is happening, so that we can be more targeted in the outreach. But there are new resources available, run also through the Homeowner Help Desk specifically to help folks with that. And if folks do not really know how to access that, please reach out and we will make sure your district knows what the deputy
+
+**(02:30:49)**
+
+
+
+speaking. >>We look forward to
+
+**(02:30:51)**
+
+
+
+following up with you.
+
+**(02:31:44)**
+
+
+
+Council Member, yeah. I just want to co-sign the emphasis on the need to make sure we actually progress with the property tax reform conversations this year, because yeah, we have been. We have been talking about this as Council Members for five years, but even before that. Now, I am going to call you Jeff.
+
+**(02:31:48)**
+
+
+
+But you know, Deputy Commissioner here, that we have been talking about this. >>I do not know. I do not even know. I do not want to date us. I do not date. Okay, all right. So
+
+**(02:31:58)**
+
+
+
+now we are going to turn it to CM Joseph, followed by Emilie, then Wong. Thank you, Chair. Earlier we talked about the property tax disparities, and you said you have no timeline. Is there? You did not even give a timeline. Is there a timeline on working on that? Just co-signing with my colleague here, because this is something we hear across the district, and these Flatbush that I
+
+**(02:32:16)**
+
+
+
+represent. We are working on the bill for the upcoming state legislative session. Beyond that, I do not have more specific. Seeing now, Councilman, complaints have tripled between 2023 and 2025. How many of this year's complaints came from Brooklyn Community Board 14 and 17, and how many of these homeowners actually got their deed back? Is there data as to who received their deed back? Puzzled.
+
+**(02:32:25)**
+
+
+
+>>No one. Never. One person got their deed back. We will not get back to you.
+
+**(02:32:48)**
+
+
+
+Council Member, on both questions, right? So you will share that data with my district office. >>Yes, we will. Okay. I am leaning in. When we talked about earlier in terms of reaching out, is there actively knocking on doors? Outreach. Are we partnering with clergy? Are we setting up meetings in communities? Oh, you are going where the people are? Are you reaching the folks on the ground? My older adults who do not have their papers anymore, talk to me about that. >>Yes, Council Member. I am going to answer that, because again this is under the contract that HPD
+
+**(02:33:09)**
+
+
+
+holds with the Center for New York City Neighborhoods. It is a $2 million contract. As I said, 15 to 20 sub-organizations who are more community-based, and because DOE will make advance, will provide advance information to the Center on exactly who we expect to see on the lease list before the 90-day list comes out publicly. They will have the opportunity to go deep into the neighborhoods at an address-specific level to start the outreach process. Because I also said they agreed to do, under our contract, eight touchpoints with every homeowner. Some of that will be in person, some of that will be texts, some of that will be phone calls and emails, and some of it will be like tabling at events. Do you know. >>And you know, our older adults are targeted for scams, so a hundred percent they do not trust you as well. >>We understand, which is why we think it is very important that the Center work with local community-based organizations who might be more recognizable to seniors and to other populations within these communities. So we will be doing a ton of outreach in advance of the lean sell coming out. >>SCHE helped about 53,000 households. How many seniors lost the exemption last year because of renewal or paperwork, or not because they were actually ineligible? Do you have a number? >>I do not have a number with me. We will get that to you, Council Member.
+
+>>A lot of getting back to me, and I will follow up, so you will get back to me, because that data will drive a lot of our policy and a lot of our budget. Communities of color lose their homes because of a simple mishap. So we look forward to working with you, and I co-signed with all of my colleagues on the record on following up and making sure we are holding these agencies accountable. Thank you.
+
+**(02:33:21)**
+
+
+
+>>Thank you, CM Joseph. CM Mealy followed by Thomas-Henry. Yes, I just have a follow-up. You never answered that question. Did you? For that, like if relocation expenses, call HPD. HPD does not know. Core Department of Finance, they do not know. Then we got a number. It is, say, call to 1-2-8-6-3-6-0-2-0. >>Call them. They said no. You
+
+**(02:33:27)**
+
+
+
+have to just email. >>Gutierrez at HPD. Died. Yes, Gov. Soul people are getting all these tickets. Was um. >>All these prices that they on their property tags, from their house, from HPD, on their property tax. So then they said a relocation expenses at HPD, that DOT gov.
+
+**(02:34:04)**
+
+
+
+>>Who is Dourness? Yeah. So I think we are talking about two different things, but help me if I am. >>Mistaken, but it is still dealing with the AARP liens that we get a complaint from a tenant who was living in, say, an owner-occupied two-family home. We under law have to go out, and it is back. We get a complaint. If we have to spend money to force the repair to make the repair ourselves, that does not mean how many liens, and those liens then are converted. >>To DOF, where they become part of a. >>Tax bill. In the last liens, is it a law on that? Because I checked. I had lawyers check it. It is nothing stating that HPD can put up on your property tax. So how can I. >>Liens under local statute, not just for homeowners or who have rentals, transferred eventually if unpaid to DOF.
+
+**(02:35:58)**
+
+
+
+>>So if it is not unpaid. >This was a tenant really. If you evict someone, no, not even. >>If you vacate order, yes. Okay.
+
+**(02:36:33)**
+
+
+
+So now if the vacate order, what do you do? Do you put them in a hotel? >>So if there is a need to vacate, and typically that is for whatever reason, whether it is fire or something else, we have through. Nope. We have a department. We have a service through our Office of Code Enforcement, something called Emergency Housing Shelter. We have a contract with the American Red Cross. The Red Cross will then come out and serve anybody who needs temporary housing in a hotel. It is automatic that they will get between two and four days of temporary shelter. For folks who then need longer-term shelter, if we cannot get folks returned back home, the agency, DHS, oversees, I think, three family shelters and seven SRO shelters, where we provide longer-term housing for anybody who needs it for the duration that they are out of there.
+
+**(02:37:07)**
+
+
+
+>>So this is not a hotel. You have been keeping them in a. >>All right. You keep them in the hotel for how long? You could keep them for a year and then charge the homeowner $2,000 a month on their property tax. House does not usually exceed two to four. Something is wrong. We have to talk, because I have numerous people. >Where, two thousand a month for almost two years. Yes, Council Member. And then it goes to their property tax. That is something wrong, and then not to have a department or a person that you could speak to, to try to rectify it. Something is wrong. >>Well, we do have a department through DHS, through our Office of Code. >Enforcement, and I am happy they referred to follow up with your own. Okay, any information for anybody who has been charged? Again, that does not matter. I asked the Speaker this body, and she could not tell. Okay, well, I will certainly follow up.
+
+**(02:38:06)**
+
+
+
+>With your, thank you. I could also add that HPD has a general alliance, so folks are having trouble reaching HPD. They can always contact us at 212-863-6300 and speak to someone who will help them navigate around and find the right team to talk to. It is a very large. We did all of that, and $3 million is a lot of money. That is. >For someone, six-story building, not a multi-dwelling development. That is a small business and homeowner that we are just crushing.
+
+**(02:38:16)**
+
+
+
+>>Thank you. Again, a reminder that audience participation, I love it, but it is not allowed. >>They need the number, though. 212-863-6363. >>212-863-6300. Let us flood them. >And if you have any questions for our illustrious. >>Panel or my colleagues, please pull them to the side as they are out now. I would like to turn into a Council Member. A couple of quick questions as we talk about more opportunities for homeownership. How would you compare incentives for developers building affordable rental units versus building homeownership units? Are term sheets pretty comparable between homeownership development and rental development? There is usually a set developer fee that is named explicitly in our term sheets, and it is not more or less advantageous to do homeownership development than it is to do rental, except that at the end of the process you do not own the building. So some developers are only interested in being long-term owners. There are not the sponsors we work with to create affordable homeownership opportunities.
+
+**(02:39:10)**
+
+
+
+>>We get overwhelmingly a number of those who are not looking for homeownership opportunities. Have you had Congress, but they are the same developers over and over again? We have talked with them about moving toward homeownership versus rentals. We have actually seen more development partners interested in sponsoring affordable homeownership. We are now working with a couple of actual for-profit groups who have partnered with us through the process to sponsor the conversion, right? Because in that program we do require that there be a developer partner to the tenants during the process. >>So I do not think we have struggled much, in at least in my time in the agency, to have a sort of bench, a deep bench, of affordable housing producers who want to sponsor co-ops. But if there are organizations out there that are interested that you are aware of that are curious about how our term sheets work, that is all the time, where folks are interested in how. Generally, there is some confusion about how limited equity co-ops work at all. But if they were interested in being sponsors, we would love to have more.
+
+**(02:40:03)**
+
+
+
+>Sponsors, though. I would not describe it as a shortage. >Okay, next question is for Finest, and I have a question for Business. If you Department of Buildings, if you want to switch over. Currently there are no penalties if your property taxes are late, correct, or just interest, just.
+
+**(02:40:41)**
+
+
+
+>Interest. And what are those interest rates? They vary upon the value of the property and whether you are in one of our payment plans. So I do not have the rates off the top of my head, but we will get you all of the rates that we.
+
+**(02:41:10)**
+
+
+
+>Charge at any point in time. If the property taxes are paid in full, is that interest forgiven? No, it is not.
+
+**(02:41:55)**
+
+
+
+>>Okay. As the Deputy Speaker mentioned, there are a lot of fees that are being assessed on a lot of single-family and two-family homeowners. From your department in particular, I found in my district that I have had a couple of people find where they have homes where, say, one of their children or someone is living in a basement, and you guys have fined them for it being not up to code as if it was a rental. And I can attest to some of these basements that have never been rented or used as such. So how do you assess and work with the homeowners in situations like that? Specifically for small owners, we have launched a couple of programs in recent years to allow them opportunities to correct before they receive any penalties. For example, the Homeowner Relief Program is specific for one- and two-family homeowners that will give them 60 days to correct violating conditions without incurring any traditional violation or monetary penalty. Also, in late 2022, we extended the cure periods for all of our Class 2 and Class 3 violations across the board from 42 to 60 days. That provides even more opportunity to correct, correct, monetary. And something that we are looking at currently is the penalties that we impose on small property owners. So we are undertaking a review of our penalty schedule to determine whether there is any bright-sizing of the penalties that we need to do.
+
+But as it relates to the specific situation that you are describing, I am happy to follow up with you and get more details.
+
+**(02:42:58)**
+
+
+
+>Okay, thank you, thank you so much, CM Thomas-Henry. Now I would like to turn to CM One.
+
+**(02:43:11)**
+
+
+
+Correct or just interest, just.
+
+**(02:43:14)**
+
+
+
+Interest. And what are those interest rates? They vary upon the value of the property and whether you're in one of our payment plans. So I don't have the rates off the top of my head, but we will get you all of the rates that we charge.
+
+**(02:43:39)**
+
+
+
+At any point in time, if the property taxes are paid in full, is that interest forgiven? No, it is not.
+
+**(02:43:46)**
+
+
+
+Okay. Okay. As the Deputy Speaker mentioned, there are a lot of fees that are being assessed on a lot of single-family and two-family homeowners. From your department in particular, I found in my district that I've had a couple of people find where they have homes where, say, one of their children or someone is living in a basement, and you guys have fined them for it being not up to code, as if it was a rental. I can attest to some of these basements that have never been rented or used as such. So how do you assess and work with the homeowners in situations like that, specifically for small owners? We've launched a couple of programs in recent years to allow them opportunities to correct before they receive any penalties. For example, the Homeowner Relief Program is specific for one- and two-family homeowners that will give them 60 days to correct violating conditions without incurring any traditional violation or monetary penalty. Also, in late 2022 we extended the cure periods for all of our Class 2 and Class 3 violations across the board, from 42 to 60 days, which provides even more opportunity to correct. Something that we're looking at currently is the penalties that we impose on small property owners. So we're undertaking a review of our penalty schedule to determine whether there's any bright-sizing of the penalties that we need to do. But as it relates to the specific situation that you're describing, I'm happy to follow up with you and get more details.
+
+**(02:43:51)**
+
+
+
+Okay, thank you. Thank you so much. CM Thomas-Henry. Now I'd like to turn to CM One.
+
+**(02:45:17)**
+
+
+
+Okay, thank you so much, CM Thomas-Henry. Now I would like to turn to CM...
+
+**(02:45:25)**
+
+
+
+Thank you, Chair. For homeowners who are in distress, they often have to keep track of a lot of their debts, when to lock into the permanent buildings, and the Department of Finance and then the HPD and so forth. My question is, they obviously need help. It's not just that they don't have, especially those with language barriers. It can be a very demanding task to keep track of the debts. My question is, does the city have a single point of contact for homeowners, and my follow-up to that is, do the three agencies share data on homeowners that are at risk of losing their homes?
+
+**(02:46:11)**
+
+
+
+Please answer them. We do so. I would say the best single point of contact is what we've talked about a lot here today, which is the Homeowner Help Desk, which was created specifically to help whether you're looking for help avoiding foreclosure, whether you have liens that you have to settle with the city, or whether you have tangled title with the homeowner. The Homeowner Help Desk is now a combined total of $10 million that we are funding for a series of programs that I've covered a lot about today. So that is the best single point. That would list all the...
+
+**(02:46:43)**
+
+
+
+Debts. Well, we had tickets. But it is, get account...
+
+**(02:46:47)**
+
+
+
+Connected to a counselor who could help you out, like understand exactly what your challenges are or what you need to know as it relates to your question about information sharing. All the agencies, and certainly DOF, are funneling information into the Center for New York City Neighborhoods as the predominant operator of the Homeowner Help Desk. And lastly, I would say, and we talked about it also, we publish a very robust handbook called the Homeowner Handbook every year in nine languages that gives folks a very specific directive on who to call depending on what issue they're struggling with. Okay, one follow-up. The Governor pledged $40 million in the state fiscal budget for the Homeowners Protection Program. How much of that is going to New York City? $14 million comes to 30 organizations in New York City out of the Governor's. And how much is your agency? We don't get anything. It goes directly to the providers. This is a contract that is actually run through the Attorney General's Office, and each of the 30 providers has a direct contract with the state. Collectively, 30 organizations are getting $14 million out of the $40 million allocated annually.
+
+**(02:47:26)**
+
+
+
+Follow-up. The governor pledged $40 million in the state fiscal budget for the Homeowners Protection Program. How much of that is going to New York City? $14 million goes to 30 organizations in New York City, out of the governor's $40 million. How much is your agency getting? We don't get anything. It goes directly to the providers. This is a contract that is actually run through the Attorney General's office, and each of the 30 providers has a direct contract with the state. Collectively, those 30 organizations are getting $14 million out of the $40 million allocated annually.
+
+**(02:48:03)**
+
+
+
+Okay, thank you. Thank you, thank you. Great. Thank you. CM Cheeriley.
+
+**(02:48:10)**
+
+
+
+Sorry, I just had a couple of... The way I have it, in Eastern Queens, I have Northeast Queens and Southeast Queens, and most of my district are homeowners. I actually have the largest number of co-ops and condos in my district, which people wouldn't think, but we actually do have the most number of units.
+
+**(02:48:26)**
+
+
+
+Um, and just really quickly, the lowest-cost plan mostly deals with... If the lowest-cost plan has payments they can't afford, well, the notice also shows what's due each time and who they can call in their language to switch plans. Right. So if they're enrolled in a plan they want to switch and it's not really meeting their needs, is it going to show how much is due each time and who they can call if they need a switch? I will get back to you on that, Council Member.
+
+**(02:48:57)**
+
+
+
+Okay. And then lastly, because a lot of the homeowner issues are usually... together, would deal with...
+
+**(02:49:06)**
+
+
+
+HPD. Would you think and consider working with... to offer regular walk-in hours in Eastern Queens so homeowners can get help with property taxes and water bills in one visit? Because a lot of times there's issues with both. My district is a transit desert, and we have a lot of older adults, and so would love to see if we could have more outreach in the actual community. I don't want to speak for... but I would argue we would be delighted to do a joint outreach session and include, as well as our partners at the Homeowner Help Desk. We also would be delighted.
+
+**(02:49:40)**
+
+
+
+Okay, perfect. Thank you. I'm going to hold you guys to that.
+
+**(02:49:47)**
+
+
+
+Chair Lee, and I have one final question, which, Commissioner Levy, you will know this completely on brand, but I have to put this out there. Speaking of converting rentals to homeownership opportunities, and speaking of reforms intended to improve tax collections but also improve conditions for New Yorkers and protect and promote homeownership, this committee has heard the reform of the Third Party Transfer bill three times since I have been chair of the Housing Committee, and as recently as this year as chair I'm intent on reforming the tool into an absolutely new program. Principled municipal foreclosure through the Third Party Transfer route is one of the city's most consequential tools for addressing distressed properties. The administration has had the Council's redline since the Mayor took office, and while we have had several discussions on the substance of the legislation, redlines have been stalled. The administration committed to me personally and to the Council to continuing conversation with a redline in mid, which I define as November 15. It is November 17. So my question to both DOF and HPD is, when can we at the Council expect to receive a redline on Intro 657, the Safer Homes Act, and is this still a priority for the administration?
+
+**(02:51:23)**
+
+
+
+Thank you. So yes, I am. I'm sorry that has taken so long. It is a complicated bill, but I can say that we affirmatively support the bill. We have been actually talking about it quite a bit with the committee that's forming inside the board. Members that are now forming the land bank, and our expectation that the Safer Homes Act will come back and how that will work with the land bank has been very much on our minds. CM Lee...
+
+**(02:51:52)**
+
+
+
+Can attest to that as a witness, but I will personally follow up with our friends at the Law Department to find out, you know, if we're two days late, how can we try to get you a copy of this, hopefully before Thanksgiving, before we break next week. It is not an indication of any lack of support for the bill. I think it's just complex and everybody is doing a lot of stuff, but that is not an excuse, and I will personally find out where we are. Okay, okay.
+
+**(02:52:23)**
+
+
+
+Okay, thank you. Thank you.
+
+**(02:52:24)**
+
+
+
+Commissioner, thank you. To my colleagues, thank you. Chair Lee, for hosting this hearing together with us. Would that your portion has concluded, and we're going to move to the public's testimony.
+
+**(02:52:36)**
+
+
+
+And if the agencies could have someone stay behind to hear the public, we would appreciate that.
+
+**(02:53:07)**
+
+
+
+All right.
