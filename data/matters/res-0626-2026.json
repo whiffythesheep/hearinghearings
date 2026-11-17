@@ -30,6 +30,7 @@
   "Kevin C. Riley",
   "Crystal Hudson",
   "Julie Won",
+  "Chi A. Ossé",
   "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
@@ -63,6 +64,11 @@
    "label": "Hearing Transcript 9/22/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16088033&GUID=68769907-C3F3-448A-A50F-787E34425707"
+  },
+  {
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16144307&GUID=2083C836-5ADD-4F98-8EBC-36E47BE93287"
   }
  ],
  "fiscal": null,

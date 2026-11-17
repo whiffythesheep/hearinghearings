@@ -1,0 +1,44 @@
+{
+ "event_id": "1463558",
+ "date": "2026-11-19",
+ "body": "Committee on Governmental Operations, State & Federal Legislation",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463558&GUID=C8279A72-06DA-4CC3-8A76-25A6A86BE515&Search=",
+ "items": [
+  {
+   "file_number": "Int 1127-2026",
+   "type": "Introduction",
+   "name": "Changing the dates by when certain reports are to be transmitted to council; repeal the following provisions of the New York city charter: section 17; section 20-e; and also to repeal section 14-175 of the administrative code of the city of New York.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "Proposed Int. No. 1127-C",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281464",
+   "legistar_guid": "7DFFFD53-1AD6-4958-AFEC-6BFE3382E907"
+  },
+  {
+   "file_number": "Int 1128-2026",
+   "type": "Introduction",
+   "name": "The due dates of agency reports to the council.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "Proposed Int. No. 1128-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281465",
+   "legistar_guid": "0AE839AD-1118-494F-BAB1-D5BDA7AA2039"
+  },
+  {
+   "file_number": "Int 1129-2026",
+   "type": "Introduction",
+   "name": "Agency transmissions of reports and attestations of compliance with operational requirements.",
+   "sponsor": "Nantasha M. Williams",
+   "agenda_note": "Proposed Int. No. 1129-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "8281463",
+   "legistar_guid": "01E436F5-DD24-489D-977E-70557DF99058"
+  }
+ ]
+}

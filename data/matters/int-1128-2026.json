@@ -74,6 +74,11 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139533&GUID=6C1CCB34-9FF3-4F16-9E6F-293A62FF2CA1"
+  },
+  {
+   "label": "Proposed Int. No. 1128-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16145053&GUID=73E0542C-66D6-4EE8-A4F9-DEEE66998FEA"
   }
  ],
  "fiscal": {
@@ -95,8 +100,8 @@
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16092559&GUID=1713B1C4-A934-4ED9-8C4A-6001DAC8EA7C"
+  "label": "Proposed Int. No. 1128-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16145053&GUID=73E0542C-66D6-4EE8-A4F9-DEEE66998FEA"
  },
  "history": [
   {

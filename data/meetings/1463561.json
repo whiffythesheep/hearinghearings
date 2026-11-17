@@ -1,0 +1,66 @@
+{
+ "event_id": "1463561",
+ "date": "2026-11-19",
+ "body": "Committee on Health",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463561&GUID=4871E797-E5CC-4665-A5B9-4AA436BCFD06&Search=",
+ "items": [
+  {
+   "file_number": "Int 0200-2026",
+   "type": "Introduction",
+   "name": "Creating resources for access to doulas and a doula advisory council.",
+   "sponsor": "Jennifer Gutiérrez",
+   "agenda_note": "Proposed Int. No. 200-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861966",
+   "legistar_guid": "E7F1A808-C7C8-4BDB-8A91-1500B4DB0494"
+  },
+  {
+   "file_number": "Int 0211-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of health and mental hygiene to provide information regarding fertility treatment, including insurance coverage of fertility treatment.",
+   "sponsor": "Shahana K. Hanif",
+   "agenda_note": "Proposed Int. No. 211-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861952",
+   "legistar_guid": "52D67D56-EF37-4292-8190-5EDE731C2A34"
+  },
+  {
+   "file_number": "Res 0089-2026",
+   "type": "Resolution",
+   "name": "Require each institution within the State University of New York and the City University of New York to have at least one vending machine making emergency contraception available for purchase. (S.2058/A.9175)",
+   "sponsor": "Jennifer Gutiérrez",
+   "agenda_note": "Proposed Res. No. 89-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861974",
+   "legistar_guid": "5065EC8C-F29C-4B87-97E9-9B87EE5260F1"
+  },
+  {
+   "file_number": "Res 0108-2026",
+   "type": "Resolution",
+   "name": "Creating a refundable tax credit for up to three cycles of in vitro fertilization not covered by insurance. (S.5262/A.3051)",
+   "sponsor": "Frank Morano",
+   "agenda_note": "Proposed Res. No. 108-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862356",
+   "legistar_guid": "98A99BDA-3FBC-47E8-B947-02902F42D010"
+  },
+  {
+   "file_number": "Res 0447-2026",
+   "type": "Resolution",
+   "name": "Ensure insurance companies cover the cost of Preimplantation Genetic Testing for Aneuploidies.",
+   "sponsor": "Kayla Santosuosso",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7998471",
+   "legistar_guid": "8E411DD6-8CBF-4D51-B687-E50D878638BD"
+  }
+ ]
+}

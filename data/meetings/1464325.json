@@ -1,0 +1,44 @@
+{
+ "event_id": "1464325",
+ "date": "2026-11-19",
+ "body": "Committee on Cultural Affairs, Libraries and International Relations",
+ "location": "250 Broadway - 8th Floor - Hearing Room 1 VOTE*",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464325&GUID=72C7DA64-3096-436D-9B47-E2C0890F6E9E&Search=",
+ "items": [
+  {
+   "file_number": "Res 0028-2026",
+   "type": "Resolution",
+   "name": "Establish a date certain for ending the Financial Oversight and Management Board for Puerto Rico.",
+   "sponsor": "Alexa Avilés",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861436",
+   "legistar_guid": "5461E00C-B578-4ABE-90D5-53B0D9B799A4"
+  },
+  {
+   "file_number": "Res 0186-2026",
+   "type": "Resolution",
+   "name": "Designating November 28 annually as Albanian Independence Day in the City of New York.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7879094",
+   "legistar_guid": "B5000E3E-2C6C-498B-8838-1BCB0D5A0457"
+  },
+  {
+   "file_number": "Res 0494-2026",
+   "type": "Resolution",
+   "name": "Stop the construction of Project Esencia, a luxury development in Cabo Rojo.",
+   "sponsor": "Alexa Avilés",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8067749",
+   "legistar_guid": "99E95DCC-41EB-4134-88D7-4EA563CBAF8E"
+  }
+ ]
+}
