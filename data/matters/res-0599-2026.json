@@ -4,7 +4,7 @@
  "legistar_id": "8170120",
  "type": "Resolution",
  "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, legislation creating a centralized income verification system for all income-based homeowner property tax exemptions administered by the New York City Department of Finance and authorizing the City of New York to use such system to determine applicants’ income eligibility for such exemptions",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Frank Morano",
   "Nantasha M. Williams",
@@ -27,10 +27,27 @@
    "label": "Hearing Transcript - Stated Meeting 8-13-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969342&GUID=BA53B553-7938-48DF-8AA4-DDB8C4D8FA04"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146665&GUID=7815EF4D-48D1-458F-BFDB-4A5DBF2ED747"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-08-13",
    "body": "City Council",

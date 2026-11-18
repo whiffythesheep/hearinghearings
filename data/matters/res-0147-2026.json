@@ -4,7 +4,7 @@
  "legistar_id": "7862826",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to institute a rolling application deadline in New York City for the disability homeowner exemption and the senior citizen homeowner exemption",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Pierina Ana Sanchez",
   "Farah N. Louis"
@@ -30,10 +30,27 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093866&GUID=B9F7B646-560E-4882-9736-A74AEC89A311"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146663&GUID=97096128-A2D1-4A6B-A7F9-07AE5D644259"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

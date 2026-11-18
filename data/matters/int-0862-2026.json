@@ -4,7 +4,7 @@
  "legistar_id": "7998304",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a homebuyer financial assistance program and mandating a minimum number of homebuyers to be assisted annually",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Selvena N. Brooks-Powers",
   "Althea V. Stevens",
@@ -46,10 +46,53 @@
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567454&GUID=A87E44D6-025D-497E-A4C8-28DF7CFC65B0"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146656&GUID=AF4C144E-5E11-4D5D-B5D7-3926BAE7CC16"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146740&GUID=3BA9FD01-4D7C-4C65-A652-33D77A8EDAFF"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 11396245,
+   "succeeding": 23656366,
+   "full": 36856366
+  },
+  "net": {
+   "effective": -11396245,
+   "succeeding": -23656366,
+   "full": -36856366
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146740&GUID=3BA9FD01-4D7C-4C65-A652-33D77A8EDAFF"
+ },
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-04-30",
    "body": "City Council",

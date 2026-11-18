@@ -171,6 +171,12 @@
   {
    "date": "2026-10-22",
    "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-10-22",
+   "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
@@ -187,12 +193,6 @@
    "result": "Pass"
   },
   {
-   "date": "2026-10-22",
-   "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "Laid Over by Committee",
@@ -242,25 +242,25 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Aging",
+   "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Aging",
+   "body": "Committee on Finance",
    "action": "Amended by Committee",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Aging",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
+   "body": "Committee on Aging",
    "action": "Amended by Committee",
    "result": ""
   },

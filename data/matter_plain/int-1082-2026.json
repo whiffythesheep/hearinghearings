@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1082-2026",
  "title": "Law to require yearly report on voucher homeownership program",
- "summary": "This bill would require the Department of Housing Preservation and Development to publish an annual report on the Housing Choice Voucher Homeownership Program, covering participation, eligibility and successful home purchases broken down by borough, income level, household type and race. It would also direct HPD to request matching data from New York State Homes and Community Renewal. The first report would be due within one year of the law taking effect.",
+ "summary": "This bill would require the Department of Housing Preservation and Development to publish an annual report on participation in the Housing Choice Voucher Homeownership Program. The report would break down eligible and participating households, and successful home purchases, by borough, income level, household type and race. HPD would also have to request comparable data from New York State Homes and Community Renewal.",
  "model": "claude-sonnet-5",
- "input_hash": "7e218fa758d8f9aa"
+ "input_hash": "fd8924fa61dbc40e"
 }

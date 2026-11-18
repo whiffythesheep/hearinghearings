@@ -4,7 +4,7 @@
  "legistar_id": "7861369",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2707B/S.880B, known as the housing development fund company fairness, preservation and affordability act",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Shaun Abreu",
   "Farah N. Louis",
@@ -38,10 +38,39 @@
    "label": "Res. No. 9-A - 11/16/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146503&GUID=4D643A73-E37F-4BAD-BD0F-895AADE20651"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146662&GUID=A5F9082C-0FAD-48C7-9E0E-7BCFC8E18155"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

@@ -4,7 +4,7 @@
  "legistar_id": "7862776",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a cooperative apartment board member training program",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Kevin C. Riley",
   "Elsie Encarnación",
@@ -44,10 +44,53 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093840&GUID=010BCCFF-09ED-4E94-AF16-3C0F4F258352"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146654&GUID=53301DE2-3426-4CF4-ADC8-54B591585424"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146738&GUID=743E55A5-BD7D-4CE5-9FD8-AF3423689B46"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 124692,
+   "succeeding": 226431,
+   "full": 226431
+  },
+  "net": {
+   "effective": -124692,
+   "succeeding": -226431,
+   "full": -226431
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146738&GUID=743E55A5-BD7D-4CE5-9FD8-AF3423689B46"
+ },
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-01-29",
    "body": "City Council",

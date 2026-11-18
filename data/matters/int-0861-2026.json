@@ -4,7 +4,7 @@
  "legistar_id": "7998302",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to an education and outreach campaign regarding the housing choice voucher homeownership program",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Selvena N. Brooks-Powers",
   "Althea V. Stevens",
@@ -46,10 +46,53 @@
    "label": "Hearing Transcript - Stated Meeting 4-30-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15567453&GUID=AD5AF13A-0DDC-4D90-8712-02CBF82E8717"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146655&GUID=0001E455-47A2-40C5-A299-FA7C040378D5"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146739&GUID=955BF0F8-ECC7-4210-A789-8C44F77D4D51"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 79928,
+   "succeeding": 145144,
+   "full": 145144
+  },
+  "net": {
+   "effective": -79928,
+   "succeeding": -145144,
+   "full": -145144
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146739&GUID=955BF0F8-ECC7-4210-A789-8C44F77D4D51"
+ },
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-04-30",
    "body": "City Council",

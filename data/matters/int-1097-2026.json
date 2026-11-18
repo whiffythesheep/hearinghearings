@@ -4,12 +4,13 @@
  "legistar_id": "8237415",
  "type": "Introduction",
  "title": "A Local Law in relation to requiring the department of buildings to submit a report on the racial, geographic, and socioeconomic disparities in the enforcement of building violations",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Nantasha M. Williams",
   "Mercedes Narcisse",
   "Oswald J. Feliz",
-  "Farah N. Louis"
+  "Farah N. Louis",
+  "Rita C. Joseph"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -37,10 +38,53 @@
    "label": "Hearing Transcript - Stated Meeting 9-24-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127446&GUID=E1AFDD5A-49C7-41A6-AB49-A9915A93927E"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146661&GUID=22439BDA-3D94-439F-9921-BA279404D001"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146751&GUID=510D33F2-511A-4F8D-8C8E-5A6BCEC0DDD8"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146751&GUID=510D33F2-511A-4F8D-8C8E-5A6BCEC0DDD8"
+ },
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

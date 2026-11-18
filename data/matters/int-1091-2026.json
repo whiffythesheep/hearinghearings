@@ -4,7 +4,7 @@
  "legistar_id": "8237404",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to notice of tax lien applicability of certain violations issued by the department of buildings",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Mercedes Narcisse",
   "Nantasha M. Williams",
@@ -43,10 +43,49 @@
    "label": "Hearing Transcript - Stated Meeting 9-24-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127438&GUID=DE1EA873-392B-4247-B855-4A82E4BFF1A0"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146659&GUID=528E246F-EE2B-465A-8CD9-E6F5FF0EB601"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146749&GUID=08BE4A08-058F-436D-B539-E6F6D8F1BAE9"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 73894,
+   "succeeding": 449522,
+   "full": 449522
+  },
+  "expenditures": {
+   "effective": 73894,
+   "succeeding": 449522,
+   "full": 449522
+  },
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146749&GUID=08BE4A08-058F-436D-B539-E6F6D8F1BAE9"
+ },
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

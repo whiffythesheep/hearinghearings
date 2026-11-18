@@ -25,6 +25,7 @@
   "Kayla Santosuosso",
   "Kevin C. Riley",
   "Linda Lee",
+  "Carmen N. De La Rosa",
   "Inna Vernikov",
   "Joann Ariola",
   "Vickie Paladino"
@@ -75,9 +76,35 @@
    "label": "Proposed Int. No. 259-A - 11/10/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132350&GUID=90A9AB21-BFEF-411F-82B3-900A7B6398C6"
+  },
+  {
+   "label": "Proposed Int. No. 259-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147016&GUID=35026179-E123-4C51-9F6E-071E81F7E50B"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 259-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147016&GUID=35026179-E123-4C51-9F6E-071E81F7E50B"
+ },
  "history": [
   {
    "date": "2026-10-20",
@@ -93,13 +120,13 @@
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Higher Education",
+   "body": "Committee on Education",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Education",
+   "body": "Committee on Higher Education",
    "action": "Laid Over by Committee",
    "result": ""
   },

@@ -1,7 +1,7 @@
 {
  "file_number": "Res 0512-2026",
- "title": "Resolution urging Albany to protect rent freeze benefits after income spikes",
- "summary": "This resolution calls on the New York State Legislature to pass, and the Governor to sign, S.4252/A.10721, which would let seniors and people with disabilities keep their SCRIE or DRIE rent freeze benefits after a temporary increase in household income. It aims to stop one-time income spikes, such as pension adjustments or emergency withdrawals, from causing loss of these rent protections. The bill has already passed the State Senate and is pending in the Assembly.",
+ "title": "Resolution urging Albany to protect SCRIE/DRIE after temporary income spikes",
+ "summary": "This resolution calls on the New York State Legislature to pass, and the Governor to sign, S.4252/A.10721. The bill would let seniors and people with disabilities keep their Senior Citizen Rent Increase Exemption or Disability Rent Increase Exemption benefits after a temporary period of ineligibility caused by a one-time increase in a household head's income. It aims to prevent loss of these rent-freeze protections due to short-term income changes like pension adjustments or emergency withdrawals.",
  "model": "claude-sonnet-5",
- "input_hash": "84c42a9eb60404fe"
+ "input_hash": "95742b57f6bfac9d"
 }

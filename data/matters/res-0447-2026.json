@@ -11,7 +11,8 @@
   "Shahana K. Hanif",
   "Shirley Aldebol",
   "Tiffany L. Cabán",
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Carl Wilson"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -49,6 +50,11 @@
    "label": "Hearing Transcript 6/15/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930383&GUID=DF0994BA-7617-4187-997A-86F9B5961274"
+  },
+  {
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148121&GUID=4DD44932-48DB-4D78-88FD-5EA1610355A8"
   }
  ],
  "fiscal": null,

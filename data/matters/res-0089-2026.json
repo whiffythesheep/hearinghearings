@@ -12,6 +12,8 @@
   "Tiffany L. Cabán",
   "Lynn C. Schulman",
   "Linda Lee",
+  "Carl Wilson",
+  "Carmen N. De La Rosa",
   "(in conjunction with the Brooklyn Borough Presiden"
  ],
  "by_request_of_mayor": false,
@@ -25,6 +27,11 @@
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252299&GUID=D0F64262-05DD-4F69-A83A-A8A0A396E9B8"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093569&GUID=2226ADF4-AB58-4DAD-960B-8AF216ED38D7"
   },
   {
    "label": "Res. No. 89",
@@ -52,9 +59,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15930381&GUID=B59B878F-FB14-4A00-BC05-E811C086B6F7"
   },
   {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093569&GUID=2226ADF4-AB58-4DAD-960B-8AF216ED38D7"
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148119&GUID=25FA9BC9-B529-4373-88ED-60DB06C774AD"
   }
  ],
  "fiscal": null,
@@ -97,25 +104,25 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Hospitals",
+   "body": "Committee on Health",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Hospitals",
+   "body": "Committee on Health",
    "action": "Amended by Committee",
    "result": ""
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Health",
+   "body": "Committee on Hospitals",
    "action": "Amendment Proposed by Comm",
    "result": ""
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Health",
+   "body": "Committee on Hospitals",
    "action": "Amended by Committee",
    "result": ""
   },

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1096-2026",
- "title": "Law to create outreach program for homeowners facing displacement",
- "summary": "This bill would require the city's Homeowner Advocate to create an outreach and education program to help homeowners at risk of displacement, including informational materials on predatory lending, financial assistance, legal services and property tax relief. The city would have to identify which community districts face the greatest risk of displacement each year, considering factors like eviction and foreclosure rates, rising property values and homelessness. The program and district determinations would begin within 180 days of the law taking effect.",
+ "title": "Law to help homeowners facing displacement find assistance",
+ "summary": "This bill would require HPD's Homeowner Advocate, working with other city agencies, to create an outreach and education program for homeowners at risk of displacement. HPD would have to identify which community districts face the greatest displacement risk each year, considering factors like eviction and foreclosure rates, and target outreach materials and events there. The program must launch within 180 days of the law taking effect.",
  "model": "claude-sonnet-5",
- "input_hash": "1cbbf8300dccc875"
+ "input_hash": "7388678e9e074052"
 }

@@ -4,7 +4,7 @@
  "legistar_id": "7944911",
  "type": "Resolution",
  "title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.6958, enacting the New York Fair Housing Act to address the State’s affordable housing crisis",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Kevin C. Riley",
   "Alexa Avilés",
@@ -30,10 +30,27 @@
    "label": "Hearing Transcript - Stated Meeting 3-10-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15433247&GUID=AB6EDD0F-97B8-47A3-A0A3-39B27783A181"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146664&GUID=E19E0037-E39D-4EF4-A08E-27D97A368E12"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-03-10",
    "body": "City Council",

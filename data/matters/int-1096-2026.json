@@ -4,12 +4,13 @@
  "legistar_id": "8237418",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a public outreach and education program to assist homeowners at risk of displacement",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Nantasha M. Williams",
   "Mercedes Narcisse",
   "Oswald J. Feliz",
   "Farah N. Louis",
+  "Rita C. Joseph",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -38,10 +39,53 @@
    "label": "Hearing Transcript - Stated Meeting 9-24-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127445&GUID=AFCE112B-9E3A-4B1C-901C-C348E0AFE2A8"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146660&GUID=ACE0018F-FE4D-4941-A267-EA7F402D7682"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146750&GUID=94E7A1B2-2C8A-4265-A388-5D4BDD8BD60F"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 146905,
+   "succeeding": 276394,
+   "full": 276394
+  },
+  "net": {
+   "effective": -146905,
+   "succeeding": -276394,
+   "full": -276394
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146750&GUID=94E7A1B2-2C8A-4265-A388-5D4BDD8BD60F"
+ },
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",

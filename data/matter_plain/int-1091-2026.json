@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1091-2026",
- "title": "Law to require warnings before building violations become tax liens",
- "summary": "This bill would require the Department of Buildings to warn property owners that unpaid violations could become tax liens and to notify owners within 3 days after an Environmental Control Board judgment with payment options and deadlines. It would also require the Department of Buildings and Department of Finance to publish annual data on lien conversions and conduct outreach to owners of one- and two-family homes. The law would take effect 120 days after enactment.",
+ "title": "Law to warn homeowners before DOB fines become tax liens",
+ "summary": "This bill would require Department of Buildings violation notices that can lead to a tax lien to warn owners that an unpaid judgment may result in a lien on their property. Within three days of an Environmental Control Board judgment, DOB would have to notify the property owner with a plain-language explanation of the charge, payment options and deadlines, and steps to avoid or remove a lien. DOB and the Department of Finance would also have to publish annual data on lien conversions and provide outreach to owners of one- and two-family homes.",
  "model": "claude-sonnet-5",
- "input_hash": "628a52445a131c5d"
+ "input_hash": "ffc318c2c00a3ebc"
 }

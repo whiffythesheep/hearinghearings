@@ -23,7 +23,10 @@
   "Crystal Hudson",
   "Linda Lee",
   "Kayla Santosuosso",
-  "Shirley Aldebol"
+  "Shirley Aldebol",
+  "James F. Gennaro",
+  "Carl Wilson",
+  "Carmen N. De La Rosa"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -81,6 +84,11 @@
    "label": "Proposed Int. No. 200-A - 11/12/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134960&GUID=31BBEA1B-1696-4A80-97AB-E203ABAE965F"
+  },
+  {
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148117&GUID=2483B18F-17DF-4AFC-B57D-C245F549CAFA"
   }
  ],
  "fiscal": {

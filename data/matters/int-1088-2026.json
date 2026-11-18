@@ -12,6 +12,9 @@
   "Christopher Marte",
   "Mercedes Narcisse",
   "Jennifer Gutiérrez",
+  "Kevin C. Riley",
+  "Chris Banks",
+  "Sandra Ung",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -117,6 +120,12 @@
   },
   {
    "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Aging",
    "action": "P-C Item Laid Over by Comm",
    "result": ""
@@ -125,12 +134,6 @@
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "P-C Item Laid Over by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
    "result": ""
   }
  ],

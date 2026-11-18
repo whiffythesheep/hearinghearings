@@ -4,7 +4,7 @@
  "legistar_id": "8237343",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to automatic enrollment in city-created property tax payment plans",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Crystal Hudson",
   "Nantasha M. Williams",
@@ -45,10 +45,27 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16144498&GUID=2CF383C5-1FB1-44C7-8CD2-2F7C077E6AD7"
+  },
+  {
+   "label": "Committee Report 11/17/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146658&GUID=B3EC45E8-F503-452C-90E5-DAD98924AD2A"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-09-24",
    "body": "City Council",
