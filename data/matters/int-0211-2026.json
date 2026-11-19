@@ -94,6 +94,11 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148118&GUID=7B1E3D30-241F-40D8-8070-C75BBC1C8A08"
+  },
+  {
+   "label": "Proposed Int. No. 211-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149520&GUID=7BDE29A2-7B49-4B16-A0AA-E4D9C36EF697"
   }
  ],
  "fiscal": {
@@ -103,20 +108,20 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 500000,
-   "succeeding": 0,
-   "full": 500000
+   "effective": 0,
+   "succeeding": 1900000,
+   "full": 1900000
   },
   "net": {
-   "effective": -500000,
-   "succeeding": 0,
-   "full": -500000
+   "effective": 0,
+   "succeeding": -1900000,
+   "full": -1900000
   },
-  "effective_fy": "2028",
-  "omb_estimate": "The Office of Management and Budget (OMB) did not provide an estimate.",
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement- City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584102&GUID=8168CFB2-C670-4ABF-A9E5-5423B1682EA9"
+  "label": "Proposed Int. No. 211-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149520&GUID=7BDE29A2-7B49-4B16-A0AA-E4D9C36EF697"
  },
  "history": [
   {

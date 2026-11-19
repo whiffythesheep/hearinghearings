@@ -11,6 +11,7 @@
   "Selvena N. Brooks-Powers",
   "Shirley Aldebol",
   "James F. Gennaro",
+  "Ty Hankerson",
   "Frank Morano",
   "Joann Ariola"
  ],
@@ -99,12 +100,6 @@
   },
   {
    "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -113,6 +108,12 @@
    "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

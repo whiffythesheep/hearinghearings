@@ -41,6 +41,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132611&GUID=A398CB29-D987-49E1-8C40-37137D87A61C"
   },
   {
+   "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150090&GUID=BC9E1CC6-80AB-4BFF-BA27-4D5837815F8E"
+  },
+  {
    "label": "Res. No.",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132612&GUID=1804F5AB-2402-4AF2-9CC3-6EA267649474"
@@ -69,14 +74,14 @@
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-10-08",

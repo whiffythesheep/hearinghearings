@@ -106,6 +106,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133394&GUID=BE0B9434-482B-4CBF-829E-29CA1D87CB0E"
   },
   {
+   "label": "Hearing Transcript 11/12/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150719&GUID=A434EB0B-B585-4854-9F2E-B272428AB36F"
+  },
+  {
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134237&GUID=52F31FC3-BEA0-4BEC-9D4A-B0B6E7F3FBAE"
@@ -134,6 +139,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133394&GUID=BE0B9434-482B-4CBF-829E-29CA1D87CB0E"
  },
  "history": [
+  {
+   "date": "2026-11-12",
+   "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

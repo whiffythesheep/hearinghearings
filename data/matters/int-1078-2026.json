@@ -23,7 +23,11 @@
   "Jennifer Gutiérrez",
   "Julie Won",
   "Crystal Hudson",
-  "Selvena N. Brooks-Powers"
+  "Selvena N. Brooks-Powers",
+  "Rita C. Joseph",
+  "Justin E. Sanchez",
+  "Carl Wilson",
+  "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -61,9 +65,35 @@
    "label": "Hearing Transcript - Stated Meeting 9-24-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127416&GUID=52AE66C9-E14F-4FB1-8F4F-C9DFACF87D32"
+  },
+  {
+   "label": "Proposed Int. No. 1078-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148861&GUID=9C5C1865-4A3F-4CE2-A711-3CB7A4A1E306"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 1078-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148861&GUID=9C5C1865-4A3F-4CE2-A711-3CB7A4A1E306"
+ },
  "history": [
   {
    "date": "2026-09-24",

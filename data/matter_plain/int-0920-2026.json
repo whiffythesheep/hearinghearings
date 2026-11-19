@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0920-2026",
+ "title": "Law to ban charging e-bikes inside apartment units",
+ "summary": "This bill would remove the fire code exception letting residents store and charge powered mobility devices, like e-bikes, inside individual apartments in Group R-2 buildings. Charging would still be allowed in dedicated storage or charging facilities, or in small houses (Group R-3), or when a single device is charged in the owner's presence. The law would take effect immediately upon passage.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9a6ca9639eccd7a8"
+}

@@ -16,6 +16,7 @@
   "Shirley Aldebol",
   "Mercedes Narcisse",
   "Linda Lee",
+  "Phil Wong",
   "Frank Morano",
   "Vickie Paladino",
   "Inna Vernikov",
@@ -87,6 +88,11 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147945&GUID=B824EE69-0D02-42A3-90DC-83C31555AA2E"
+  },
+  {
+   "label": "Proposed Int. No. 717-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149488&GUID=49CB5DBC-4AFF-49E0-8CB0-10629B0FCC1B"
   }
  ],
  "fiscal": {
@@ -96,20 +102,20 @@
    "full": 0
   },
   "expenditures": {
-   "effective": 0,
-   "succeeding": 0,
-   "full": 0
+   "effective": 3535,
+   "succeeding": 92166,
+   "full": 92166
   },
   "net": {
-   "effective": 0,
-   "succeeding": 0,
-   "full": 0
+   "effective": -3535,
+   "succeeding": -92166,
+   "full": -92166
   },
   "effective_fy": "2027",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837849&GUID=818A36A3-38C9-45D5-B8F8-BBFDFDF99BD3"
+  "label": "Proposed Int. No. 717-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149488&GUID=49CB5DBC-4AFF-49E0-8CB0-10629B0FCC1B"
  },
  "history": [
   {

@@ -11,12 +11,12 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
-   "label": "Summary of Int. No.",
+   "label": "Summary of Int. No. 1167",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118433&GUID=45A82053-58CF-4A45-AA28-B0A385391FAA"
   },
   {
-   "label": "Int. No.",
+   "label": "Int. No. 1167",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118434&GUID=4A5EFE81-81D8-486E-B361-8F17D4F4172F"
   },
@@ -24,6 +24,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118435&GUID=03D233F1-1C33-40EC-919A-47D7293477C7"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149256&GUID=532D63FB-CA5A-4212-A012-1322871D64E7"
   }
  ],
  "fiscal": null,

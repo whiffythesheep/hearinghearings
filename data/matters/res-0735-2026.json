@@ -4,12 +4,13 @@
  "legistar_id": "8317565",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1018/A.8440, to amend the education law, in relation to contracts for the transportation of school children",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Julie Won",
   "Eric Dinowitz",
   "Lincoln Restler",
-  "Tiffany L. Cabán"
+  "Tiffany L. Cabán",
+  "Carmen N. De La Rosa"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -17,10 +18,27 @@
    "label": "Res. No. 735",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133258&GUID=A8E4446D-2A6D-4B0F-97AE-79D215D775C3"
+  },
+  {
+   "label": "Committee Report 11/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149301&GUID=F7F36727-559B-4D6E-A38C-9C44F3D09932"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-18",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-18",
+   "body": "Committee on Education",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

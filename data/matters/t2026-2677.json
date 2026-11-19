@@ -4,11 +4,30 @@
  "legistar_id": "8300831",
  "type": "Oversight",
  "title": "Oversight - Examining School Bus Transportation Services in NYC.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149298&GUID=34545099-92B3-4AC6-8A64-10BCE3619AC6"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-11-18",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-18",
+   "body": "Committee on Education",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8300831&GUID=714945E7-1732-4FEA-B0E9-7563827B0524"
 }

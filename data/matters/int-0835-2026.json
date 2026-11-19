@@ -4,7 +4,7 @@
  "legistar_id": "7984656",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment and maintenance of a school bus performance dashboard",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Lincoln Restler",
   "Eric Dinowitz",
@@ -16,6 +16,10 @@
   "Lynn C. Schulman",
   "Phil Wong",
   "Virginia Maloney",
+  "Carmen N. De La Rosa",
+  "Susan Zhuang",
+  "Selvena N. Brooks-Powers",
+  "Gale A. Brewer",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -44,6 +48,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147015&GUID=9D72C070-D842-4616-8A9D-DBC145330B6C"
+  },
+  {
+   "label": "Committee Report 11/18/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149300&GUID=4DA23967-2430-46BE-8607-C777A0A3561E"
   }
  ],
  "fiscal": {
@@ -69,6 +78,18 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147015&GUID=9D72C070-D842-4616-8A9D-DBC145330B6C"
  },
  "history": [
+  {
+   "date": "2026-11-18",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-18",
+   "body": "Committee on Education",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-04-16",
    "body": "City Council",

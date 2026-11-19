@@ -26,7 +26,9 @@
   "Shirley Aldebol",
   "James F. Gennaro",
   "Carl Wilson",
-  "Carmen N. De La Rosa"
+  "Julie Won",
+  "Carmen N. De La Rosa",
+  "Gale A. Brewer"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -89,6 +91,11 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148117&GUID=2483B18F-17DF-4AFC-B57D-C245F549CAFA"
+  },
+  {
+   "label": "Proposed Int. No. 200-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149518&GUID=CED837E7-0617-4C3E-85B4-D41B14DB4706"
   }
  ],
  "fiscal": {
@@ -108,10 +115,10 @@
    "full": 0
   },
   "effective_fy": "2027",
-  "omb_estimate": "The Office of Management and Budget (OMB) did not provide an estimate.",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement- City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15584101&GUID=2A4F9318-61D0-4F10-B983-C8610D7A283A"
+  "label": "Proposed Int. No. 200-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149518&GUID=CED837E7-0617-4C3E-85B4-D41B14DB4706"
  },
  "history": [
   {

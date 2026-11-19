@@ -46,6 +46,7 @@
   "Linda Lee",
   "Virginia Maloney",
   "Lynn C. Schulman",
+  "Ty Hankerson",
   "David M. Carr",
   "Frank Morano",
   "Joann Ariola",
@@ -118,6 +119,11 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147946&GUID=13F2F1A8-0907-4236-8A06-94F8CEE455FD"
+  },
+  {
+   "label": "Proposed Int. No. 1023-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150147&GUID=2D5B92FC-8488-4147-94C0-0C8B7D2A50C5"
   }
  ],
  "fiscal": {
@@ -136,11 +142,11 @@
    "succeeding": 0,
    "full": 0
   },
-  "effective_fy": "2027",
+  "effective_fy": "2029",
   "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
   "omb_declined": false,
-  "label": "Fiscal Impact Statement - City Council",
-  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15837846&GUID=1FBB256B-65E3-41B4-9147-6393DDEBA7F1"
+  "label": "Proposed Int. No. 1023-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150147&GUID=2D5B92FC-8488-4147-94C0-0C8B7D2A50C5"
  },
  "history": [
   {

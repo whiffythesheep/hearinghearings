@@ -16,7 +16,8 @@
   "Tiffany L. Cabán",
   "Kevin C. Riley",
   "Linda Lee",
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Julie Won"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -44,6 +45,11 @@
    "label": "Hearing Testimony 9/30/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058255&GUID=AED478FA-05A6-4D21-A833-3A179E1D1FCD"
+  },
+  {
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149486&GUID=977C4013-F884-4DFA-8064-790665198C3C"
   }
  ],
  "fiscal": null,

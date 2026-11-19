@@ -3,7 +3,7 @@
  "slug": "res-0727-2026",
  "legistar_id": "8317629",
  "type": "Resolution",
- "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation establishing felony-level penalties for qualifying assaults against school supervisors, administrators, principals, assistant principals, and other pedagogical staff performing their official duties, and strengthening protections against threats, harassment, and intimidation directed at such personnel and their immediate family members",
+ "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation establishing felony-level penalties for qualifying assaults against school supervisors, administrators, principals, assistant principals, and other pedagogical staff in connection with, or in retaliation for, the performance of their official duties, and strengthening protections against threats, harassment, and intimidation directed at such personnel and their immediate family members",
  "status": "Committee",
  "sponsors": [
   "Frank Morano"
@@ -14,6 +14,11 @@
    "label": "Res. No. 727",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133387&GUID=DC92E693-86EB-441C-900A-74E3D1F9F4CD"
+  },
+  {
+   "label": "Proposed Res. No. 727-A - 11/18/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150516&GUID=C3638417-B61A-4939-AB57-B69BA1B17D5E"
   }
  ],
  "fiscal": null,

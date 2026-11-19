@@ -11,6 +11,11 @@
  "by_request_of_mayor": true,
  "attachments": [
   {
+   "label": "Summary of Int. No. 1112-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148817&GUID=9978CF93-559C-4FD4-9B4D-F771C87F179A"
+  },
+  {
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16050942&GUID=A0350D7F-1545-4E48-890B-49F4665DC8A6"
@@ -34,9 +39,35 @@
    "label": "Proposed Int. No. 1112-A - 11/17/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146826&GUID=1CEA65BA-2125-4ADE-8ADB-DF3A2CD12F5B"
+  },
+  {
+   "label": "Proposed Int. No. 1112-A Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149154&GUID=A097B607-8A80-4993-BD3B-6EA6B0A87BD2"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2028",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Proposed Int. No. 1112-A Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149154&GUID=A097B607-8A80-4993-BD3B-6EA6B0A87BD2"
+ },
  "history": [
   {
    "date": "2026-10-08",

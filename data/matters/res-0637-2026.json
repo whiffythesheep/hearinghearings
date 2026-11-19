@@ -13,7 +13,8 @@
   "Kevin C. Riley",
   "Linda Lee",
   "Mercedes Narcisse",
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Julie Won"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -41,6 +42,11 @@
    "label": "Hearing Testimony 9/30/26",
    "kind": "Hearing Testimony",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058256&GUID=1DC43D95-07E5-4709-9F25-4C58E3DA020D"
+  },
+  {
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149487&GUID=4A55EB11-DD66-459F-BA4F-9E66F539338E"
   }
  ],
  "fiscal": null,
