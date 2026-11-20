@@ -4,7 +4,7 @@
  "legistar_id": "8297052",
  "type": "Mayor's Message",
  "title": "Communication from the Mayor – Submitting the name Meenakshi Srinivasan to the Council for its advice and consent regarding her appointment as a member of the City Planning Commission, pursuant to Section 31 of the City Charter.",
- "status": "Laid Over in Committee",
+ "status": "Adopted",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -42,10 +42,33 @@
    "label": "Hearing Transcript 11/9/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147309&GUID=4252AB86-7892-49EB-9BD9-CFEE38FA1F5A"
+  },
+  {
+   "label": "Res. No. 749",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151372&GUID=17F0C670-8A5E-4B5F-9C0A-DE2A2BD8847F"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-09",
    "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",

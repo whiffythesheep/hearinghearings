@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0747-2026",
+ "slug": "res-0747-2026",
+ "legistar_id": "8325632",
+ "type": "Resolution",
+ "title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF KENNETH KNUCKLES AS A MEMBER OF THE NEW YORK CITY PLANNING COMMISSION.",
+ "status": "Adopted",
+ "sponsors": [
+  "Sandra Ung"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151402&GUID=F9D9D420-F895-4C5B-9367-CE44D22BA4D2"
+  },
+  {
+   "label": "Res. No. 747",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151403&GUID=41244C1B-C0B1-456C-80E8-4CF7D5597D92"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8325632&GUID=2011BF86-7838-4F15-920B-408DB224F0A6"
+}

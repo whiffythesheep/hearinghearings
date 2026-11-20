@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0746-2026",
+ "slug": "res-0746-2026",
+ "legistar_id": "8325614",
+ "type": "Resolution",
+ "title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF ANTHONY CROWELL AS A MEMBER OF THE NEW YORK CITY PLANNING COMMISSION.",
+ "status": "Adopted",
+ "sponsors": [
+  "Sandra Ung"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151388&GUID=FBF9B434-DFA5-40DE-9832-F13F39616519"
+  },
+  {
+   "label": "Res. No. 746",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151389&GUID=2AFFD109-BF62-4F17-B432-1DC3BDD2D259"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8325614&GUID=1D22AA1A-95E8-41EA-8D9D-4B908BF7E6D1"
+}

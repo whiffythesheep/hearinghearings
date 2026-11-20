@@ -61,6 +61,12 @@
   },
   {
    "date": "2026-11-17",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
    "body": "Committee on Housing and Buildings",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -73,25 +79,19 @@
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Finance",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-11-17",
-   "body": "Committee on Finance",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-11-17",
-   "body": "Committee on Finance",
+   "body": "Committee on Housing and Buildings",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Housing and Buildings",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Finance",
    "action": "Laid Over by Committee",
    "result": ""
   },

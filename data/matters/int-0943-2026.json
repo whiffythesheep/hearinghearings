@@ -4,7 +4,9 @@
  "legistar_id": "8067835",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of horse drawn cabs and establishing a horse drawn cab industry transition plan, and to repeal sections 17-334.1, 19-174, 20-377, 20-377.1, 20-380, 20-381, 20-381.1, 20-381.2, 20-382 and subdivisions b, c, and d of section 20-383 of the administrative code of the city of New York, relating to carriage horses and horse drawn cabs",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
+ "law_number": "2026/165",
+ "enactment_date": "2026-11-19",
  "sponsors": [
   "Christopher Marte",
   "Shahana K. Hanif",
@@ -132,6 +134,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Mayor",
+   "action": "Signed Into Law by Mayor",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Mayor",
+   "action": "Bill Signing Scheduled by Mayor",
+   "result": ""
+  },
   {
    "date": "2026-11-04",
    "body": "Mayor",

@@ -4,12 +4,14 @@
  "legistar_id": "7879094",
  "type": "Resolution",
  "title": "Resolution designating November 28 annually as Albanian Independence Day in the City of New York",
- "status": "Laid Over in Committee",
+ "status": "Reported from Committee",
  "sponsors": [
   "Amanda C. Farías",
   "Shirley Aldebol",
   "Farah N. Louis",
-  "Frank Morano"
+  "Selvena N. Brooks-Powers",
+  "Frank Morano",
+  "David M. Carr"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -51,6 +53,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Cultural Affairs, Libraries and International Relations",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-19",
    "body": "Committee on Cultural Affairs, Libraries and International Relations",

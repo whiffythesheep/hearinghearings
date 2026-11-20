@@ -4,7 +4,7 @@
  "legistar_id": "8255447",
  "type": "Land Use Application",
  "title": "Application number C 260234 ZMQ (108-05 68th Road Rezoning) submitted by All My Children Daycare and Nursery School, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 14a, changing from an R1-2A District to an R7A District, Borough of Queens, Community District 6, Council District 29.",
- "status": "Companion Pending Approval by Council",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -41,13 +41,24 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149912&GUID=22927EFB-E581-4A5E-B9F9-48907A178014"
   },
   {
-   "label": "Res. No.",
+   "label": "Res. No. 751",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132580&GUID=BE1855F2-A990-4F50-8B81-94B85D985D93"
+  },
+  {
+   "label": "November 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151179&GUID=C923B225-F129-4D7D-8143-18AC4305355D"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",
@@ -69,14 +80,14 @@
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-10-08",

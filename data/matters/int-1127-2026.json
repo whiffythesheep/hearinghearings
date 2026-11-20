@@ -4,7 +4,7 @@
  "legistar_id": "8281464",
  "type": "Introduction",
  "title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to changing the dates by when certain reports are to be transmitted to council, and to repeal the following provisions of the New York city charter: section 17, in relation to the strategic policy statement; section 20-e, in relation to the committee on city healthcare services; and also to repeal section 14-175 of the administrative code of the city of New York, in relation to a marijuana enforcement report and other incidental technical amendments",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Nantasha M. Williams",
   "Crystal Hudson",
@@ -14,7 +14,8 @@
   "Kevin C. Riley",
   "Amanda C. Farías",
   "Shanel Thomas-Henry",
-  "Mercedes Narcisse"
+  "Mercedes Narcisse",
+  "Selvena N. Brooks-Powers"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -102,6 +103,11 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16139532&GUID=FF837238-85B5-4B2D-BC48-83EE96EFC626"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151405&GUID=C6899639-8087-47CE-A1F4-C52156178D42"
   }
  ],
  "fiscal": {
@@ -127,6 +133,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16145054&GUID=3A4D4631-396F-4384-A825-6964158E2E39"
  },
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Governmental Operations, State & Federal Legislation",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-10-28",
    "body": "Committee on Governmental Operations, State & Federal Legislation",

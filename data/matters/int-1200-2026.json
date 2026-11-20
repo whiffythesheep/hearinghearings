@@ -1,0 +1,45 @@
+{
+ "file_number": "Int 1200-2026",
+ "slug": "int-1200-2026",
+ "legistar_id": "8325312",
+ "type": "Introduction",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring bike share operator verification of rider age",
+ "status": "Committee",
+ "sponsors": [
+  "Carl Wilson"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Summary of Int. No. 1200",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150974&GUID=1FEFF5C4-60BD-425F-8C17-A5C107051AA7"
+  },
+  {
+   "label": "Int. No. 1200",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150973&GUID=549803D2-DAB8-45AF-A137-6F57E3D1003A"
+  },
+  {
+   "label": "Memorandum in Support",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150977&GUID=7B745296-1DCD-4728-B3E8-C0CEB4ED0063"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "Introduced by Council",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8325312&GUID=32B8F0C4-0BCF-49E4-89B0-47D861582E6D"
+}

@@ -7,7 +7,13 @@
  "status": "Committee",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151443&GUID=A5D64911-8B19-4DB5-B844-10F15E4BF34F"
+  }
+ ],
  "fiscal": null,
  "history": [],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8300042&GUID=34CFDB3A-C30E-4338-A21E-A5707B7C8B77"

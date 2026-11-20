@@ -4,10 +4,11 @@
  "legistar_id": "7861952",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to provide information regarding fertility treatment, including insurance coverage of fertility treatment",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Shahana K. Hanif",
   "Selvena N. Brooks-Powers",
+  "Amanda C. Farías",
   "Julie Won",
   "Tiffany L. Cabán",
   "Mercedes Narcisse",
@@ -99,6 +100,11 @@
    "label": "Proposed Int. No. 211-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149520&GUID=7BDE29A2-7B49-4B16-A0AA-E4D9C36EF697"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151754&GUID=AC7DEB51-2E4F-4AB3-A75D-1C99AA7C8F1E"
   }
  ],
  "fiscal": {
@@ -124,6 +130,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149520&GUID=7BDE29A2-7B49-4B16-A0AA-E4D9C36EF697"
  },
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-15",
    "body": "Committee on Hospitals",

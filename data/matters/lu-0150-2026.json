@@ -4,7 +4,7 @@
  "legistar_id": "8255466",
  "type": "Land Use Application",
  "title": "Application number C 260184 ZMQ (100-12 Queens Boulevard Rezoning) submitted by 100 Queens Blvd Co. LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 14a: eliminating from within an existing R4B District a C1-2 District; eliminating from within an existing R7-1 District a C1-2 District; changing from an R7-1 District to an R9X District; establishing within an existing R7-1 District a C2-4 District; and establishing within the proposed R9X District a C2-4 District, Borough of Queens, Community District 6, Council District 29.",
- "status": "Companion Pending Approval by Council",
+ "status": "Adopted",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -46,13 +46,24 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150090&GUID=BC9E1CC6-80AB-4BFF-BA27-4D5837815F8E"
   },
   {
-   "label": "Res. No.",
+   "label": "Res. No. 753",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132612&GUID=1804F5AB-2402-4AF2-9CC3-6EA267649474"
+  },
+  {
+   "label": "November 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151181&GUID=F215E784-7B79-4536-AA97-127B57B12BDF"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",
@@ -74,14 +85,14 @@
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Hearing Held by Committee",
-   "result": ""
+   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
+   "result": "Pass"
   },
   {
    "date": "2026-11-10",
    "body": "Subcommittee on Zoning and Franchises",
-   "action": "Approved by Subcommittee with Modifications and Referred to CPC",
-   "result": "Pass"
+   "action": "Hearing Held by Committee",
+   "result": ""
   },
   {
    "date": "2026-10-08",

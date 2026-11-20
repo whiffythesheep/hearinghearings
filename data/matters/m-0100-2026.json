@@ -4,7 +4,7 @@
  "legistar_id": "8306964",
  "type": "Communication",
  "title": "Martha King, Council candidate for appointment to the New York City Board of Correction, pursuant to Section 626 of the New York City Charter.",
- "status": "Laid Over in Committee",
+ "status": "Adopted",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -27,10 +27,38 @@
    "label": "Hearing Transcript 11/9/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147310&GUID=AF4BBA21-53DE-4568-AC71-292D1BCFBF46"
+  },
+  {
+   "label": "November 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151171&GUID=D51995B3-1468-4831-9981-B13C2FCCEDAE"
+  },
+  {
+   "label": "Res. No. 750",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151371&GUID=26FEF0D9-41F6-4E28-8227-02DE4FAA25DE"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

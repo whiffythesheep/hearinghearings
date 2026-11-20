@@ -4,7 +4,7 @@
  "legistar_id": "7998350",
  "type": "Resolution",
  "title": "Resolution declaring November 25 as the “International day for the Elimination of Violence Against Women” in honor of the Mirabal sisters",
- "status": "Laid Over in Committee",
+ "status": "Reported from Committee",
  "sponsors": [
   "Amanda C. Farías",
   "Carmen N. De La Rosa",
@@ -54,6 +54,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Women and Gender Equity",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-30",
    "body": "Committee on Women and Gender Equity",

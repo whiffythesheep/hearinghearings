@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1183-2026",
+ "title": "Law to require delivery apps verify workers' e-bikes are compliant",
+ "summary": "This bill would require delivery services to verify that delivery devices used by contracted delivery workers comply with applicable law and to report this verification to the Department of Transportation. Violations would carry civil penalties of $500 for a first offense and $1,000 for repeat offenses within 30 days, and services with six or more violations in two years could lose their license. The law would take effect three years after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "631bba41a28e001b"
+}

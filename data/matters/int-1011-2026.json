@@ -15,7 +15,8 @@
   "Mercedes Narcisse",
   "Jennifer Gutiérrez",
   "Kevin C. Riley",
-  "Ty Hankerson"
+  "Ty Hankerson",
+  "Harvey D. Epstein"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -102,6 +103,12 @@
   },
   {
    "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
    "result": ""
@@ -116,12 +123,6 @@
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

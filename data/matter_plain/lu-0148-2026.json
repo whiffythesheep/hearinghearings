@@ -1,7 +1,7 @@
 {
  "file_number": "LU 0148-2026",
- "title": "Zoning map change for 108-05 68th Road, Forest Hills",
- "summary": "This application would change the zoning map for a site at 108-05 68th Road in Forest Hills, Queens, from R1-2A to R7A. It would allow a seven-story mixed-use building with about 38,900 square feet of floor area, including 33 apartments (eight income-restricted) and 11,500 square feet of community facility space.",
+ "title": "Rezoning map change for 108-05 68th Road, Forest Hills",
+ "summary": "This application would change the zoning map at 108-05 68th Road in Forest Hills, Queens from an R1-2A to an R7A district. It would help allow a seven-story mixed-use building with about 33 apartments, including eight income-restricted units, and 11,500 square feet of community facility space. A related text amendment would create a Mandatory Inclusionary Housing area for the site.",
  "model": "claude-sonnet-5",
- "input_hash": "442fdf2bdf1bbd52"
+ "input_hash": "3db50bf9b25c015a"
 }

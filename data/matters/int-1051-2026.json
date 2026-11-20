@@ -114,6 +114,16 @@
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134237&GUID=52F31FC3-BEA0-4BEC-9D4A-B0B6E7F3FBAE"
+  },
+  {
+   "label": "November 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151192&GUID=48876076-55AA-4D16-B43F-B63C3026EFA5"
+  },
+  {
+   "label": "Int. No. 1051-A (FINAL)",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151325&GUID=3950BE84-9AC3-4F01-9B64-56E1CC1B5826"
   }
  ],
  "fiscal": {
@@ -189,13 +199,13 @@
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on General Welfare",
+   "body": "Committee on Veterans",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-21",
-   "body": "Committee on Veterans",
+   "body": "Committee on General Welfare",
    "action": "Laid Over by Committee",
    "result": ""
   },

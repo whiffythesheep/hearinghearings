@@ -4,7 +4,7 @@
  "legistar_id": "7861966",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to creating resources for access to doulas and a doula advisory council",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Jennifer Gutiérrez",
   "Farah N. Louis",
@@ -28,7 +28,8 @@
   "Carl Wilson",
   "Julie Won",
   "Carmen N. De La Rosa",
-  "Gale A. Brewer"
+  "Gale A. Brewer",
+  "Selvena N. Brooks-Powers"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -96,6 +97,11 @@
    "label": "Proposed Int. No. 200-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149518&GUID=CED837E7-0617-4C3E-85B4-D41B14DB4706"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151752&GUID=E09B4143-1662-4B0B-8E7B-D14DDE9B2C62"
   }
  ],
  "fiscal": {
@@ -121,6 +127,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149518&GUID=CED837E7-0617-4C3E-85B4-D41B14DB4706"
  },
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-15",
    "body": "Committee on Hospitals",

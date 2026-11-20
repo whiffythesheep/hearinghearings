@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1198-2026",
+ "title": "Law to notify officials of serious building stop-work orders",
+ "summary": "This bill would require the Department of Buildings to notify a district's council member and borough president within 24 hours of issuing a serious (class 1 or 2) stop work order. Starting April 1, 2027, the department would also send biweekly reports listing such orders issued, rescinded or still uncorrected, including addresses, reasons and penalties.",
+ "model": "claude-sonnet-5",
+ "input_hash": "8aa0c7bd3162839d"
+}

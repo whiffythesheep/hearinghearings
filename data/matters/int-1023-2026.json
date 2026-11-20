@@ -4,7 +4,7 @@
  "legistar_id": "8193225",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to authorizing electronic registration of dwellings with the department of housing preservation and development and electronic payment of the fee associated with such registration",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Chris Banks",
   "Pierina Ana Sanchez",
@@ -124,6 +124,11 @@
    "label": "Proposed Int. No. 1023-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150147&GUID=2D5B92FC-8488-4147-94C0-0C8B7D2A50C5"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151861&GUID=35753203-B362-4AD8-B0BA-1DD8EFF3FE86"
   }
  ],
  "fiscal": {
@@ -149,6 +154,36 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150147&GUID=2D5B92FC-8488-4147-94C0-0C8B7D2A50C5"
  },
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Housing and Buildings",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-10",
    "body": "City Council",

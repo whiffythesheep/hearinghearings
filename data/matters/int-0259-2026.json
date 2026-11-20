@@ -4,7 +4,7 @@
  "legistar_id": "7862107",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
- "status": "Laid Over in Committee",
+ "status": "Enacted (Mayor's Desk for Signature)",
  "sponsors": [
   "Shekar Krishnan",
   "Farah N. Louis",
@@ -115,6 +115,36 @@
  },
  "history": [
   {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Education",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Education",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Education",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Education",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
+  {
    "date": "2026-10-20",
    "body": "Committee on Higher Education",
    "action": "Hearing Held by Committee",
@@ -128,13 +158,13 @@
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Education",
+   "body": "Committee on Higher Education",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Higher Education",
+   "body": "Committee on Education",
    "action": "Laid Over by Committee",
    "result": ""
   },

@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0739-2026",
- "title": "Law to require staff training on immigration-related city policies",
- "summary": "This bill would require city agencies, including the Police Department, Correction Department and Probation Department, to train employees, contractors and subcontractors on rules limiting cooperation with federal immigration enforcement. Agencies would also have to publish implementation plans and compliance protocols explaining how staff should handle requests from non-local law enforcement related to immigration. The training and published plans would be required by January 1, 2027.",
+ "title": "Law to require city agencies to train staff on immigration rules",
+ "summary": "This bill would require city agencies, including the NYPD, Department of Correction and Department of Probation, to train employees, contractors and subcontractors on existing laws limiting cooperation with immigration enforcement and non-local law enforcement requests. Agencies would also have to publish implementation plans and compliance protocols explaining how staff should follow these laws, including policies on responding to requests from federal immigration authorities. These requirements would take effect by January 1, 2027.",
  "model": "claude-sonnet-5",
- "input_hash": "120fbd86a0e594fe"
+ "input_hash": "1d964e516dc858a7"
 }

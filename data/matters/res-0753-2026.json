@@ -1,0 +1,46 @@
+{
+ "file_number": "Res 0753-2026",
+ "slug": "res-0753-2026",
+ "legistar_id": "8315997",
+ "type": "Resolution",
+ "title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 260184 ZMQ, for a Zoning Map amendment (L.U. No. 150).",
+ "status": "Adopted",
+ "sponsors": [
+  "Kevin C. Riley",
+  "Farah N. Louis"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132613&GUID=13605E69-6F0A-478C-BCE8-0A6C55DFBC81"
+  },
+  {
+   "label": "Res. No. 753",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16132615&GUID=74992330-162F-481A-B17E-33AB07326050"
+  },
+  {
+   "label": "City Planning Commission Approval Letter",
+   "kind": "Message or letter",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150091&GUID=87581180-7A44-43C6-B388-E9B8C7DA504C"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Land Use",
+   "action": "Approved by Committee with Modifications and Referred to CPC",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8315997&GUID=30A60AFB-A54B-45FC-A00A-15FF78FE5923"
+}

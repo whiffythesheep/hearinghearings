@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0749-2026",
+ "slug": "res-0749-2026",
+ "legistar_id": "8325634",
+ "type": "Resolution",
+ "title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF MEENAKSHI SRINIVASAN AS A MEMBER OF THE NEW YORK CITY PLANNING COMMISSION.",
+ "status": "Adopted",
+ "sponsors": [
+  "Sandra Ung"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151410&GUID=01DB827B-C158-44F0-8E00-1D4BF9E0FA3E"
+  },
+  {
+   "label": "Res. No. 749",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151411&GUID=CA5D16F6-F1F1-4F11-A765-E9D3E61B9720"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8325634&GUID=421B23A1-2DF2-4E62-9D25-8BE2119CB454"
+}

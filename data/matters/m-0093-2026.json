@@ -4,7 +4,7 @@
  "legistar_id": "8297048",
  "type": "Mayor's Message",
  "title": "Communication from the Mayor – Submitting the name Anthony Crowell to the Council for its advice and consent regarding his reappointment as a member of the City Planning Commission, pursuant to Section 31 of the City Charter.",
- "status": "Laid Over in Committee",
+ "status": "Adopted",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -42,10 +42,33 @@
    "label": "Appearance Cards 11/9/26",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149325&GUID=0126416D-3FB9-401C-882D-19063AC74B0F"
+  },
+  {
+   "label": "Res. No. 746",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151326&GUID=B082D947-91CA-4119-BC14-39243746E2C1"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-09",
    "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",

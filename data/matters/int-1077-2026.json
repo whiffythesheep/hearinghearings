@@ -25,7 +25,9 @@
   "Crystal Hudson",
   "Rita C. Joseph",
   "Justin E. Sanchez",
-  "Carl Wilson"
+  "Carl Wilson",
+  "Amanda C. Farías",
+  "Public Advocate Jumaane Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -68,6 +70,11 @@
    "label": "Proposed Int. No. 1077-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148860&GUID=E101EF45-4880-46F8-A9AF-F9BB886C28A6"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151445&GUID=6389B2AF-FB7B-446A-B4DE-3E0E4996750C"
   }
  ],
  "fiscal": {

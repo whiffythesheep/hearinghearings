@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 1200-2026",
+ "title": "Law to require age checks for bike share riders",
+ "summary": "This bill would require bike share operators, such as Citi Bike, to verify that riders are at least 16 years old using a government- or school-issued ID. The Department of Transportation could allow other verification methods if privacy concerns are addressed. The law would take effect 120 days after enactment, applying to existing contracts if possible or to future contract renewals otherwise.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9f8a90611a89019a"
+}

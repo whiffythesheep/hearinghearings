@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0212-2026",
+ "title": "Law to require yearly report on park accessibility",
+ "summary": "This bill would require the Parks Department to annually assess parks' entrances, bathrooms, playgrounds, beaches and pools for compliance with disability accessibility standards. The department must report by December 31 each year on compliance status, needed actions and timelines for each facility, and must publish an online map showing the results. The law would take effect immediately.",
+ "model": "claude-sonnet-5",
+ "input_hash": "cc8c686642807a1f"
+}

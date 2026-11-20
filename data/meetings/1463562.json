@@ -4,7 +4,7 @@
  "body": "Committee on Housing and Buildings",
  "location": "Council Chambers - City Hall VOTE*",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463562&GUID=3C91E317-8C00-428A-9CB9-399298C2D0DF&Search=",
  "items": [
   {
@@ -13,10 +13,92 @@
    "name": "Requiring the department of buildings to inform property owners of permit sign-off requirements.",
    "sponsor": "Yusef Salaam",
    "agenda_note": "Proposed Int. No. 717-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "7927451",
    "legistar_guid": "507BB639-117C-44B6-98EB-40E8BFA85A4F"
+  },
+  {
+   "file_number": "Int 0717-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of buildings to inform property owners of permit sign-off requirements.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "7927451",
+   "legistar_guid": "507BB639-117C-44B6-98EB-40E8BFA85A4F"
+  },
+  {
+   "file_number": "Int 0717-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of buildings to inform property owners of permit sign-off requirements.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "7927451",
+   "legistar_guid": "507BB639-117C-44B6-98EB-40E8BFA85A4F"
+  },
+  {
+   "file_number": "Int 0717-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of buildings to inform property owners of permit sign-off requirements.",
+   "sponsor": "Yusef Salaam",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "7927451",
+   "legistar_guid": "507BB639-117C-44B6-98EB-40E8BFA85A4F",
+   "tally": {
+    "Affirmative": 11
+   },
+   "roll_call": [
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "Int 1023-2026",
@@ -24,10 +106,92 @@
    "name": "Authorizing electronic registration of dwellings with the department of housing preservation and development and electronic payment of the fee associated with such registration.",
    "sponsor": "Chris Banks",
    "agenda_note": "Proposed Int. No. 1023-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8193225",
    "legistar_guid": "881EFB98-4FA3-48A0-968F-F4C5C8D04060"
+  },
+  {
+   "file_number": "Int 1023-2026",
+   "type": "Introduction",
+   "name": "Authorizing electronic registration of dwellings with the department of housing preservation and development and electronic payment of the fee associated with such registration.",
+   "sponsor": "Chris Banks",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8193225",
+   "legistar_guid": "881EFB98-4FA3-48A0-968F-F4C5C8D04060"
+  },
+  {
+   "file_number": "Int 1023-2026",
+   "type": "Introduction",
+   "name": "Authorizing electronic registration of dwellings with the department of housing preservation and development and electronic payment of the fee associated with such registration.",
+   "sponsor": "Chris Banks",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8193225",
+   "legistar_guid": "881EFB98-4FA3-48A0-968F-F4C5C8D04060"
+  },
+  {
+   "file_number": "Int 1023-2026",
+   "type": "Introduction",
+   "name": "Authorizing electronic registration of dwellings with the department of housing preservation and development and electronic payment of the fee associated with such registration.",
+   "sponsor": "Chris Banks",
+   "agenda_note": "",
+   "action": "Approved by Committee",
+   "result": "Pass",
+   "legistar_id": "8193225",
+   "legistar_guid": "881EFB98-4FA3-48A0-968F-F4C5C8D04060",
+   "tally": {
+    "Affirmative": 11
+   },
+   "roll_call": [
+    {
+     "name": "Pierina Ana Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Rita C. Joseph",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Kevin C. Riley",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Yusef Salaam",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Carl Wilson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Susan Zhuang",
+     "vote": "Affirmative"
+    }
+   ]
   }
  ]
 }

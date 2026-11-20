@@ -4,7 +4,7 @@
  "legistar_id": "8297051",
  "type": "Mayor's Message",
  "title": "Communication from the Mayor – Submitting the name Margaret Anadu to the Council for its advice and consent regarding her appointment as a member of the City Planning Commission, pursuant to Section 31 of the City Charter.",
- "status": "Laid Over in Committee",
+ "status": "Adopted",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -42,10 +42,33 @@
    "label": "Hearing Transcript 11/9/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16147308&GUID=BFBBFCA0-F5C9-40B4-BA65-A2524DC0F3D0"
+  },
+  {
+   "label": "Res. No. 748",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151404&GUID=80D43525-DF46-4ACF-A73F-B3B97DA5948B"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee with Companion Resolution",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-09",
    "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",

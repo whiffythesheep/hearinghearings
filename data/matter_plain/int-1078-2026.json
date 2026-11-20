@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1078-2026",
  "title": "Law to limit Correction Department contact with ICE",
- "summary": "This bill would stop the Department of Correction from holding someone past their scheduled release without a judicial warrant. It would also restrict department staff from sharing information with federal immigration authorities about people in custody, except in limited circumstances unrelated to civil immigration enforcement. The law would take effect 60 days after it is enacted.",
+ "summary": "This bill would stop the Department of Correction from holding someone in custody past their scheduled release time to allow federal immigration agents to pick them up, unless a judge has signed a warrant. It also limits when department staff can share information about a person's incarceration status, release dates or court dates with federal immigration authorities. The law would take effect 60 days after it is enacted.",
  "model": "claude-sonnet-5",
- "input_hash": "becbd4dc035f3492"
+ "input_hash": "206c5234af172f34"
 }

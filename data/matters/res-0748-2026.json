@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0748-2026",
+ "slug": "res-0748-2026",
+ "legistar_id": "8325633",
+ "type": "Resolution",
+ "title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF MARGARET ANADU AS A MEMBER OF THE NEW YORK CITY PLANNING COMMISSION.",
+ "status": "Adopted",
+ "sponsors": [
+  "Sandra Ung"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151408&GUID=5A254E39-D83A-494B-B7A4-798B5BE7D31B"
+  },
+  {
+   "label": "Res. No. 748",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151409&GUID=86020830-24C8-4D8B-AAF4-2D820178B0E4"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8325633&GUID=A3F73543-029D-475B-A42D-BD7A0396ACDD"
+}

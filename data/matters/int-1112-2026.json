@@ -4,7 +4,7 @@
  "legistar_id": "8281395",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to authorizing an increase in the amount to be expended annually in eight business improvement districts",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Linda Lee"
  ],
@@ -44,6 +44,11 @@
    "label": "Proposed Int. No. 1112-A Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149154&GUID=A097B607-8A80-4993-BD3B-6EA6B0A87BD2"
+  },
+  {
+   "label": "Committee Report 11/19/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151241&GUID=28673B53-77A0-487A-B37E-EB2F5F7F23A9"
   }
  ],
  "fiscal": {
@@ -69,6 +74,30 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149154&GUID=A097B607-8A80-4993-BD3B-6EA6B0A87BD2"
  },
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Finance",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Finance",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Finance",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-10-08",
    "body": "City Council",

@@ -42,9 +42,40 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16133106&GUID=3F163EE8-4E07-4C51-804D-3E044BF321D5"
+  },
+  {
+   "label": "November 12, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151156&GUID=9BA567D1-D51E-41E2-8DAF-98127DF2CEC6"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153041&GUID=18720626-D1C2-4BE0-9E6A-E27D50D6CC4A"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153041&GUID=18720626-D1C2-4BE0-9E6A-E27D50D6CC4A"
+ },
  "history": [
   {
    "date": "2026-11-12",

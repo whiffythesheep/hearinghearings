@@ -4,7 +4,7 @@
  "body": "Committee on Finance",
  "location": "Committee Room - City Hall VOTE",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455568&GUID=F1DDA7FE-9DA8-4374-86C7-B1219DF7F609&Search=",
  "items": [
   {
@@ -13,43 +13,328 @@
    "name": "Authorizing an increase in the amount to be expended annually in eight business improvement districts.",
    "sponsor": "Linda Lee",
    "agenda_note": "Proposed Int. No. 1112-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
    "result": "",
    "legistar_id": "8281395",
    "legistar_guid": "A999D038-4801-4F1B-A0EF-E93DB47BEFF9"
   },
   {
-   "file_number": "T2026-2764",
+   "file_number": "Int 1112-2026",
+   "type": "Introduction",
+   "name": "Authorizing an increase in the amount to be expended annually in eight business improvement districts.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8281395",
+   "legistar_guid": "A999D038-4801-4F1B-A0EF-E93DB47BEFF9"
+  },
+  {
+   "file_number": "Int 1112-2026",
+   "type": "Introduction",
+   "name": "Authorizing an increase in the amount to be expended annually in eight business improvement districts.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8281395",
+   "legistar_guid": "A999D038-4801-4F1B-A0EF-E93DB47BEFF9"
+  },
+  {
+   "file_number": "Int 1112-2026",
+   "type": "Introduction",
+   "name": "Authorizing an increase in the amount to be expended annually in eight business improvement districts.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
+   "result": "",
+   "legistar_id": "8281395",
+   "legistar_guid": "A999D038-4801-4F1B-A0EF-E93DB47BEFF9"
+  },
+  {
+   "file_number": "Res 0741-2026",
    "type": "Resolution",
    "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
    "result": "",
    "legistar_id": "8315915",
    "legistar_guid": "7F40102D-9146-4A7C-8121-30525C71603A"
   },
   {
-   "file_number": "T2026-2821",
+   "file_number": "Res 0741-2026",
+   "type": "Resolution",
+   "name": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Comm",
+   "result": "Pass",
+   "legistar_id": "8315915",
+   "legistar_guid": "7F40102D-9146-4A7C-8121-30525C71603A",
+   "tally": {
+    "Affirmative": 17
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0159-2026",
    "type": "Land Use Application",
    "name": "Fordham Bedford Cluster Phase 3: Block 3197, Lot 23; Block 3198, Lot 55; Block 3026, Lot 59, Bronx, Community Districts 5 and 7, Council Districts 14 and 15.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
    "result": "",
    "legistar_id": "8315816",
    "legistar_guid": "433075EE-A6AA-4F08-BC71-E641A7159167"
   },
   {
-   "file_number": "T2026-2823",
+   "file_number": "LU 0159-2026",
+   "type": "Land Use Application",
+   "name": "Fordham Bedford Cluster Phase 3: Block 3197, Lot 23; Block 3198, Lot 55; Block 3026, Lot 59, Bronx, Community Districts 5 and 7, Council Districts 14 and 15.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8315816",
+   "legistar_guid": "433075EE-A6AA-4F08-BC71-E641A7159167",
+   "tally": {
+    "Affirmative": 17
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
+  },
+  {
+   "file_number": "LU 0160-2026",
    "type": "Land Use Application",
    "name": "160-159 Realty LLC.PLP.FY27: Block 2109, Lot 17; Block 2118, Lot 11, Manhattan, Community District 12, Council District 10.",
    "sponsor": "Linda Lee",
    "agenda_note": "Preconsidered",
-   "action": "",
+   "action": "Hearing on P-C Item by Comm",
    "result": "",
    "legistar_id": "8315881",
    "legistar_guid": "82ECB497-4290-4EC3-8B7A-93331AC2B878"
+  },
+  {
+   "file_number": "LU 0160-2026",
+   "type": "Land Use Application",
+   "name": "160-159 Realty LLC.PLP.FY27: Block 2109, Lot 17; Block 2118, Lot 11, Manhattan, Community District 12, Council District 10.",
+   "sponsor": "Linda Lee",
+   "agenda_note": "",
+   "action": "P-C Item Approved by Committee with Companion Resolution",
+   "result": "Pass",
+   "legistar_id": "8315881",
+   "legistar_guid": "82ECB497-4290-4EC3-8B7A-93331AC2B878",
+   "tally": {
+    "Affirmative": 17
+   },
+   "roll_call": [
+    {
+     "name": "Linda Lee",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shaun Abreu",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Shirley Aldebol",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Alexa Avilés",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Selvena N. Brooks-Powers",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Oswald J. Feliz",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "James F. Gennaro",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Crystal Hudson",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Virginia Maloney",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Christopher Marte",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Darlene Mealy",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Frank Morano",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Mercedes Narcisse",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Lincoln Restler",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Justin E. Sanchez",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Nantasha M. Williams",
+     "vote": "Affirmative"
+    },
+    {
+     "name": "Phil Wong",
+     "vote": "Affirmative"
+    }
+   ]
   },
   {
    "file_number": "T2026-0004",

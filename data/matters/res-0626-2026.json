@@ -4,7 +4,7 @@
  "legistar_id": "8206815",
  "type": "Resolution",
  "title": "Resolution calling upon the United States Senate to pass, and the President to sign, S.4814, to require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status",
- "status": "Laid Over in Committee",
+ "status": "Reported from Committee",
  "sponsors": [
   "Farah N. Louis",
   "Tiffany L. Cabán",
@@ -69,10 +69,27 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16144307&GUID=2083C836-5ADD-4F98-8EBC-36E47BE93287"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151387&GUID=189C8A1D-AFBD-466B-84E9-DB671B45F715"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Immigration",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Immigration",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-09-22",
    "body": "Committee on Immigration",

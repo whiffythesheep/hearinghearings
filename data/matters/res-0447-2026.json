@@ -4,7 +4,7 @@
  "legistar_id": "7998471",
  "type": "Resolution",
  "title": "A resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation to ensure insurance companies cover the cost of Preimplantation Genetic Testing for Aneuploidies",
- "status": "Laid Over in Committee",
+ "status": "Reported from Committee",
  "sponsors": [
   "Kayla Santosuosso",
   "Farah N. Louis",
@@ -13,7 +13,8 @@
   "Tiffany L. Cabán",
   "Virginia Maloney",
   "Carl Wilson",
-  "Julie Won"
+  "Julie Won",
+  "Mercedes Narcisse"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -56,10 +57,27 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148121&GUID=4DD44932-48DB-4D78-88FD-5EA1610355A8"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151760&GUID=FBB926D7-CAF0-4034-B14D-95BB37F0755D"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
   {
    "date": "2026-06-15",
    "body": "Committee on Hospitals",

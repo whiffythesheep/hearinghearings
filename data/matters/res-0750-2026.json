@@ -1,0 +1,40 @@
+{
+ "file_number": "Res 0750-2026",
+ "slug": "res-0750-2026",
+ "legistar_id": "8325635",
+ "type": "Resolution",
+ "title": "RESOLUTION APPROVING THE APPOINTMENT BY THE COUNCIL OF MARTHA KING AS A MEMBER OF THE NEW YORK CITY BOARD OF CORRECTION",
+ "status": "Adopted",
+ "sponsors": [
+  "Sandra Ung"
+ ],
+ "by_request_of_mayor": false,
+ "attachments": [
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151413&GUID=218006CB-ACE5-4FB3-B846-6F5BC396AE85"
+  },
+  {
+   "label": "Res. No. 750",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151412&GUID=24057E4D-FEE9-4259-AC6A-F26654200B6E"
+  }
+ ],
+ "fiscal": null,
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "action": "Approved by Committee",
+   "result": ""
+  }
+ ],
+ "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8325635&GUID=0019C9FC-1D61-4AC1-A5A5-5EBEC1A7B0DF"
+}

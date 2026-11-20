@@ -4,7 +4,7 @@
  "legistar_id": "7862356",
  "type": "Resolution",
  "title": "Resolution calling on the New York State legislature to pass, and the Governor to sign, S.5262/A.3051, legislation creating a refundable tax credit for up to three cycles of in vitro fertilization not covered by insurance",
- "status": "Laid Over in Committee",
+ "status": "Reported from Committee",
  "sponsors": [
   "Frank Morano",
   "Kayla Santosuosso",
@@ -22,6 +22,7 @@
   "Carl Wilson",
   "Carmen N. De La Rosa",
   "Julie Won",
+  "Mercedes Narcisse",
   "Vickie Paladino",
   "Inna Vernikov",
   "David M. Carr"
@@ -72,11 +73,40 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16148120&GUID=464B4661-E96A-4DAD-AEA3-61207D777DC1"
+  },
+  {
+   "label": "Committee Report - Stated Meeting",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151758&GUID=AD20818E-AC45-426D-8F38-42558AD2E748"
   }
  ],
  "fiscal": null,
  "history": [
   {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Committee on Health",
+   "action": "Approved by Committee",
+   "result": "Pass"
+  },
+  {
    "date": "2026-06-15",
    "body": "Committee on Hospitals",
    "action": "Laid Over by Committee",
@@ -120,19 +150,19 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Hospitals",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
-   "body": "Committee on Hospitals",
+   "body": "Committee on Health",
    "action": "Amended by Committee",
    "result": ""
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Health",
+   "body": "Committee on Hospitals",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Hospitals",
    "action": "Amended by Committee",
    "result": ""
   },

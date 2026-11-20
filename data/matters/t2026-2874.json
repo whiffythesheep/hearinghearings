@@ -9,6 +9,19 @@
  "by_request_of_mayor": false,
  "attachments": [],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-11-19",
+   "body": "Bronx Delegation of the New York City Council",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "Bronx Delegation of the New York City Council",
+   "action": "Adopted by the Committee",
+   "result": "Pass"
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8324432&GUID=72FD2FE6-1749-49CB-9ABE-266EB7FFBC21"
 }

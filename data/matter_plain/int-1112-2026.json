@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1112-2026",
  "title": "Law to raise spending caps for eight business districts",
- "summary": "This bill would increase the annual amount that eight Business Improvement Districts may spend, including raising 34th Street's cap to $16.3 million and East Mid-Manhattan's to $6 million. Other districts affected are 82nd Street, Myrtle Avenue Brooklyn, Bay Ridge 5th Avenue, Southern Boulevard, Greater JFK and West Village. The new limits take effect July 1, 2027.",
+ "summary": "This bill would let eight Business Improvement Districts spend more each year starting July 1, 2027, including raising 34th Street's cap to $16.3 million and creating new caps for Southern Boulevard, Greater JFK and West Village. The increases would result in higher assessments on properties within each district. The eight districts are in Manhattan, Brooklyn, Queens and the Bronx.",
  "model": "claude-sonnet-5",
- "input_hash": "1bd6be92f03c8011"
+ "input_hash": "b22527348950bcfd"
 }

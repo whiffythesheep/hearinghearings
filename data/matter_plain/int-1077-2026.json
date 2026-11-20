@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1077-2026",
- "title": "Law to limit police holds on immigration detainers",
- "summary": "This bill would stop the NYPD from holding someone past their release time for federal immigration authorities unless agents present a judicial warrant. It also removes a provision that allowed holding people up to 48 hours without a warrant in certain cases involving violent crime convictions or terrorist watchlist matches. The law would take effect 60 days after passage.",
+ "title": "Law to limit NYPD holds for immigration detainers",
+ "summary": "This bill would restrict when the NYPD can hold someone in custody solely because of a federal civil immigration detainer. Police could only detain a person beyond their normal release time if federal agents present a judicial warrant and a database check shows the person has a violent or serious conviction or is a possible match in the terrorist screening database. The bill removes a prior provision allowing up to 48 extra hours of detention without a judicial warrant in certain cases.",
  "model": "claude-sonnet-5",
- "input_hash": "7d8c42ad01689387"
+ "input_hash": "1a01ce51999925fa"
 }
