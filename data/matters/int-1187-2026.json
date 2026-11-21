@@ -15,7 +15,9 @@
   "Amanda C. Farías",
   "Sandy Nurse",
   "Shirley Aldebol",
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Lynn C. Schulman",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -28,6 +30,11 @@
    "label": "Int. No. 1187",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150904&GUID=5086F1BF-622B-4CD4-83A2-AA3512004B41"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154431&GUID=4FD33C16-8D42-490F-89F7-7584C857C4E2"
   }
  ],
  "fiscal": null,
@@ -35,7 +42,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

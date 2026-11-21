@@ -4,7 +4,7 @@
  "legistar_id": "8311003",
  "type": "Oversight",
  "title": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +15,19 @@
   }
  ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8311003&GUID=C391C2A0-4337-4DDB-A3C6-7C9C786C423E"
 }

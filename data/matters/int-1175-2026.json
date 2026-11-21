@@ -4,7 +4,7 @@
  "legistar_id": "8317503",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to a study and report on electrical capacity in certain residential buildings",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Pierina Ana Sanchez",
   "Joann Ariola",
@@ -47,6 +47,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16152912&GUID=3A1C4B86-748C-461B-95D9-6CB10ACDB6E1"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154034&GUID=38F5B948-FB9B-4F4E-A6F2-D2475331FAB0"
   }
  ],
  "fiscal": {
@@ -72,6 +77,30 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16152912&GUID=3A1C4B86-748C-461B-95D9-6CB10ACDB6E1"
  },
  "history": [
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

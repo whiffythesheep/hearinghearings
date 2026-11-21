@@ -98,6 +98,16 @@
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151859&GUID=8E02EEE2-126E-47BC-B484-03416B2CB77A"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154473&GUID=517345B2-074A-408E-9A8F-246627066DDA"
+  },
+  {
+   "label": "Int. No. 717-A (FINAL)",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154534&GUID=A2E7574D-CFBB-495F-A955-F0FED055409D"
   }
  ],
  "fiscal": {
@@ -126,8 +136,8 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-11-19",

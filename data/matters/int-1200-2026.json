@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring bike share operator verification of rider age",
  "status": "Committee",
  "sponsors": [
-  "Carl Wilson"
+  "Carl Wilson",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -24,6 +25,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150977&GUID=7B745296-1DCD-4728-B3E8-C0CEB4ED0063"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154447&GUID=464224BE-82C0-4230-911E-7874E8CC2AFE"
   }
  ],
  "fiscal": null,
@@ -31,7 +37,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

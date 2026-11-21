@@ -4,7 +4,7 @@
  "legistar_id": "8034439",
  "type": "Introduction",
  "title": "A Local Law to amend the New York city fire code, in relation to storing and charging mobility devices",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Phil Wong",
   "Farah N. Louis",
@@ -40,6 +40,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153036&GUID=8A3CA856-71CE-46B1-9770-E7E0FB9A5063"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154032&GUID=D2AEBD24-02DB-4170-987D-3614DD1ABAA4"
   }
  ],
  "fiscal": {
@@ -65,6 +70,30 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153036&GUID=8A3CA856-71CE-46B1-9770-E7E0FB9A5063"
  },
  "history": [
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-05-20",
    "body": "City Council",

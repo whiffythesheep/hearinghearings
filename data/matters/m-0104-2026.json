@@ -12,6 +12,11 @@
    "label": "Mayor's Nomination Letter",
    "kind": "Message or letter",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150981&GUID=33DC449A-F5DF-4250-9129-ED3927120DBD"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154457&GUID=4EF984C3-E503-44E2-B8F5-189748AC0CBC"
   }
  ],
  "fiscal": null,
@@ -19,7 +24,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

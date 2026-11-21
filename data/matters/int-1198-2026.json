@@ -23,6 +23,9 @@
   "Kevin C. Riley",
   "Oswald J. Feliz",
   "Nantasha M. Williams",
+  "Chi A. Ossé",
+  "Alexa Avilés",
+  "Linda Lee",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
@@ -36,6 +39,11 @@
    "label": "Int. No. 1198",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150941&GUID=213536B9-21E2-4863-952E-882C08336EFD"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154445&GUID=BDFE7C12-2265-437C-9483-B70122F3F2C6"
   }
  ],
  "fiscal": null,
@@ -43,7 +51,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

@@ -10,7 +10,9 @@
   "Tiffany L. Cabán",
   "Amanda C. Farías",
   "Sandy Nurse",
-  "Virginia Maloney"
+  "Virginia Maloney",
+  "Lynn C. Schulman",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -23,6 +25,11 @@
    "label": "Int. No. 1186",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150907&GUID=F4455FBC-22E1-46DF-82CC-CB009D31EE8F"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154430&GUID=74FB6A38-F008-44F1-AF81-D8C9222B4B7E"
   }
  ],
  "fiscal": null,
@@ -30,7 +37,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

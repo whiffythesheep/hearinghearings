@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1202-2026",
- "title": "Law to make it easier to seal unsafe e-bike shops",
- "summary": "This bill would lower the bar for the city to seal the premises of retailers that repeatedly violate safety rules for powered bicycles, mobility devices or their batteries. Stores could be sealed after two violations within two years, instead of the current three violations within three years. The Department of Consumer and Worker Protection and the Fire Department would retain authority to order such sealings after notice and a hearing.",
+ "title": "Law to make it easier to seal shops selling unsafe e-bikes",
+ "summary": "This bill would let the Department of Consumer and Worker Protection or the Fire Department seal a retailer's premises after just two safety violations within two years, instead of the current three violations within three years, for selling unsafe powered bicycles, mobility devices or batteries. It is one of several bills the Council is considering after a sharp rise in lithium-ion battery fires, which caused 400 incidents and 12 deaths so far in 2026.",
  "model": "claude-sonnet-5",
- "input_hash": "fc312d4e1db75786"
+ "input_hash": "a880953a1f87ac66"
 }

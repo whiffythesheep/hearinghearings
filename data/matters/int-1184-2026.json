@@ -4,9 +4,10 @@
  "legistar_id": "8319010",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing an outreach, inspection, and enforcement plan for reducing the fire risks posed by certain powered bicycles, powered mobility devices, and storage batteries used by such devices",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
-  "Joann Ariola"
+  "Joann Ariola",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -24,6 +25,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153039&GUID=012D6C31-443B-42CE-BAFF-36AF272E90ED"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154035&GUID=D3D79C0D-D75E-4CE1-939D-C2D14562C802"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154428&GUID=1512B238-3AD4-46BE-9D13-084823380A84"
   }
  ],
  "fiscal": {
@@ -50,9 +61,33 @@
  },
  "history": [
   {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

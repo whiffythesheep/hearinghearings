@@ -4,7 +4,7 @@
  "body": "Committee on Immigration",
  "location": "250 Broadway - 8th Floor - Hearing Room 1",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1457117&GUID=9DB89032-A28D-4577-AEAE-AD76927AC070&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Examining the Current State of Immigration Enforcement Activity in New York City.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8300042",
+   "legistar_guid": "34CFDB3A-C30E-4338-A21E-A5707B7C8B77"
+  },
+  {
+   "file_number": "T2026-2724",
+   "type": "Oversight",
+   "name": "Oversight - Examining the Current State of Immigration Enforcement Activity in New York City.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8300042",
    "legistar_guid": "34CFDB3A-C30E-4338-A21E-A5707B7C8B77"
@@ -24,7 +35,18 @@
    "name": "Requiring agency training and the publication of implementation plans concerning immigration enforcement and cooperation with non-local law enforcement agencies.",
    "sponsor": "Shahana K. Hanif",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7944748",
+   "legistar_guid": "1DF7E1DF-1E2E-43A5-B5F9-B1EA17567962"
+  },
+  {
+   "file_number": "Int 0739-2026",
+   "type": "Introduction",
+   "name": "Requiring agency training and the publication of implementation plans concerning immigration enforcement and cooperation with non-local law enforcement agencies.",
+   "sponsor": "Shahana K. Hanif",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7944748",
    "legistar_guid": "1DF7E1DF-1E2E-43A5-B5F9-B1EA17567962"
@@ -35,7 +57,40 @@
    "name": "Limiting the circumstances in which a person may be detained by the police department on a civil immigration detainer.",
    "sponsor": "Elsie Encarnación",
    "agenda_note": "Proposed Int. No. 1077-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8237314",
+   "legistar_guid": "2A3ABEF8-C08D-4D37-8878-8C22CB0E3D0F"
+  },
+  {
+   "file_number": "Int 1077-2026",
+   "type": "Introduction",
+   "name": "Limiting the circumstances in which a person may be detained by the police department on a civil immigration detainer.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8237314",
+   "legistar_guid": "2A3ABEF8-C08D-4D37-8878-8C22CB0E3D0F"
+  },
+  {
+   "file_number": "Int 1077-2026",
+   "type": "Introduction",
+   "name": "Limiting the circumstances in which a person may be detained by the police department on a civil immigration detainer.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8237314",
+   "legistar_guid": "2A3ABEF8-C08D-4D37-8878-8C22CB0E3D0F"
+  },
+  {
+   "file_number": "Int 1077-2026",
+   "type": "Introduction",
+   "name": "Limiting the circumstances in which a person may be detained by the police department on a civil immigration detainer.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8237314",
    "legistar_guid": "2A3ABEF8-C08D-4D37-8878-8C22CB0E3D0F"
@@ -46,7 +101,40 @@
    "name": "Limiting communication between the department of correction and federal immigration authorities.",
    "sponsor": "Elsie Encarnación",
    "agenda_note": "Proposed Int. No. 1078-A",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8237315",
+   "legistar_guid": "C5AA98B0-C209-4915-8856-EBCFB25FDAD9"
+  },
+  {
+   "file_number": "Int 1078-2026",
+   "type": "Introduction",
+   "name": "Limiting communication between the department of correction and federal immigration authorities.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "Amendment Proposed by Comm",
+   "result": "",
+   "legistar_id": "8237315",
+   "legistar_guid": "C5AA98B0-C209-4915-8856-EBCFB25FDAD9"
+  },
+  {
+   "file_number": "Int 1078-2026",
+   "type": "Introduction",
+   "name": "Limiting communication between the department of correction and federal immigration authorities.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "Amended by Committee",
+   "result": "",
+   "legistar_id": "8237315",
+   "legistar_guid": "C5AA98B0-C209-4915-8856-EBCFB25FDAD9"
+  },
+  {
+   "file_number": "Int 1078-2026",
+   "type": "Introduction",
+   "name": "Limiting communication between the department of correction and federal immigration authorities.",
+   "sponsor": "Elsie Encarnación",
+   "agenda_note": "",
+   "action": "Approved by Committee",
    "result": "",
    "legistar_id": "8237315",
    "legistar_guid": "C5AA98B0-C209-4915-8856-EBCFB25FDAD9"

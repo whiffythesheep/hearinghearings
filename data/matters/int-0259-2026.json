@@ -89,6 +89,16 @@
    "label": "Committee Report 11/19/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150092&GUID=479C1679-AC16-47B5-A334-A751B5D55480"
+  },
+  {
+   "label": "Int. No. 259-A (FINAL)",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154346&GUID=A350F66D-519B-45A1-8EC9-A40B00E9CAC5"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154461&GUID=4DA62B03-EB47-48C9-96CB-FCEE80A9D289"
   }
  ],
  "fiscal": {
@@ -117,8 +127,8 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
-   "result": ""
+   "action": "Approved by Council",
+   "result": "Pass"
   },
   {
    "date": "2026-11-19",
@@ -158,13 +168,13 @@
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Higher Education",
+   "body": "Committee on Education",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Education",
+   "body": "Committee on Higher Education",
    "action": "Laid Over by Committee",
    "result": ""
   },

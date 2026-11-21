@@ -4,9 +4,10 @@
  "legistar_id": "8320350",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York and the New York city fire code, in relation to penalties for the possession, sale, lease, or rental of unsafe powered bicycles, powered mobility devices, and storage batteries and the assembly or sale of second-use lithium-ion batteries",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
-  "James F. Gennaro"
+  "James F. Gennaro",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -24,6 +25,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153038&GUID=326C5320-8703-477D-8AF3-42D78EA06CE9"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154036&GUID=F674550E-D880-423D-A322-02D7C0E4FB76"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154434&GUID=B75E4FC3-CA09-49C5-A9CD-B738D563681D"
   }
  ],
  "fiscal": {
@@ -50,9 +61,33 @@
  },
  "history": [
   {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

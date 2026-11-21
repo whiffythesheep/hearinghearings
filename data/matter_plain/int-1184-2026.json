@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1184-2026",
- "title": "Law to target e-bike battery fire risks with inspections",
- "summary": "This law would require the Department of Consumer and Worker Protection and the Fire Department to create, by March 1, 2027, a targeted outreach, inspection and enforcement plan to reduce fire risks from unsafe powered bicycles, mobility devices and their batteries. The plan would prioritize risky locations and sellers, address online sales of noncompliant devices, and include outreach to retailers, delivery workers and residents on safe charging and storage. Starting April 1, 2027, the agencies must report quarterly on fire incidents linked to these devices and on related inspections and enforcement actions.",
+ "title": "Law to require a plan to inspect and enforce e-bike battery safety",
+ "summary": "This bill would require the Department of Consumer and Worker Protection and the Fire Department to create, by March 1, 2027, a targeted outreach, inspection and enforcement plan to reduce fires caused by powered bicycles, mobility devices and their storage batteries. The plan would prioritize risky locations and sellers, address online sales of noncompliant devices, and promote safe charging and storage education. Starting April 1, 2027, agencies would also have to report quarterly on related fire incidents, inspections and enforcement actions.",
  "model": "claude-sonnet-5",
- "input_hash": "4e550a8335a89481"
+ "input_hash": "76f3437a75c55b70"
 }

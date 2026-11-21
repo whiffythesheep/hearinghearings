@@ -4,7 +4,7 @@
  "body": "Committee on Oversight and Investigations",
  "location": "250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Committee on Consumer and Worker Protection.",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462310&GUID=47CB6757-AAD5-4599-9F78-7BED0C2FCE31&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8311002",
+   "legistar_guid": "A6688BC1-A6A5-47A6-9D0A-0F1E8AC90BDE"
+  },
+  {
+   "file_number": "T2026-2794",
+   "type": "Oversight",
+   "name": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8311002",
    "legistar_guid": "A6688BC1-A6A5-47A6-9D0A-0F1E8AC90BDE"
@@ -24,7 +35,18 @@
    "name": "The department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers.",
    "sponsor": "Mercedes Narcisse",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8311001",
+   "legistar_guid": "49B06231-23D1-48A2-B887-F85922984404"
+  },
+  {
+   "file_number": "Int 1167-2026",
+   "type": "Introduction",
+   "name": "The department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8311001",
    "legistar_guid": "49B06231-23D1-48A2-B887-F85922984404"

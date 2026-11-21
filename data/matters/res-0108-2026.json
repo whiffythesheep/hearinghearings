@@ -78,6 +78,11 @@
    "label": "Committee Report - Stated Meeting",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151758&GUID=AD20818E-AC45-426D-8F38-42558AD2E748"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154496&GUID=7D5671DB-0392-4E19-B6E5-A04029429EB0"
   }
  ],
  "fiscal": null,
@@ -150,12 +155,6 @@
   },
   {
    "date": "2026-06-15",
-   "body": "Committee on Health",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-06-15",
    "body": "Committee on Hospitals",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -163,6 +162,12 @@
   {
    "date": "2026-06-15",
    "body": "Committee on Hospitals",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-06-15",
+   "body": "Committee on Health",
    "action": "Amended by Committee",
    "result": ""
   },

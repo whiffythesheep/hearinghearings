@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1189-2026",
- "title": "Law to toughen penalties for unsafe e-bike batteries",
- "summary": "This bill would make it illegal to possess, store or use e-bikes, e-scooters or batteries that do not meet city safety standards. It increases penalties for selling or renting unsafe devices, making violations a misdemeanor punishable by up to one year in jail plus civil fines of up to $1,000 per violation. It also sets similar penalties for assembling or selling reused lithium-ion batteries.",
+ "title": "Law to raise penalties for unsafe e-bike batteries",
+ "summary": "This bill would ban storing, handling, using or possessing powered bicycles, mobility devices or batteries that do not meet the city's safety standards, with civil penalties up to $1,000 per violation. It would also make selling, leasing or renting such unsafe equipment a misdemeanor punishable by up to a year in jail, in addition to civil fines. Assembling or selling repurposed (second-use) lithium-ion batteries would carry the same penalties.",
  "model": "claude-sonnet-5",
- "input_hash": "15f718694a84c267"
+ "input_hash": "d84ecc9fec7203a5"
 }

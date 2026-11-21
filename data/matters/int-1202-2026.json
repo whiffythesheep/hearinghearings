@@ -4,13 +4,15 @@
  "legistar_id": "8319009",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to department of consumer and worker protection and fire department authority to seal the premises of retailers of powered bicycles, powered mobility devices, or storage batteries",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Susan Zhuang",
   "Vickie Paladino",
   "Shanel Thomas-Henry",
   "Frank Morano",
-  "Farah N. Louis"
+  "Farah N. Louis",
+  "Lynn C. Schulman",
+  "Ty Hankerson"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -33,6 +35,16 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153040&GUID=F880463B-592B-49A2-9263-A9871C5BF837"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154037&GUID=E9CC864E-094C-4A6B-B369-5BAA61D13897"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154449&GUID=BCEC4732-861F-417A-B387-E24430AF1E8D"
   }
  ],
  "fiscal": {
@@ -59,9 +71,33 @@
  },
  "history": [
   {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

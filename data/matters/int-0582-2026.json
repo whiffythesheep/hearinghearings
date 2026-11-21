@@ -4,7 +4,7 @@
  "legistar_id": "7879200",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring businesses using bicycles for commercial purposes to provide bicycle operators with fireproof or fire-resistant containers for removable storage batteries used to power motor-assisted bicycles",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Jennifer Gutiérrez",
   "Gale A. Brewer",
@@ -49,6 +49,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153037&GUID=3637276A-BFE9-48A6-B535-8A1E77220629"
+  },
+  {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154031&GUID=266DC68B-998C-4D83-807A-C1266324B32E"
   }
  ],
  "fiscal": {
@@ -74,6 +79,30 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153037&GUID=3637276A-BFE9-48A6-B535-8A1E77220629"
  },
  "history": [
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Housing and Buildings",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-02-12",
    "body": "City Council",

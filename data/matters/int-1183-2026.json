@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to verification of compliant delivery devices operated by contracted delivery workers, and to repeal section 20-1526 of such code, relating to powered mobility devices of contracted delivery workers",
  "status": "Committee",
  "sponsors": [
-  "Shaun Abreu"
+  "Shaun Abreu",
+  "Lynn C. Schulman"
  ],
  "by_request_of_mayor": true,
  "attachments": [
@@ -19,14 +20,25 @@
    "label": "Int. No. 1183",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150908&GUID=6B3261D4-29A8-438B-8BD1-9801F688A038"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154427&GUID=3ACE7440-CD16-4684-8008-8E7DD319823B"
   }
  ],
  "fiscal": null,
  "history": [
   {
+   "date": "2026-11-20",
+   "body": "City Council",
+   "action": "Re-referred to Committee by Council",
+   "result": ""
+  },
+  {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

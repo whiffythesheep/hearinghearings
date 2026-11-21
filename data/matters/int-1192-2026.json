@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Linda Lee",
-  "Susan Zhuang"
+  "Susan Zhuang",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -25,6 +26,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150929&GUID=50152286-29FA-4940-93E5-EEC954BA367B"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154438&GUID=A2286151-019E-4779-926A-99E0DBC01C1E"
   }
  ],
  "fiscal": null,
@@ -32,7 +38,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

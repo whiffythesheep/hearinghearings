@@ -25,6 +25,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150932&GUID=0D3F2431-D2D2-428D-A41E-0BB86A70855F"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154433&GUID=9A01F18B-EA51-4A8D-A817-FED8782E02F8"
   }
  ],
  "fiscal": null,
@@ -32,7 +37,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

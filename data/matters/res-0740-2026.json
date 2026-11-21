@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Crystal Hudson",
-  "Chi A. Ossé"
+  "Chi A. Ossé",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -15,6 +16,11 @@
    "label": "Res. No. 740",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150933&GUID=B6504050-A31F-4683-8D4A-BD1DF655836D"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154436&GUID=D4EB3E6E-2076-4456-BE7A-0CFE3BE6D212"
   }
  ],
  "fiscal": null,
@@ -22,7 +28,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {

@@ -4,11 +4,30 @@
  "legistar_id": "8312276",
  "type": "Oversight",
  "title": "Oversight - Residential Fires and the Dangers of Lithium-Ion Batteries.",
- "status": "Committee",
+ "status": "Filed",
  "sponsors": [],
  "by_request_of_mayor": false,
- "attachments": [],
+ "attachments": [
+  {
+   "label": "Committee Report",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154030&GUID=412BDB4E-27DD-4D0E-9EA7-040AE3A0AF74"
+  }
+ ],
  "fiscal": null,
- "history": [],
+ "history": [
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Fire and Emergency Management",
+   "action": "Filed, by Committee",
+   "result": ""
+  }
+ ],
  "legistar_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=8312276&GUID=5BDEEC1D-D831-4870-B2F7-8CE03A070EB4"
 }

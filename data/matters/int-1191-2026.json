@@ -6,7 +6,8 @@
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to notice and pre-approval of invoicing requirements and changes to such requirements",
  "status": "Committee",
  "sponsors": [
-  "Linda Lee"
+  "Linda Lee",
+  "Farah N. Louis"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -24,6 +25,11 @@
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16150930&GUID=FCE595DA-F9A6-47D6-8B74-DF89DEBC3183"
+  },
+  {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154437&GUID=41D0B6D7-A40E-4F73-9CFA-3DBF6920D02E"
   }
  ],
  "fiscal": null,
@@ -31,7 +37,7 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
-   "action": "",
+   "action": "Referred to Comm by Council",
    "result": ""
   },
   {
