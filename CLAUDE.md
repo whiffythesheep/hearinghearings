@@ -427,6 +427,11 @@ left the run green, and nobody was told):
   uncaptioned recording neither costs a Claude call nor takes one of the run's `--limit` slots.
   Until 2026-11-06 two uncaptioned Oct 22 recordings were retried first on every run, taking 2
   of the 3 slots and delaying other hearings.
+- **Joint-hearing siblings** are not waiting either. Legistar keeps one event per committee and
+  often links the recording on only one, so the other shows "no recording" forever. A no-recording
+  event whose committee is named in the `committee` field of a hearing published that same day is
+  counted as published (`published_committees_by_date()` in `discover_pending.py`, since
+  2026-11-22; before that, issue #92 listed the two Nov 20 joint hearings' siblings as waiting).
 - **Deferred** meetings (from `data/meetings/*.json`, `agenda_status == "Deferred"`) are not
   waiting: they never happened. They are most of what Legistar shows as "no video": on
   2026-11-06 all 10 such past meetings on the calendar were deferred.

@@ -19,7 +19,9 @@ Idempotency: an event is "handled" iff (a) its Legistar ID appears in
 any ``content/*.md``'s ``council_url`` field on master, (b) an open PR
 already exists for ``pending/<event_id>``, (c) it is another
 committee of an already-handled joint hearing — recognised by a shared
-recording fingerprint or a matching date+duration — or (d) its ID is
+recording fingerprint or a matching date+duration, or, when its own
+event has no recording linked, by its committee being named on a hearing
+published that day — or (d) its ID is
 listed in ``discover_skiplist.txt`` (events deliberately rejected, e.g.
 a closed-without-merge PR that should stay dead). Case (c) keeps joint
 hearings (one published page, several Legistar IDs) from re-queuing
@@ -294,6 +296,41 @@ def published_signatures() -> tuple[set[str], set[tuple[str, int]]]:
         if d and mins is not None:
             date_durs.add((d, mins))
     return fps, date_durs
+
+
+def _committee_key(name: str) -> str:
+    """Fold a committee name for matching (same rule as the summarizer's
+    ``normalize_committee_name``: "&" and "and" agree, case and punctuation
+    are ignored)."""
+    key = name.lower().replace("&", " and ")
+    key = re.sub(r"[^a-z0-9 ]+", " ", key)
+    return re.sub(r"\s+", " ", key).strip()
+
+
+def published_committees_by_date() -> dict[str, set[str]]:
+    """``{date: {committee key, ...}}`` over every published hearing.
+
+    A joint hearing is one recording, but Legistar keeps one event per
+    committee and often links the video on only one of them. The others
+    show "no recording" forever, so without this they would sit on the
+    waiting list (and in the waiting issue) after the hearing is live.
+    The published page's pipe-delimited ``committee`` field names every
+    committee it covers.
+    """
+    by_date: dict[str, set[str]] = {}
+    if not CONTENT_DIR.is_dir():
+        return by_date
+    for md in CONTENT_DIR.glob("*.md"):
+        try:
+            fm = parse_front_matter(md)
+        except OSError:
+            continue
+        d = fm.get("date", "")
+        if not d:
+            continue
+        by_date.setdefault(d, set()).update(
+            _committee_key(c) for c in fm.get("committee", "").split("|") if c.strip())
+    return by_date
 
 
 _PENDING_BRANCH_RE = re.compile(r"^pending/(\d+)\b")
@@ -845,6 +882,7 @@ def main() -> None:
     skiplisted = skiplisted_event_ids()
     published = published_event_ids()
     pub_fps, pub_date_durs = published_signatures()
+    pub_committees = published_committees_by_date()
     pr_open = open_pr_event_ids()
     local_pending = local_pending_branch_event_ids()
 
@@ -883,6 +921,11 @@ def main() -> None:
         reason = should_skip(e)
         if reason in ("no-video", "no-agenda", "no-agenda-or-video") and e["event_id"] in deferred:
             reason = "deferred"
+        if reason == "no-video" and _committee_key(e["body_name"]) in pub_committees.get(
+                e["event_date"], ()):
+            # A joint hearing's other committee: the recording is linked on
+            # the sibling event and the hearing is already published.
+            reason = "sibling-published-joint"
         if reason:
             skipped[reason] = skipped.get(reason, 0) + 1
             if reason in ("no-video", "no-agenda", "no-agenda-or-video"):
