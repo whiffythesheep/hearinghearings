@@ -35,6 +35,11 @@
    "label": "Committee Report 11/17/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146663&GUID=97096128-A2D1-4A6B-A7F9-07AE5D644259"
+  },
+  {
+   "label": "Hearing Transcript 11/17/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158412&GUID=E714E761-18C9-4747-8BE1-0ED64930644F"
   }
  ],
  "fiscal": null,
@@ -53,13 +58,13 @@
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Housing and Buildings",
+   "body": "Committee on Finance",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Finance",
+   "body": "Committee on Housing and Buildings",
    "action": "Laid Over by Committee",
    "result": ""
   },

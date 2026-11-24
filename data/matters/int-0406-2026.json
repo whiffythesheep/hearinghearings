@@ -55,6 +55,11 @@
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146738&GUID=743E55A5-BD7D-4CE5-9FD8-AF3423689B46"
+  },
+  {
+   "label": "Hearing Transcript 11/17/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158403&GUID=0753F67D-BD55-4FA6-AA42-84EC760EFE6B"
   }
  ],
  "fiscal": {
@@ -94,13 +99,13 @@
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Housing and Buildings",
+   "body": "Committee on Finance",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Finance",
+   "body": "Committee on Housing and Buildings",
    "action": "Laid Over by Committee",
    "result": ""
   },

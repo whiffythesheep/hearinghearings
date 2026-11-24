@@ -4,7 +4,9 @@
  "legistar_id": "7961428",
  "type": "Introduction",
  "title": "A Local Law to amend the New York city charter, in relation to procedures for early mail and absentee ballots for voters in department of correction custody",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
+ "law_number": "2026/167",
+ "enactment_date": "2026-11-21",
  "sponsors": [
   "Selvena N. Brooks-Powers",
   "Harvey D. Epstein",
@@ -128,6 +130,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076461&GUID=FCFD4D99-0577-499C-B11D-C85B41BE9B20"
  },
  "history": [
+  {
+   "date": "2026-11-21",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-10-22",
    "body": "City Council",

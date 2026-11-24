@@ -1,0 +1,7 @@
+{
+ "file_number": "Int 0061-2026",
+ "title": "Law to create directory of NYCHA tenant-owned businesses",
+ "summary": "This bill would require the Department of Small Business Services to create an online directory listing businesses owned by New York City Housing Authority tenants, updated annually and available in the city's designated languages. The department would also run a marketing campaign to promote the directory. The law would take effect 120 days after enactment.",
+ "model": "claude-sonnet-5",
+ "input_hash": "9eaa5a076655bfcc"
+}

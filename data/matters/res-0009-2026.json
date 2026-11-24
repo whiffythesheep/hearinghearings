@@ -43,6 +43,11 @@
    "label": "Committee Report 11/17/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16146662&GUID=A5F9082C-0FAD-48C7-9E0E-7BCFC8E18155"
+  },
+  {
+   "label": "Hearing Transcript 11/17/26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158411&GUID=7CC35F3F-B7E0-4B4E-AAEE-8E260C12FC85"
   }
  ],
  "fiscal": null,
@@ -61,18 +66,6 @@
   },
   {
    "date": "2026-11-17",
-   "body": "Committee on Housing and Buildings",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-11-17",
-   "body": "Committee on Housing and Buildings",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-11-17",
    "body": "Committee on Finance",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -87,6 +80,18 @@
    "date": "2026-11-17",
    "body": "Committee on Finance",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-11-17",
+   "body": "Committee on Housing and Buildings",
+   "action": "Amended by Committee",
    "result": ""
   },
   {

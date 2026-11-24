@@ -1,0 +1,66 @@
+{
+ "event_id": "1460784",
+ "date": "2026-12-01",
+ "body": "Committee on Small Business",
+ "location": "250 Broadway - 8th Floor - Hearing Room 2",
+ "agenda_status": "Final",
+ "minutes_status": "Draft",
+ "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460784&GUID=6337B7C6-899B-48DD-A6A6-CA724B318828&Search=",
+ "items": [
+  {
+   "file_number": "Int 0061-2026",
+   "type": "Introduction",
+   "name": "Creating a business directory for New York city housing authority tenant-owned businesses and establishing a marketing campaign to highlight the New York city housing authority tenant-owned business directory.",
+   "sponsor": "Chris Banks",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861450",
+   "legistar_guid": "271208D3-B8F3-47FB-B2AA-A93A91825D78"
+  },
+  {
+   "file_number": "Int 0184-2026",
+   "type": "Introduction",
+   "name": "Resignation of members of boards of directors of business improvement district management associations.",
+   "sponsor": "Amanda C. Farías",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7861924",
+   "legistar_guid": "B4C5BB72-CE26-4266-BA3B-0BA98CCA88F5"
+  },
+  {
+   "file_number": "Int 0336-2026",
+   "type": "Introduction",
+   "name": "A pilot program requiring the department of small business services to implement and report on small business incubators located within public housing facilities.",
+   "sponsor": "Mercedes Narcisse",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "7862413",
+   "legistar_guid": "3C32FC42-CFBF-4A02-8B08-A0045852FA3B"
+  },
+  {
+   "file_number": "Int 0878-2026",
+   "type": "Introduction",
+   "name": "Department of SBS to conduct a study on the economic impact of film and television production on local businesses and develop a plan to mitigate lost revenue attributable to filming.",
+   "sponsor": "Christopher Marte",
+   "agenda_note": "Proposed Int. No. 878-A",
+   "action": "",
+   "result": "",
+   "legistar_id": "7998420",
+   "legistar_guid": "4A823218-222C-453D-A818-DBA249B4BA14"
+  },
+  {
+   "file_number": "Int 0942-2026",
+   "type": "Introduction",
+   "name": "Establishing a program to provide small businesses with technology literacy training.",
+   "sponsor": "Virginia Maloney",
+   "agenda_note": "",
+   "action": "",
+   "result": "",
+   "legistar_id": "8067818",
+   "legistar_guid": "1FA019A3-4652-4564-B9F0-C9B422B71244"
+  }
+ ]
+}

@@ -4,7 +4,9 @@
  "legistar_id": "7961436",
  "type": "Introduction",
  "title": "A Local Law to amend the New York city charter, in relation to reporting on voter registration and voting in city jails",
- "status": "Enacted (Mayor's Desk for Signature)",
+ "status": "Enacted",
+ "law_number": "2026/168",
+ "enactment_date": "2026-11-21",
  "sponsors": [
   "Public Advocate Jumaane Williams",
   "Selvena N. Brooks-Powers",
@@ -126,6 +128,12 @@
   "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076462&GUID=1A7B564E-F14A-4698-B976-AEB6FDDFCD39"
  },
  "history": [
+  {
+   "date": "2026-11-21",
+   "body": "Administration",
+   "action": "City Charter Rule Adopted",
+   "result": ""
+  },
   {
    "date": "2026-10-22",
    "body": "City Council",

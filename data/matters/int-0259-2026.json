@@ -127,6 +127,12 @@
   {
    "date": "2026-11-19",
    "body": "City Council",
+   "action": "Sent to Mayor by Council",
+   "result": ""
+  },
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
    "action": "Approved by Council",
    "result": "Pass"
   },
@@ -168,13 +174,13 @@
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Education",
+   "body": "Committee on Higher Education",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-10-20",
-   "body": "Committee on Higher Education",
+   "body": "Committee on Education",
    "action": "Laid Over by Committee",
    "result": ""
   },

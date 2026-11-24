@@ -43,9 +43,40 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093577&GUID=B08BAE4E-2489-45A9-9648-37C5755337E7"
+  },
+  {
+   "label": "Committee Report 11/24/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16157466&GUID=D44038BB-C690-4794-A0CC-2C3AB0C2602B"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158760&GUID=EA11877E-158D-4A0C-A9B4-2AE6471E78C5"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "net": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate.",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158760&GUID=EA11877E-158D-4A0C-A9B4-2AE6471E78C5"
+ },
  "history": [
   {
    "date": "2026-01-29",

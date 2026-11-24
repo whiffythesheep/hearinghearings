@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Christopher Marte",
-  "Farah N. Louis"
+  "Farah N. Louis",
+  "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -30,9 +31,32 @@
    "label": "November 19, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154439&GUID=809B88B9-5FB7-47A6-90D7-55DE363CB9BE"
+  },
+  {
+   "label": "Committee Report 11/24/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16157469&GUID=CE2B69E7-0555-4B72-9383-5D59DDC987DD"
+  },
+  {
+   "label": "Fiscal Impact Statement - City Council",
+   "kind": "Fiscal Impact Statement",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158762&GUID=D9742BEA-3570-4842-BCB7-3F8670D3123D"
   }
  ],
- "fiscal": null,
+ "fiscal": {
+  "revenues": {
+   "effective": 0,
+   "succeeding": 0,
+   "full": 0
+  },
+  "expenditures": null,
+  "net": null,
+  "effective_fy": "2027",
+  "omb_estimate": "The Office of Management and Budget did not provide an estimate",
+  "omb_declined": false,
+  "label": "Fiscal Impact Statement - City Council",
+  "source": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16158762&GUID=D9742BEA-3570-4842-BCB7-3F8670D3123D"
+ },
  "history": [
   {
    "date": "2026-11-19",
