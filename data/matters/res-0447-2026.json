@@ -4,7 +4,7 @@
  "legistar_id": "7998471",
  "type": "Resolution",
  "title": "A resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation to ensure insurance companies cover the cost of Preimplantation Genetic Testing for Aneuploidies",
- "status": "Reported from Committee",
+ "status": "Adopted",
  "sponsors": [
   "Kayla Santosuosso",
   "Farah N. Louis",
@@ -71,6 +71,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-19",
    "body": "Committee on Health",

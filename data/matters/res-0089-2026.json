@@ -4,7 +4,7 @@
  "legistar_id": "7861974",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Assembly to pass A.9175, and the Governor to sign S.2058/A.9175, legislation to require each institution within the State University of New York and the City University of New York to have at least one vending machine making emergency contraception available for purchase",
- "status": "Reported from Committee",
+ "status": "Adopted",
  "sponsors": [
   "Jennifer Gutiérrez",
   "Eric Dinowitz",
@@ -78,6 +78,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-19",
    "body": "Committee on Health",

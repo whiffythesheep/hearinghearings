@@ -13,7 +13,8 @@
   "Shirley Aldebol",
   "Amanda C. Farías",
   "Chris Banks",
-  "Sandra Ung"
+  "Sandra Ung",
+  "Linda Lee"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -92,12 +93,6 @@
   },
   {
    "date": "2026-09-18",
-   "body": "Committee on Finance",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Amendment Proposed by Comm",
    "result": ""
@@ -112,6 +107,12 @@
    "date": "2026-09-18",
    "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
+   "body": "Committee on Finance",
+   "action": "Amended by Committee",
    "result": ""
   },
   {

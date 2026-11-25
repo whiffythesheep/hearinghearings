@@ -4,7 +4,7 @@
  "legistar_id": "8325315",
  "type": "Land Use Application",
  "title": "Application number C 260193 HAX (110 East 138th Street/63 Exterior Street) submitted by the New York City Department of Housing Preservation and Development (HPD), pursuant to Article 16 of the General Municipal Law of New York State for the designation of an Urban Development Action Area and an Urban Development Action Area Project, for property located at 63 Exterior Street (Block 2323, Lots 28 and 29) and 110 East 138th Street (Block 2323, Lot 43), and pursuant to Section 197-c of the New York City Charter for the disposition of such property to a developer to be selected by HPD, for property located at 63 Exterior Street (Block 2323, Lots 28 and 29), Borough of the Bronx, Community District 1, Council District 8.",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Kevin C. Riley"
  ],
@@ -23,6 +23,18 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-24",
+   "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-24",
+   "body": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "action": "Laid Over by Subcommittee",
+   "result": ""
+  },
   {
    "date": "2026-11-19",
    "body": "City Council",

@@ -4,7 +4,7 @@
  "body": "Committee on Parks and Recreation",
  "location": "250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Committee on Disabilities",
  "agenda_status": "Final",
- "minutes_status": "Draft",
+ "minutes_status": "Final",
  "council_url": "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460605&GUID=B82C883F-663B-412F-BE92-55029241E238&Search=",
  "items": [
   {
@@ -13,7 +13,18 @@
    "name": "Oversight - Accessibility of City Parks, Playgrounds, and Recreation Centers.",
    "sponsor": "",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8308792",
+   "legistar_guid": "5C6BC272-58A1-4E42-8661-41E5365D1C89"
+  },
+  {
+   "file_number": "T2026-2749",
+   "type": "Oversight",
+   "name": "Oversight - Accessibility of City Parks, Playgrounds, and Recreation Centers.",
+   "sponsor": "",
+   "agenda_note": "",
+   "action": "Filed, by Committee",
    "result": "",
    "legistar_id": "8308792",
    "legistar_guid": "5C6BC272-58A1-4E42-8661-41E5365D1C89"
@@ -24,7 +35,18 @@
    "name": "An annual report on compliance with the Americans with disabilities act standards for accessible design by the department of parks and recreation, and to repeal and replace section 18-143 of the administrative code of the city of New York.",
    "sponsor": "Shahana K. Hanif",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "7861955",
+   "legistar_guid": "C3C58CAB-11E9-4D03-88AE-13368FBC12D0"
+  },
+  {
+   "file_number": "Int 0212-2026",
+   "type": "Introduction",
+   "name": "An annual report on compliance with the Americans with disabilities act standards for accessible design by the department of parks and recreation, and to repeal and replace section 18-143 of the administrative code of the city of New York.",
+   "sponsor": "Shahana K. Hanif",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "7861955",
    "legistar_guid": "C3C58CAB-11E9-4D03-88AE-13368FBC12D0"
@@ -35,7 +57,18 @@
    "name": "Requiring the department of parks and recreation to charge senior citizens, young adults, active members of the military, veterans and their minor children and persons with disabilities reduced admission fees to recreational facilities.",
    "sponsor": "Lynn C. Schulman",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8317529",
+   "legistar_guid": "1A1DE2A4-30C6-42D3-A558-F3E4E4546A63"
+  },
+  {
+   "file_number": "Int 1177-2026",
+   "type": "Introduction",
+   "name": "Requiring the department of parks and recreation to charge senior citizens, young adults, active members of the military, veterans and their minor children and persons with disabilities reduced admission fees to recreational facilities.",
+   "sponsor": "Lynn C. Schulman",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8317529",
    "legistar_guid": "1A1DE2A4-30C6-42D3-A558-F3E4E4546A63"
@@ -46,7 +79,18 @@
    "name": "Increasing the availability of accessible swings in playgrounds.",
    "sponsor": "Christopher Marte",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8323212",
+   "legistar_guid": "713FE7CD-E513-4A67-A646-F6E9476B66CE"
+  },
+  {
+   "file_number": "Int 1193-2026",
+   "type": "Introduction",
+   "name": "Increasing the availability of accessible swings in playgrounds.",
+   "sponsor": "Christopher Marte",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8323212",
    "legistar_guid": "713FE7CD-E513-4A67-A646-F6E9476B66CE"
@@ -57,7 +101,18 @@
    "name": "Honoring the life, legacy, and enduring contributions of Becky Ogle.",
    "sponsor": "Shahana K. Hanif",
    "agenda_note": "",
-   "action": "",
+   "action": "Hearing Held by Committee",
+   "result": "",
+   "legistar_id": "8317575",
+   "legistar_guid": "26ABA249-56FE-4475-B24C-2538FA305838"
+  },
+  {
+   "file_number": "Res 0721-2026",
+   "type": "Resolution",
+   "name": "Honoring the life, legacy, and enduring contributions of Becky Ogle.",
+   "sponsor": "Shahana K. Hanif",
+   "agenda_note": "",
+   "action": "Laid Over by Committee",
    "result": "",
    "legistar_id": "8317575",
    "legistar_guid": "26ABA249-56FE-4475-B24C-2538FA305838"

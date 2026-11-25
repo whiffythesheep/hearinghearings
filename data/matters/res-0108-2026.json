@@ -4,7 +4,7 @@
  "legistar_id": "7862356",
  "type": "Resolution",
  "title": "Resolution calling on the New York State legislature to pass, and the Governor to sign, S.5262/A.3051, legislation creating a refundable tax credit for up to three cycles of in vitro fertilization not covered by insurance",
- "status": "Reported from Committee",
+ "status": "Adopted",
  "sponsors": [
   "Frank Morano",
   "Kayla Santosuosso",
@@ -87,6 +87,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-19",
    "body": "Committee on Health",

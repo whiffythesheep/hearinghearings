@@ -4,7 +4,7 @@
  "legistar_id": "7861436",
  "type": "Resolution",
  "title": "Resolution calling on the United States Congress to establish a date certain for ending the Financial Oversight and Management Board for Puerto Rico",
- "status": "Reported from Committee",
+ "status": "Adopted",
  "sponsors": [
   "Alexa Avilés",
   "Tiffany L. Cabán",
@@ -89,6 +89,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-19",
    "body": "Committee on Cultural Affairs, Libraries and International Relations",

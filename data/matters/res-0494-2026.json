@@ -4,7 +4,7 @@
  "legistar_id": "8067749",
  "type": "Resolution",
  "title": "Resolution standing with the people of Puerto Rico to stop the construction of Project Esencia, a luxury development in Cabo Rojo",
- "status": "Reported from Committee",
+ "status": "Adopted",
  "sponsors": [
   "Alexa Avilés",
   "Tiffany L. Cabán",
@@ -86,6 +86,12 @@
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-19",
+   "body": "City Council",
+   "action": "Approved, by Council",
+   "result": "Pass"
+  },
   {
    "date": "2026-11-19",
    "body": "Committee on Cultural Affairs, Libraries and International Relations",
