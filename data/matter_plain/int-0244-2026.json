@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0244-2026",
- "title": "Law to ban sale and rental of the fastest e-bikes",
- "summary": "This bill would prohibit businesses from selling or renting class three e-bikes, which are electric bicycles that can go up to 25 miles per hour without pedaling. A first violation would carry no penalty, but each subsequent violation within two years could bring a civil fine of up to $2,000. The law would take effect 180 days after being enacted.",
+ "title": "Law to ban sale and rental of fastest class e-bikes",
+ "summary": "This bill would prohibit stores and businesses from selling, leasing, renting or advertising class three e-bikes, which are motor-assisted bikes that can go up to 25 mph without pedaling. It would also require retailers to disclose the speed at which a powered bicycle or mobility device stops providing motor assistance. Violators would face civil penalties of up to $2,000 per violation, and the law would take effect 180 days after becoming law.",
  "model": "claude-sonnet-5",
- "input_hash": "45c45296c83f4f32"
+ "input_hash": "2c8b5491f3cb25c1"
 }

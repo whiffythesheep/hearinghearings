@@ -23,6 +23,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16141592&GUID=3B497CF2-723F-4EEC-8087-41F98615EB10"
   },
   {
+   "label": "November 19, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154434&GUID=B75E4FC3-CA09-49C5-A9CD-B738D563681D"
+  },
+  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153038&GUID=326C5320-8703-477D-8AF3-42D78EA06CE9"
@@ -33,9 +38,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154036&GUID=F674550E-D880-423D-A322-02D7C0E4FB76"
   },
   {
-   "label": "November 19, 2026 - Stated Meeting Agenda",
-   "kind": "Agenda",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154434&GUID=B75E4FC3-CA09-49C5-A9CD-B738D563681D"
+   "label": "Hearing Testimony 11/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166097&GUID=94C1CF5C-E28A-478B-BD9E-31A4965C964C"
   }
  ],
  "fiscal": {
@@ -75,13 +80,13 @@
   },
   {
    "date": "2026-11-20",
-   "body": "Committee on Fire and Emergency Management",
+   "body": "Committee on Housing and Buildings",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-11-20",
-   "body": "Committee on Housing and Buildings",
+   "body": "Committee on Fire and Emergency Management",
    "action": "Laid Over by Committee",
    "result": ""
   },

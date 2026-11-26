@@ -3,7 +3,7 @@
  "slug": "int-0307-2026",
  "legistar_id": "7862322",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a universal application and recertification system for the senior citizen rent increase exemption program and disability rent increase exemption program",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a universal application system for the senior citizen rent increase exemption program and disability rent increase exemption program",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Christopher Marte",
@@ -33,6 +33,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 307-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166242&GUID=E09D3E68-ED38-4348-91AF-2CDA14CF3CF1"
+  },
   {
    "label": "Summary of Int. No. 307",
    "kind": "Summary",
@@ -82,6 +87,11 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093693&GUID=9ED3E0D2-5ED4-4DF9-9E39-BF08B0565F45"
+  },
+  {
+   "label": "Proposed Int. No. 307-A - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166241&GUID=F9F9B953-45DF-42CC-9A1B-2ACE53E68DAD"
   }
  ],
  "fiscal": {

@@ -12,10 +12,16 @@
   "Kevin C. Riley",
   "Chris Banks",
   "Sandra Ung",
-  "Linda Lee"
+  "Linda Lee",
+  "Carmen N. De La Rosa"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1079-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166709&GUID=2071223B-AD7A-41BC-BBCC-82F23C51B73C"
+  },
   {
    "label": "Summary of Int. No. 1079",
    "kind": "Summary",
@@ -37,6 +43,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933203&GUID=4D537A23-71D8-406A-9DFA-01025103192C"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 9-24-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127418&GUID=19A58D3D-4E54-4895-9572-973AAC67FC73"
+  },
+  {
    "label": "Committee Report 9/30/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15965925&GUID=15B71E11-17BA-4FC1-847A-32D52FE96DF3"
@@ -52,11 +63,6 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16058254&GUID=954D610C-63EE-4D42-A6BA-C65F057BE648"
   },
   {
-   "label": "Hearing Transcript - Stated Meeting 9-24-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127418&GUID=19A58D3D-4E54-4895-9572-973AAC67FC73"
-  },
-  {
    "label": "Memorandum in Support",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134817&GUID=257538A0-2D8B-43FA-8D06-FE78BBFD7CE2"
@@ -65,6 +71,11 @@
    "label": "Hearing Transcript 9/30/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16153996&GUID=3704ADFB-E249-46DC-8D87-D3E0811D6067"
+  },
+  {
+   "label": "Proposed Int. No. 1079-A 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166708&GUID=1CCCAD33-8705-4809-8DBA-0F12AC3C9326"
   }
  ],
  "fiscal": {

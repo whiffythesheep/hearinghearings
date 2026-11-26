@@ -39,6 +39,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 953-B",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166332&GUID=46A639BE-E57C-4229-9C0E-23BFD4B6AECB"
+  },
+  {
    "label": "Summary of Int. No. 953-A",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16140502&GUID=35422BF5-C389-4E72-9293-93FC108C0E1B"
@@ -92,6 +97,11 @@
    "label": "Proposed Int. No. 953-A - 11/12/26",
    "kind": "Bill text",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16134999&GUID=1EA9C7DA-3A5B-4BA5-ACBF-ED3607027AE8"
+  },
+  {
+   "label": "Proposed Int. No. 953-B - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166331&GUID=A2D78AE6-738C-405A-84EE-2EED2914CF4C"
   }
  ],
  "fiscal": {

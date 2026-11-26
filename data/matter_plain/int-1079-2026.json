@@ -1,7 +1,7 @@
 {
  "file_number": "Int 1079-2026",
- "title": "Law to require yearly reporting on domestic violence hotline calls",
- "summary": "This bill would require the Mayor's Office to End Domestic and Gender-Based Violence to publish an annual report on its survivor hotline. The report, broken down by month, would cover calls received, answered and abandoned, wait times, use of interpretation services, referrals made and the borough where calls originated. The report would be due to the Mayor and Council Speaker no later than January 31 each year.",
+ "title": "Law to require reports on gender-violence hotline calls",
+ "summary": "This bill would require the Mayor's Office to End Domestic and Gender-Based Violence to publish an annual report on its survivor hotline, including the number of calls received and answered, wait times, abandoned calls, use of interpretation services, referrals made and the borough each call came from, broken down by month. It would take effect March 31, 2027.",
  "model": "claude-sonnet-5",
- "input_hash": "2e4cf6514cbe4e5a"
+ "input_hash": "145ae873e013dc5c"
 }

@@ -57,6 +57,11 @@
    "label": "Committee Report 11/20/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16154033&GUID=60F359B5-1009-458C-9EF7-5C40F739B8A2"
+  },
+  {
+   "label": "Hearing Testimony 11/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166094&GUID=0587FFB6-7397-4133-BFC0-0A0692770C36"
   }
  ],
  "fiscal": {
@@ -96,13 +101,13 @@
   },
   {
    "date": "2026-11-20",
-   "body": "Committee on Fire and Emergency Management",
+   "body": "Committee on Housing and Buildings",
    "action": "Laid Over by Committee",
    "result": ""
   },
   {
    "date": "2026-11-20",
-   "body": "Committee on Housing and Buildings",
+   "body": "Committee on Fire and Emergency Management",
    "action": "Laid Over by Committee",
    "result": ""
   },

@@ -3,7 +3,7 @@
  "slug": "int-0988-2026",
  "legistar_id": "8169801",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the advertisement of vehicles required to be registered with the department of motor vehicles as powered bicycles or powered mobility devices and related outreach",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the advertisement of limited use motorcycles, motorcycles, and motorized scooters as powered bicycles or powered mobility devices and related outreach",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Shaun Abreu",
@@ -19,6 +19,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 988-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16167781&GUID=C01EEAF3-BE33-4E61-B702-98B1B45B2CAD"
+  },
   {
    "label": "Summary of Int. No. 988",
    "kind": "Summary",
@@ -68,6 +73,11 @@
    "label": "Hearing Transcript 9/30/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076975&GUID=AD76D1B1-D463-4629-8ED3-193A1AAA5CBC"
+  },
+  {
+   "label": "Proposed Int. No. 988-A - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16167780&GUID=D7715F5B-D878-40F6-A9DD-3E7A26902F97"
   }
  ],
  "fiscal": {
@@ -113,6 +123,12 @@
   },
   {
    "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
    "body": "Committee on Consumer and Worker Protection",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -120,12 +136,6 @@
   {
    "date": "2026-09-30",
    "body": "Committee on Consumer and Worker Protection",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
    "result": ""
   },

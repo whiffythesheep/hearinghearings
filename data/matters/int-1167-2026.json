@@ -27,19 +27,24 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16118435&GUID=03D233F1-1C33-40EC-919A-47D7293477C7"
   },
   {
-   "label": "Committee Report 11/20/26",
-   "kind": "Committee Report",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149256&GUID=532D63FB-CA5A-4212-A012-1322871D64E7"
-  },
-  {
    "label": "November 12, 2026 - Stated Meeting Agenda",
    "kind": "Agenda",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151143&GUID=EB3D8D56-6C26-4AD2-946A-F98FF1B6925D"
   },
   {
+   "label": "Committee Report 11/20/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16149256&GUID=532D63FB-CA5A-4212-A012-1322871D64E7"
+  },
+  {
    "label": "Fiscal Impact Statement - City Council",
    "kind": "Fiscal Impact Statement",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16152223&GUID=907DFC9C-B2D9-45E7-8A57-54BD49E7599A"
+  },
+  {
+   "label": "Hearing Testimony 11/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166509&GUID=BEAF56B3-B6A9-4593-AE06-7A4EB30F8A17"
   }
  ],
  "fiscal": {

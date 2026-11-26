@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0953-2026",
- "title": "Law to require free abortion pills at all city sexual health clinics",
- "summary": "This bill would require the Department of Health and Mental Hygiene to make medication abortion available at no cost at every sexual health clinic it operates, not just the four clinics that currently offer it. Currently only the Fort Greene, Jamaica, Morrisania and Central Harlem clinics provide this medication, which served 1,253 patients in 2025. The requirement would be subject to sufficient city funding and would take effect July 1, 2029.",
+ "title": "Law to offer free abortion pills at all city sexual health clinics",
+ "summary": "This bill would require the city Health Department to provide no-cost medication abortion at all of its health clinics that offer sexual health services, not just the four clinics that currently do so. It removes a provision letting the department decide which clinics' patient populations make the medication appropriate. The law would take effect June 1, 2028.",
  "model": "claude-sonnet-5",
- "input_hash": "ba2561c231475fce"
+ "input_hash": "7086c80ba3f58845"
 }

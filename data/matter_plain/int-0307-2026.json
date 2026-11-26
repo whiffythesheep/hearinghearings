@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0307-2026",
- "title": "Law to create one online application for senior and disabled rent exemptions",
- "summary": "Int. No. 307 would require the Department of Finance and the Department of Housing Preservation and Development to jointly build a single online and paper application and recertification system for the Senior Citizen Rent Increase Exemption and Disability Rent Increase Exemption programs. It would also require a public website to check eligibility and apply or recertify for these benefits. The bill set a deadline of December 31, 2025 for these systems to be in place.",
+ "title": "Law to create one online application for senior and disability rent freeze programs",
+ "summary": "This bill would require the Department of Finance and the Department of Housing Preservation and Development to jointly build a single online and paper application and recertification system for the Senior Citizen Rent Increase Exemption and Disability Rent Increase Exemption programs by July 1, 2028. It would also require agencies to promote public awareness of the system on city websites related to public assistance or rent increase exemptions. Paper applications would still be accepted alongside the new system.",
  "model": "claude-sonnet-5",
- "input_hash": "5547c74cdd807238"
+ "input_hash": "38615b726e8e2199"
 }

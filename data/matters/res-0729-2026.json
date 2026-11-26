@@ -4,7 +4,7 @@
  "legistar_id": "8313593",
  "type": "Resolution",
  "title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2689/S.4538, in relation to enacting the building up immigrant legal defense or BUILD Act",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Public Advocate Jumaane Williams",
   "Rita C. Joseph",
@@ -28,10 +28,27 @@
    "label": "Committee Report 11/20/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151447&GUID=F3DFDBEE-EB3D-4010-8DC0-7939B1FDBFE9"
+  },
+  {
+   "label": "Hearing Testimony 11/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166423&GUID=50507AB0-459E-4079-B140-07C4AA4AC900"
   }
  ],
  "fiscal": null,
  "history": [
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Immigration",
+   "action": "Hearing Held by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-11-20",
+   "body": "Committee on Immigration",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
   {
    "date": "2026-11-12",
    "body": "City Council",

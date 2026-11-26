@@ -20,6 +20,7 @@
   "Kevin C. Riley",
   "Lincoln Restler",
   "Chris Banks",
+  "Carmen N. De La Rosa",
   "Frank Morano",
   "Joann Ariola",
   "Public Advocate Jumaane Williams"
@@ -104,6 +105,12 @@
   },
   {
    "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Aging",
    "action": "Hearing Held by Committee",
    "result": ""
@@ -117,12 +124,6 @@
   {
    "date": "2026-09-18",
    "body": "Committee on Finance",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
    "action": "Laid Over by Committee",
    "result": ""
   },

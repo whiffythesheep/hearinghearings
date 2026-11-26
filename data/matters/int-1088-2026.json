@@ -4,7 +4,7 @@
  "legistar_id": "8207446",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to an informational toolkit on available programs, benefits, and services for older adults",
- "status": "Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Darlene Mealy",
   "Virginia Maloney",
@@ -18,10 +18,16 @@
   "Ty Hankerson",
   "Susan Zhuang",
   "Linda Lee",
+  "Carmen N. De La Rosa",
   "Frank Morano"
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 1088-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166204&GUID=6DF30F1A-C7F2-4087-B5D0-3D33CE90FED2"
+  },
   {
    "label": "Summary of Int. No. 1088",
    "kind": "Summary",
@@ -66,6 +72,11 @@
    "label": "Hearing Transcript - Stated Meeting 9-24-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127433&GUID=4E547D50-BA2F-41E8-B3E1-5D823F934D86"
+  },
+  {
+   "label": "Proposed Int. No. 1088-A - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166203&GUID=F972DDAB-F833-4066-AC6F-8BDB5FA18980"
   }
  ],
  "fiscal": {
@@ -123,6 +134,12 @@
   },
   {
    "date": "2026-09-18",
+   "body": "Committee on Disabilities",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-18",
    "body": "Committee on Aging",
    "action": "P-C Item Laid Over by Comm",
    "result": ""
@@ -131,12 +148,6 @@
    "date": "2026-09-18",
    "body": "Committee on Finance",
    "action": "P-C Item Laid Over by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-18",
-   "body": "Committee on Disabilities",
-   "action": "Laid Over by Committee",
    "result": ""
   }
  ],

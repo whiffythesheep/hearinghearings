@@ -4,7 +4,7 @@
  "legistar_id": "8237315",
  "type": "Introduction",
  "title": "A Local Law to amend the administrative code of the city of New York, in relation to limiting communication between the department of correction and federal immigration authorities",
- "status": "Reported from Committee",
+ "status": "Laid Over in Committee",
  "sponsors": [
   "Elsie Encarnación",
   "Shahana K. Hanif",
@@ -33,7 +33,8 @@
   "Gale A. Brewer",
   "Kayla Santosuosso",
   "Shirley Aldebol",
-  "Public Advocate Jumaane Williams"
+  "Public Advocate Jumaane Williams",
+  "(in conjunction with the Manhattan Borough Preside"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -81,6 +82,11 @@
    "label": "Committee Report 11/20/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151446&GUID=86FAF0A6-3881-4FFF-9027-17C5D77C5C8C"
+  },
+  {
+   "label": "Hearing Testimony 11/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166422&GUID=3DBCC7F4-BA5C-4832-8311-EFBEA29D5084"
   }
  ],
  "fiscal": {
@@ -127,7 +133,7 @@
   {
    "date": "2026-11-20",
    "body": "Committee on Immigration",
-   "action": "Approved by Committee",
+   "action": "Laid Over by Committee",
    "result": ""
   },
   {

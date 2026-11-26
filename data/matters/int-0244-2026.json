@@ -3,7 +3,7 @@
  "slug": "int-0244-2026",
  "legistar_id": "7862032",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale and rental of class three bicycles with electric assist",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring certain disclosures for sales, leases, or rentals of powered bicycles and powered mobility devices, and prohibiting the sale, lease and rental of class three bicycles with electric assist",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Crystal Hudson",
@@ -40,6 +40,11 @@
  ],
  "by_request_of_mayor": false,
  "attachments": [
+  {
+   "label": "Summary of Int. No. 244-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166286&GUID=24590F90-1E66-4AD7-9D0B-A725E5AB6C2A"
+  },
   {
    "label": "Summary of Int. No. 244",
    "kind": "Summary",
@@ -94,6 +99,11 @@
    "label": "Minutes of the Stated Meeting - January 29, 2026",
    "kind": "Other",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093614&GUID=355A8A96-9709-404E-8C5D-9160C09316DA"
+  },
+  {
+   "label": "Proposed Int. No. 244-A - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166285&GUID=FABF4515-A938-404E-9B31-704D5B45FC49"
   }
  ],
  "fiscal": {
@@ -139,20 +149,20 @@
   },
   {
    "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

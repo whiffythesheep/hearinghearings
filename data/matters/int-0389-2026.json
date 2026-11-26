@@ -3,7 +3,7 @@
  "slug": "int-0389-2026",
  "legistar_id": "7862713",
  "type": "Introduction",
- "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring third-party food delivery services to verify the registration of mopeds used by food delivery workers",
+ "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring delivery services to verify the use of compliant mopeds by contracted delivery workers",
  "status": "Laid Over in Committee",
  "sponsors": [
   "Lincoln Restler",
@@ -25,6 +25,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 389-A",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166607&GUID=B2FBD0A5-2F4A-45CC-A629-5B63CE64E254"
+  },
+  {
    "label": "Summary of Int. No. 389",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15177557&GUID=E69F1D1D-B530-4457-90CB-BE90E45D2A17"
@@ -43,6 +48,11 @@
    "label": "Hearing Transcript - Stated Meeting 1-29-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15252532&GUID=6B95600F-831D-4FFB-A5C9-B169148A446F"
+  },
+  {
+   "label": "Minutes of the Stated Meeting - January 29, 2026",
+   "kind": "Other",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093819&GUID=EBAD0144-C831-43E4-B761-4A05EF7A6D5D"
   },
   {
    "label": "Committee Report 9/30/26",
@@ -70,9 +80,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076970&GUID=2A6DD4A5-8330-4407-A427-DDD64EC53E2C"
   },
   {
-   "label": "Minutes of the Stated Meeting - January 29, 2026",
-   "kind": "Other",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16093819&GUID=EBAD0144-C831-43E4-B761-4A05EF7A6D5D"
+   "label": "Proposed Int. No. 389-A - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166606&GUID=ED0646A2-7F0A-47A9-A4CA-73DA0A95A903"
   }
  ],
  "fiscal": {
@@ -118,20 +128,20 @@
   },
   {
    "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Hearing Held by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
    "body": "Committee on Transportation and Infrastructure",
    "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Hearing Held by Committee",
    "result": ""
   },
   {

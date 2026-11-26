@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0985-2026",
- "title": "Law to set up e-bike trade-in program",
- "summary": "This bill would require the Department of Transportation to run a program letting people trade in Class 3 e-bikes and similar unauthorized powered bicycles for a Class 1 or Class 2 e-bike or a retailer voucher. DOT would partner with e-bike retailers to hold at least one trade-in event per community district each year, aiming for 10,000 trade-ins, and could not limit eligibility by occupation or income. The law would take effect 120 days after enactment.",
+ "title": "Law to create an e-bike trade-in voucher program",
+ "summary": "This bill would require the Department of Consumer and Worker Protection, working with the Department of Transportation, to set up a program letting people trade in certain powered bicycles for a new class one or two e-bike at reduced or no cost, or for a voucher redeemable at a bike shop. The agency would host at least one trade-in event per year in every community district and run a public outreach campaign in multiple languages. Participants could receive only one bike and could not resell it for a year.",
  "model": "claude-sonnet-5",
- "input_hash": "26014b5f8fa5a930"
+ "input_hash": "be2fb2e1d2bb4ad4"
 }

@@ -20,6 +20,11 @@
  "by_request_of_mayor": false,
  "attachments": [
   {
+   "label": "Summary of Int. No. 985-B",
+   "kind": "Summary",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16167758&GUID=07628A04-E614-41C7-AFC1-95CE044FA415"
+  },
+  {
    "label": "Summary of Int. No. 985-A",
    "kind": "Summary",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15881422&GUID=C7D72B36-A152-4567-A581-37A70C49DABD"
@@ -78,6 +83,11 @@
    "label": "Hearing Transcript 9/30/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16076973&GUID=60AD6D25-D647-4E7D-B4A2-6B779C2F6258"
+  },
+  {
+   "label": "Proposed Int. No. 985-B - 11/25/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16167757&GUID=62DC6F33-B990-46D5-9416-8B10FECF187D"
   }
  ],
  "fiscal": {
@@ -135,44 +145,44 @@
   },
   {
    "date": "2026-09-30",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Transportation and Infrastructure",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Amendment Proposed by Comm",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Amended by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
-   "body": "Committee on Consumer and Worker Protection",
-   "action": "Laid Over by Committee",
-   "result": ""
-  },
-  {
-   "date": "2026-09-30",
    "body": "Committee on Public Safety",
    "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Transportation and Infrastructure",
+   "action": "Laid Over by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Amendment Proposed by Comm",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Amended by Committee",
+   "result": ""
+  },
+  {
+   "date": "2026-09-30",
+   "body": "Committee on Consumer and Worker Protection",
+   "action": "Laid Over by Committee",
    "result": ""
   },
   {

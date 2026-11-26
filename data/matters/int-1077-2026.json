@@ -32,7 +32,8 @@
   "Gale A. Brewer",
   "Kayla Santosuosso",
   "Shirley Aldebol",
-  "Public Advocate Jumaane Williams"
+  "Public Advocate Jumaane Williams",
+  "(in conjunction with the Manhattan Borough Preside"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -80,6 +81,11 @@
    "label": "Committee Report 11/20/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16151445&GUID=6389B2AF-FB7B-446A-B4DE-3E0E4996750C"
+  },
+  {
+   "label": "Hearing Testimony 11/20/26",
+   "kind": "Hearing Testimony",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16166419&GUID=E91FFB1C-F944-4CE7-953E-819A25481A04"
   }
  ],
  "fiscal": {

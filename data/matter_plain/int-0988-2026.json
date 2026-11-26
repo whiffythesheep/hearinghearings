@@ -1,7 +1,7 @@
 {
  "file_number": "Int 0988-2026",
- "title": "Law to ban ads for unregistered e-bikes and mopeds",
- "summary": "This bill would prohibit advertising for sale, lease, rent or distribution of any vehicle that must be registered with the state Department of Motor Vehicles but resembles a street-legal e-bike or e-scooter, such as oversized or throttle mopeds. Ads for vehicles that look like e-bikes or e-scooters but actually require DMV registration would have to clearly say so. It also requires the Department of Consumer and Worker Protection and Department of Transportation to create informational materials for retailers and run a public outreach campaign on which devices are legal to ride on city streets, with the law taking effect 180 days after passage.",
+ "title": "Law to require ads to disclose unregistered e-bike lookalikes",
+ "summary": "This bill would ban advertising mopeds, motorcycles or unregistered scooters as if they were legal powered bicycles or mobility devices. Ads for vehicles that must be registered with the state Department of Motor Vehicles would have to clearly say so. The city's Department of Consumer and Worker Protection would also have to create outreach materials explaining which devices are legal to ride on city streets, with the law taking effect 180 days after enactment.",
  "model": "claude-sonnet-5",
- "input_hash": "b92097e657fdf0e5"
+ "input_hash": "9f72fb4e9cdc46e3"
 }
