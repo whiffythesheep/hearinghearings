@@ -9,7 +9,8 @@
   "Gale A. Brewer",
   "Susan Zhuang",
   "James F. Gennaro",
-  "Carl Wilson"
+  "Carl Wilson",
+  "Nantasha M. Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -34,14 +35,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933196&GUID=1698B9CF-8E89-46AA-B643-603C733A7877"
   },
   {
-   "label": "Proposed Int. No. 1073-A - 10/6/26",
-   "kind": "Bill text",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046216&GUID=21FE7917-A84E-42F5-A59B-C5D84853F7B1"
-  },
-  {
    "label": "Hearing Transcript - Stated Meeting 9-24-26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127411&GUID=8E3CA4AB-B5D8-4867-A04E-1FBBE3EC0BC7"
+  },
+  {
+   "label": "Proposed Int. No. 1073-A - 10/6/26",
+   "kind": "Bill text",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16046216&GUID=21FE7917-A84E-42F5-A59B-C5D84853F7B1"
   }
  ],
  "fiscal": null,

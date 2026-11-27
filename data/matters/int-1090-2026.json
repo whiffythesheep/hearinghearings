@@ -7,7 +7,8 @@
  "status": "Committee",
  "sponsors": [
   "Frank Morano",
-  "Crystal Hudson"
+  "Crystal Hudson",
+  "Nantasha M. Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -27,9 +28,14 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15853374&GUID=0B1777A9-C9FB-4B40-8DB2-38A733EB646B"
   },
   {
-   "label": "Committee Report 9/22/26",
-   "kind": "Committee Report",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866704&GUID=EAD60501-4E29-4852-8CCD-D71F58346371"
+   "label": "September 24, 2026 - Stated Meeting Agenda",
+   "kind": "Agenda",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933220&GUID=127E49CC-B842-444A-8E4E-125EA00B3978"
+  },
+  {
+   "label": "Hearing Transcript - Stated Meeting 9-24-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127435&GUID=6AC86265-E216-4E31-B8BC-754C4F03A094"
   },
   {
    "label": "Fiscal Impact Statement - City Council",
@@ -37,9 +43,9 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15870441&GUID=B3003047-9A79-4A3A-A056-6C44F9B4123F"
   },
   {
-   "label": "September 24, 2026 - Stated Meeting Agenda",
-   "kind": "Agenda",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15933220&GUID=127E49CC-B842-444A-8E4E-125EA00B3978"
+   "label": "Committee Report 9/22/26",
+   "kind": "Committee Report",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15866704&GUID=EAD60501-4E29-4852-8CCD-D71F58346371"
   },
   {
    "label": "Hearing Testimony 9/22/26",
@@ -50,11 +56,6 @@
    "label": "Hearing Transcript 9/22/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16089227&GUID=929DBE2E-A869-42CD-8D82-94F9CFED4853"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 9-24-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=16127435&GUID=6AC86265-E216-4E31-B8BC-754C4F03A094"
   }
  ],
  "fiscal": {

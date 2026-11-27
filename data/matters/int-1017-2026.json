@@ -10,7 +10,8 @@
   "Harvey D. Epstein",
   "Shaun Abreu",
   "Virginia Maloney",
-  "Mercedes Narcisse"
+  "Mercedes Narcisse",
+  "Nantasha M. Williams"
  ],
  "by_request_of_mayor": false,
  "attachments": [
@@ -35,6 +36,11 @@
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15765153&GUID=24934EEC-3DED-4A29-A71F-916EB0ECE2A4"
   },
   {
+   "label": "Hearing Transcript - Stated Meeting 8-13-26",
+   "kind": "Hearing Transcript",
+   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969354&GUID=C390FA8E-2534-43FE-ADB0-F0ABF6B8A3DF"
+  },
+  {
    "label": "Committee Report 9/2/26",
    "kind": "Committee Report",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15821346&GUID=403757CE-D68E-45C5-B809-6D1D95ED941B"
@@ -53,11 +59,6 @@
    "label": "Hearing Transcript 9/2/26",
    "kind": "Hearing Transcript",
    "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15834810&GUID=5F0D8092-58DF-4AEE-BE33-AF246C9AD438"
-  },
-  {
-   "label": "Hearing Transcript - Stated Meeting 8-13-26",
-   "kind": "Hearing Transcript",
-   "url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15969354&GUID=C390FA8E-2534-43FE-ADB0-F0ABF6B8A3DF"
   }
  ],
  "fiscal": {
